@@ -1,0 +1,124 @@
+ 
+                    Board of Contract Appeals
+                 General Services Administration
+                      Washington, D.C. 20405
+
+
+
+                                                 
+
+                           June 8, 2005
+                                                 
+
+
+                         GSBCA 16621-TRAV
+
+
+                 In the Matter of FELIX VALENTIN
+
+
+     Felix Valentin, Caguas, PR, Claimant.
+
+     Louis D. LoPresti, Regional Finance Officer, Office of the Assistant Secretary for
+Administration and Management, Department of Labor, Boston, MA, appearing for
+Department of Labor.
+
+DANIELS, Board Judge (Chairman).
+
+     A civilian employee "must always use a contract city-pair fare for schedule air
+passenger transportation service" unless one or more of five specified conditions exists.  41
+CFR 301-10.107 (2004).  One  of those conditions is that "[t]he contractor's flight schedule
+is inconsistent with explicit policies of [the employee's] Federal department or agency with
+regard to scheduling travel during normal working hours."  Id. 301-10.107(b).  These
+provisions of the Federal Travel Regulation (FTR) are pivotal to our settlement of a claim
+brought by Felix Valentin, an employee of the Department of Labor.
+
+     Mr. Valentin was directed to travel from San Juan, Puerto Rico, to Hartford,
+Connecticut, on official business in July 2004.  He asked Omega Travel, his agency's
+contract travel agent, to make airline reservations for him.  Omega proposed a flight leaving
+San Juan at 5:23 p.m. and arriving in Hartford at 9:11 p.m. and a return flight leaving
+Hartford at 7:05 a.m. and arriving in San Juan at 10:55 a.m.  Mr. Valentin did not accept this
+itinerary.  Omega then proposed a flight leaving San Juan at 8:20 a.m. and arriving in
+Hartford at 5:22 p.m. and a return flight leaving Hartford at 8:22 a.m. and arriving in San
+Juan at 3:55 p.m.  (The second set of flights involved one stop each way.)   Mr. Valentin
+accepted this itinerary and actually traveled in accordance with it.
+
+     The fare for the second set of flights was more expensive than the fare for the first set. 
+[Foot # 1 ]  The Department of Labor has reimbursed Mr. Valentin only for the fare of the
+less expensive set.  The employee claims the difference between the actual cost of his flights
+and the amount of reimbursement he has received.
+
+****************** Footnote Begin **********
+[Foot # 1 ]       The agency assumes that the first set of fares were contract city-pair fares and
+the second set were not.  The contract carrier for the San Juan-to-Hartford route in July 2004
+was American Airlines, and both itineraries were exclusively on that carrier.  We do not
+know whether American Airlines offered contract city-pair fares on only some of its flights
+between these two cities.  For the purpose of resolving this case, we assume along with the
+agency that the carrier did so.
+****************** Footnote End ************
+
+
+     Among the reasons given by Mr. Valentin in support of his claim is that under agency
+policy, without special permission (which he did not have), employees must travel during
+official working hours, and his official working hours are during the day.  We asked the
+agency to provide a copy of its policy, and it did so.  The policy states:
+
+     Scheduling Travel. -- Travel During Duty Hours.  DOL [Department of
+     Labor] Agencies and Authorizing Officials will ensure that Temporary Duty
+     (TDY) travel by employees will be performed during their normal duty hours.
+
+The policy lists four exceptions to this rule, but the agency does not contend that any of them
+applies to Mr. Valentin's situation.  Nor does the agency contend that the flights originally
+proposed by Omega were during the employee's normal duty hours.
+
+     The only reasons cited by the agency for not reimbursing Mr. Valentin for the full cost
+of his airfare are that the lower fares were more advantageous to the Government and that
+the employee did not, prior to flying, complete a form requesting permission to accept a fare
+other than the city-pair fare.  The agency's own travel policy renders these arguments non-
+persuasive.  The policy provides that travel by employees "will be performed during their
+normal duty hours," not that it will be performed during these hours only when that is less
+expensive for the agency.  We have no evidence that Mr. Valentin could have flown at
+contract city-pair fares during his normal duty hours, so whether he completed a form before
+or after flying to Hartford, the agency, consistent with its policy and the FTR, would have
+to grant permission to accept a higher fare.  See Abdul Kaliq Raja, GSBCA 14029-TRAV,
+97-1 BCA   28,944.
+
+     We conclude that because an explicit policy of the Department of Labor required Mr.
+Valentin to travel during normal working hours, even though the employee's travel cost more
+than the contract city-pair fares for the route he took, the agency is responsible for the entire
+cost of the airfare.
+
+     Having resolved the case on this ground, we do not consider Mr. Valentin's
+alternative reason for not accepting the itinerary originally proposed by Omega. 
+Nevertheless, we note that reason because it highlights a matter which merits consideration
+by the agency responsible for the FTR, the General Services Administration.   Mr. Valentin
+states that he declined the night flight from San Juan to Hartford in part because he is a
+diagnosed claustrophobic and gets panic attacks when he travels at night.  He has submitted
+to his agency documentation of this medical condition and has requested reasonable
+accommodation of it.  The agency has asked a physician to evaluate this request.
+
+     The FTR permits an agency to authorize and approve an employee's use of first-class
+or other premium-class seats on airplanes when such use "is necessary to accommodate a
+disability or other special need."  41 CFR 301-10.123(b), -10.124(c).  (A "disability," for the
+purposes of the FTR, is "a physical or mental impairment that substantially limits one or
+more major life activities."  Id. 300-3.1.)  The provision of the FTR regarding use of contract
+city-pair fare does not mention accommodation of a disability or other special need, however. 
+Thus, the regulation is not clear as to whether, if an employee has a disability which can be
+reasonably accommodated by allowing him to take a flight which does not have a city-pair
+fare, the agency has authority to make that accommodation.
+
+     Suppose the Department of Labor were to conclude that Mr. Valentin is
+claustrophobic, that his claustrophobia is a disability, and that this disability can reasonably
+be accommodated by allowing him to fly during the day.  Suppose further that the only
+daytime flights which will take him to temporary duty locations at appropriate times do not
+have city-pair fares.  May the agency authorize him to take one of those flights?  We urge the
+writers of the FTR to address this question, so as to avoid the need for a determination by this
+Board if the matter arises again in such a way that it must be decided by us.
+
+
+
+
+
+                                   _________________________ 
+                                   STEPHEN M. DANIELS
+                                   Board Judge

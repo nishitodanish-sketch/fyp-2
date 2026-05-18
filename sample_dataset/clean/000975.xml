@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+  <idinfo>
+    <datsetid>
+      gov.noaa.ngdc.mgg.dem:tigp_ny_montauk
+    </datsetid>
+    <citation>
+      <citeinfo>
+        <origin>
+          DOC/NOAA/NESDIS/NGDC &gt; National Geophysical Data Center, NESDIS, NOAA, U.S. Department of Commerce
+        </origin>
+        <pubdate>
+          20070928
+        </pubdate>
+        <title>
+          Digital Elevation Model of Montauk, New York, Integrating Bathymetric and Topographic Datasets
+        </title>
+        <edition>
+          First
+        </edition>
+        <geoform>
+          raster digital data
+        </geoform>
+        <serinfo>
+          <sername>
+            NOAA Tsunami Inundation DEMs
+          </sername>
+          <issue>
+            Montauk, New York
+          </issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>
+            Boulder, Colorado
+          </pubplace>
+          <publish>
+            DOC/NOAA/NESDIS/NGDC &gt; National Geophysical Data Center, NESDIS, NOAA, U.S. Department of Commerce
+          </publish>
+        </pubinfo>
+        <onlink>
+          http://www.ngdc.noaa.gov/dem/showdem.jsp?dem=Montauk&amp;state=NY&amp;cell=1/3%20arc-second
+        </onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>
+        NOAA&apos;s National Geophysical Data Center (NGDC) is building high-resolution digital elevation models (DEMs) for select U.S. coastal regions. These integrated bathymetric-topographic DEMs are used to support tsunami forecasting and modeling efforts at the NOAA Center for Tsunami Research, Pacific Marine Environmental Laboratory (PMEL). The DEMs are part of the tsunami forecast system SIFT (Short-term Inundation Forecasting for Tsunamis) currently being developed by PMEL for the NOAA Tsunami Warning Centers, and are used in the MOST (Method of Splitting Tsunami) model developed by PMEL to simulate tsunami generation, propagation, and inundation. Bathymetric, topographic, and shoreline data used in DEM compilation are obtained from various sources, including NGDC, the U.S. National Ocean Service (NOS), the U.S. Geological Survey (USGS), the U.S. Army Corps of Engineers (USACE), the Federal Emergency Management Agency (FEMA), and other federal, state, and local government agencies, academic institutions, and private companies. DEMs are referenced to the vertical tidal datum of Mean High Water (MHW) and horizontal datum of World Geodetic System 1984 (WGS84). Grid spacings for the DEMs range from 1/3 arc-second (~10 meters) to 3 arc-seconds (~90 meters).
+      </abstract>
+      <purpose>
+        Developed for the Pacific Marine Environmental Laboratory (PMEL), NOAA Center for Tsunami Research program in support of NOAA&apos;s tsunami forecasting and warning efforts.
+      </purpose>
+      <documnts>
+        <userguid>
+          <citeinfo>
+            <origin>
+              Lisa A. Taylor
+            </origin>
+            <origin>
+              Barry W. Eakins
+            </origin>
+            <origin>
+              Kelly S. Carignan
+            </origin>
+            <origin>
+              Robin R. Warnken
+            </origin>
+            <origin>
+              Tatiana Sazonova
+            </origin>
+            <origin>
+              David C. Schoolcraft
+            </origin>
+            <pubdate>
+              20070928
+            </pubdate>
+            <title>
+              Digital Elevation Model of Montauk, New York: Procedures, Data Sources and Analysis
+            </title>
+            <pubinfo>
+              <pubplace>
+                Boulder, CO
+              </pubplace>
+              <publish>
+                DOC/NOAA/NESDIS/NGDC &gt; National Geophysical Data Center, NESDIS, NOAA, U.S. Department of Commerce
+              </publish>
+            </pubinfo>
+            <othercit>
+              25 pages
+            </othercit>
+            <onlink>
+              http://www.ngdc.noaa.gov/mgg/inundation/tsunami/data/montauk_ny/montauk_ny.pdf
+            </onlink>
+            <CI_OnlineResource>
+              <linkage>
+                http://www.ngdc.noaa.gov/mgg/inundation/tsunami/data/montauk_ny/montauk_ny.pdf
+              </linkage>
+              <name>
+                Digital Elevation Model of Montauk, New York: Procedures, Data Sources and Analysis
+              </name>
+              <description>
+                Report describing the development of the Montauk, New York DEM
+              </description>
+              <function>
+                download
+              </function>
+            </CI_OnlineResource>
+          </citeinfo>
+        </userguid>
+      </documnts>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>
+            1883
+          </begdate>
+          <enddate>
+            2005
+          </enddate>
+        </rngdates>
+      </timeinfo>
+      <current>
+        ground condition
+      </current>
+    </timeperd>
+    <status>
+      <progress>
+        Complete
+      </progress>
+      <update>
+        As needed
+      </update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>
+          -72.60
+        </westbc>
+        <eastbc>
+          -71.50
+        </eastbc>
+        <northbc>
+          41.40
+        </northbc>
+        <southbc>
+          40.60
+        </southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>
+          NASA/GCMD Earth Science Keywords
+        </themekt>
+        <themekey>
+          Earth Science &gt; Oceans &gt; Bathymetry/Seafloor Topography &gt; Seafloor Topography
+        </themekey>
+        <themekey>
+          Earth Science &gt; Oceans &gt; Bathymetry/Seafloor Topography &gt; Bathymetry
+        </themekey>
+        <themekey>
+          Earth Science &gt; Oceans &gt; Bathymetry/Seafloor Topography &gt; Water Depth
+        </themekey>
+        <themekey>
+          Earth Science &gt; Land Surface &gt; Topography &gt; Terrain Elevation
+        </themekey>
+        <themekey>
+          Earth Science &gt; Land Surface &gt; Topography &gt; Topographical Relief
+        </themekey>
+        <themekey>
+          Earth Science &gt; Oceans &gt; Coastal Processes &gt; Coastal Elevation
+        </themekey>
+      </theme>
+      <theme>
+        <themekt>
+          NASA/GCMD Platform Keywords
+        </themekt>
+        <themekey>
+          DEM &gt; Digital Elevation Model
+        </themekey>
+      </theme>
+      <theme>
+        <themekt>
+          NASA/GCMD Data Center Keywords
+        </themekt>
+        <themekey>
+          DOC/NOAA/NESDIS/NGDC &gt; National Geophysical Data Center, NESDIS, NOAA, U.S. Department of Commerce
+        </themekey>
+        <themekey>
+          WDC/MGG, BOULDER &gt; World Data Center for Marine Geology and Geophysics, Boulder
+        </themekey>
+      </theme>
+      <theme>
+        <themekt>
+          NASA/GCMD Data Resolution Keywords
+        </themekt>
+        <themekey>
+          H: 1 meter - &lt; 30 meters
+        </themekey>
+        <themekey>
+          V: &lt; 1 meter
+        </themekey>
+      </theme>
+      <theme>
+        <themekt>
+          ISO 19115 Topic Category
+        </themekt>
+        <themekey>
+          elevation
+        </themekey>
+      </theme>
+      <theme>
+        <themekt>
+          Uncontrolled
+        </themekt>
+        <themekey>
+          Coastal Relief
+        </themekey>
+        <themekey>
+          Gridded elevations
+        </themekey>
+        <themekey>
+          Integrated bathymetry and topography
+        </themekey>
+      </theme>
+      <place>
+        <placekt>
+          NASA/GCMD Location Keywords
+        </placekt>
+        <placekey>
+          Continent &gt; North America &gt; United States of America &gt; New York
+        </placekey>
+        <placekey>
+          Ocean &gt; Atlantic Ocean &gt; North Atlantic Ocean
+        </placekey>
+        <placekey>
+          Vertical Location &gt; Land Surface
+        </placekey>
+        <placekey>
+          Vertical Location &gt; Sea Floor
+        </placekey>
+      </place>
+      <place>
+        <placekt>
+          Uncontrolled
+        </placekt>
+        <placekey>
+          Montauk
+        </placekey>
+        <placekey>
+          Long Island
+        </placekey>
+        <placekey>
+          Long Island Sound
+        </placekey>
+        <placekey>
+          Block Island Sound
+        </placekey>
+      </place>
+    </keywords>
+    <plainsid>
+      <missname>
+        Tsunami Inundation Gridding Project
+      </missname>
+      <platflnm>
+        Digital Elevation Model
+      </platflnm>
+      <platfsnm>
+        DEM
+      </platfsnm>
+      <instflnm>
+        Light Detection and Ranging
+      </instflnm>
+      <instshnm>
+        LiDAR
+      </instshnm>
+    </plainsid>
+    <plainsid>
+      <missname>
+        Tsunami Inundation Gridding Project
+      </missname>
+      <platflnm>
+        Digital Elevation Model
+      </platflnm>
+      <platfsnm>
+        DEM
+      </platfsnm>
+      <instflnm>
+        Multibeam Swath Bathymetry System
+      </instflnm>
+      <instshnm>
+        MSBS
+      </instshnm>
+    </plainsid>
+    <plainsid>
+      <missname>
+        Tsunami Inundation Gridding Project
+      </missname>
+      <platflnm>
+        Digital Elevation Model
+      </platflnm>
+      <platfsnm>
+        DEM
+      </platfsnm>
+      <instflnm>
+        Sound Navigation and Ranging
+      </instflnm>
+      <instshnm>
+        SONAR
+      </instshnm>
+    </plainsid>
+    <accconst>
+      None.
+    </accconst>
+    <useconst>
+      Not to be used for navigational purposes.
+    </useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>
+            DOC/NOAA/NESDIS/NGDC &gt; National Geophysical Data Center, NESDIS, NOAA, U.S. Department of Commerce
+          </cntorg>
+          <cntper>
+            Barry W. Eakins
+          </cntper>
+        </cntorgp>
+        <cntpos>
+          Research Scientist
+        </cntpos>
+        <cntaddr>
+          <addrtype>
+            mailing and physical address
+          </addrtype>
+          <address>
+            NOAA/NESDIS/NGDC
+          </address>
+          <address>
+            325 Broadway, E/GC3
+          </address>
+          <city>
+            Boulder
+          </city>
+          <state>
+            Colorado
+          </state>
+          <postal>
+            80305-3328
+          </postal>
+          <country>
+            USA
+          </country>
+        </cntaddr>
+        <cntvoice>
+          303-497-6505
+        </cntvoice>
+        <cntfax>
+          303-497-6513
+        </cntfax>
+        <cntemail>
+          Barry.Eakins@noaa.gov
+        </cntemail>
+        <hours>
+          9am-5pm, M-F, Mountain Time
+        </hours>
+        <cntinst>
+          Contact NGDC&apos;s Marine Geology and Geophysics Division. http://www.ngdc.noaa.gov/mgg/aboutmgg/contacts.html
+        </cntinst>
+      </cntinfo>
+    </ptcontac>
+    <browse>
+      <browsen>
+        http://www.ngdc.noaa.gov/mgg/image/inundation/pers/montauk_ny.jpg
+      </browsen>
+      <browsed>
+        Perspective view of DEM
+      </browsed>
+      <browset>
+        JPEG
+      </browset>
+    </browse>
+    <native>
+      Microsoft Windows 2000 Version 5.2 (Build 3790) Service Pack 2; ESRI ArcCatalog 9.2.4.1420
+    </native>
+    <agginfo>
+      <conpckid>
+        <datsetid>
+          gov.noaa.ngdc.mgg.dem:tigp
+        </datsetid>
+      </conpckid>
+    </agginfo>
+  </idinfo>
+  <dataqual>
+    <logic>
+      Datasets were visually compared internally and externally (with other overlapping datasets and satellite images and maps) in ESRI ArcGIS for identification of anomalous elevations or data inconsistencies. Where elevation inconsistencies occurred, the most recent and/or highest resolution data set was selected for use in that region. Elevations in the older and/or lower-resolution datasets were deleted prior to building the DEM.
+    </logic>
+    <complete>
+      NGDC made every effort to obtain all available digital topographic and bathymetric datasets in the region for use in building the DEM.
+    </complete>
+    <posacc>
+      <horizpa>
+        <horizpar>
+          The horizontal accuracy of bathymetric and topographic features in the DEM is dependent upon the accuracy of the input datasets used to determine corresponding cell values. Topography: 10 to 15 meters. Positional accuracy of input topographic datasets limits accuracy of corresponding cells in DEM: USGS NED DEM - 10 to 15 meters; coastal LiDAR surveys - between 1 and 3 meters. Where present, coastal LiDAR data supplant NED data values in the DEM. DEM cell relative-contribution factors: LiDAR - 10000, NED - 100. Bathymetry: 10 to several tens of meters. Positional accuracy of input bathymetric datasets limits accuracy of corresponding cells in DEM: USGS and NOS multibeam surveys - about 5 meters; early 20th-century NOS hydrographic soundings are limited by sparseness of deep-water soundings, and potentially large position accuracy of pre-satellite (i.e., GPS) navigation - several tens of meters. ENC and RNC soundings are sampled from the NOS hydrographic survey charts. Where present, USGS and NOS multibeam sonar data supplant NOS hydrographic soundings in the DEM. DEM cell relative-contribution factors: USGS and NOS multibeam sonar data - 10000, NOS hydrographic soundings - 1000, ENC and RNC soundings - 10.
+        </horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>
+          The vertical accuracy of bathymetric and topographic features in the DEM is dependent upon the accuracy of the input datasets used to determine corresponding cell values. Topography: 0.1 to 7 meters. Vertical accuracy of input topographic datasets limits accuracy of corresponding cells in DEM: USGS NED DEM - up to 7 meters; coastal LiDAR surveys - 0.1 to 0.3 meters. Where present, LiDAR data supersede NED data values in the DEM. DEM cell relative-contribution factors: LiDAR - 10000, NED - 100. Bathymetry: 0.1 meters to several meters. Vertical accuracy of input bathymetric datasets limits accuracy of corresponding cells in DEM: GPS-navigated USGS and NOS multibeam sonar surveys - 0.1 to 1 meters; early 20th-century NOS hydrographic soundings are limited by sparseness of deep-water soundings, and potentially large position accuracy of pre-satellite (i.e., GPS) navigation - up to several meters. ENC and RNC soundings are sampled from the NOS hydrographic survey charts. Where present, USGS and NOS multibeam sonar data supplant NOS hydrographic soundings in the DEM. DEM cell relative-contribution factors: USGS and NOS multibeam sonar data - 10000, NOS hydrographic soundings - 1000. ENC and RNC soundings - 10. Gridding interpolation to determine values between sparse NOS smooth sheet soundings in deep-water degrades the vertical accuracy of deep-water elevations.
+        </vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>
+              DOC/NOAA/NESDIS/NGDC &gt; National Geophysical Data Center, NESDIS, NOAA, U.S. Department of Commerce
+            </origin>
+            <pubdate>
+              2008
+            </pubdate>
+            <title>
+              NOS Hydrographic Surveys
+            </title>
+            <onlink>
+              http://www.ngdc.noaa.gov/mgg/bathymetry/hydro.html
+            </onlink>
+            <CI_OnlineResource>
+              <linkage>
+                http://www.ngdc.noaa.gov/mgg/bathymetry/hydro.html
+              </linkage>
+              <name>
+                NOS Hydrographic Survey Database
+              </name>
+              <description>
+                Digital database of NOS hydrographic surveys that date back to the late 19th century.
+              </description>
+              <function>
+                download
+              </function>
+            </CI_OnlineResource>
+          </citeinfo>
+        </srccite>
+        <typesrc>
+          online
+        </typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>
+                1883
+              </begdate>
+              <enddate>
+                2000
+              </enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>
+            ground condition
+          </srccurr>
+        </srctime>
+        <srccitea>
+          NOS Hydrographic Surveys
+        </srccitea>
+        <srccontr>
+          downloaded from web site.
+        </srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>
+              DOI/USGS &gt; U.S. Geological Survey, Department of the Interior
+            </origin>
+            <pubdate>
+              2006
+            </pubdate>
+            <title>
+              USGS Multibeam Swath Sonar Surveys off Southern Long Island, New York
+            </title>
+          </citeinfo>
+        </srccite>
+        <typesrc>
+          digital tape media
+        </typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>
+                1996
+              </begdate>
+              <enddate>
+                2003
+              </enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>
+            ground condition
+          </srccurr>
+        </srctime>
+        <srccitea>
+          USGS Multibeam Swath Sonar Surveys
+        </srccitea>
+        <srccontr>
+          provided by USGS Woods Hole Office
+        </srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>
+              DOC/NOAA/NOS/OCS &gt; Office of Coast Survey, National Ocean Service, NOAA, U.S. Department of Commerce
+            </origin>
+            <pubdate>
+              2008
+            </pubdate>
+            <title>
+              Electronic Navigational Charts
+            </title>
+            <onlink>
+              http://www.nauticalcharts.noaa.gov/mcd/enc/index.htm
+            </onlink>
+            <CI_OnlineResource>
+              <linkage>
+                http://www.nauticalcharts.noaa.gov/mcd/enc/index.htm
+              </linkage>
+              <name>
+                OCS Electronic Navigational Charts
+              </name>
+              <description>
+                Digital database of NOAA nautical chart information.
+              </description>
+              <function>
+                download
+              </function>
+            </CI_OnlineResource>
+          </citeinfo>
+        </srccite>
+        <typesrc>
+          online
+        </typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>
+                1999
+              </begdate>
+              <enddate>
+                2001
+              </enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>
+            publication date
+          </srccurr>
+        </srctime>
+        <srccitea>
+          ENCs
+        </srccitea>
+        <srccontr>
+          downloaded from web site.
+        </srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>
+              DOC/NOAA/NOS/CSC &gt; Coastal Services Center, National Ocean Service, NOAA, U.S. Department of Commerce
+            </origin>
+            <pubdate>
+              2008
+            </pubdate>
+            <title>
+              NOAA Coastal Services Center Coastal Topographic LiDAR
+            </title>
+            <onlink>
+              http://maps.csc.noaa.gov/TCM/
+            </onlink>
+            <CI_OnlineResource>
+              <linkage>
+                http://maps.csc.noaa.gov/TCM/
+              </linkage>
+              <name>
+                Topographic Change Mapping
+              </name>
+              <description>
+                CSC coastal topographic LiDAR
+              </description>
+              <function>
+                download
+              </function>
+            </CI_OnlineResource>
+          </citeinfo>
+        </srccite>
+        <typesrc>
+          online
+        </typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>
+                2000
+              </begdate>
+              <enddate>
+                2004
+              </enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>
+            ground condition
+          </srccurr>
+        </srctime>
+        <srccitea>
+          NOAA Coastal Services Center LiDAR
+        </srccitea>
+        <srccontr>
+          downloaded from web site.
+        </srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>
+              DOI/USGS &gt; U.S. Geological Survey, Department of the Interior
+            </origin>
+            <pubdate>
+              2008
+            </pubdate>
+            <title>
+              USGS NED topography
+            </title>
+            <onlink>
+              http://ned.usgs.gov/
+            </onlink>
+            <CI_OnlineResource>
+              <linkage>
+                http://ned.usgs.gov/
+              </linkage>
+              <name>
+                USGS National Elevation Dataset
+              </name>
+              <description>
+                Digital database of U.S. topography, in raster form (DEM)
+              </description>
+              <function>
+                download
+              </function>
+            </CI_OnlineResource>
+          </citeinfo>
+        </srccite>
+        <typesrc>
+          online
+        </typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>
+                2006
+              </caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>
+            publication date
+          </srccurr>
+        </srctime>
+        <srccitea>
+          USGS NED topography
+        </srccitea>
+        <srccontr>
+          downloaded from web site.
+        </srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>
+          All datasets obtained by NGDC were converted to common horizontal and vertical datums of WGS84 geographic and Mean High Water, respectively, using FME. They were also converted to common file format, ESRI point shapefiles, for visualization and inspection.
+        </procdesc>
+        <procdate>
+          20070914
+        </procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>
+                DOC/NOAA/NESDIS/NGDC &gt; National Geophysical Data Center, NESDIS, NOAA, U.S. Department of Commerce
+              </cntorg>
+              <cntper>
+                Barry W. Eakins
+              </cntper>
+            </cntorgp>
+            <cntpos>
+              Research Scientist
+            </cntpos>
+            <cntaddr>
+              <addrtype>
+                mailing and physical address
+              </addrtype>
+              <address>
+                NOAA/NESDIS/NGDC
+              </address>
+              <address>
+                325 Broadway, E/GC3
+              </address>
+              <city>
+                Boulder
+              </city>
+              <state>
+                Colorado
+              </state>
+              <postal>
+                80305-3328
+              </postal>
+              <country>
+                USA
+              </country>
+            </cntaddr>
+            <cntvoice>
+              303-497-6505
+            </cntvoice>
+            <cntfax>
+              303-497-6513
+            </cntfax>
+            <cntemail>
+              Barry.Eakins@noaa.gov
+            </cntemail>
+            <hours>
+              9am-5pm, M-F, Mountain Time
+            </hours>
+            <cntinst>
+              Contact NGDC&apos;s Marine Geology and Geophysics Division. http://www.ngdc.noaa.gov/mgg/aboutmgg/contacts.html
+            </cntinst>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>
+          Datasets were visually inspected with ArcGIS for identification and editing of data anomalies. Datasets were then compared with overlapping datasets to ensure data consistency.
+        </procdesc>
+        <procdate>
+          20070921
+        </procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+          USACE beach profiles were gridded using GMT&apos;s &apos;triangulate&apos; command to interpolate between the profiles, which were spaced 150 to 650 meters apart.
+        </procdesc>
+        <procdate>
+          20070921
+        </procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+          xyz files of the bathymetric data were surfaced using GMT&apos;s &apos;surface&apos; tool onto a 1 arc-second grid that interpolated to fill empty cells. Points extracted every 10 meters along the coastline were also included to ensure that the bathymetric grid reached zero at the coast. The resulting Arc ASCII grid was imported into ArcGIS and clipped to the coastline to remove values over land.
+        </procdesc>
+        <procdate>
+          20070926
+        </procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+          xyz files for each input dataset were gridded using MB-System&apos;s &apos;mbgrid&apos; tool, which utilizes a high-tension spline interpolation method to fill grid cells with no input elevation values. Preferential weighting was given to more recent, higher-accuracy datasets. Gridding was performed in quadrants, each with a 5% data buffer. The grids were imported in ArcGIS and seamlessly merged to create the final DEM.
+        </procdesc>
+        <procdate>
+          20070926
+        </procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+          The DEM was quantitatively evaluated by comparing with source datasets and with elevation values extracted from NGS geodetic monuments. It was visually evaluated by converting to UTM-zone coordinates (units of meters horizontally and vertically) and then creating a slope grid to identify gridding artifacts in the DEM.
+        </procdesc>
+        <procdate>
+          20070927
+        </procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>
+      Raster
+    </direct>
+    <rastinfo>
+      <cvaltype>
+        ASCII text
+      </cvaltype>
+      <rasttype>
+        Grid Cell
+      </rasttype>
+      <rowcount>
+        8641
+      </rowcount>
+      <colcount>
+        11881
+      </colcount>
+      <vrtcount>
+        1
+      </vrtcount>
+    </rastinfo>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>
+          0.00009259259
+        </latres>
+        <longres>
+          0.00009259259
+        </longres>
+        <geogunit>
+          Decimal degrees
+        </geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>
+          D_WGS_1984
+        </horizdn>
+        <ellips>
+          WGS_1984
+        </ellips>
+        <semiaxis>
+          6378137.000000
+        </semiaxis>
+        <denflat>
+          298.257224
+        </denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>
+          Mean High Water
+        </altdatum>
+        <altres>
+          0.01
+        </altres>
+        <altunits>
+          meters
+        </altunits>
+        <altenc>
+          Explicit elevation coordinate included with horizontal coordinates
+        </altenc>
+      </altsys>
+      <depthsys>
+        <depthdn>
+          Mean High Water
+        </depthdn>
+        <depthres>
+          0.01
+        </depthres>
+        <depthdu>
+          meters
+        </depthdu>
+        <depthem>
+          Explicit depth coordinate included with horizontal coordinates
+        </depthem>
+      </depthsys>
+    </vertdef>
+  </spref>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>
+            DOC/NOAA/NESDIS/NGDC &gt; National Geophysical Data Center, NESDIS, NOAA, U.S. Department of Commerce
+          </cntorg>
+          <cntper>
+            Barry W. Eakins
+          </cntper>
+        </cntorgp>
+        <cntpos>
+          Research Scientist
+        </cntpos>
+        <cntaddr>
+          <addrtype>
+            mailing and physical address
+          </addrtype>
+          <address>
+            NOAA/NESDIS/NGDC
+          </address>
+          <address>
+            325 Broadway, E/GC3
+          </address>
+          <city>
+            Boulder
+          </city>
+          <state>
+            Colorado
+          </state>
+          <postal>
+            80305-3328
+          </postal>
+          <country>
+            USA
+          </country>
+        </cntaddr>
+        <cntvoice>
+          303-497-6505
+        </cntvoice>
+        <cntfax>
+          303-497-6513
+        </cntfax>
+        <cntemail>
+          Barry.Eakins@noaa.gov
+        </cntemail>
+        <hours>
+          9am-5pm, M-F, Mountain Time
+        </hours>
+        <cntinst>
+          Contact NGDC&apos;s Marine Geology and Geophysics Division. http://www.ngdc.noaa.gov/mgg/aboutmgg/contacts.html
+        </cntinst>
+      </cntinfo>
+    </distrib>
+    <resdesc>
+      Downloadable Data
+    </resdesc>
+    <distliab>
+      While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.
+    </distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>
+            ESRI Arc ASCII
+          </formname>
+          <formvern>
+            1
+          </formvern>
+          <formspec>
+            ASCII text version of ESRI ArcGIS raster format
+          </formspec>
+          <filedec>
+            WINZIP
+          </filedec>
+          <transize>
+            323000000
+          </transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>
+                  javascript:show_warning();self.location=&apos;http://www.ngdc.noaa.gov/mgg/inundation/tsunami/data/montauk_ny/montauk_ny_1-3_arc-second.zip&apos;
+                </networkr>
+                <CI_OnlineResource>
+                  <linkage>
+                    javascript:show_warning();self.location=&apos;http://www.ngdc.noaa.gov/mgg/inundation/tsunami/data/montauk_ny/montauk_ny_1-3_arc-second.zip&apos;
+                  </linkage>
+                  <name>
+                    Montauk, NY 1/3 arc-second Tsunami Inundation DEM
+                  </name>
+                  <description>
+                    DEM, metadata and Readme file for the Montauk, New York DEM.
+                  </description>
+                  <function>
+                    download
+                  </function>
+                </CI_OnlineResource>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>
+        None
+      </fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>
+      20090218
+    </metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>
+            DOC/NOAA/NESDIS/NGDC &gt; National Geophysical Data Center, NESDIS, NOAA, U.S. Department of Commerce
+          </cntorg>
+          <cntper>
+            Barry W. Eakins
+          </cntper>
+        </cntorgp>
+        <cntpos>
+          Research Scientist
+        </cntpos>
+        <cntaddr>
+          <addrtype>
+            mailing and physical address
+          </addrtype>
+          <address>
+            NOAA/NESDIS/NGDC
+          </address>
+          <address>
+            325 Broadway, E/GC3
+          </address>
+          <city>
+            Boulder
+          </city>
+          <state>
+            Colorado
+          </state>
+          <postal>
+            80305-3328
+          </postal>
+          <country>
+            USA
+          </country>
+        </cntaddr>
+        <cntvoice>
+          303-497-6505
+        </cntvoice>
+        <cntfax>
+          303-497-6513
+        </cntfax>
+        <cntemail>
+          Barry.Eakins@noaa.gov
+        </cntemail>
+        <hours>
+          9am-5pm, M-F, Mountain Time
+        </hours>
+        <cntinst>
+          Contact NGDC&apos;s Marine Geology and Geophysics Division. http://www.ngdc.noaa.gov/mgg/aboutmgg/contacts.html
+        </cntinst>
+      </cntinfo>
+    </metc>
+    <metstdn>
+      Content Standard for Digital Geospatial Metadata: Extensions for Remote Sensing Metadata
+    </metstdn>
+    <metstdv>
+      FGDC-STD-012-2002
+    </metstdv>
+    <mettc>
+      local time
+    </mettc>
+  </metainfo>
+  
+  
+  
+  
+  
+  
+</metadata>

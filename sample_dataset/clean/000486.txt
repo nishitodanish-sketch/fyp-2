@@ -1,0 +1,114 @@
+
+From gilg@lbl.gov Tue Feb  4 12:01:41 2003
+Date: Mon, 3 Feb 2003 20:37:46 -0800 (PST)
+From: Murdock Gilchriese <gilg@lbl.gov>
+To: SCT hybrid/module at LBL <chtran@lbl.gov>,
+    Alessandra Ciocio <A_Ciocio@lbl.gov>,
+    Steve Dardin <SMDardin@lbl.gov>,
+    Vitaliy Fadeyev <VAFadeyev@lbl.gov>,
+    Murdock Gilchriese <gilg@sts.lbl.gov>,
+    Fred Goozen <FRGoozen@lbl.gov>,
+    Carl Haber <chhaber@lbl.gov>,
+    jasnow@lbl.gov,
+    Jeremey Lys <jelys@lbl.gov>,
+    Frank McCormack <fjmccormack@lbl.gov>,
+    rapowers@lbl.gov,
+    Rhonda Witharm <RMWitharm@lbl.gov>
+Cc: bill@scipp.ucsc.edu,
+    Felix Rosenbaum <felix@scipp.ucsc.edu>,
+    Alex Grillo <grillo@scipp.ucsc.edu>,
+    Mark Anderson <mark@scipp.ucsc.edu>,
+    Abe Seiden <abs@scipp.ucsc.edu>
+Subject: Minutes of SCT meeting February 3, 2003
+
+There has been a misunderstanding about what hybrids started means in the
+last two weeks. It means hybrids with chips started to load. This has been
+corrected this week
+
+Hybrids started as of end last week     71      In last week    12
+Hybrids up to fanout bonds              40      In last week    0
+ 
+Modules started as of end last week     22      In last week    4
+Modules test complete                    7      In last week    4
+
+The summary files are at 
+http://www-physics.lbl.gov/~gilg/SCTWeeklyMeetings/Feb32003/
+
+For some reason, one of these is currently protected, so I have attached
+it(hybrids and modules vs time). I encourage you to look particularly at
+the final summary, which attempts to summarize the current status of all
+modules. I have also added an IV summary.
+
+Hybrids
+We decided to ship to UCSC ASAP existing fixtures at LBL to complete all
+needed at UCSC. This will bring LBL to a halt on chip mounting, but will
+force LBL to complete the necessary fixtures to continue. LBL will
+continue to do all fanout bonding. Thus UCSC will mount chips, do the chip
+bonds, test and burnin. THe first some hybrids will be sent to LBL for
+testing to compare with UCSC results. The goals is to get some real
+hybrids made at UCSC before the SCT week in March.
+
+We received today 32 more hybrids from Japan. They are good. Rhonda will
+split and ready them to sent to UCSC along with hybrids needing chip
+replacement(Sandra to choose).
+
+Module Assembly
+Fixtures A0, A1 and A2 are now in use but not yet clear if results are
+repeatable. Results from P019-P022 looked at and some adjustments
+necessary for next modules. P023 and maybe P024 to be started today. Note
+that I have include histogram of midyf in the folder referenced above. We
+are current within +/-8 microns except for P001 in which gross error was
+made. THere are many other dimensional specs. If you look at the
+FinalSummary files you will note that we are often just over on some of
+the Z specs, in addition to midyf relative to current spec.We are
+sometimes also over tolerances on stereo angle and related. Need to
+understand how to handle this.
+
+Module Testing
+Sandra found there are "flaky" problems with some channels in Cracow HV
+modules, which may
+explain some of the problems with tripping modules. Not yet clear how this
+will be resolved, but will slow down testing. Modules with "good" hybrid,
+P016 has 6 bad channels. 5 of these are from bonding problems. Realized
+this is not systematically documented on travellers but must be. Rhonda to
+follow up.
+
+Inventory
+We realized too late that we will run out of detectors in the next few
+days. More detectors will be shipped from Japan "early this week". To
+attempt to avoid this in future, will include inventory each Monday as
+part of these minutes. Frank is responsible for detectors and baseboards,
+Rhonda for hybrids and Sandra for chips.
+
+Housekeeping
+There are many, many improvements to implement in the general area of
+housekeeping and organization. Among the most important are
+
+1) vacuum dry lockers. I found that there is a powder residue apparently
+left over from cleaning the trays in the locker. This has to be vacuumed
+out(using HEPA filter vacs). I did this on the module locker but all of
+the lockers need to be done. I will organize this. This may be some/all
+of the white specs seen on lots of modules.
+
+2) reconfigure central tables
+we need more space in the central tables, need to move computer and
+monitor and so forth as soon as possible. Carl, Frank and me to organize
+
+3) stations and tools
+It's driving me nuts(OK nuttier) to have to search for tools each time an
+operation is needed. We need bins(Steve to get) and organized stations for
+each step. I will follow up on this with also Frank.
+
+4) cleaning and related
+I cleaned off the top of the IV box(very dusty) and where the old dry box
+sat(ditto). We need to implement a regular and reasonable cleaning
+procedure each day(trash cans for example) and each week(floor, rotating
+surfaces). I will attempt to do this with Steve but this will require help
+from everyone.
+
+
+
+    [ Part 2, ""  Application/OCTET-STREAM (Name: ]
+    [ "HybridsModulesperWeekFeb032003.xls")  33KB. ]
+    [ Unable to print this part. ]
+

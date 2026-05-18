@@ -1,0 +1,412 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Matthias Leu, Steve Hanser, and Steve Knick, USGS-FRESC, Snake River Field Station
+      Publication_Date: 2008
+      Title: The Human Footprint in the West
+      Geospatial_Data_Presentation_Form: raster digital data
+      Other_Citation_Details: Leu, M., S.E. Hanser, S.T. Knick. 2008. The human footprint in the west: a large-scale analysis of anthropogenic impacts. Ecological Applications 18(5): 1119-1139.
+      Online_Linkage: http://sagemap.wr.usgs.gov/
+  Description:
+    Abstract: Humans have dramatically altered wildlands in the western United States over the past 100 years by using these lands and the resources they provide.  Anthropogenic changes to the landscape, such as urban expansion, construction of roads, power lines, and other networks and land uses necessary to maintain human populations influence the number and kinds of plants and wildlife that remain.  We developed the map of the human footprint for the western United States from an analysis of 14 landscape structure and anthropogenic features:  human habitation, interstate highways, federal and state highways, secondary roads, railroads, irrigation canals, power lines, linear feature densities, agricultural land, campgrounds, highway rest stops, land fills, oil and gas development, and human induced fires.  We used these input layers to develop seven models to estimate the total influence of the human footprint.  These models either explored how anthropogenic features influence wildlife populations via changes in habitat (road-induced dispersal of invasive plants, oil and gas developments, human induced fires, and anthropogenic habitat fragmentation) or predators densities (spatial distribution of domestic and synanthropic avian predators).  The human footprint map is a composite of these seven models.  The final map consists of a 180 meter resolution raster data set with 10 human footprint classes.
+    Purpose: Model the influence of anthropogenic disturbance in the western United States.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 2008
+    Currentness_Reference: publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -126.251168
+      East_Bounding_Coordinate: -99.317208
+      North_Bounding_Coordinate: 49.619578
+      South_Bounding_Coordinate: 30.506824
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Human
+      Theme_Keyword: Footprint
+      Theme_Keyword: Anthropogenic
+      Theme_Keyword: Disturbance
+      Theme_Keyword: Human Footprint
+      Theme_Keyword: Model
+      Theme_Keyword: Landscape
+      Theme_Keyword: Wildlands
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Washington
+      Place_Keyword: Oregon
+      Place_Keyword: California
+      Place_Keyword: Idaho
+      Place_Keyword: Nevada
+      Place_Keyword: Utah
+      Place_Keyword: Arizona
+      Place_Keyword: Montana
+      Place_Keyword: Wyoming
+      Place_Keyword: Colorado
+      Place_Keyword: Wyoming
+      Place_Keyword: New Mexico
+      Place_Keyword: Conservation Assessment
+  Access_Constraints: None
+  Use_Constraints: None, but the user assumes all responsibility for appropriate use of the data.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Matthias Leu
+        Contact_Organization: USGS-FRESC, Snake River Field Station
+      Contact_Position: Ecologist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 970 Lusk St
+        City: Boise
+        State_or_Province: ID
+        Postal_Code: 83706
+      Contact_Voice_Telephone: 208-426-2598
+      Contact_Facsimile_Telephone: 208-426-5210
+      Contact_Electronic_Mail_Address: mleu@usgs.gov
+      Hours_of_Service: 8 - 5
+  Data_Set_Credit: Matthias Leu, Steve Hanser, and Steve Knick USGS-FRESC Snake River Field Station
+  Security_Information:
+    Security_Classification_System: None
+    Security_Classification: Unclassified
+    Security_Handling_Description: None
+  Native_Data_Set_Environment: Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.2.1350
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: Dependent upon the source data.
+  Logical_Consistency_Report: Dependent on the logical consistency of the data from which this coverage was created. No additional checks for consistency or accuracy was completed on this final product.
+  Completeness_Report: Based on the completeness of the data from which this coverage was created. Review metadata for individual source coverages to assess completeness of each.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Steve Hanser and Matthias Leu, USGS-FRESC, Snake River Field Station
+          Publication_Date: 200406
+          Title: Probability of Synanthropic Feral House Cat Presence in the Western United States
+          Geospatial_Data_Presentation_Form: raster digital data
+          Online_Linkage: http://sagemap.wr.usgs.gov/ftp/regional/usgs/cat_model_hf.zip
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2000
+        Source_Currentness_Reference: ground condition
+      Source_Citation_Abbreviation: cat_model
+      Source_Contribution: Probability of synanthropic feral house cat presence.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Steve Hanser and Matthias Leu, USGS-FRESC Snake River Field Station
+          Publication_Date: 200406
+          Title: Probability of Synanthropic Feral Dog Presence in the Western United States
+          Geospatial_Data_Presentation_Form: raster digital data
+          Online_Linkage: http://sagemap.wr.usgs.gov/ftp/regional/usgs/dog_model_hf.zip
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2000
+        Source_Currentness_Reference: ground condition
+      Source_Citation_Abbreviation: dog_model
+      Source_Contribution: Probability of synanthropic feral dog presence.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Steve Hanser and Matthias Leu, USGS-FRESC, Snake River Field Station
+          Publication_Date: 200406
+          Title: Exotic Plant Invasion Risk in the Western United States
+          Geospatial_Data_Presentation_Form: raster digital data
+          Online_Linkage: http://sagemap.wr.usgs.gov/ftp/regional/usgs/exotic_hf.zip
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2000
+        Source_Currentness_Reference: ground condition
+      Source_Citation_Abbreviation: exotic
+      Source_Contribution: Risk of invasion by exotic plant species.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Steve Hanser, USGS-FRESC, Snake River Field Station
+          Publication_Date: 200406
+          Title: Human Caused Fires in the Western United States (1986 - 2001)
+          Geospatial_Data_Presentation_Form: raster digital data
+          Online_Linkage: http://sagemap.wr.usgs.gov/ftp/regional/usgs/firemodel_hf.zip
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1986
+            Ending_Date: 2001
+        Source_Currentness_Reference: ground condition
+      Source_Citation_Abbreviation: fire
+      Source_Contribution: Density of human caused fires.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Steve Hanser and Matthias Leu, USGS-FRESC Snake River Field Station
+          Publication_Date: 200406
+          Title: Oil and Gas Well Density in the Western United States
+          Geospatial_Data_Presentation_Form: raster digital data
+          Online_Linkage: http://sagemap.wr.usgs.gov/ftp/regional/usgs/oilwells_hf.zip
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1995
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: oilwells
+      Source_Contribution: Density of oil and gas wells.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Steve Hanser and Matthias Leu, USGS-FRESC, Snake River Field Station
+          Publication_Date: 200406
+          Title: Anthropogenic Fragmentation in the Western United States
+          Geospatial_Data_Presentation_Form: raster digital data
+          Online_Linkage: http://sagemap.wr.usgs.gov/ftp/regional/usgs/fragmodel_hf.zip
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2003
+        Source_Currentness_Reference: ground condition
+      Source_Citation_Abbreviation: frag_model
+      Source_Contribution: Proportion of habitat that contains an anthropogenic feature.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Steve Hanser and Matthias Leu, USGS-FRESC, Snake River Field Station
+          Publication_Date: 200406
+          Title: Probability of Synanthropic Corvid Presence in the Western United States
+          Geospatial_Data_Presentation_Form: raster digital data
+          Online_Linkage: http://sagemap.wr.usgs.gov/ftp/regional/usgs/corvid_hf.zip
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2004
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: corvid_model
+      Source_Contribution: Probability of synanthropic corvid presence
+    Process_Step:
+      Process_Description: Standardized all input models to range from zero to one by dividing by the maximum value in each grid. This was done due to the fact that the inputs models were developed with various techniques and therefore had different numerical ranges. So in order to weigh the model equally in the final human footprint model we need to standardize the ranges of the inputs.
+      Source_Used_Citation_Abbreviation: exotic
+      Source_Used_Citation_Abbreviation: Fire
+      Source_Used_Citation_Abbreviation: dog_model
+      Source_Used_Citation_Abbreviation: cat_model
+      Source_Used_Citation_Abbreviation: oilwells
+      Source_Used_Citation_Abbreviation: corvid_model
+      Source_Used_Citation_Abbreviation: frag_model
+      Process_Date: 200312
+      Source_Produced_Citation_Abbreviation: frag01
+      Source_Produced_Citation_Abbreviation: corvid01
+      Source_Produced_Citation_Abbreviation: oilwells01
+      Source_Produced_Citation_Abbreviation: cat01
+      Source_Produced_Citation_Abbreviation: dog01
+      Source_Produced_Citation_Abbreviation: fire01
+      Source_Produced_Citation_Abbreviation: exotic01
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Steve Hanser
+            Contact_Organization: USGS, Snake River Field Station
+          Contact_Position: Wildlife Biologist / GIS Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 970 Lusk St
+            City: Boise
+            State_or_Province: ID
+            Postal_Code: 83706
+            Country: USA
+          Contact_Voice_Telephone: 208-426-2892
+          Contact_Facsimile_Telephone: 208-426-5210
+          Contact_Electronic_Mail_Address: shanser@usgs.gov
+          Hours_of_Service: 8 - 5
+    Process_Step:
+      Process_Description: Added the seven input models together.
+      Source_Used_Citation_Abbreviation: exotic01
+      Source_Used_Citation_Abbreviation: dog01
+      Source_Used_Citation_Abbreviation: cat01
+      Source_Used_Citation_Abbreviation: fire01
+      Source_Used_Citation_Abbreviation: frag01
+      Source_Used_Citation_Abbreviation: corvid01
+      Source_Used_Citation_Abbreviation: oilwells01
+      Process_Date: 200312
+      Source_Produced_Citation_Abbreviation: Hfoot_prelim
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Steve Hanser
+            Contact_Organization: USGS, Snake River Field Station
+          Contact_Position: Wildlife Biologist / GIS Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 970 Lusk St
+            City: Boise
+            State_or_Province: ID
+            Postal_Code: 83706
+            Country: USA
+          Contact_Voice_Telephone: 208-426-2892
+          Contact_Facsimile_Telephone: 208-426-5210
+          Contact_Electronic_Mail_Address: shanser@usgs.gov
+          Hours_of_Service: 8 - 5
+    Process_Step:
+      Process_Description: Reclassified hfoot_prelim into 10 classes with the following class ranges: 1 = 0-0.333; 2 = 0.333-0.666; 3 = 0.666-1; 4 = 1-1.333; 5 = 1.333-1.666; 6 = 1.666-2; 7 = 2-2.333; 8 = 2.333-2.666; 9 = 2.666-3; 10 = greater than 3.
+      Source_Used_Citation_Abbreviation: Hfoot_prelim
+      Source_Used_Citation_Abbreviation: Forest/Non-Forest
+      Process_Date: 200311
+      Source_Produced_Citation_Abbreviation: hfootprint
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Steve Hanser
+            Contact_Organization: USGS, Snake River Field Station
+          Contact_Position: Wildlife Biologist / GIS Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 970 Lusk St
+            City: Boise
+            State_or_Province: ID
+            Postal_Code: 83706
+            Country: USA
+          Contact_Voice_Telephone: 208-426-2892
+          Contact_Facsimile_Telephone: 208-426-5210
+          Contact_Electronic_Mail_Address: shanser@usgs.gov
+          Hours_of_Service: 8 - 5
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Raster
+  Raster_Object_Information:
+    Raster_Object_Type: Grid Cell
+    Row_Count: 11358
+    Column_Count: 11094
+    Vertical_Count: 1
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Map_Projection:
+        Map_Projection_Name: Albers Conical Equal Area
+        Albers_Conical_Equal_Area:
+          Standard_Parallel: 38.000000
+          Standard_Parallel: 41.000000
+          Longitude_of_Central_Meridian: -114.000000
+          Latitude_of_Projection_Origin: 34.000000
+          False_Easting: 0.000000
+          False_Northing: 0.000000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: row and column
+        Coordinate_Representation:
+          Abscissa_Resolution: 180.000000
+          Ordinate_Resolution: 180.000000
+        Planar_Distance_Units: meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1927
+      Ellipsoid_Name: Clarke 1866
+      Semi-major_Axis: 6378206.400000
+      Denominator_of_Flattening_Ratio: 294.978698
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: hfootprint.vat
+      Entity_Type_Definition: Value attribute table
+      Entity_Type_Definition_Source: ESRI
+    Attribute:
+      Attribute_Label: Count
+      Attribute_Definition: Count of grid cells with associated Value attirbute
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 10305230
+          Range_Domain_Maximum: 33934829
+    Attribute:
+      Attribute_Label: Rowid
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: VALUE
+    Attribute:
+      Attribute_Label: COUNT
+    Attribute:
+      Attribute_Label: Value
+      Attribute_Definition: Human Footprint Class
+      Attribute_Definition_Source: U.S Geological Survey
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 10
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: USGS, Snake River Field Station, GIS Laboratory
+      Contact_Position: Geographer
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 970 Lusk St
+        City: Boise
+        State_or_Province: ID
+        Postal_Code: 83706
+        Country: USA
+      Contact_Voice_Telephone: 208-426-5204
+      Contact_Facsimile_Telephone: 208-426-5210
+      Contact_Electronic_Mail_Address: tom_zarriello@usgs.gov
+  Resource_Description: The Human Footprint Across the Western United States
+  Distribution_Liability: We make every effort to provide and maintain accurate, complete, usable, and timely information on our web sites. However, some USGS data and information accessed through these pages may, of necessity, be preliminary in nature and presented prior to final review and approval by the Director of the USGS. These data and information are provided with the understanding that they are not guaranteed to be correct or complete. Users are cautioned to consider carefully the provisional nature of these data and information before using them for decisions that concern personal or public safety or the conduct of business that involves substantial monetary or operational consequences. Conclusions drawn from, or actions undertaken on the basis of, such data and information are the sole responsibility of the user.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ARCG
+        Transfer_Size: 41.452
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://sagemap.wr.usgs.gov/ftp/regional/usgs/
+          Online_Computer_and_Operating_System: http://sagemap.wr.usgs.gov/ftp/regional/usgs/
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://prairiemap.wr.usgs.gov/
+          Online_Computer_and_Operating_System: http://prairiemap.wr.usgs.gov/
+    Fees: none
+    Ordering_Instructions: Go to SAGEMAP (http://sagemap.wr.usgs.gov)
+Metadata_Reference_Information:
+  Metadata_Date: 20080702
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Steve Hanser
+        Contact_Organization: USGS, Snake River Field Station
+      Contact_Position: Wildlife Biologist (GIS)
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 970 Lusk St.
+        City: Boise
+        State_or_Province: ID
+        Postal_Code: 83706
+        Country: USA
+      Contact_Voice_Telephone: 208-426-2892
+      Contact_Facsimile_Telephone: 208-426-5210
+      Contact_Electronic_Mail_Address: shanser@usgs.gov
+      Hours_of_Service: 8 - 5
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Access_Constraints: none
+  Metadata_Use_Constraints: none
+  Metadata_Security_Information:
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile

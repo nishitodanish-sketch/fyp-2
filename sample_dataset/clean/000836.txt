@@ -1,0 +1,140 @@
+Identification_Information: 
+  Citation: 
+    Citation_Information: 
+      Originator: NOAA Pacific Islands Fisheries Science Center, Coral Reef Ecosystem Division, Benthic Habitat Mapping Group
+      Publication_Date: 200705
+      Title: CRED Cumulative Map of Percent Scleractinian Coral Cover at Howland Island, 2002-2004
+      Geospatial_Data_Presentation_Form: digital image
+      Online_Linkage: http://www.soest.hawaii.edu/pibhmc/
+      Online_Linkage: ftp://ftp.soest.hawaii.edu/pibhmc/website/data/pria/optical/howland/how_toad.jpg
+  Description: 
+    Abstract: This map displays optical validation observation locations and percent coverage of scleractinian coral overlaid on bathymetry.
+    Purpose: To display locations of optical validation data collected and percent coverage of scleractinian coral at Howland Island.
+    Supplemental_Information: Howland, a low-lying 1.84 sq.km. island in the Pacific Remote Island Area (PRIA), is the northernmost of the Phoenix Islands.       Centered at 00.48'N, 176.38'W, it is within one degree latitude of the equator. It lies within an arid zone of the tropical Pacific, with insufficient       groundwater and rainfall to support continuous human habitation. Although Howland was uninhabited at the time of its discovery by Western sailors,       Polynesians probably visited it periodically over many centuries to harvest fish and wildlife. The lack of human habitation allowed Howland's coral       reefs to remain completely pristine until the early 20th century. Even today it lies beyond the influence of urban centers, associated pollutants and       major shipping lanes. In 1857, Howland was claimed by the U.S. under the Guano Act. A short-lived colonization attempt was made between 1935 and World       War II, but was abandoned thereafter. The famed American aviatrix Amelia EARHART disappeared while seeking out Howland Island as a refueling stop       during her 1937 round-the-world flight; Earhart Light, a day beacon near the middle of the west coast, was named in her memory. A no-take island and       marine protected area National Wildlife Refuge administered by the U.S. Fish and Wildlife Service, Howland is under the joint jurisdiction of the       Departments of Interior and Commerce. Ocean currents transport and distribute larvae among and between different atolls and islands, and particularly       in the Pacific equatorial region, define sea surface temperatures
+      (SSTs) and available nutrient regimes. The North Equatorial Current (NEC), Equatorial Counter Current (ECC), Equatorial Undercurrent or Cromwell       Current (EUC), and South Equatorial Current (SEC) provide the mechanism by which many species are distributed among the PRIAs, nearby central Pacific       islands, the main Hawaiian Islands (MHI), as well as other distant regions.
+      Cruises             CoRIS Metadata Record Names
+      TC0201              cred_toad_howland_2002
+      OES0401             cred_toad_howland_2004
+  Time_Period_of_Content: 
+    Time_Period_Information: 
+      Range_of_Dates/Times: 
+        Beginning_Date: 2002
+        Ending_Date: 2004
+    Currentness_Reference: ground condition
+  Status: 
+    Progress: Complete
+    Maintenance_and_Update_Frequency: As needed
+  Spatial_Domain: 
+    Bounding_Coordinates: 
+      West_Bounding_Coordinate: -176.64
+      East_Bounding_Coordinate: -176.60
+      North_Bounding_Coordinate: 0.84
+      South_Bounding_Coordinate: 0.78
+  Keywords: 
+    Theme: 
+      Theme_Keyword_Thesaurus: CoRIS Theme Thesaurus
+      Theme_Keyword: EARTH SCIENCE > Biosphere > Aquatic Habitat > Benthic Habitat
+      Theme_Keyword: EARTH SCIENCE > Biosphere > Zoology > Corals > Reef monitoring and assessment > Mapping
+      Theme_Keyword: EARTH SCIENCE > Oceans > Coastal Processes > Coral Reefs > Coral Reef Ecology > Coral Cover
+      Theme_Keyword: EARTH SCIENCE > Oceans > Coastal Processes > Coral Reefs
+    Theme: 
+      Theme_Keyword_Thesaurus: CoRIS Discovery Thesaurus
+      Theme_Keyword: Map Images > Habitats
+    Theme: 
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: environment
+      Theme_Keyword: 007
+      Theme_Keyword: biota
+      Theme_Keyword: 002
+    Theme: 
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Synthesis Map
+      Theme_Keyword: TC0201, OES0401
+    Place: 
+      Place_Keyword_Thesaurus: CoRIS Place Thesaurus
+      Place_Keyword: OCEAN BASIN > Pacific Ocean > Central Pacific Ocean > Howland Island > Howland Island (00S176W0001)
+      Place_Keyword: COUNTRY/TERRITORY > United States of America > USA Minor Outlying Islands > Howland Island (00S176W0001)
+    Place: 
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Pacific Remote Islands Area
+  Access_Constraints: None
+  Use_Constraints: Please acknowledge the NOAA Coral Reef Ecosystem Division, Pacific Islands Fisheries Science Center
+    as the source of this information.
+  Point_of_Contact: 
+    Contact_Information: 
+      Contact_Organization_Primary: 
+        Contact_Organization: Benthic Habitat Mapping Group, Coral Reef Ecosystem Division, PIFSC,NOAA
+        Contact_Person: John Rooney
+      Contact_Address: 
+        Address_Type: mailing and physical address
+        Address: 1125B Ala Moana Blvd
+        City: Honolulu
+        State_or_Province: HI
+        Postal_Code: 96814
+        Country: USA
+      Contact_Voice_Telephone: 808-956-9729
+      Contact_Electronic_Mail_Address: john.rooney@noaa.gov
+  Data_Set_Credit: Benthic Habitat Mapping Group, Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science
+    Center (PIFSC), NOAA
+Distribution_Information: 
+  Distributor: 
+    Contact_Information: 
+      Contact_Organization_Primary: 
+        Contact_Organization: Benthic Habitat Mapping Group, CRED, PIFSC, NOAA
+        Contact_Person: John Rooney
+      Contact_Position: Coastal Geomorphologist
+      Contact_Address: 
+        Address_Type: mailing and physical address
+        Address: 1125 'B' Ala Moana Blvd
+        City: Honolulu
+        State_or_Province: Hawaii
+        Postal_Code: 96814
+        Country: USA
+      Contact_Voice_Telephone: 808-956-9729
+      Contact_Electronic_Mail_Address: john.rooney@noaa.gov
+  Resource_Description: Digital video images that are geo-referenced to navigation files.
+  Distribution_Liability: These data are not to be used for navigational purposes.  NOAA makes no warranty regarding
+    these data, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA cannot assume
+    liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these
+    data to function on a particular system.
+  Standard_Order_Process: 
+    Digital_Form: 
+      Digital_Transfer_Information: 
+        Format_Name: JPEG
+      Digital_Transfer_Option: 
+        Online_Option: 
+          Computer_Contact_Information: 
+            Network_Address: 
+              Network_Resource_Name: http://www.soest.hawaii.edu/pibhmc/pibhmc_pria_how_optical.htm
+              Network_Resource_Name: ftp://ftp.soest.hawaii.edu/pibhmc/website/data/pria/optical/howland/how_toad.jpg
+    Fees: None
+Metadata_Reference_Information: 
+  Metadata_Date: 20080905
+  Metadata_Review_Date: 20080905
+  Metadata_Contact: 
+    Contact_Information: 
+      Contact_Organization_Primary: 
+        Contact_Organization: Benthic Habitat Mapping Group, CRED, PIFSC, NOAA
+        Contact_Person: Dr. Michael Parke
+      Contact_Position: Research Biologist
+      Contact_Address: 
+        Address_Type: mailing and physical address
+        Address: 1125 'B' Ala Moana Blvd
+        City: Honolulu
+        State_or_Province: Hawaii
+        Postal_Code: 96814
+        Country: USA
+      Contact_Voice_Telephone: 808-592-7025
+      Contact_Electronic_Mail_Address: michael.parke@noaa.gov
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: Local Time
+  Metadata_Access_Constraints: None
+  Metadata_Use_Constraints: None
+CoRIS: 
+  CoRIS_ID: 20080905031217
+  CoRIS_Children: None
+  CoRIS_Beginning_Date: 20020101
+  CoRIS_Ending_Date: 20041231
+  CoRIS_Metadata_Link: http://www.coris.noaa.gov/metadata/records/txt/cred_toad_map_howland_2002_2004.txt
+  CoRIS_Tracking_ID: 2193

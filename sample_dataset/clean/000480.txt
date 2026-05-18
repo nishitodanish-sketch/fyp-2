@@ -1,0 +1,647 @@
+
+No. 95-858
+
+In the Supreme Court of the United States
+
+OCTOBER TERM, 1995
+
+RONALD CHICK, PETITIONER
+
+v.
+
+UNITED STATES OF AMERICA
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE NINTH CIRCUIT
+
+BRIEF FOR THE UNITED STATES IN OPPOSITION
+
+DREW S. DAYS, III
+Solicitor General
+
+JOHN C. KEENEY
+Acting Assistant Attorney
+General
+
+J. DOUGLAS WILSON
+Attorney
+
+Department of Justice
+Washington, D.C. 20530
+(202) 514-2217
+
+---------------------------------------- Page Break ----------------------------------------
+
+QUESTION PRESENTED
+
+Whether the Double Jeopardy Clause bars petition-
+er's prosecution for 17 substantive counts of sell-
+ing illegally modified electronics equipment and one
+count of conspiracy to "assemble, possess, and sell" il-
+legally modified electronics equipment after the for-
+feiture of illegally modified equipment different from
+that forming the basis for the substantive counts.
+
+(I)
+
+---------------------------------------- Page Break ----------------------------------------
+
+TABLE OF CONTENTS
+
+Page
+
+Opinion below . . . . 1
+Jurisdiction . . . . 1
+Statement . . . . 2
+Argument . . . . 6
+Conclusion . . . . 13
+
+TABLE OF AUTHORITIES
+
+Cases:
+
+Abney v. United States, 431 U.S. 651 (1977) . . . . 4, 7, 8
+Austin v. United States, 113 S. Ct. 2801 (1993) . . . . 6
+Blockburger v. United States, 284 U.S. 299 (1932) . . . . 5, 6
+Callanan v. United States, 364 U.S. 587 (1961) . . . . 11
+Department of Revenue of Montana v. Kurth
+Ranch, 114 S. Ct. 1937 (1994) . . . . 10, 12
+Garrett v. United States, 471 U.S. 773 (1985) . . . . 11
+Grady v. Corbin, 495 U.S. 508 (1990)  . . . . 10, 11-12
+Iannelli v. United States, 420 U.S. 770 (1975) . . . . 11
+North Carolina v. Pearce, 395 U.S. 711 (1969) . . . . 6
+Pinkerton v. United States, 328 U.S. 640 (1946) . . . . 11
+United States v. Baird, 63 F.3d 1213 (3d Cir. 1995),
+cert. denied, No. 95-630 (Feb. 20, 1996) . . . . 9
+United States v. Bayer, 331 U.S. 532 (1947) . . . .11
+United States v. Dixon, 113 S. Ct. 2849 (1993) . . . . 10, 12
+United States v. Felix, 503 U.S. 378 (1992) . . . . 5, 10, 11
+United States v. Feola, 420 U.S. 671 (1975) . . . .  11
+United States v. $405,089.23, 33 F.3d 1210 (9th Cir.
+1994), cert. granted, No. 95-346 (Jan. 12, 1996) . . . . 7
+United States v. Halper, 490 U.S. 435 (1989) . . . . 6, 10
+United States v. 184,505.01, 72 F.3d 1160 (3d Cir.
+1995) . . . . 7
+United States v. Perez, 70 F.3d 345 (5th Cir. 1995) . . . . 7, 8-9
+
+(III)
+
+---------------------------------------- Page Break ----------------------------------------                  
+
+IV
+
+Cases-Continued:              
+
+Page
+
+United States v. Ramirez-Burgos, 44 F.3d 17 (1st
+Cir. 1995) . . . . 8
+United States v. Salinas, 65 F.3d 551 (6th Cir.
+1995) . . . . 7
+United States v. Tilley, 18 F.3d 295 (5th Cir. 1994),
+cert. denied, 115 S. Ct. 573 (1995) . . . . 7
+United States v. Ursery, 59 F.3d 568 (6th Cir.
+1995), cert. granted, No. 95-345 (Jan. 12 1996) . . . . 7
+Witte v. United States, 115 S. Ct. 2199 (1995) . . . . 8
+
+Constitution and statutes:
+
+U.S. Const.: 
+Amend. V (Double Jeopardy Clause)  . . . . 2, 4, 5,
+6, 7, 8, 10, 12, 13
+Amend. VIII (Excessive Fines Clause) . . . . 7
+18 U.S.C. 371 . . . . 2
+18 U.S.C. 2511 . . . . 3, 9
+18 U.S.C. 2512(1)(b) . . . . .2, 3
+18 U.S.C. 2513 . . . . 3, 5, 9
+18 U.S.C. 3731 . . . . 8
+21 U.S.C. 881(a) . . . . 12
+21 U.S.C. 881(a)(4) . . . . 6
+21 U.S.C. 881(a)(6) . . . . 6-7
+21 U.S.C. 881(a)(7) . . . . 7, 12
+
+---------------------------------------- Page Break ----------------------------------------                     
+
+In the Supreme Court of the United States
+
+OCTOBER TERM, 1995                                
+
+No. 95-858
+
+RONALD CHICK, PETITIONER 
+
+v.
+
+UNITED STATES OF AMERICA   
+ON PETITION FOR A WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE NINTH CIRCUIT
+
+BRIEF FOR THE UNITED STATES IN OPPOSITION
+                    
+OPINION BELOW
+
+The opinion of the court of appeals (Pet. App. la-
+15a) is reported at 61 F.3d 682. The order of the dis-
+trict court denying petitioner's motion to dismiss
+(Pet. App. 17a-20a) is unreported.
+
+JURISDICTION
+
+The judgment of the court of appeals was entered on
+July 14, 1995. A petition for rehearing was denied on
+August 31, 1995. Pet. App. 16a The petition for a writ
+of certiorari was filed on November 29, 1995. The
+jurisdiction of this Court is invoked under 28 U.S.C.
+1254(1).
+
+(1)
+
+---------------------------------------- Page Break ----------------------------------------                     
+
+2
+
+STATEMENT
+
+A grand jury in the Western District of Wash-
+ington returned an 18-count superseding indictment
+charging petitioner with conspiracy to sell illegally
+modified satellite descramblers, in violation of 18
+U.S.C. 371, and 17 counts of selling illegally modified
+satellite descramblers, in violation of 18 U.S.C.
+2512(1)(b). Before trial, petitioner moved to dismiss
+the indictment, on the ground that the prosecution
+was barred by the Double Jeopardy Clause. The dis-
+trict court denied the motion, and petitioner took an
+interlocutory appeal. The court of appeals affirmed.
+Pet. App. 1a-15a.
+1. On March 30, 1993, an FBI special agent ob-
+tained warrants to search petitioner's Seattle home
+and a storage locker that petitioner had rented. The
+affidavit in support of the application alleged that
+petitioner recently had illegally modified or sold
+illegally modified television "descrambler modules"
+that allowed users to receive cable and satellite
+television channels for which they had not paid. Gov't
+C.A. Br. 3. On April 1, 1993, federal law enforcement
+officers executing the warrant seized a variety of
+television and electronics equipment, including more
+than 50 satellite television descramblers. Pet. App.
+2a. 
+2. On November 19, 1993, the government filed
+a civil complaint seeking forfeiture of some of the
+equipment seized from petitioner's residence. The
+complaint alleged that on March 19, 1993, a con-
+fidential informant had purchased an illegally modi-
+fied cable descrambler from petitioner and that
+petitioner had given the informant 44 key codes nec-
+essary to obtain encrypted cable television programs.
+
+---------------------------------------- Page Break ----------------------------------------                    
+
+3
+
+Gov't C.A. Br. 4. Based on that incident, the com-
+plaint alleged that the seized equipment was used to
+intercept scrambled or encrypted satellite video com-
+munications, in violation of 18 U.S.C. 2511, and there-
+fore was subject to forfeiture under 18 U.S.C. 2513.
+Pet. App. 2a-3a.
+On August 30, 1994, petitioner and the government
+entered into a consent judgment to settle the for-
+feiture action. In the consent judgment, petitioner
+agreed to the forfeiture of 13 categories of equipment
+seized from his home "without further adjudication of
+any issue of fact or law." The forfeited equipment
+consisted primarily of various types of descram-
+blers and descrambler modules. The government also
+agreed to return a substantial quantity of the seized
+electronics equipment, including tools, stereo equip-
+ment, televisions, remote controls, and some descram-
+biers. Gov't C.A. Br. 4; Pet. App. 3a.
+On July 26, 1994, petitioner and his sister, Renate
+Ann Chick, were charged with conspiracy to "assem-
+ble, possess, and sell" satellite descrambler modules
+that would allow the descrambling of satellite tele-
+vision programming without payment of subscription
+fees. Pet, App. 3a. The indictment further alleged, as
+overt acts in furtherance of the conspiracy and as
+individual counts, that petitioner had sold illegal
+descrambler units on 12 different occasions, in viola-
+tion of 18 U.S.C. 2512(1)(b). Gov't C.A. Br. 5. On
+October 18, 1994, the grand jury returned a super-
+seding indictment that added five more counts charg-
+ing that petitioner had sold illegal descrambler units.
+Pet. App. 3a.
+Petitioner moved to dismiss the indictment, alleg-
+ing that the prior civil forfeiture of some of the
+equipment seized from" his home had punished him for
+
+---------------------------------------- Page Break ----------------------------------------                         
+
+4
+
+the conduct charged in the indictment and thus that
+his conviction on the indictment" would constitute a
+second punishment for the same offense, in violation
+of the Double Jeopardy Clause. The district court
+denied the motion. Pet. App. 17a-20a. The court
+assumed without deciding that the prior civil for-
+feiture constituted punishment for purposes of the
+Double Jeopardy Clause. It held, however, that the
+criminal prosecution did not seek to punish petitioner
+for the "same offense" as the civil forfeiture. Id. at
+18a-19a. According to the district court, the civil
+forfeiture rested on petitioner's possession of certain
+illegal descrambling devices. By contrast, the dis-
+trict court held, the indictment alleged that peti-
+tioner had sold different illegal descrambling devices.
+Id. at 19a. The court also found" that the conspiracy
+charged in the indictment was a different offense from
+the forfeiture based on petitioner's possession of the
+devices. Id. at 18a.
+4. Petitioner took an interlocutory appeal, and the
+court of appeals affirmed. Pet. App. 1a-15a. The court
+first found that it had jurisdiction over petitioner's
+appeal. Id. at 4a-8a. Citing Abney v. United States,
+431 U.S. 651 (1977), the court held that the district
+court's order denying petitioner's motion to dismiss
+was an immediately appealable collateral order. The
+court acknowledged that "[t]he constitutional right
+directly involved in Abney was the right to avoid a
+second trial" and that petitioner's "claimed right is
+the right to avoid a second punishment." Pet. App. 6a-
+7a. It held, however, that petitioner could bring an
+immediate appeal because "if the defendant is con-
+victed, and punishment imposed, then the constitu-
+tional right not to be doubly punished is lost, even if
+vindicated on appeal." Id. at 7a.
+
+---------------------------------------- Page Break ----------------------------------------                     
+
+5
+
+On the merits, the court of appeals held that for-
+feiture under 18 U.S.C. 2513, the statute under which
+the government had sought forfeiture of the seized
+equipment, constituted punishment for purposes of
+the Double Jeopardy Clause. The court held, how-
+ever, that the civil forfeiture did not impose punish-
+ment for the "same offense" as any of those charged
+in the indictment against petitioner. The court noted
+that the civil forfeiture rested on allegations that
+petitioner used the forfeited equipment "to intercept
+electronic communications in violation of 18 U.S.C.
+2511." Pet. App. 12a. By contrast, the indictment
+charged that petitioner had conspired to "assemble,
+possess, or sell" satellite descrambler equipment and
+that petitioner had sold illegally modified descram-
+blers on specific occasions. Applying the test set
+forth in Blockburger v. United States, 284 U.S. 299,
+304 (1932), the court held that "the counts contained
+in the superseding indictment were based on dis-
+tinctly different offenses from the offense "which
+underlies the civil forfeiture action." Pet, App. 12a-
+13a. The court also held that the conspiracy charged in
+the indictment was a separate offense from the civil
+forfeiture "offense" because "the offense of con-
+spiracy requires proof of at least two fads which the
+forfeiture action did not i.e., (1) proof of an agreement
+to commit the substantive offense; and (2) proof of
+participation by the defendant."  Pet. App. 14a.
+Finally, the court relied on this Court's decision in
+United States v. Felix, 503 U.S. 378, 389 (1992), which
+held that "a substantive crime and a conspiracy to
+commit that crime are not the `same offense' for
+double jeopardy purposes." On the basis of that hold-
+ing, the court of appeals held that "the Double Jeop-
+
+---------------------------------------- Page Break ----------------------------------------                    
+
+6
+
+ardy Clause would not be violated by the forfeiture of
+electronic equipment used by [petitioner] to intercept
+electronic communications in violation of 18 U.S.C.
+2511 and then a subsequent prosecution of [peti-
+tioner] for conspiring to use the same equipment for
+the same illegal purposes." Pet. App. 14a-15a.
+
+ARGUMENT
+
+Petitioner raises two challenges to the court of
+appeals' rejection of his double jeopardy claim. First,
+he contends (Pet. 13-22) that the court erred because
+it applied the test set forth in Blockburger v. United
+States, 284 U.S. 299 (1932), to determine whether the
+civil forfeiture imposed punishment for the "same
+offenses" as those charged against him in the crim-
+inal indictment. Second, he asserts that the court of
+appeals erroneously concluded that the conspiracy
+charged in the indictment and the offenses underlying
+the conspiracy are not the "same offense" for double
+jeopardy purposes. Those claims do not warrant
+further review.
+1. The Double Jeopardy Clause prohibits the impo-
+sition of multiple punishments for the same offense in
+separate proceedings. See North Carolina v. Pearce,
+395 U.S. 711, 717 (1969). In United States v. Halper,
+490 U.S. 435 (1989), this Court held that after impo-
+sition of a criminal punishment, the Clause's "multi-
+ple punishments" prohibition barred imposition of a
+civil penalty that is "so extreme and so divorced from
+the Government's damages and expenses as to con-
+stitute punishment." Id. at 442. Subsequently, in
+Austin v. United Slates, 113 S. Ct. 2801 (1993), the
+Court held that a forfeiture of certain property used
+to facilitate narcotics offenses, pursuant to 21 U.S.C.
+
+---------------------------------------- Page Break ----------------------------------------                     
+
+7
+
+881(a)(4) and (a)(7), is subject to review under the
+Excessive Fines Clause of the Eighth Amendment.
+Relying on Halper and Austin, the Ninth Circuit
+has held that a civil forfeiture of drug proceeds under
+21 U.S.C. 881(a)(6) invariably constitutes punishment
+for purposes of the multiple punishments prong of
+the Double Jeopardy Clause. See United States v.
+$405,089.23, 33 F.3d 1210 (9th Cir. 1994), cert. granted,
+No. 95-346 (Jan. 12, 1996) (to be argued Apr. 17, 1996).
+But see United States v. 184,505.01, 72 F.3d 1160 (3d
+Cir. 1995) (forfeiture of proceeds of drug trafficking is
+wholly remedial and accordingly does not inflict
+"punishment"); United States v. Salinas, 65 F.3d 551
+(6th Cir. 1995) (same); United States v. Tilley, 18 F.3d
+295 (5th Cir.) (same), cert. denied, 115 S. Ct. 573
+(1994). The Fifth and Sixth Circuits have held that
+the forfeiture of property used to facilitate the com-
+mission of a drug crime, under 21 U.S.C. 881(a)(7),
+constitutes punishment for that crime. See United
+States v. Perez, 70 F.3d 345 (5th Cir. 1995); United
+States v. Ursery, 59 F.3d 568 (6th Cir. 1995), cert.
+granted, No. 95-345 (Jan. 12, 1996) (to be argued Apr..
+17, 1996).
+Petitioner's" claim rests on the premise that the
+forfeiture of the satellite descrambler units seized
+from him likewise constitutes punishment for double
+jeopardy purposes. Even if correct, that claim is not
+properly before this Court, because the court of
+appeals lacked jurisdiction to consider it. In Abney v.
+United States, 431 U.S. 651. (1977), this Court held
+that a pretrial order rejecting a claim of former jeop-
+ardy may be raised by a defendant in an interlocutory
+appeal when it is premised on the right not to be
+"twice put to trial for the same offense." Id. at 661
+(emphasis omitted). The Court suggested, however,
+
+---------------------------------------- Page Break ----------------------------------------                     
+
+8
+
+that a pure multiple punishments claim, such as
+petitioner raises, would not be similarly appealable,
+because "that, aspect of the right can be fully
+vindicated on an appeal following final judgment." Id.
+at 660.
+This Court's decision in Witte v. United States, 115
+S. Ct. 2199 (1995), does not warrant a different result.
+In that case, the Court recognized that the Double
+Jeopardy Clause prohibits the government from "at-
+tempting a second time to punish criminally] for the
+same offense." Id. at 2204 (emphasis partially omit-
+ted). Witte, however, presented no question of appel-
+late jurisdiction, because the. district court had
+dismissed the indictment on double jeopardy grounds,
+see id. at 2203-2204, and the court of appeals accord-
+ingly had jurisdiction over the government's appeal
+under 18 U.S.C. 3731. For that reason, the Witte
+Court addressed only whether the petitioner's claim
+was premature, not whether it was appealable. The
+fact that a double jeopardy claim may be ripe for
+adjudication by a district court (as is true of many
+other pretrial claims, including suppression claims)
+does not mean that a court's rejection of the claim is
+immediately appealable on an interlocutory basis.
+Because the right not to be subject to impermissible
+multiple punishments can be completely vindicated on
+appeal from a conviction and sentence, the court of
+appeals erred in asserting appellate jurisdiction over
+petitioner's interlocutory appeal. 1.
+
+___________________(footnotes)             
+
+1 The courts of appeals are divided over this issue. Com-
+pare United States v. Ramirez-Burgos, 44 F.3d 17, 18-19 (1st
+Cir. 1995) (finding no right of interlocutory appeal for multiple
+punishments claim) with Pet. App. 4a-8a (finding right of ap-
+peal); United States v. Perez, 70 F.3d 345 (5th Cir. 1995)
+
+---------------------------------------- Page Break ----------------------------------------                    
+
+9
+
+2. In any event, petitioner's double jeopardy claims
+are without merit.
+a. Substantive counts. Even if the statute under
+which petitioner's equipment was forfeited, 18 U.S. C.
+2513, generally defined the "same offense" as the
+substantive offenses charged in the present indict-
+ment under 18 U.S.C. 2511, petitioner would not be
+entitled to relief. That is because, even if the same
+offense (or greater- and lesser-included offenses) sup-
+ported both the forfeiture proceeding and the sub-
+stantive criminal charges, petitioner committed that
+offense multiple times on separate occasions. There
+is no reason why he may not receive a separate pun-
+ishment for each violation.
+The government obtained the forfeiture of the
+seized equipment because that equipment had been
+"used, sent, carried, manufactured, assembled, pos-
+sessed, sold, or advertised" in violation of 18 U.S.C.
+2511. Thus, if the forfeiture constituted "punish-
+ment," it imposed punishment on petitioner for using,
+manufacturing, possessing, or selling the seized
+equipment in violation of Section 2511. The 17 sub-
+stantive counts of the indictment, however, are not
+based on petitioner's use, manufacture, possession, or
+sale of the seized equipment. Instead, those counts
+charge him with the sale of illegal satellite descram-
+bler modules between 1990 and March 19, 1993. Noth-
+ing in the record suggests, and petitioner does not
+claim, that any of the forfeited equipment was the
+same equipment that he is charged with illegally
+selling in Counts 2 through 18 of the indictment.
+Thus, if petitioner is convicted on Counts 2 through
+
+___________________(footnotes)                                
+
+(same); United States v. Baird, 63 F.3d 1213 (3d Cir. 1995)
+(same), cert. denied, No. 95-630 (Feb. 20, 1996).
+
+---------------------------------------- Page Break ----------------------------------------                    
+
+10                     
+
+18, he will be punished for the individual sales that
+form the basis for those counts, not for the illegal use
+of different equipment that he forfeited to the
+government. Cf. United States v. Felix, 503 U.S. 378,
+385 (1992) (offenses are distinct when they involve "no
+common conduct").
+For the reasons given above,  petitioner would not
+be assisted even if he were correct in contending (Pet.
+14-22) that the court of appeals erred in employing
+the Blockburger "same elements" test to determine
+ whether the prior civil forfeiture imposed punishment
+for the "same offenses" as those charged in the sub-
+stantive counts of the criminal indictment.  Never-
+theless, petitioner's contention that the Blockburger
+test does not apply to multiple punishment cases is
+without merit.  This Court has expressly held that
+the "same elements" test announced in Blockburger
+v. United States applies " [i]n both the multiple
+punishment and multiple prosecution contexts."
+United States v. Dixon, 113 S. Ct. 2849, 2856 (1993).
+In Dixon, moreover, the Court overruled Grady v.
+Corbin, 495 U.S. 508 (1990), which had construed the
+Double Jeopardy Clause to protect against successive
+uses of the "same conduct" in criminal prosecutions
+against a defendant. 2. 
+
+___________________(footnotes)
+
+2 United States v. Halper, 490 U.S. 435 (1989), and
+Department of  Revenue of Montana v. Kurth Ranch, 114 S. Ct.
+1937 (1994), are not to the contrary.  The only issue before the
+Court in Halper was whether, following a criminal conviction, 
+"a civil penalty may constitute 'punishment' for the purposes
+of double jeopardy analysis."  490 U.S. at 436.  Similarly, the
+Court in Kurth Ranch stated that "we ask only whether the
+tax [imposed following the criminal conviction in that case] has
+punitive characteristics that subject it to the constraints of the 
+Double Jeopardy Clause."  114 S. Ct. at 1945.  In both cases, the  
+
+---------------------------------------- Page Break ----------------------------------------
+
+11
+
+b. Conspiracy count. Petitioner's challenge to the
+conspiracy count is equally unfounded, Petitioner
+acknowledges (Pet. 22-23) that in Felix, this Court
+held that "a substantive crime and a conspiracy to
+commit that crime are not the `same offense' for
+double jeopardy purposes," See Felix, 503 U.S. at 389. 
+Accord Garrett v. United States, 471 U.S. 773, 778
+(1985); Iannelli v. United States, 420 U.S. 770, 781-782
+(1975); United States v. Feola, 420 U.S. 671, 693 (1975);
+Callanan v. United States, 364 U.S. 587 (1961);
+Pinkerton v. United States, 328 U.S. 640, 643-644
+(1946). That rule is based on the fact that proof of a
+conspiracy requires proof of an agreement, while
+proof of a substantive offense does not. See, e.g.,
+United States v. Bayer, 331 U.S. 532 (1947). Thus,
+even if the government's proof at trial of the alleged
+conspiracy would include evidence of the conduct that
+led to the forfeiture, the conspiracy is a separate
+offense from the "offense" punished by the forfeiture.
+Petitioner argues (Pet. 25) that the court of ap-
+peals' decision "stretches Felix too far by suggesting
+that punishment for a substantive crime and a later
+attempt to impose punishment for a conspiracy to
+commit that same crime will never lead to a double
+jeopardy violation." Nothing in Felix suggests that
+the Court intended to impose any limitations on its
+holding, however; to the contrary, the Court referred
+to the rule it stated in Felix as "established doctrine"
+and refused to limit its application by applying the
+"same conduct" test of Grady v. Corbin, 495 U.S. 508
+
+___________________(footnotes)
+
+Court therefore had no occasion to consider whether the
+"offenses" underlying the civil penalty or tax and that
+underlying the criminal prosecution were the same.
+
+---------------------------------------- Page Break ----------------------------------------                    
+
+12
+
+(1990), overruled by United States v. Dixon, 113 S. Ct.
+2849 (1993). 
+Nor is there any merit to petitioner's assertion
+that the Court's decision in Department of Revenue
+of Montana v. Kurth Ranch, 114 S. Ct. 1937 (1994),
+casts doubt on the validity of Felix. In Kurth Ranch,
+the Court held that, following the criminal prose-
+cution of the Kurths, a proceeding initiated to collect
+a tax on the "possession and storage" of illegal drugs
+"was the functional equivalent of a successive crim-
+inal prosecution that placed the Kurths in jeopardy a
+second time 'for the same offense.'" Id. at 1948. The
+Court declined to address the claim that respondents
+who had been convicted only of conspiracy to commit
+the underlying drug offenses lacked standing to
+challenge the tax, because that claim had not been
+raised below. See id. at 1942 n.9. Accordingly, the
+Court had no occasion to consider the application of
+the Felix rule in Kurth Ranch.
+3. There is no reason to hold this case pending the
+disposition of United States v. Ursery, No. 95-345, and
+United States v. $405,089.23, No. 95-346 (both cases to
+be argued Apr. 17, 1996). In $405,089.23, the Ninth
+Circuit held that civil judicial forfeiture of drug
+proceeds under 21 U.S.C. 881(a) invariably consti-
+tutes punishment under the Double Jeopardy Clause.
+In Ursery, the Sixth Circuit held the civil judicial
+forfeiture of property used to facilitate a drug crime
+under 21 U.S.C. 881(a)(7) always amounts to punish-
+ment for double jeopardy purposes.
+The government's brief in those consolidated cases
+argues that civil forfeiture followed by criminal
+prosecution does not raise double jeopardy concerns,
+that the forfeitures at issue do not constitute punish-
+ment, that civil forfeiture and the criminal offense on
+
+---------------------------------------- Page Break ----------------------------------------                    
+
+13
+
+which it rests are never the "same offense" under the
+Double Jeopardy Clause, and that parallel civil for-
+feiture and criminal proceedings constitute a single
+proceeding for purposes of the multiple punishments
+prong of the Double Jeopardy Clause.
+Although this Court's acceptance of the govern-
+ment's arguments in Ursery and $405,089.23 would
+provide additional grounds on which to reject peti-
+tioner's claims, a decision favorable to the respon-
+dents in those cases would not provide petitioner with
+a ground for relief. As set forth above, petitioner
+cannot obtain dismissal of the substantive counts of
+the indictment under any view of the Double Jeopardy
+Clause. And a straightforward application of Felix is
+dispositive of petitioner's challenge to the conspiracy
+count.
+
+CONCLUSION
+
+The petition for a writ of certiorari should be
+denied.
+
+Respectfully submitted.
+
+DREW S. DAYS, III
+Solicitor General
+
+JOHN C. KEENEY
+Acting Assistant Attorney General
+
+J. DOUGLAS WILSON
+Attorney
+
+MARCH 1996
+
+---------------------------------------- Page Break ----------------------------------------

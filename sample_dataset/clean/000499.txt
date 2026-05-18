@@ -1,0 +1,481 @@
+BOREAS TGB-04 Water and Sediment Temperature data over the NSA-BP
+
+Summary
+
+The BOREAS TGB-04 team collected several data sets in support of their flux 
+tower measurements at the NSA Beaver Pond site.  This data set contains water 
+and sediment temperature data collected from May to September 1994.  The data 
+are stored in tabular ASCII files.
+
+Table of Contents
+   *  1. Data Set Overview
+   *  2. Investigator(s)
+   *  3. Theory of Measurements
+   *  4. Equipment
+   *  5. Data Acquisition Methods
+   *  6. Observations
+   *  7. Data Description
+   *  8. Data Organization
+   *  9. Data Manipulations
+   *  10. Errors
+   *  11. Notes
+   *  12. Application of the Data Set
+   *  13. Future Modifications and Plans
+   *  14. Software
+   *  15. Data Access
+   *  16. Output Products and Availability
+   *  17. References
+   *  18. Glossary of Terms
+   *  19. List of Acronyms
+   *  20. Document Information
+
+1.	Data Set Overview
+
+1.1 Data Set Identification
+
+BOREAS TGB-04 Water and Sediment Temperature data over the NSA-BP
+
+1.2 Data Set Introduction
+
+The fluxes of heat, water and CO2 from one beaver pond were measured 
+continuously using the energy balance Bowen ratio approach. The diffuse and 
+bubble flux CH4 were measured several times a week using chambers. The chamber 
+approach was used to sample CO2 and CH4 flux from 4 to 5 additional beaver 
+ponds, once ever two weeks, and regional survey of the beaver ponds once during 
+the IFC.  The results of the work was extrapolated from the local to regional 
+scale in collaboration with the remote-sensing project of J. Miller (York 
+University). 
+
+1.3 Objective/Purpose
+
+The primary objective of the study was to quantify the exchange of water, and 
+CH4 between boreal forest beaver ponds and the atmosphere for the ice free 
+period of the BOReal Ecosystem-Atmosphere Study (BOREAS).
+
+The secondary objective of the study was to study the soil climate and soil 
+characteristics at a forest site in conjunction with the flux studies of P. 
+Crill (UNH). Soil moisture and temperatures were measured continuously, and soil 
+porosity was determined.
+
+1.4 Summary of Parameters
+
+The main parameters are daily sediment and water temperatures.
+
+1.5 Discussion
+
+None given.
+
+1.6 Related Data Sets
+
+BOREAS TGB01 CH4 Tower flux data over NSA
+BOREAS TGB-01 CO2 and CH4 Chamber Flux data over the NSA
+BOREAS TGB-03 NEE and air and water temperature data over the NSA Fen
+BOREAS TGB-03 CO2 and CH4 Chamber Flux data over the NSA
+BOREAS TGB-05 CO, CO2, and CH4 Chamber Flux data over the NSA
+
+2.	Investigator(s)
+
+2.1 Investigator(s) Name and Title
+
+Dr. Nigel T. Roulet
+Department of Geography
+McGill University
+Montreal
+(514)-398-4945
+(514)-398-7437 (fax)
+roulet@felix.geog.mcgill.ca
+
+
+2.2 Title of Investigation
+
+Stores and Dynamics of Organic Matter in Boreal Ecosystems
+
+2.3 Contact Information
+
+Contact 1
+Dr. Nigel T. Roulet
+Department of Geography
+McGill University
+Montreal
+(514)-398-4945
+(514)-398-7437 (fax)
+roulet@felix.geog.mcgill.ca
+
+
+Contact 2
+Jeffrey A. Newcomer
+Raytheon STX Corporation
+NASA/GSFC
+Greenbelt, MD 
+(301) 286-7858
+Jeffrey.Newcomer@gsfc.nasa.gov
+
+3. Theory of Measurements
+
+None given.
+
+4.	Equipment
+
+4.1 Sensor/Instrument Description
+
+4.1.1 Collection Environment
+
+Water and sediment temperatures were determined.
+
+4.1.2 Source/Platform
+
+Ground.
+
+4.1.3 Source/Platform Mission Objectives
+
+The mission objective was to determine the water and sediment temperatures over 
+at the NSA-BP.
+
+4.1.4 Key Variables
+
+The key variables measured were the water and sediment temperatures at specific 
+depths.
+
+4.1.5 Principles of Operation
+
+None given.
+
+4.1.6 Sensor/Instrument Measurement Geometry
+
+Not applicable.
+
+4.1.7 Manufacturer of Sensor/Instrument
+
+None given.
+
+4.2 Calibration
+
+None given.
+
+4.2.1 Specifications
+
+4.2.1.1 Tolerance
+
+None given.
+
+4.2.2 Frequency of Calibration
+
+None given.
+
+4.2.3 Other Calibration Information
+
+None given.
+
+5. Data Acquisition Methods
+
+None given.
+
+6.	Observations
+
+6.1	Data Notes
+
+BOREAS Information System (BORIS) staff compiled the information that were 
+available to create this document.
+
+6.2 Field Notes
+
+None given.
+
+7. Data Description
+
+7.1 Spatial Characteristics
+
+7.1.1 Spatial Coverage
+
+The North American Datum of 1983 (NAD83) coordinates of the site are:
+
+NSA-9BP-FLXTR:  55.84225° N, 98.02747° W
+
+7.1.2 Spatial Coverage Map
+
+Not available.
+
+7.1.3 Spatial Resolution
+
+These are point source measurements.
+
+7.1.4 Projection
+
+Not applicable.
+
+7.1.5 Grid Description
+
+Not applicable.
+
+7.2 Temporal Characteristics
+
+7.2.1 Temporal Coverage
+
+The data were collected from May to September 1994.
+
+7.2.2 Temporal Coverage Map
+
+Not applicable.
+
+7.2.3 Temporal Resolution
+
+During optimal conditions, the temperatures were recorded hourly.
+
+7.3 Data Characteristics
+
+Sample data format shown in the companion data definition file (tgb4wsed.def).
+
+7.4 Sample Data Record
+
+Sample data format shown in the companion data definition file (tgb4wsed.def).
+
+8. Data Organization
+
+8.1 Data Granularity
+
+All of the Water and Sediment Temperature data over the NSA-BP are contained in 
+one data set.
+
+8.2 Data Format(s)
+
+The data file contains numerical and character fields of varying length 
+separated by commas. The character fields are enclosed with single apostrophe 
+marks. There are no spaces between the fields. Sample data format shown in the 
+companion data definition file (tgb4wsed.def).
+
+9. Data Manipulations
+
+9.1 Formulae
+
+None given.
+
+9.1.1 Derivation Techniques and Algorithms
+
+None given.
+
+9.2 Data Processing Sequence
+
+9.2.1 Processing Steps
+
+None given.
+
+9.2.2 Processing Changes
+
+None given.
+
+9.3 Calculations
+
+9.3.1 Special Corrections/Adjustments
+
+None given.
+
+9.3.2 Calculated Variables
+
+None given.
+
+9.4 Graphs and Plots
+
+None.
+
+10. Errors
+
+10.1 Sources of Error
+
+None given.
+
+10.2 Quality Assessment
+
+10.2.1 Data Validation by Source
+
+None given.
+
+10.2.2 Confidence Level/Accuracy Judgment
+
+None given.
+
+10.2.3 Measurement Error for Parameters
+
+None given.
+
+10.2.4 Additional Quality Assessments
+
+None given.
+
+10.2.5 Data Verification by Data Center
+
+Data were examined for general consistency and clarity and available information 
+was compiled into this document.
+
+11. Notes
+
+11.1 Limitations of the Data
+
+None given.
+
+11.2 Known Problems with the Data
+
+None given.
+
+11.3 Usage Guidance
+
+None given.
+
+11.4 Other Relevant Information
+
+None given.
+
+12. Application of the Data Set
+
+None given.
+
+13. Future Modifications and Plans
+
+This data set is in its final format.
+
+14. Software
+
+14.1 Software Description
+
+None given.
+
+14.2 Software Access
+
+None given.
+
+15.   Data Access
+
+15.1  Contact for Data Center/Data Access Information
+
+These BOREAS data are available from the Earth Observing System Data and 
+Information System (EOS-DIS) Oak Ridge National Laboratory (ORNL) Distributed 
+Active Archive Center (DAAC). The BOREAS contact at ORNL is:
+
+ORNL DAAC User Services
+Oak Ridge National Laboratory
+(865) 241-3952
+ornldaac@ornl.gov
+ornl@eos.nasa.gov
+
+15.2  Procedures for Obtaining Data
+
+BOREAS data may be obtained through the ORNL DAAC World Wide Web site at 
+http://www-eosdis.ornl.gov/ or users may place requests for data by telephone, electronic mail, or fax.
+
+15.3  Output Products and Availability
+
+Requested data can be provided electronically on the ORNL DAAC's anonymous FTP 
+site or on various media including, CD-ROMs, 8-MM tapes, or diskettes.
+
+The complete set of BOREAS data CD-ROMs, entitled "Collected Data of the Boreal 
+Ecosystem-Atmosphere Study", edited by Newcomer, J., et al., NASA, 1999, are 
+also available.
+
+16. Output Products and Availability
+
+16.1 Tape Products
+
+None.
+
+16.2 Film products
+
+None.
+
+16.3 Other Products
+
+Comma separated ASCII files.
+
+17. References
+
+17.1 Platform/Sensor/Instrument/Data Processing Documentation
+
+None.
+
+17.2 Journal Articles and Study Reports
+
+Sellers, P. and F. Hall. 1994. Boreal Ecosystem-Atmosphere Study: Experiment 
+Plan. Version 1994-3.0, NASA BOREAS Report (EXPLAN 94). 
+
+Sellers, P. and F. Hall. 1996. Boreal Ecosystem-Atmosphere Study: Experiment 
+Plan. Version 1996-2.0, NASA BOREAS Report (EXPLAN 96). 
+
+Sellers, P., F. Hall, and K.F. Huemmrich. 1996. Boreal Ecosystem-Atmosphere 
+Study: 1994 Operations. NASA BOREAS Report (OPS DOC 94). 
+
+Sellers, P., F. Hall, and K.F. Huemmrich. 1997. Boreal Ecosystem-Atmosphere 
+Study: 1996 Operations. NASA BOREAS Report (OPS DOC 96). 
+
+Sellers, P.J., F.G. Hall, R.D. Kelly, A. Black, D. Baldocchi, J. Berry, M. Ryan, 
+K.J. Ranson, P.M. Crill, D.P. Lettenmaier, H. Margolis, J. Cihlar, J. Newcomer, 
+D. Fitzjarrald, P.G. Jarvis, S.T. Gower, D. Halliwell, D. Williams, B. Goodison, 
+D.E. Wickland, and F.E. Guertin. 1997. BOREAS in 1997: Experiment overview, 
+scientific results, and future directions. Journal of Geophysical Research 
+102(D24):28,731-28,769.
+
+Sellers, P., F. Hall, H. Margolis, B. Kelly, D. Baldocchi, G. den Hartog, J. 
+Cihlar, M.G. Ryan, B. Goodison, P. Crill, K.J. Ranson, D. Lettenmaier, and D.E. 
+Wickland. 1995. The boreal ecosystem-atmosphere study (BOREAS): an overview and 
+early results from the 1994 field year. Bulletin of the American Meteorological 
+Society. 76(9):1549-1577. 
+
+17.3 Archive/DBMS Usage Documentation
+
+None.
+
+18. Glossary of Terms
+
+None.
+
+19. List of Acronyms
+
+    AES     - Atmospheric Environment Services
+    BOREAS  - BOReal Ecosystem-Atmosphere Study
+    BORIS   - BOREAS Information System
+    BP      - Beaver Pond 
+    CMDL    - Climate Monitoring and Diagnostics Laboratory
+    DAAC    - Distributed Active Archive Center
+    ECD     - Electron Capture Detector
+    EOS     - Earth Observing System
+    EOSDIS  - EOS Data and Information System
+    FID     - Flame Ionization Detector
+    GC      - Gas Chromatograph
+    GSFC    - Goddard Space Flight Center
+    NASA    - National Aeronautics and Space Administration
+    NSA     - Northern Study Area
+    OBS     - Old Black Spruce
+    ORNL    - Oak Ridge National Laboratory
+    PANP    - Prince Albert National Park
+    SSA     - Southern Study Area
+    TE      - Terrestrial Ecology
+    TCD     - Thermal Conductivity Detector
+    TGB     - Trace Gas Biogeochemistry
+    URL     - Uniform Resource Locator
+
+20. Document Information
+
+20.1 Document Revision Date
+
+     Written:  10-Aug-1998
+     Last Updated:  05-May-1999
+
+20.2 Document Review Date(s)
+
+     BORIS Review:  04-May-1999
+     Science Review:
+
+20.3 Document ID
+
+20.4 Citation
+
+20.5 Document Curator
+
+20.6 Document URL
+
+Keywords
+
+Methane flux
+Carbon dioxide flux
+Trace Gas
+Water temperature
+Sediment temperature
+TGB04_Water_Sed_Temp.doc
+06/09/99

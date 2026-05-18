@@ -1,0 +1,1489 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Robert B. Scott
+      Originator: Anne E. Harding
+      Originator: William C. Hood
+      Originator: Rex D. Cole
+      Originator: Richard F. Livaccari
+      Originator: James B. Johnson
+      Originator: Ralph R. Shroba
+      Originator: Robert P. Dickerson
+      Publication_Date: 2001
+      Title: Geologic Map of Colorado National Monument and Adjacent Areas, Mesa County, Colorado
+      Edition: 1.0
+      Geospatial_Data_Presentation_Form: map
+      Series_Information:
+        Series_Name: USGS Geologic Investigations Series
+        Issue_Identification: I-2740
+      Online_Linkage: http://geology.cr.usgs.gov/pub/i-maps/i-2740/
+      Publication_Information:
+        Publication_Place: Denver, Colorado
+        Publisher: U.S. Geological Survey
+
+  Description:
+    Abstract:
+      New 1:24,000-scale geologic mapping in the Colorado National Monument Quadrangle and adjacent areas, in support of the USGS Western Colorado I-70 Corridor Cooperative Geologic Mapping Project, provides new interpretations of and data for the stratigraphy, structure, geologic hazards in the area from the Colorado River in Grand Valley onto the Uncompahgre Plateau.  The plateau drops abruptly along northwest-trending structures toward the northeast 800 m to the Redlands area and the Colorado River in Grand Valley.
+      In addition to common alluvial and colluvial deposits, surficial deposits include Holocene and late Pleistocene charcoal-bearing valley-fill deposits, late to middle Pleistocene river-gravel terrace deposits, Holocene to middle Pleistocene younger, intermediate, and old fan-alluvium deposits, late to middle Pleistocene local gravel deposits, Holocene to late Pleistocene rock-fall deposits, Holocene to middle Pleistocene young and old landslide deposits,  Holocene to late Pleistocene sheetwash deposits and eolian deposits, and Holocene Cienga-type deposits.
+      Only the lowest part of the Upper Cretaceous Mancos Shale is exposed in the map  area near the Colorado River.  The Upper and Lower? Cretaceous Dakota Formation and the Lower Cretaceous Burro Canyon Formation form resistant dipslopes in the Grand Valley and a prominent ridge on the plateau.  Less resistant strata of the Upper Jurassic Morrison Formation consisting of the Brushy Basin, Salt Wash, and Tidwell Members form slopes on the plateau and low areas below the mountain front of the plateau.  The Middle Jurassic Wanakah Formation nomenclature replaces the previously used Summerville Formation.  Because an upper part of the Middle Jurassic Entrada Formation is not obviously correlated with strata found elsewhere, it is therefore not formally named; however, the lower rounded cliff former Slickrock Member is clearly present.  The Lower Jurassic silica-cemented Kayenta Formation forms the cap rock for the Lower Jurassic carbonate-cemented Wingate Sandstone, which forms the impressive cliffs of the monument.  The Upper Triassic Chinle Formation was deposited on the eroded and weathered Middle Proterozoic meta-igneous gneiss, pegmatite dikes, and  migmatitic gneiss.
+      Structurally the area is deceptively challenging.  Nearly flat-lying strata on the plateau are folded by northwest-trending fault-propagation folds into at least two S-shaped folds along the mountain front of the plateau.  Strata under Grand Valley dip at about 6 degrees to the northeast.  In the absence of local evidence, the uplifted plateau is attributed to Laramide deformation by dated analogous structures elsewhere in the Colorado Plateau.  The major exposed fault records high-angle reverse relationships in the basement rocks but dissipates strain as a triangular zone of distributed microfractures and cataclastic flow into overlying Mesozoic strata that absorb the fault strain, leaving only folds.  Evidence for younger, probably late Pliocene or early Pleistocene, uplift does exist at the antecedent Unaweep Canyon south and east of the map area.  To what degree this younger deformation affected the map area is unknown.
+      Several geologic hazards affect the area.  Middle and late Pleistocene landslides involving the smectite-bearing Brushy Basin Member of the Morrison Formation are extensive on the plateau and common in the Redlands below the plateau.  Expansive clay in the Brushy Basin and other strata create foundation stability problems for roads and homes.  Flash floods create a serious hazard to people on foot in narrow canyons in the monument and to homes close to water courses downstream from narrow restrictions close to the monument boundary.
+
+    Purpose: To update the interpretation and increase the scale of geologic mapping, provide a geologic map for the public to use at Colorado National Monument, and to provide sufficient geologic information for land-use and land-management decisions.
+
+    Supplemental_Information:
+      Map political location: Mesa County, Colorado
+      Compilation scale: 1:24,000
+      Geology mapped in 1998.
+
+      >Geospatial data files included in this data set:
+      >
+      >cnmpoly: geologic units
+      >cnmline: faults, fold axes, dikes, and other line features
+      >cnmpoint: strike and dip measurements and other point features
+      >cnmsym: cartographic decorations-strike/dip symbols, leaders, line decorations, etc.
+      >cnmtext: text labels for map units
+      >cnmborder: neatline of map
+      >cnmboundary: boundary of Colorado National Monument
+      >cnmhydro: hydrologic features
+      >cnmhypso: elevation contours
+      >cnmrailroads: railroads
+      >cnmroads: roads
+
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 2000
+
+    Currentness_Reference: publication date
+
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Irregular.  Mapping is continuing in adjacent quadrangles and a more complete final map of this area at a smaller scale may eventually be produced.
+
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -108.792
+      East_Bounding_Coordinate: -108.583
+      North_Bounding_Coordinate: 39.125
+      South_Bounding_Coordinate: 38.958
+
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: AGI Glossary of Geology
+      Theme_Keyword: Laramide
+      Theme_Keyword: uplift
+      Theme_Keyword: fault-propagation fold
+      Theme_Keyword: hazards
+
+    Place:
+      Place_Keyword_Thesaurus: none
+      Place_Keyword: USA
+      Place_Keyword: Colorado
+      Place_Keyword: Mesa County
+      Place_Keyword: Uncompahgre Plateau
+
+    Temporal:
+      Temporal_Keyword_Thesaurus: none
+      Temporal_Keyword: Proterozoic
+      Temporal_Keyword: Mesozoic
+      Temporal_Keyword: Laramide
+
+  Access_Constraints: none
+
+  Use_Constraints: none.  Acknowledgment of the U.S. Geological Survey would be appreciated in products derived from these data.
+
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Robert B. Scott
+        Contact_Organization: U.S. Geological Survey
+      Contact_Address:
+        Address_Type: mailing
+        Address: P.O. Box 25046, MS 913
+        Address: Denver Federal Center
+        City: Denver
+        State_or_Province: CO
+        Postal_Code: 80225-0046
+        Country: USA
+      Contact_Voice_Telephone: 303-236-1230
+
+  Browse_Graphic:
+    Browse_Graphic_File_Name: <http://geology.cr.usgs.gov/pub/i-maps/i-2740/i-2740.pdf>
+    Browse_Graphic_File_Description: graphic representation of map layout
+    Browse_Graphic_File_Type: PDF
+
+  Data_Set_Credit: The hospitality and cooperation of the staff of Colorado National Monument added significantly to the pleasure of mapping the Monument and surrounding area, especially by providing housing with showers, kitchen, and a terrific view.  In particular, the friendly support of the Superintendent Steve Hickman and his staff of park rangers made normally difficult tasks much easier.  Pat Perrotti, Resource Manager for the Monument, went out of his way to fill us in on current geologic events at the Monument.  Bill Rodgers, Protection Ranger, spent a day in the field with us to locate critical boundaries in the new southern addition to the Monument.  Bruce Heise, National Park Service Geologic Resources Division liaison to the USGS, helped make the map a high-priority product.  Joe Gregson, also with the Geologic Resources Division, obtained and transferred digital line graph (DLG) data critical for a legible topographic base for the map.  The partnership with both the Colorado National Monument Association and the National Park Service has been instrumental in creation of this product for the public.  In the USGS Earth Surface Processes Team, Paco Van Sistine provided prompt and critical GIS help.  The constructive reviews by Bruce Bryant and Jim Yount of the USGS significantly improved the quality of the map and text.  Discussions with Robert Young of Grand Junction were valuable and invigorating.  The radiometric dating by Mick Kunk and Dan Unruh of the USGS provided critical constraints on the ages of Proterozoic events.  The Carbon-14 dates supplied by Jack McGeehin of the USGS not only gave us the timing for geologic events during the late Quaternary, but also allowed us to date the minimum period of Native American habitation in the canyons of Colorado National Monument.
+
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: Data were entered and checked by the geologist that made the field observations. The attributes of this geospatial data set consist of text identifiers and numeric codes that indicate the identity of the geologic unit or type of geologic feature, and determine how each feature is colored or symbolized. To check attribute accuracy, a color check plot was visually compared to the geologist's original compilation. Discrepancies between the digital geospatial dataset and the original analog compilation were corrected as needed. Machine-created listings of unique attribute values were used to identify spelling errors or other inconsistencies, and corrections were made as needed. This map has been thoroughly reviewed for conformity with U.S. Geological Survey editorial standards and stratigraphic nomenclature.
+
+  Logical_Consistency_Report: Map elements were visually checked for overshoots, undershoots, duplicate features, polygon closure, and other errors by the author and by the GIS technician(s) that created the digital database. Automated (ArcInfo) routines were also used to check the databases for polygon label errors, line or point attribution errors, sliver polygons, dangling arcs, intersection errors, and projection information. Check plots of the map were reviewed by at least two other geologists for consistency with basic geologic principles and general conformity to USGS mapping standards.
+
+  Completeness_Report: Data are complete: no features that could be accurately represented at the compilation scale of 1:24,000 were eliminated or generalized. The smallest area represented is approximately 110 square meters. All geospatial database elements are attributed.
+
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: Lines were primarily mapped by photo-interpretation of 1:24,000-scale color aerial photographs using a PG-2 photogrammetric plotter that rectified the position and transferred it to a basemap. Lines were digitized from the basemap using a digitizer tablet with resolution of 0.001 inch, and most digitized positions on the map are estimated to have at least 10 m horizontal accuracy. Elevation data that are included in the database are from digital line graph data from 1:24,000-scale 7.5' quadrangles.
+
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Anderson, O.J.
+          Originator: Lucas, S.G.
+          Title: Redefinition of Morrison Formation (Upper Jurassic) and related San Rafael Group strata, southwestern U.S.
+          Publication_Date: 1998
+          Series_Information:
+            Series_Name: Modern Geology
+            Issue_Identification: v. 22
+          Other_Citation_Details: p. 39-69
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1998
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Anderson and Lucas (1998)
+      Source_Contribution: information used in compilation of map
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Aubrey, W.M.
+          Title: A newly discovered, widespread fluvial facies and unconformity marking the upper Jurassic/Lower Cretaceous boundary, Colorado Plateau
+          Publication_Date: 1998
+          Series_Information:
+            Series_Name: Modern Geology
+            Issue_Identification: v. 22
+          Other_Citation_Details: p. 209-233
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1998
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Aubrey (1998)
+      Source_Contribution: information used in compilation of map
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Cashion, W.B.
+          Title: Geologic and structure map of the Grand Junction quadrangle, Colorado and Utah
+          Publication_Date: 1973
+          Series_Information:
+            Series_Name: U.S. Geological Survey Miscellaneous Investigations Series Map
+            Issue_Identification: I-736
+      Source_Scale_Denominator: 250000
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1973
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Cashion (1973)
+      Source_Contribution: information used in compilation of map
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Cater, F.W.
+          Title: Age of the Uncompahgre uplift and Unaweep Canyon, west-central Colorado
+          Publication_Date: 1966
+          Series_Information:
+            Series_Name: U.S. Geological Survey Professional Paper
+            Issue_Identification: 550-C
+          Other_Citation_Details: p. C86-C92
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1966
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Cater (1966)
+      Source_Contribution: information used in compilation of map
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Cobban, W.A.
+          Originator: Merewether, E.A.
+          Originator: Fouch, T.D.
+          Originator: Obradovich, J.D.
+          Title: Some Cretaceous shorelines in the western interior of the United States
+          Publication_Date: 1994
+          Other_Citation_Details: p. 393-414
+          Larger_Work_Citation:
+            Citation_Information:
+              Originator: Caputo, M.V.
+              Originator: Peterson, J.A.
+              Originator: Franczyk, K.J.
+              Title: Mesozoic Systems of the Rocky Mountain Region, USA
+              Publication_Date: 1994
+              Series_Information:
+                Series_Name: Rocky Mountain Section of the Society of Economic Paleontologists and Mineralogists (Society for Sedimentary Geology)
+                Issue_Identification: proceedings
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1994
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Cobban and others (1994)
+      Source_Contribution: information used in compilation of map
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Cole, R.D.
+          Title: Cretaceous rocks of the Dinosaur Triangle
+          Publication_Date: 1987
+          Other_Citation_Details: p. 21-35
+          Larger_Work_Citation:
+            Citation_Information:
+              Originator: Averett, W.R.
+              Title: Paleontology and Geology of the Dinosaur Triangle
+              Publication_Date: 1987
+              Series_Information:
+                Series_Name: Grand Junction Geological Society
+                Issue_Identification: Guidebook
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1987
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Cole (1987)
+      Source_Contribution: information used in compilation of map
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Cole, R.D.
+          Originator: Hood, W.C.
+          Originator: Scott, R.B.
+          Title: Sedimentological reevaluation, high-resolution gamma-ray log, and landslide hazards of the stratigraphic section at Colorado National Monument, Western Colorado
+          Publication_Date: 1999
+          Series_Information:
+            Series_Name: Geological Society of America Abstracts with Programs
+            Issue_Identification: v. 31, no. 7
+          Other_Citation_Details: p. A283
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1999
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Cole and others (1999)
+      Source_Contribution: information used in compilation of map
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Cole, R.D.
+          Originator: Moore, G.E.
+          Title: Sequence stratigraphy of Cedar Mountain-Dakota interval, western and southern Piceance Creek basin, Colorado
+          Publication_Date: 1994
+          Series_Information:
+            Series_Name: American Association of Petroleum Geologists Annual Convention Program
+            Issue_Identification: v. 3
+          Other_Citation_Details: p. 124
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1994
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Cole and Moore (1994)
+      Source_Contribution: information used in compilation of map
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Davis, G.H.
+          Title: Structural geology of the Colorado Plateau region of southern Utah, with special emphasis on deformation bands
+          Publication_Date: 1999
+          Series_Information:
+            Series_Name: Geological Society of America Special Paper
+            Issue_Identification: 342
+          Other_Citation_Details: 157 p.
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1999
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Davis (1999)
+      Source_Contribution: information used in compilation of map
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Dubiel, R.S.
+          Title: Triassic deposystems, paleogeography, and paleoclimate of the western interior
+          Publication_Date: 1994
+          Other_Citation_Details: p. 133-168
+          Larger_Work_Citation:
+            Citation_Information:
+              Originator: Caputo, M.V.
+              Originator: Peterson, J.A.
+              Originator: Franczyk, K.J.
+              Title: Mesozoic Systems of the Rocky Mountain Region, USA
+              Publication_Date: 1994
+              Series_Information:
+                Series_Name: Rocky Mountain Section of the Society of Economic Paleontologists and Mineralogists (Society for Sedimentary Geology)
+                Issue_Identification: proceedings
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1994
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Dubiel (1994)
+      Source_Contribution: information used in compilation of map
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Fouch, T.D.
+          Originator: Lawton, T.F.
+          Originator: Nichols, D.J.
+          Originator: Cashion, W.B.
+          Originator: Cobban, W.A.
+          Title: Patterns and timing of synorogenic sedimentation in Upper Cretaceous rocks of central and northeast Utah
+          Publication_Date: 1983
+          Other_Citation_Details: p. 305-336
+          Larger_Work_Citation:
+            Citation_Information:
+              Originator: Reynolds, M.W.
+              Originator: Dolly, E.D.
+              Title: Mesozoic Paleogeography of the West-Central United States
+              Publication_Date: 1983
+              Series_Information:
+                Series_Name: Rocky Mountain Section of the Society of Economic Paleontologists and Mineralogists Rocky Mountain Paleogeography Symposium
+                Issue_Identification: no. 2
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1983
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Fouch and others (1983)
+      Source_Contribution: information used in compilation of map
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Gannett, Henry
+          Title: The Unaweep Canyon [Colorado]
+          Publication_Date: 1882
+          Series_Information:
+            Series_Name: Popular Scientific Monthly
+            Issue_Identification: v. 20
+          Other_Citation_Details: p. 781-786
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1882
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Gannett (1882)
+      Source_Contribution: information used in compilation of map
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Hedge, C.E.
+          Originator: Peterman, Z.E.
+          Originator: Case, J.E.
+          Originator: Obradovich, J.D.
+          Title: Precambrian geochronology of the northwestern Uncompahgre Plateau, Utah and Colorado
+          Publication_Date: 1968
+          Series_Information:
+            Series_Name: U.S. Geological Survey Professional Paper
+            Issue_Identification: 600-C
+          Other_Citation_Details: p. C91-C96
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1968
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Hedge and others (1968)
+      Source_Contribution: information used in compilation of map
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Heyman, O.G.
+          Title: Distribution and structural geometry of faults and folds along the northwestern Uncompahgre uplift, western Colorado and eastern Utah
+          Publication_Date: 1983
+          Series_Information:
+            Series_Name: Grand Junction Geological Society
+            Issue_Identification: 1983 field trip guidebook
+          Other_Citation_Details: p. 45-57
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1983
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Heyman (1983)
+      Source_Contribution: information used in compilation of map
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Heyman, O.G.
+          Originator: Huntoon, P.
+          Originator: White-Heyman, M.
+          Title: Laramide deformation of the Uncompahgre PlateauÑGeometry and Mechanisms
+          Publication_Date: 1986
+          Other_Citation_Details: p. 65-76
+          Larger_Work_Citation:
+            Citation_Information:
+              Originator: Stone, D.S.
+              Title: New Interpretations of Northwest Colorado Geology
+              Publication_Date: 1986
+              Series_Information:
+                Series_Name: Rocky Mountain Association of Geologists
+                Issue_Identification: Guidebook
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1986
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Heyman and others (1986)
+      Source_Contribution: information used in compilation of map
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Hunt, C.B.
+          Title: Cenozoic Geology of the Colorado Plateau
+          Publication_Date: 1956
+          Series_Information:
+            Series_Name: U.S. Geological Survey Professional Paper
+            Issue_Identification: 279
+          Other_Citation_Details: 99 p.
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1956
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Hunt (1956)
+      Source_Contribution: information used in compilation of map
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Izett, G.A.
+          Originator: Wilcox, R.E.
+          Title: Map showing localities and inferred distributions of the Huckleberry Ridge, Mesa Falls, and Lava Creek ash beds (Pearlette family ash beds) of Pliocene and Pleistocene age in the Western United States and Southern Canada
+          Publication_Date: 1982
+          Series_Information:
+            Series_Name: U.S. Geological Survey Miscellaneous Investigations Series Map
+            Issue_Identification: I-1325
+      Source_Scale_Denominator: 4000000
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1982
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Izett and Wilcox (1982)
+      Source_Contribution: information used in compilation of map
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Jamison, W.R.
+          Title: Laramide deformation of the Wingate Sandstone, Colorado National Monument-A study of cataclastic flow
+          Publication_Date: 1979
+          Series_Information:
+            Series_Name: Texas A&M University
+            Issue_Identification: unpublished dissertation
+          Other_Citation_Details: 170 p.
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1979
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Jamison (1979)
+      Source_Contribution: information used in compilation of map
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Jamison, W.R.
+          Originator: Stearns
+          Title: Tectonic deformation of Wingate Sandstone, Colorado National Monument
+          Publication_Date: 1982
+          Series_Information:
+            Series_Name: American Association of Petroleum Geologists Bulletin
+            Issue_Identification: v. 66
+          Other_Citation_Details: p. 2584-2608
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1982
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Jamison and Stearns (1982)
+      Source_Contribution: information used in compilation of map
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Land, Lewis
+          Title: Three-dimensional characterization of basement faults and forced folds in clastic rocks along the northeastern edge of the Uncompahgre Plateau, western Colorado
+          Publication_Date: 1993
+          Series_Information:
+            Series_Name: University of Oklahoma
+            Issue_Identification: unpublished thesis
+          Other_Citation_Details: 129 p.
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1993
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Land (1993)
+      Source_Contribution: information used in compilation of map
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Lohman, S.W.
+          Title: Geologic map of the Grand Junction area, Colorado
+          Publication_Date: 1963
+          Series_Information:
+            Series_Name: U.S. Geological Survey Miscellaneous Investigations Series Map
+            Issue_Identification: I-404
+      Source_Scale_Denominator: 31680
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1963
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Lohman (1963)
+      Source_Contribution: information used in compilation of map
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Lohman, S.W.
+          Title: Geology and Artesian Water Supply, Grand Junction Area, Colorado
+          Publication_Date: 1965
+          Series_Information:
+            Series_Name: U.S. Geological Survey Professional Paper
+            Issue_Identification: 451
+          Other_Citation_Details: 149 p.
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1965
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Lohman (1965)
+      Source_Contribution: information used in compilation of map
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Lohman, S.W.
+          Title: The geologic story of Colorado National Monument
+          Publication_Date: 1981
+          Series_Information:
+            Series_Name: U.S. Geological Survey Bulletin
+            Issue_Identification: 1508
+          Other_Citation_Details: 142 p.
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1981
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Lohman (1981)
+      Source_Contribution: information used in compilation of map
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Marvin, R.F.
+          Originator: Mehnert, H.H.
+          Originator: Montjoy, W.M.
+          Title: Age of the basalt cap on Grand Mesa
+          Publication_Date: 1966
+          Series_Information:
+            Series_Name: U.S. Geological Survey Professional Paper
+            Issue_Identification: 550-A
+          Other_Citation_Details: p. A181
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1966
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Marvin and others (1966)
+      Source_Contribution: information used in compilation of map
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Reed, J.C., Jr.
+          Originator: Bickford, M.E.
+          Originator: Premo, W.R.
+          Originator: Aleinikoff, J.N.
+          Originator: Pallister, J.S.
+          Title: Evolution of the Early Proterozoic Colorado province-Constraints from U-Pb geochronology
+          Publication_Date: 1987
+          Series_Information:
+            Series_Name: Geology
+            Issue_Identification: v. 15
+          Other_Citation_Details: p. 861-865
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1987
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Reed and others (1987)
+      Source_Contribution: information used in compilation of map
+
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: White, M.A.
+          Originator: Jacobson, M.I.
+          Title: Structures associated with the southwest margin of the Ancestral Uncompahgre uplift
+          Publication_Date: 1983
+          Series_Information:
+            Series_Name: Grand Junction Geological Society Fieldtrip Guidebook
+            Issue_Identification: 1983
+          Other_Citation_Details: p. 33-39
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1983
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: White and Jacobson (1983)
+      Source_Contribution: information used in compilation of map
+
+    Process_Step:
+      Process_Description: The geologic database was digitized using the GSMCAD public domain program (USGS Open-File Report 96-007).
+      Process_Date: 1999
+    Process_Step:
+      Process_Description: The database was exported from GSMCAD to ARC GENERATE ASCII files.
+      Process_Date: 1999
+    Process_Step:
+      Process_Description: The gsmarc.aml program (distributed with GSMCAD) was used in ArcInfo to convert the GENERATE files to ARC coverages and build polygons.
+      Process_Date: 200002
+    Process_Step:
+      Process_Description: USGS DLG data were imported, minimally edgematched, and clipped to the map area to create the basemap coverages cnmroads, cnmrailroads, cnmhypso, cnmhydro.
+      Process_Date: 200002
+    Process_Step:
+      Process_Description: Attributes for geologic unit identifier were added to the .PAT file of the polygon coverage according to their GSMCAD "P1" values. Likewise, descriptive text for line and point features were added to the line and point covers according to their GSMCAD "CODE" values.
+      Process_Date: 200002
+    Process_Step:
+      Process_Description: CODE, P1, and P2 values were dropped from each cover or renamed to more descriptive attribute names where appropriate.
+      Process_Date: 200009
+    Process_Step:
+      Process_Description: Checkplots of the coverages were printed and checked against source materials for accuracy and completeness. The database information was checked visually and using various routines in ArcInfo for accuracy and consistency.
+      Process_Date: 200009
+
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Map_Projection:
+        Map_Projection_Name: Lambert Conformal Conic
+        Lambert_Conformal_Conic:
+          Standard_Parallel: 39.75
+          Standard_Parallel: 38.45
+          Longitude_of_Central_Meridian: -105.5
+          Latitude_of_Projection_Origin: 0.0
+          False_Easting: 0.000
+          False_Northing: 0.000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: coordinate pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 20
+          Ordinate_Resolution: 20
+        Planar_Distance_Units: METERS
+
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1927
+      Ellipsoid_Name: Clarke 1866
+      Semi-major_Axis: 6378206.4
+      Denominator_of_Flattening_Ratio: 294.98
+
+Entity_and_Attribute_Information:
+  Overview_Description:
+    Entity_and_Attribute_Overview:
+
+      >COVERAGE NAME: CNMBORDER
+      >DESCRIPTION: Neatline of map
+      >
+      >DATABASE STRUCTURE OF CNMBORDER.PAT:
+      >
+      >COLUMN   ITEM NAME        WIDTH OUTPUT  TYPE N.DEC  ALTERNATE NAME     INDEXED?
+      >    1  AREA                   8    18     F      5                        -
+      >    9  PERIMETER              8    18     F      5                        -
+      >   17  CNMBORDER#             4     5     B      -                        -
+      >   21  CNMBORDER-ID           4     5     B      -                        -
+      >
+      >this database has no user-defined attributes.
+      >
+      >DATABASE STRUCTURE OF CNMBORDER.AAT:
+      >
+      >COLUMN   ITEM NAME        WIDTH OUTPUT  TYPE N.DEC  ALTERNATE NAME     INDEXED?
+      >    1  FNODE#                 4     5     B      -                        -
+      >    5  TNODE#                 4     5     B      -                        -
+      >    9  LPOLY#                 4     5     B      -                        -
+      >   13  RPOLY#                 4     5     B      -                        -
+      >   17  LENGTH                 8    18     F      5                        -
+      >   25  CNMBORDER#             4     5     B      -                        -
+      >   29  CNMBORDER-ID           4     5     B      -                        -
+      >
+      >this database has no user-defined attributes.
+      >
+      >---------------------------------------------------------------------------------
+      >COVERAGE NAME: CNMBOUNDARY
+      >DESCRIPTION: Outline (border) of Colorado National Monument
+      >
+      >DATABASE STRUCTURE OF CNMBOUNDARY.AAT:
+      >
+      >COLUMN   ITEM NAME        WIDTH OUTPUT  TYPE N.DEC  ALTERNATE NAME     INDEXED?
+      >    1  FNODE#                 4     5     B      -                        -
+      >    5  TNODE#                 4     5     B      -                        -
+      >    9  LPOLY#                 4     5     B      -                        -
+      >   13  RPOLY#                 4     5     B      -                        -
+      >   17  LENGTH                 4    12     F      3                        -
+      >   21  CNMBOUNDARY#           4     5     B      -                        -
+      >   25  CNMBOUNDARY-ID         4     5     B      -                        -
+      >   29  AREA                   8    12     F      3                        -
+      >   37  PERIMETER              8    12     F      3                        -
+      >
+      >this database has no user-defined attributes.
+      >
+      >---------------------------------------------------------------------------------
+      >COVERAGE NAME: CNMHYDRO
+      >DESCRIPTION: Hydrologic linework (mainly rivers and streams)
+      >
+      >DATABASE STRUCTURE OF CNMHYDRO.AAT:
+      >
+      >COLUMN   ITEM NAME        WIDTH OUTPUT  TYPE N.DEC  ALTERNATE NAME     INDEXED?
+      >    1  FNODE#                 4     5     B      -                        -
+      >    5  TNODE#                 4     5     B      -                        -
+      >    9  LPOLY#                 4     5     B      -                        -
+      >   13  RPOLY#                 4     5     B      -                        -
+      >   17  LENGTH                 8    18     F      5                        -
+      >   25  CNMHYDRO#              4     5     B      -                        -
+      >   29  CNMHYDRO-ID            4     5     B      -                        -
+      >   33  MAJOR1                 6     6     I      -                        -
+      >   39  MINOR1                 6     6     I      -                        -
+      >   45  MAJOR2                 6     6     I      -                        -
+      >   51  MINOR2                 6     6     I      -                        -
+      >
+      >
+      >The MAJOR-MINOR code pairs in this database are standard Digital Line Graph (DLG) codes for 1:24,000-scale DLG datasets. The document "Digital Line Graphs from 1:24,000-scale Maps: Data Users Guide", available from http://mapping.usgs.gov/standards/, lists the meanings of the DLG codes.
+      >
+      >
+      >ATTRIBUTE NAME: MAJOR1
+      >DESCRIPTION: DLG 'major' code
+      >UNIQUE ITEM VALUES FOR 'MAJOR1':
+      >50   hydrologic feature
+      >
+      >ATTRIBUTE NAME: MINOR1
+      >DESCRIPTION: DLG 'minor' code
+      >UNIQUE ITEM VALUES FOR 'MINOR1':
+      >200   shoreline
+      >412   stream
+      >414   ditch or canal
+      >415   aqueduct
+      >
+      >ATTRIBUTE NAME: MAJOR2
+      >DESCRIPTION: DLG 'major' code
+      >UNIQUE ITEM VALUES FOR 'MAJOR2':
+      >-99999   no data
+      >50       hydrologic feature
+      >
+      >ATTRIBUTE NAME: MINOR2
+      >DESCRIPTION: DLG 'minor' code
+      >UNIQUE ITEM VALUES FOR 'MINOR2':
+      >-99999   no data
+      >414      ditch or canal
+      >610      intermittant
+      >617      underpassing
+      >
+      >---------------------------------------------------------------------------------
+      >COVERAGE NAME: CNMHYPSO
+      >DESCRIPTION: elevation contours
+      >
+      >DATABASE STRUCTURE OF CNMHYPSO.AAT:
+      >
+      >COLUMN   ITEM NAME        WIDTH OUTPUT  TYPE N.DEC  ALTERNATE NAME     INDEXED?
+      >    1  FNODE#                 4     5     B      -                        -
+      >    5  TNODE#                 4     5     B      -                        -
+      >    9  LPOLY#                 4     5     B      -                        -
+      >   13  RPOLY#                 4     5     B      -                        -
+      >   17  LENGTH                 8    18     F      5                        -
+      >   25  CNMHYPSO#              4     5     B      -                        -
+      >   29  CNMHYPSO-ID            4     5     B      -                        -
+      >   33  MAJOR1                 6     6     I      -                        -
+      >   39  MINOR1                 6     6     I      -                        -
+      >   45  MAJOR2                 6     6     I      -                        -
+      >   51  MINOR2                 6     6     I      -                        -
+      >
+      >
+      >The MAJOR-MINOR code pairs in this database are standard Digital Line Graph (DLG) codes for 1:24,000-scale DLG datasets. The document "Digital Line Graphs from 1:24,000-scale Maps: Data Users Guide", available from http://mapping.usgs.gov/standards/, lists the meanings of the DLG codes.
+      >
+      >ATTRIBUTE NAME: MAJOR1
+      >DESCRIPTION: DLG 'major' code
+      >UNIQUE ITEM VALUES FOR 'MAJOR1':
+      >20     hypsography
+      >
+      >ATTRIBUTE NAME: MINOR1
+      >DESCRIPTION: DLG 'minor' code
+      >UNIQUE ITEM VALUES FOR 'MINOR1':
+      >200    contour (index or intermediate)
+      >201    carrying contour
+      >
+      >ATTRIBUTE NAME: MAJOR2
+      >DESCRIPTION: DLG 'major' code
+      >UNIQUE ITEM VALUES FOR 'MAJOR2':
+      >22     elevation value
+      >
+      >ATTRIBUTE NAME: MINOR2
+      >DESCRIPTION: DLG 'minor' code
+      >UNIQUE ITEM VALUES FOR 'MINOR2':
+      >the values for this attribute are the elevation of the contour in integer feet, ranging from 4480 to 7240.
+      >
+      >---------------------------------------------------------------------------------
+      >COVERAGE NAME: CNMLINE
+      >DESCRIPTION:  Geologic line features (folds, faults)
+      >
+      >DATABASE STRUCTURE OF CNMLINE.AAT:
+      >
+      >COLUMN   ITEM NAME        WIDTH OUTPUT  TYPE N.DEC  ALTERNATE NAME     INDEXED?
+      >    1  FNODE#                 4     5     B      -                        -
+      >    5  TNODE#                 4     5     B      -                        -
+      >    9  LPOLY#                 4     5     B      -                        -
+      >   13  RPOLY#                 4     5     B      -                        -
+      >   17  LENGTH                 4    12     F      3                        -
+      >   21  CNMLINE#               4     5     B      -                        -
+      >   25  CNMLINE-ID             4     5     B      -                        -
+      >   29  TYPE                   3     3     I      -                        -
+      >   32  SYMBOL                 5     5     I      -                        -
+      >   37  DESCRIPTION          100   100     C      -                        -
+      >
+      >
+      >ATTRIBUTE NAME: TYPE
+      >DESCRIPTION: numeric code for type of line feature
+      >UNIQUE ITEM VALUES FOR 'TYPE':
+      >The values of this attribute correspond to items in the 'DESCRIPTION' field as follows:
+      >2     contact; concealed
+      >4     airfield line
+      >5     line of cross-section
+      >10    fault contact; certain
+      >11    fault; concealed
+      >14    fault contact; inferred
+      >17    line; hinge
+      >92    contact line; topographic escarpment
+      >
+      >ATTRIBUTE NAME: SYMBOL
+      >DESCRIPTION: line symbol (in lineset alcwrg.lin) used to draw feature
+      >UNIQUE ITEM VALUES FOR 'SYMBOL':
+      >0
+      >1
+      >3
+      >5
+      >25
+      >29
+      >
+      >ATTRIBUTE NAME: DESCRIPTION
+      >DESCRIPTION: type of line feature
+      >UNIQUE ITEM VALUES FOR 'DESCRIPTION':
+      >see above
+      >
+      >---------------------------------------------------------------------------------
+      >COVERAGE NAME: CNMPOINT
+      >DESCRIPTION:  point features
+      >
+      >DATABASE STRUCTURE OF CNMPOINT.PAT:
+      >
+      >COLUMN   ITEM NAME        WIDTH OUTPUT  TYPE N.DEC  ALTERNATE NAME     INDEXED?
+      >    1  AREA                   8    18     F      5                        -
+      >    9  PERIMETER              8    18     F      5                        -
+      >   17  CNMPOINT#              4     5     B      -                        -
+      >   21  CNMPOINT-ID            4     5     B      -                        -
+      >   25  DESCRIPTION           80    80     C      -                        -
+      >  105  CODE                   3     3     I      -                        -
+      >  108  STRIKE                 7     7     I      -                        -
+      >  115  DIP                    5     5     I      -                        -
+      >
+      >
+      >ATTRIBUTE NAME: DESCRIPTION
+      >DESCRIPTION: type of point feature
+      >UNIQUE ITEM VALUES FOR 'DESCRIPTION':
+      >see below
+      >
+      >ATTRIBUTE NAME: CODE
+      >DESCRIPTION: numeric code for feature type
+      >UNIQUE ITEM VALUES FOR 'CODE':
+      >The values of this attribute correspond to items in the 'DESCRIPTION' field as follows:
+      >201     strike and dip of inclined beds
+      >202     strike and dip of foliation
+      >203     dip of fault plane
+      >207     ball & bar symbol
+      >208     dip of inclined feature
+      >219     overturned bed symbol
+      >220     approximate strike and dip of inclined beds
+      >222     strike of vertical foliation
+      >241     direction of plunge of fold axis
+      >268     diamond symbol indicating dip of slickensides
+      >302     water well
+      >312     prospect
+      >362     horizontal bedding
+      >
+      >ATTRIBUTE NAME: STRIKE
+      >DESCRIPTION: compass orientation of measurement
+      >ITEM VALUES FOR 'STRIKE':
+      >integer degrees in the range 0-359
+      >
+      >ATTRIBUTE NAME: DIP
+      >DESCRIPTION: inclination from horizontal of measurement
+      >ITEM VALUES FOR 'DIP':
+      >integer degrees in the range 0-90
+      >
+      >
+      >---------------------------------------------------------------------------------
+      >COVERAGE NAME: CNMPOLY
+      >DESCRIPTION:  geology polygon features
+      >
+      >
+      >DATABASE STRUCTURE OF CNMPOLY.PAT:
+      >
+      >COLUMN   ITEM NAME        WIDTH OUTPUT  TYPE N.DEC  ALTERNATE NAME     INDEXED?
+      >    1  AREA                   4    12     F      3                        -
+      >    5  PERIMETER              4    12     F      3                        -
+      >    9  CNMPOLY#               4     5     B      -                        -
+      >   13  CNMPOLY-ID             4     5     B      -                        -
+      >   17  LABEL                  6     6     C      -                        -
+      >   23  TEXT                   6     6     C      -                        -
+      >   29  SYMBOL                 6     6     I      -                        -
+      >
+      >
+      >ATTRIBUTE NAME: LABEL
+      >DESCRIPTION: text label (to be used with font fnt003); enables use of special geologic age symbols
+      >UNIQUE ITEM VALUES FOR 'LABEL':
+      >@c
+      >Jeb
+      >Jes
+      >Jk
+      >Jmb
+      >Jms
+      >Jmt
+      >Jw
+      >Jwek
+      >Jwg
+      >Kb
+      >Kd
+      >Km
+      >Qal
+      >Qaso
+      >Qasy
+      >Qc
+      >Qcg
+      >Qe
+      >Qfp
+      >Qfy
+      >Qlg
+      >Qlso
+      >Qlsy
+      >Qr
+      >Qrg
+      >Qse
+      >Qsw
+      >Qvf
+      >Water
+      >Xi
+      >Xm
+      >af
+      >
+      >ATTRIBUTE NAME: TEXT
+      >DESCRIPTION: geologic unit label
+      >UNIQUE ITEM VALUES FOR 'TEXT':
+      >geologic unit text abbreviations are defined as follows:
+      >af          Artificial fill
+      >Qal         Alluvium
+      >Qfp         Flood-plain deposits
+      >Qvf         Valley-fill deposits
+      >Qrg         River-gravel terrace deposits
+      >Qfy         Younger fan-alluvium and debris-flow deposits
+      >Qasy        Younger alluvial-slope deposits
+      >Qaso        Older alluvial-slope deposits
+      >Qlg         Local gravel deposits
+      >Qc          Colluvium
+      >Qr          Rock-fall deposits
+      >Qlsy        Young landslide deposits
+      >Qlso        Old landslide deposits
+      >Qsw         Sheetwash deposits
+      >Qe          Eolian deposits
+      >Qse         Eolian and sheetwash deposits
+      >Qcg         Cienaga deposits
+      >Km          Mancos Shale
+      >Kd          Dakota Formation
+      >Kb          Burro Canyon Formation
+      >Jmb         Brushy Basin Member of the Morrison Formation
+      >Jms         Salt Wash Member Member of the Morrison Formation
+      >Jmt         Tidwell Member Member of the Morrison Formation
+      >Jw          Wanakah Formation
+      >Jeb         "Board beds" unit of the Entrada Sandstone
+      >Jes         Slickrock Member of the Entrada Sandstone
+      >Jk          Kayenta Formation
+      >Jwek        Kayenta Formation, Entrada Sandstone, and Wanakah Formation, undivided
+      >Jwg         Wingate Sandstone
+      >TRc         Chinle Formation
+      >Xi          Meta-igneous gneiss
+      >Xm          Migmatic meta-sedimentary rocks
+      >Water       water features (lakes and ponds)
+      >
+      >ATTRIBUTE NAME: SYMBOL
+      >DESCRIPTION: value of shade symbol in shadeset color524.shd to fill polygons
+      >ITEM VALUES FOR 'SYMBOL':
+      >integer numbers in the range 0 - 510
+      >
+      >
+      >DATABASE STRUCTURE OF CNMPOLY.AAT:
+      >
+      >COLUMN   ITEM NAME        WIDTH OUTPUT  TYPE N.DEC  ALTERNATE NAME     INDEXED?
+      >    1  FNODE#                 4     5     B      -                        -
+      >    5  TNODE#                 4     5     B      -                        -
+      >    9  LPOLY#                 4     5     B      -                        -
+      >   13  RPOLY#                 4     5     B      -                        -
+      >   17  LENGTH                 4    12     F      3                        -
+      >   21  CNMPOLY#               4     5     B      -                        -
+      >   25  CNMPOLY-ID             4     5     B      -                        -
+      >   29  TYPE                   3     3     I      -                        -
+      >   32  SYMBOL                 5     5     I      -                        -
+      >   37  DESCRIPTION          100   100     C      -                        -
+      >
+      >
+      >ATTRIBUTE NAME: TYPE
+      >DESCRIPTION: numeric code for line type
+      >UNIQUE ITEM VALUES FOR 'TYPE':
+      >The values of this attribute correspond to items in the 'DESCRIPTION' field as follows:
+      >1     contact; certain
+      >2     contact; concealed
+      >3     contact; inferred
+      >10    fault contact; certain
+      >14    fault contact; inferred
+      >92    contact line; topographic escarpment
+      >93    water boundary, certain
+      >99    map boundary
+      >
+      >ATTRIBUTE NAME: SYMBOL
+      >DESCRIPTION: line symbol (in lineset alcwrg.lin) to use for plotting feature
+      >UNIQUE ITEM VALUES FOR 'SYMBOL':
+      >1
+      >3
+      >25
+      >27
+      >29
+      >
+      >ATTRIBUTE NAME: DESCRIPTION
+      >DESCRIPTION: (add brief description here)
+      >UNIQUE ITEM VALUES FOR 'DESCRIPTION':
+      >see above
+      >
+      >---------------------------------------------------------------------------------
+      >COVERAGE NAME: CNMRAILROADS
+      >DESCRIPTION:  transportation: railroads
+      >
+      >DATABASE STRUCTURE OF CNMRAILROADS.AAT:
+      >
+      >COLUMN   ITEM NAME        WIDTH OUTPUT  TYPE N.DEC  ALTERNATE NAME     INDEXED?
+      >    1  FNODE#                 4     5     B      -                        -
+      >    5  TNODE#                 4     5     B      -                        -
+      >    9  LPOLY#                 4     5     B      -                        -
+      >   13  RPOLY#                 4     5     B      -                        -
+      >   17  LENGTH                 4    12     F      3                        -
+      >   21  CNMRAILROADS#          4     5     B      -                        -
+      >   25  CNMRAILROADS-ID        4     5     B      -                        -
+      >   29  MAJOR1                 6     6     I      -                        -
+      >   35  MINOR1                 6     6     I      -                        -
+      >   41  MAJOR2                 6     6     I      -                        -
+      >   47  MINOR2                 6     6     I      -                        -
+      >
+      >The MAJOR-MINOR code pairs in this database are standard Digital Line Graph (DLG) codes for 1:24,000-scale DLG datasets. The document "Digital Line Graphs from 1:24,000-scale Maps: Data Users Guide", available from http://mapping.usgs.gov/standards/, lists the meanings of the DLG codes.
+      >
+      >ATTRIBUTE NAME: MAJOR1
+      >DESCRIPTION: (add brief description here)
+      >UNIQUE ITEM VALUES FOR 'MAJOR1':
+      >180
+      >
+      >ATTRIBUTE NAME: MINOR1
+      >DESCRIPTION: (add brief description here)
+      >UNIQUE ITEM VALUES FOR 'MINOR1':
+      >201
+      >208
+      >
+      >ATTRIBUTE NAME: MAJOR2
+      >DESCRIPTION: (add brief description here)
+      >UNIQUE ITEM VALUES FOR 'MAJOR2':
+      >-99999
+      >180
+      >
+      >ATTRIBUTE NAME: MINOR2
+      >DESCRIPTION: (add brief description here)
+      >UNIQUE ITEM VALUES FOR 'MINOR2':
+      >-99999
+      >605
+      >
+      >---------------------------------------------------------------------------------
+      >COVERAGE NAME: CNMROADS
+      >DESCRIPTION:  transportation: roads
+      >
+      >DATABASE STRUCTURE OF CNMROADS.AAT:
+      >
+      >COLUMN   ITEM NAME        WIDTH OUTPUT  TYPE N.DEC  ALTERNATE NAME     INDEXED?
+      >    1  FNODE#                 4     5     B      -                        -
+      >    5  TNODE#                 4     5     B      -                        -
+      >    9  LPOLY#                 4     5     B      -                        -
+      >   13  RPOLY#                 4     5     B      -                        -
+      >   17  LENGTH                 8    18     F      5                        -
+      >   25  CNMROADS#              4     5     B      -                        -
+      >   29  CNMROADS-ID            4     5     B      -                        -
+      >   33  MAJOR1                 6     6     I      -                        -
+      >   39  MINOR1                 6     6     I      -                        -
+      >   45  MAJOR2                 6     6     I      -                        -
+      >   51  MINOR2                 6     6     I      -                        -
+      >
+      >The MAJOR-MINOR code pairs in this database are standard Digital Line Graph (DLG) codes for 1:24,000-scale DLG datasets. The document "Digital Line Graphs from 1:24,000-scale Maps: Data Users Guide", available from http://mapping.usgs.gov/standards/, lists the meanings of the DLG codes.
+      >
+      >ATTRIBUTE NAME: MAJOR1
+      >DESCRIPTION: (add brief description here)
+      >UNIQUE ITEM VALUES FOR 'MAJOR1':
+      >170
+      >
+      >ATTRIBUTE NAME: MINOR1
+      >DESCRIPTION: (add brief description here)
+      >UNIQUE ITEM VALUES FOR 'MINOR1':
+      >201
+      >203
+      >205
+      >209
+      >210
+      >211
+      >212
+      >402
+      >
+      >ATTRIBUTE NAME: MAJOR2
+      >DESCRIPTION: (add brief description here)
+      >UNIQUE ITEM VALUES FOR 'MAJOR2':
+      >-99999
+      >0
+      >170
+      >172
+      >173
+      >174
+      >
+      >ATTRIBUTE NAME: MINOR2
+      >DESCRIPTION: (add brief description here)
+      >UNIQUE ITEM VALUES FOR 'MINOR2':
+      >-99999
+      >0
+      >6
+      >70
+      >340
+      >601
+      >607
+      >
+      >---------------------------------------------------------------------------------
+      >COVERAGE NAME: CNMSYM
+      >DESCRIPTION:  decoration symbols
+      >
+      >
+      >DATABASE STRUCTURE OF CNMSYM.PAT:
+      >
+      >COLUMN   ITEM NAME        WIDTH OUTPUT  TYPE N.DEC  ALTERNATE NAME     INDEXED?
+      >    1  AREA                   4    12     F      3                        -
+      >    5  PERIMETER              4    12     F      3                        -
+      >    9  CNMSYM#                4     5     B      -                        -
+      >   13  CNMSYM-ID              4     5     B      -                        -
+      >   17  TYPE                   3     3     I      -                        -
+      >   20  STRIKE                 7     7     I      -                        -
+      >   27  DIP                    3     3     I      -                        -
+      >   30  BNUM                   4     5     B      -                        -
+      >
+      >
+      >ATTRIBUTE NAME: TYPE
+      >DESCRIPTION: type of feature
+      >UNIQUE ITEM VALUES FOR 'TYPE':
+      >201     strike and dip of inclined beds
+      >202     strike and dip of foliation
+      >203     dip of fault plane
+      >207     ball & bar symbol
+      >208     dip of inclined feature
+      >219     overturned bed symbol
+      >220     approximate strike and dip of inclined beds
+      >222     strike of vertical foliation
+      >241     direction of plunge of fold axis
+      >268     diamond symbol indicating dip of slickensides
+      >302     water well
+      >312     prospect
+      >362     horizontal bedding
+      >
+      >ATTRIBUTE NAME: STRIKE
+      >DESCRIPTION: compass orientation of measurement
+      >ITEM VALUES FOR 'STRIKE':
+      >integer degrees in the range 0-359
+      >
+      >ATTRIBUTE NAME: DIP
+      >DESCRIPTION: inclination from horizontal of measurement
+      >ITEM VALUES FOR 'DIP':
+      >integer degrees in the range 0-90
+      >
+      >ATTRIBUTE NAME: BNUM
+      >DESCRIPTION: unique identifier used to place numeric dip values near inclination symbols
+      >ITEM VALUES FOR 'BNUM':
+      >positive and negative integer values; positive values of BNUM indicate that a symbol is to be drawn at that point; the dip values are placed at points with negative BNUM values.
+      >
+      >DATABASE STRUCTURE OF CNMSYM.AAT:
+      >
+      >COLUMN   ITEM NAME        WIDTH OUTPUT  TYPE N.DEC  ALTERNATE NAME     INDEXED?
+      >    1  FNODE#                 4     5     B      -                        -
+      >    5  TNODE#                 4     5     B      -                        -
+      >    9  LPOLY#                 4     5     B      -                        -
+      >   13  RPOLY#                 4     5     B      -                        -
+      >   17  LENGTH                 4    12     F      3                        -
+      >   21  CNMSYM#                4     5     B      -                        -
+      >   25  CNMSYM-ID              4     5     B      -                        -
+      >   29  TYPE                   3     3     I      -                        -
+      >   32  SYMBOL                 5     5     I      -                        -
+      >   37  DESCRIPTION          100   100     C      -                        -
+      >
+      >
+      >ATTRIBUTE NAME: TYPE
+      >DESCRIPTION: numeric code for symbol
+      >UNIQUE ITEM VALUES FOR 'TYPE':
+      >The values of this attribute correspond to items in the 'DESCRIPTION' field as follows:
+      >92      contact line; topographic escarpment
+      >201     strike and dip of inclined beds
+      >202     strike and dip of foliation
+      >203     dip of fault plane
+      >207     ball & bar symbol
+      >208     dip of inclined feature
+      >219     overturned bed symbol
+      >220     approximate strike and dip of inclined beds
+      >222     strike of vertical foliation
+      >241     direction of plunge of fold axis
+      >268     diamond symbol indicating dip of slickensides
+      >302     water well
+      >312     prospect
+      >362     horizontal bedding
+      >
+      >
+      >ATTRIBUTE NAME: SYMBOL
+      >DESCRIPTION: line symbol (in alcwrg.lin) to use for plotting
+      >UNIQUE ITEM VALUES FOR 'SYMBOL':
+      >1
+      >
+      >ATTRIBUTE NAME: DESCRIPTION
+      >DESCRIPTION: type of symbol
+      >UNIQUE ITEM VALUES FOR 'DESCRIPTION':
+      >see above
+      >
+      >---------------------------------------------------------------------------------
+      >COVERAGE NAME: CNMTEXT
+      >DESCRIPTION:  text labels for printed map
+      >
+      >DATABASE STRUCTURE OF CNMTEXT.PAT:
+      >
+      >COLUMN   ITEM NAME        WIDTH OUTPUT  TYPE N.DEC  ALTERNATE NAME     INDEXED?
+      >    1  AREA                   4    12     F      3                        -
+      >    5  PERIMETER              4    12     F      3                        -
+      >    9  CNMTEXT#               4     5     B      -                        -
+      >   13  CNMTEXT-ID             4     5     B      -                        -
+      >   17  TYPE                   5     5     I      -                        -
+      >   22  TEXT                 100   101     C      -                        -
+      >  122  WSLANT                 3     3     I      -                        -
+      >
+      >
+      >ATTRIBUTE NAME: TYPE
+      >DESCRIPTION: numeric code for type of text item
+      >UNIQUE ITEM VALUES FOR 'TYPE':
+      >80    geologic unit labels and other text rendered in small typesize
+      >200   cross-section endpoint labels and other large type labels
+      >
+      >ATTRIBUTE NAME: TEXT
+      >DESCRIPTION: text labels (uses font fnt003 to print special geologic age symbols)
+      >UNIQUE ITEM VALUES FOR 'TEXT':
+      >@c
+      >A
+      >A
+      >,B,B
+      >C1
+      >C10
+      >C11
+      >C13
+      >C2
+      >C3
+      >C4
+      >C5-9
+      >GLADE PARK FAULT
+      >Jeb
+      >Jes
+      >Jk
+      >Jmb
+      >Jms
+      >Jmt
+      >Jw
+      >Jwek
+      >Jwg
+      >K98.8.10F
+      >Kb
+      >Kd
+      >Km
+      >NT 11C
+      >Qal
+      >Qaso
+      >Qasy
+      >Qc
+      >Qcg
+      >Qe
+      >Qfp
+      >Qfy
+      >Qlg
+      >Qlso
+      >Qlsy
+      >Qr
+      >Qrg
+      >Qse
+      >Qsw
+      >Qvf
+      >REDLANDS FAULT
+      >UTE CANYON STOCK
+      >Ute 1
+      >Xi
+      >Xm
+      >Yl
+      >a
+      >af
+      >gravel pits
+      >
+      >ATTRIBUTE NAME: WSLANT
+      >DESCRIPTION: slant angle of text labels
+      >UNIQUE ITEM VALUES FOR 'WSLANT':
+      >-59
+      >-45
+      >-42
+      >-35
+      >-11
+      >-3
+      >0
+      >
+      >DATABASE STRUCTURE OF CNMTEXT.AAT:
+      >
+      >COLUMN   ITEM NAME        WIDTH OUTPUT  TYPE N.DEC  ALTERNATE NAME     INDEXED?
+      >    1  FNODE#                 4     5     B      -                        -
+      >    5  TNODE#                 4     5     B      -                        -
+      >    9  LPOLY#                 4     5     B      -                        -
+      >   13  RPOLY#                 4     5     B      -                        -
+      >   17  LENGTH                 4    12     F      3                        -
+      >   21  CNMTEXT#               4     5     B      -                        -
+      >   25  CNMTEXT-ID             4     5     B      -                        -
+      >   29  SYMBOL                 3     3     I      -                        -
+      >
+      >
+      >ATTRIBUTE NAME: SYMBOL
+      >DESCRIPTION: line symbol (in alcwrg.lin) to use for plotting
+      >UNIQUE ITEM VALUES FOR 'SYMBOL':
+      >1
+
+    Entity_and_Attribute_Detail_Citation: none
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey
+      Contact_Address:
+        Address_Type: mailing address
+        Address: Central Publications Group
+        Address: MS 902, Box 25046 DFC
+        City: Lakewood
+        State_or_Province: CO
+        Postal_Code: 80225-0046
+        Country: USA
+      Contact_Voice_Telephone: 303-236-5486
+
+  Distribution_Liability: Although these digital spatial data have been subjected to rigorous review and are substantially complete, they are released on the condition that neither the USGS nor the United States Government may be held liable for any damages resulting from their authorized or unauthorized use.
+
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ARCE, SHP
+        Format_Version_Number: created with ArcInfo v. 7.1.2
+        File_Decompression_Technique:
+          .tar.gz - UNIX gzip-compressed TAR file (ARCE files) - use GNU zip and TAR
+          .EXE - self-extracting Windows ZIP archive (SHP files) - execute the file to extract
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: <http://geology.cr.usgs.gov/pub/i-maps/i-2740/>
+    Fees: none
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey
+      Contact_Address:
+        Address_Type: mailing address
+        Address: USGS Information Services
+        Address: PO Box 25286
+        Address: Denver Federal Center
+        City: Denver
+        State_or_Province: CO
+        Postal_Code: 80225
+        Country: USA
+      Contact_Voice_Telephone: (888) ASK-USGS
+  Resource_Description: I-2740
+  Distribution_Liability: none
+  Standard_Order_Process:
+    Non-digital_Form: Available as one printed sheet plus pamphlet.
+    Fees: For current prices of USGS information products, please see http://mapping.usgs.gov/esic/prices/.
+Metadata_Reference_Information:
+  Metadata_Date: 20000915
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Schumann, R. Randall
+        Contact_Organization: U.S. Geological Survey
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address:
+          Mail Stop 913, USGS
+          Box 25046, Denver Federal Center
+        City: Denver
+        State_or_Province: CO
+        Postal_Code: 80225-0046
+        Country: US
+      Contact_Voice_Telephone: 303-236-1525
+      Contact_Electronic_Mail_Address: rschumann@usgs.gov
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+

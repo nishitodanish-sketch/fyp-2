@@ -1,0 +1,1553 @@
+<!-- Title: 05:01:01  Fri Nov  4 2005 -->
+<!-- Crewchief: kaori -->
+<!-- Op1: junji -->
+<!-- Op2: yoshiaki -->
+<!-- Op3: &nbsp; -->
+<!-- Op4: &nbsp; -->
+<!-- Op5: &nbsp; -->
+<!-- Op6: &nbsp; -->
+<!-- Notes: -->
+<pre>transition to new setup --- b0cdfsoft account building with SL</pre>
+
+
+<!-- Date: Fri Nov 4 05:43:17 2005 -->
+<pre>Building 6.1.1h using b0cdfsoft account on b0dap35. 
+The patch file is identical to 6.1.1g running now as default. 
+On b0dap32, 6.1.1g is the current default at a moment. 
+ 
+StartMon.sh is set to run all default, but BeamMon running 
+with 6.1.1e which is the new one built with b0cdfsoft. 
+ 
+ 
+</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Fri Nov 4 07:20:44 2005 -->
+<pre>New releases 6.1.1h and 6.1.2a were built. 
+However, compare to 6.1.1e release, some binaries are missing: 
+ 
+BeamMon 
+evd 
+evdpickEvent 
+evdprint 
+evdscan 
+ 
+------ 
+startMon_test.sh starts 6.1.1h version, except BeamMon is pointing 
+to 6.1.1e version. 
+So, not running with 6.1.1h are: 
+LumMon, Stage0, XMon, and BeamMon. 
+The 1st three are there, but not testing it, because don't 
+want to stop the monitors at this point.</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Tue Dec 13 14:22:25 2005 -->
+<pre>We tried to run YMon from b0server06. 
+Our first attempt was using cdfsofb0 6.1.2f, but no success. 
+And we trid to run YMon with 6.1.2b, and it worked. 
+So we kept it running in control room. 
+ 
+ 
+</pre>
+<!-- Author: yoshiaki & junji -->
+<!-- Comment: Tue Dec 13 19;10;09 comment by...junji & yoshiaki -->
+<pre>The above comment is followed by Kaori-san's Shift E-log comment.
+"SiliMon and ObjectMon with cdfsoftb0 version 6.1.2f which was built under SL are running now on b0server06. We tried running YMon on 06, but had a problem. So, YMon is left to run as was before (running on b0dap82). We'll look into the problem with SL-YMon."
+</pre>
+
+
+<!-- Date: Wed Dec 14 19:56:38 2005 -->
+<pre>I made 6.1.2h under SL today.  Because cvs was broken, there were  
+a few files still needed to be committed, but modified by hand 
+for now.  This was made mainly due to TrigMon people's request. 
+I did not bring new runTrigMon.tcl file for 6.1.2h. 
+Only difference is: 
+&gt;   cerMachineName      set b0dap63.fnal.go 
+(this is set in 6.1.2h version). 
+Currently startMon.sh is set to run 6.1.2h version of TrigMon 
+using b0server00.  All the others are the same as before: 
+starting XMon partition 0 on b0dap80 
+starting YMon partition 0 on b0dap78 
+starting SiliMon partition 0 on b0server06 
+starting LumMon partition 0 on b0dap78 
+starting TrigMon partition 0 on b0server00 
+starting Stage0 partition 0 on b0dap81 
+starting SVXMon partition 0 on b0dap78 
+starting ObjectMon partition 0 on b0server06 
+starting BeamMon partition 0 on b0dap80 
+starting DAQErrMon partition 0 on b0dap81 
+starting DAQMon partition 0 on b0dap81 
+ 
+</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Wed Dec 21 09:00:12 2005 -->
+<pre> 
+ 
+Stephan (et.al.) made another SL machine available to run monitors.  
+I switched following monitors to the new SL converted machine.  
+ 
+DAQMon (from dap81 to b0server07), running cdfsoftb0 version 6.1.2h  
+DAQErrMon (same change as DAQMon)  
+YMon (from dap78 to b0server06), running cdfsoftb0 version 6.1.2h  
+We had a problem running YMon before with this version.  
+I think problem was due to - we did not switch the tcl file  
+properly.  Anway, YMon is running happily for now.  This version  
+should have luminosity dependent references for some of the plots.  
+ 
+I also updated SiliMon and ObjectMon to run 6.1.2h version   
+(was running 6.1.2f version) to be consistent.  They were both  
+already running on a SL machine (b0server06).  
+ 
+Tried to run SVXMon on b0server07 using 6.1.2h version.  
+But this failed.  It has an explicit reference to /data1 area  
+which probably changed, and failed to write on the area.  
+This is probably an easy fix.  will notify SVXMon people.  
+Put back running SVXMon as how it was running.  
+ 
+So, following is the summary of what consumers are running where.  
+ 
+BeamMon   b0dap80.fnal.gov    6.1.2b RH  
+DAQErrMon b0server07.fnal.gov 6.1.2h SL  
+DAQMon    b0server07.fnal.gov 6.1.2h SL  
+LumMon    b0dap78.fnal.gov    6.1.2b RH  
+ObjectMon b0server06.fnal.gov 6.1.2h SL  
+SVXMon    b0dap78.fnal.gov    6.1.2b RH  
+SiliMon   b0server06.fnal.gov 6.1.2h SL  
+Stage0_   b0dap81.fnal.gov    6.1.2b RH  
+TrigMon   b0server00.fnal.gov 6.1.2h SL  
+XMon      b0dap80.fnal.gov    6.1.2b RH  
+YMon      b0server06.fnal.gov 6.1.2h SL  
+ 
+Please page (kaori) if you see any problem with  
+monitors tonight instead of 'online monitor general' pager.  
+</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Tue Dec 27 11:36:56 2005 -->
+<pre>Built 6.1.2i on SL and building 6.1.2j on RH. 
+For SL, used b0gateway, and RH at a moment (b0dap35 is the only 
+machine we can built RH version). 
+ 
+This version has Arisawa-san's new updated HistoDisplay program.</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Tue Dec 27 14:36:20 2005 -->
+<pre>Tested 6.1.2i version of EventDisplay on b0desktop04. 
+It crashed after several canvases popped up: 
+ 
+PPConsumerInputModule::nextEvent : 
+  headerWords=4, bufferLength (bytes)=85362 
+inputDataFormat = e0e00 
+Outfile datarep code = 20200 
+   Format X Event size is 85362 bytes 
+APPConsumerInputModule::nextEvent SUCCESS! : 
+   event count = 2,  byte count = 282425 
+-------------------------------------------------------------------------------- 
+ByteIn  Class Name              (ObjectId: Bank Info    ) Proc Name, Description 
+-------------------------------------------------------------------------------- 
+129     LRIH_StorableBank       (1       : LRIH,1    ,0 ) RAW      , 
+109     TSID_StorableBank       (2       : TSID,65537,0 ) RAW      , 
+3201    CHAD_StorableBank       (3       : CHAD,1    ,0 ) RAW      , 
+3969    CEMD_StorableBank       (4       : CEMD,1    ,0 ) RAW      , 
+3889    CESD_StorableBank       (5       : CESD,1    ,0 ) RAW      , 
+129     CPRD_StorableBank       (6       : CPRD,1    ,0 ) RAW      , 
+133     CCRD_StorableBank       (7       : CCRD,1    ,0 ) RAW      , 
+145     CP2D_StorableBank       (8       : CP2D,1    ,0 ) RAW      , 
+3237    CSSD_StorableBank       (9       : CSSD,1    ,0 ) RAW      , 
+7717    TMPD_StorableBank       (10      : TMPD,1    ,0 ) RAW      , 
+5993    XFLD_StorableBank       (11      : XFLD,1    ,0 ) RAW      , 
+19289   COTD_StorableBank       (12      : COTD,1    ,2 ) RAW      , 
+337     TP2D_StorableBank       (13      : TP2D,1    ,1 ) RAW      , 
+1177    TL2D_StorableBank       (14      : TL2D,1    ,0 ) RAW      , 
+3257    SL1D_StorableBank       (15      : SL1D,1    ,0 ) RAW      , 
+917     MPAD_StorableBank       (16      : MPAD,1    ,0 ) RAW      , 
+169     RPAD_StorableBank       (17      : RPAD,1    ,0 ) RAW      , 
+261     EMTD_StorableBank       (18      : EMTD,1    ,1 ) RAW      , 
+2309    TOFD_StorableBank       (19      : TOFD,1    ,0 ) RAW      , 
+2417    WHAD_StorableBank       (20      : WHAD,1    ,0 ) RAW      , 
+265     HATD_StorableBank       (21      : HATD,1    ,1 ) RAW      , 
+3961    PEMD_StorableBank       (22      : PEMD,1    ,0 ) RAW      , 
+3577    PHAD_StorableBank       (23      : PHAD,1    ,0 ) RAW      , 
+145     PESD_StorableBank       (24      : PESD,1    ,0 ) RAW      , 
+129     PPRD_StorableBank       (25      : PPRD,1    ,0 ) RAW      , 
+229     CMPD_StorableBank       (26      : CMPD,1    ,1 ) RAW      , 
+157     CSPD_StorableBank       (27      : CSPD,1    ,1 ) RAW      , 
+205     CSXD_StorableBank       (28      : CSXD,1    ,1 ) RAW      , 
+349     CMXD_StorableBank       (29      : CMXD,1    ,1 ) RAW      , 
+305     TFTD_StorableBank       (30      : TFTD,1    ,0 ) RAW      , 
+2645    TC1D_StorableBank       (31      : TC1D,1    ,0 ) RAW      , 
+173     CSED_StorableBank       (32      : CSED,1    ,0 ) RAW      , 
+277     SVDD_StorableBank       (33      : SVDD,1    ,0 ) RAW      , 
+125     SVTD_StorableBank       (34      : SVTD,1    ,1 ) RAW      , 
+229     CTMD_StorableBank       (35      : CTMD,1    ,0 ) RAW      , 
+2233    TCMD_StorableBank       (36      : TCMD,1    ,0 ) RAW      , 
+5357    TC2D_StorableBank       (37      : TC2D,1    ,0 ) RAW      , 
+185     FDAD_StorableBank       (38      : FDAD,1    ,0 ) RAW      , 
+713     CLLD_StorableBank       (39      : CLLD,1    ,0 ) RAW      , 
+485     CLAD_StorableBank       (40      : CLAD,1    ,0 ) RAW      , 
+129     CLTD_StorableBank       (41      : CLTD,1    ,1 ) RAW      , 
+293     BMUD_StorableBank       (42      : BMUD,1    ,1 ) RAW      , 
+165     TSUD_StorableBank       (43      : TSUD,1    ,1 ) RAW      , 
+197     BSUD_StorableBank       (44      : BSUD,1    ,1 ) RAW      , 
+325     CMUD_StorableBank       (45      : CMUD,1    ,1 ) RAW      , 
+161     TFRD_StorableBank       (46      : TFRD,1    ,0 ) RAW      , 
+213     TL1D_StorableBank       (47      : TL1D,1    ,0 ) RAW      , 
+82      FastZVertexColl         (50      : ...., ...., .) L3       , COT Standalone 
+70      CdfTrackIdManager       (51      : ...., ...., .) L3       , 
+93      CdfTrackColl            (54      : ...., ...., .) L3       , COT_Global_Tracking 
+70      CdfTrackColl            (55      : ...., ...., .) L3       , PADTracks 
+190     MuonXHitColl            (57      : ...., ...., .) L3       , CMXHits 
+75      MuonStubColl            (58      : ...., ...., .) L3       , BMUStubs 
+83      CesClusterColl          (59      : ...., ...., .) L3       , Track_based_seed 
+488     CesClusterColl          (60      : ...., ...., .) L3       , Strip_based_seed 
+155     FastZVertexColl         (61      : ...., ...., .) L3       , L3MetVertex 
+117     CdfMet                  (63      : ...., ...., .) L3       , MetDefault 
+155     FastZVertexColl         (64      : ...., ...., .) L3       , L3CalVertex 
+109     CdfJetColl              (67      : ...., ...., .) L3       , JetCluModule-cone0.4 
+98      CdfJetColl              (68      : ...., ...., .) L3       , JetCluModule-cone0.7 
+69      CdfEmClusterColl        (70      : ...., ...., .) L3       , 
+77      CdfEmObjectColl         (71      : ...., ...., .) L3       , CalDriven 
+153     L3SummaryObject         (72      : ...., ...., .) L3       , 
+531     PadSqz::COTQ            (73      : ...., ...., .) L3       , PadRaw 
+118     LRIH_StorableBank       (75      : LRIH,0    ,0 ) L3       , L3Filter 
+83      Level3History           (76      : ...., ...., .) RAW      , 
+498     Level3ModuleResults     (77      : ...., ...., .) RAW      , TL3Result 
+-------------------------------------------------------------------------------- 
+Streams : i 
+Number of Level-2 triggers = 17 
+Level-2 trigger bits set in TL2D after prescaling = 15 
+Level-1 trigger bits set in TFRD after prescaling = 13 
+Exit OK from APPConsumerInputModule::nextEvent 
+%ERLOG-s Compression failed:  27-Dec-2005 14:32:27 CST 
+         run = 209396 event = 43540 
+ number of Cdf tracks 0 
+ number of Xft tracks 0 
+ number of SVT tracks 0 
+%ERLOG-e Inconsistent number of blocks and data size: 
+         /cdf/onln/code/b0cdfsoft/cdfsoftb0/6.1.2i/TriggerObjects/src/TCMD_StorableBank.cc 
+        : 346  TCMD  GlobalLibraryLogger TCMD_StorableBank::get_word() 
+         27-Dec-2005 14:32:27 CST run = 209396 event = 43540 
+%ERLOG-e Inconsistent number of blocks and data size: 
+         /cdf/onln/code/b0cdfsoft/cdfsoftb0/6.1.2i/TriggerObjects/src/TCMD_StorableBank.cc 
+        : 346  TCMD  GlobalLibraryLogger TCMD_StorableBank::get_word() 
+         27-Dec-2005 14:32:27 CST run = 209396 event = 43540 
+%ERLOG-e Inconsistent number of blocks and data size: 
+         /cdf/onln/code/b0cdfsoft/cdfsoftb0/6.1.2i/TriggerObjects/src/TCMD_StorableBank.cc 
+        : 346  TCMD  GlobalLibraryLogger TCMD_StorableBank::get_word() 
+         27-Dec-2005 14:32:27 CST run = 209396 event = 43540 
+%ERLOG-e Inconsistent number of blocks and data size: 
+         /cdf/onln/code/b0cdfsoft/cdfsoftb0/6.1.2i/TriggerObjects/src/TCMD_StorableBank.cc 
+        : 346  TCMD  GlobalLibraryLogger TCMD_StorableBank::get_word() 
+         27-Dec-2005 14:32:27 CST run = 209396 event = 43540 
+%ERLOG-e Inconsistent number of blocks and data size: 
+         /cdf/onln/code/b0cdfsoft/cdfsoftb0/6.1.2i/TriggerObjects/src/TCMD_StorableBank.cc 
+        : 346  TCMD  GlobalLibraryLogger TCMD_StorableBank::get_word() 
+         27-Dec-2005 14:32:27 CST run = 209396 event = 43540 
+ number of TOF hits: 0, in both PMTs: 0 
+ number of Phi and Sas Silicon hits 0 
+ number of COT tracks 0 
+ number of COT Hits 28 
+ size of CLC list 1 
+ size of BSC list 1 
+ missing Et 2.44809 
+root [0] %ERLOG-s Abnormal termination: caused by signal:  8 Framework abortJob() 
+         27-Dec-2005 14:32:28 CST run = 209396 event = 43540 
+Calling abortJob for DummyInput... 
+Entering APPConsumerInputModule::terminateIOSystem 
+Exiting APPConsumerInputModule::terminateIOSystem 
+Calling abortJob for FileInput... 
+</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Tue Dec 27 14:40:29 2005 -->
+<pre>Decleared current default cdfsoftb0 release version to be: 
+6.1.2j  (was 6.1.2b).  (these are both RH versions). 
+ 
+ 
+Made start_SubDisplay.sh (they are the same as start_Up... and 
+start_Down...display scripts). 
+Use start_SubDisplay.sh in startDisplay.sh script. 
+ 
+Tested HistoDisplayMain using new current RH version (6.1.2j) 
+on RH machines (now default).  They are fine. 
+ 
+Tested HistoDisplayMain using 6.1.2i (SL version) with 
+b0desktop04.  It was fine. 
+ 
+Event Display startup script is modified to source 
+/cdf/cdf.cshrc.  Now event display is running with 6.1.2j. 
+(current version). 
+ 
+Tested 6.1.2i on b0desktop04.  Crashed (see above entry) 
+ 
+Because we decleared cdfsoftb0 decault to be 6.1.2j, special 
+cosmic YMon (which was running with default) now needed to be 
+specified explicitly.  We changed start_YMon_cosmic_only.sh  
+script. 
+ 
+ 
+</pre>
+<!-- Author: kaori and yoshiaki -->
+
+
+<!-- Date: Tue Dec 27 14:56:13 2005 -->
+<pre>new config of monitors. 
+ 
+BeamMon   b0dap80.fnal.gov    6.1.2j RH   
+DAQErrMon b0server07.fnal.gov 6.1.2i SL   
+DAQMon    b0server07.fnal.gov 6.1.2i SL   
+LumMon    b0dap78.fnal.gov    6.1.2j RH   
+ObjectMon b0server06.fnal.gov 6.1.2i SL   
+SVXMon    b0dap78.fnal.gov    6.1.2j RH   
+SiliMon   b0server06.fnal.gov 6.1.2i SL   
+Stage0_   b0dap81.fnal.gov    6.1.2j RH   
+TrigMon   b0server00.fnal.gov 6.1.2i SL   
+XMon      b0dap80.fnal.gov    6.1.2j RH   
+YMon      b0server06.fnal.gov 6.1.2i SL, cosmic with 6.1.2b!!!   
+ 
+HitoDisplayMain: 6.1.2j RH. 
+EventDisplay 6.1.2j RH. 
+ 
+</pre>
+<!-- Author: kaori and yoshiaki -->
+
+
+<!-- Date: Fri Dec 30 11:10:53 2005 -->
+<pre>Last night, 6.1.2k is built (on b0dap35). 
+This is RH version. 
+This is built to include Arisawa-san's update on HistoDisplayMain: 
+ 
+Hello, 
+ I made new version to set gui and default canvas position. 
+ 
+ 
+2005/12/28  
+HistoDisplay.cc (v.3.101)  
+HistoDisplay.hh (v.3.101)  
+HistoDisplayMain.cc (v.3.101)  
+    1. SetGuiPosition(int x, int y) to set position    
+       of consumer display gui on a monitor.   
+    2. SetCanvasPosition(int x, int y) to set position  
+       of default canvas on a monitor.  
+    3. HistoDisplayMain can be called with options: (including  
+AutoSlideShow)  
+       such as:  
+       "HistoDisplayMain -autoslides -guixy 10 20 -canvasxy 100 40 YMon  
+XMon"  
+ 
+ 
+I put new files in ~arisawa/HistoDisplayDir/CurrentVersion/. 
+ 
+Please test and adjust gui and canvas positions on online computers 
+and put into cvs. 
+ 
+ 
+For upper monitors: 
+"HistoDisplayMain -autoslides -guixy 50 100 -canvasxy 300 150 XXXMon  
+YYYMon ZZZMon ..." 
+ 
+for lower monitors: 
+"HistoDisplayMain -autoslides -guixy 50 1100 -canvasxy 300 1150 XXXMon  
+YYYMon ZZZMon ..." 
+ 
+</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Tue Jan 3 10:50:10 2006 -->
+<pre>Looking into the problem of consumer area getting full: 
+ 
+archive.sh job is having problme since Dec. 12 (or 13th), and 
+not running since: 
+ 
+mv: cannot move `/data1/consumer/log/YMon/YMon_208721_001.log.gz' to `/cdf/cdf-cf-data1/cdf_cf/log/YMon/./YMon_208721_001.log.gz': Permission denied 
+mv: cannot move `/data1/consumer/results/YMon/YMon205496_tmp.root' to `/cdf/cdf-cf-data1/cdf_cf/results/YMon/./YMon205496_tmp.root': Permission denied 
+mv: cannot move `/data1/consumer/results/YMon/YMon205528_tmp.root' to `/cdf/cdf-cf-data1/cdf_cf/results/YMon/./YMon205528_tmp.root': Permission denied 
+etc., etc................... 
+ 
+Run the script from cdfdaq account, then have above problems. 
+Run the script from cdf_cf account by hand. 
+ 
+b0server03:193:~&gt; du -s /data1/consumer/results/TrigMon 
+4448464 /data1/consumer/results/TrigMon 
+b0server03:194:~&gt; du -s /data1/consumer/results/YMon 
+2923000 /data1/consumer/results/YMon 
+b0server03:195:~&gt; du -s /data1/consumer/results/SVXMon 
+14782856        /data1/consumer/results/SVXMon 
+b0server03:196:~&gt; du -s /data1/consumer/results/ 
+30475348        /data1/consumer/results 
+b0server03:197:~&gt; du -s /data1/consumer/results/SiliMon 
+374324  /data1/consumer/results/SiliMon 
+b0server03:198:~&gt; du -s /data1/consumer/results/ObjectMon 
+1569928 /data1/consumer/results/ObjectMon 
+ 
+above are before the script ran.</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Mon Jan 9 09:25:21 2006 -->
+<pre>b0dap56:180:consumer/runarea&gt; du --max-depth=1 /cdf/onln/data/cdfdaq/consumer/runarea 
+1597396 /cdf/onln/data/cdfdaq/consumer/runarea/XMon 
+2075632 /cdf/onln/data/cdfdaq/consumer/runarea/YMon 
+5336    /cdf/onln/data/cdfdaq/consumer/runarea/test 
+107032  /cdf/onln/data/cdfdaq/consumer/runarea/DAQMon 
+1168    /cdf/onln/data/cdfdaq/consumer/runarea/BeamMon 
+663572  /cdf/onln/data/cdfdaq/consumer/runarea/Stage0 
+4       /cdf/onln/data/cdfdaq/consumer/runarea/SVTSPYMon 
+266668  /cdf/onln/data/cdfdaq/consumer/runarea/LumMon 
+603644  /cdf/onln/data/cdfdaq/consumer/runarea/DAQErrMon 
+502088  /cdf/onln/data/cdfdaq/consumer/runarea/SVXMon 
+8854668 /cdf/onln/data/cdfdaq/consumer/runarea/ObjectMon 
+12139272        /cdf/onln/data/cdfdaq/consumer/runarea/TrigMon 
+53112   /cdf/onln/data/cdfdaq/consumer/runarea/CableMon 
+3650012 /cdf/onln/data/cdfdaq/consumer/runarea/SiliMon 
+452     /cdf/onln/data/cdfdaq/consumer/runarea/L3RegionalMon 
+30520072        /cdf/onln/data/cdfdaq/consumer/runarea 
+ 
+b0dap56:181:consumer/runarea&gt; du --max-depth=1 /cdf/onln/data/cdfdaq/consumer/log 
+3448    /cdf/onln/data/cdfdaq/consumer/log/XMon 
+317936  /cdf/onln/data/cdfdaq/consumer/log/YMon 
+64      /cdf/onln/data/cdfdaq/consumer/log/Template 
+432     /cdf/onln/data/cdfdaq/consumer/log/DAQMon 
+206768  /cdf/onln/data/cdfdaq/consumer/log/BeamMon 
+210304  /cdf/onln/data/cdfdaq/consumer/log/Stage0 
+1336    /cdf/onln/data/cdfdaq/consumer/log/LumMon 
+3920    /cdf/onln/data/cdfdaq/consumer/log/DAQErrMon 
+130576  /cdf/onln/data/cdfdaq/consumer/log/SVXMon 
+4       /cdf/onln/data/cdfdaq/consumer/log/ObjectMon 
+4496    /cdf/onln/data/cdfdaq/consumer/log/TrigMon 
+1388    /cdf/onln/data/cdfdaq/consumer/log/ConsumerServlet 
+20      /cdf/onln/data/cdfdaq/consumer/log/SiliMon 
+4       /cdf/onln/data/cdfdaq/consumer/log/L3RegionalMon 
+880700  /cdf/onln/data/cdfdaq/consumer/log 
+ 
+</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Mon Jan 9 09:41:36 2006 -->
+<pre>Example of how the log files are written, filling up the disk 
+under runarea/xxxMon/xxxMon  (not just YMon) 
+ 
+YMon/YMon&gt; ls -ls 
+total 623232 
+  120 -rw-r--r--    1 cdfdaq   cdf        117224 Dec 13 14:06 YMon_208831_001.log 
+    4 -rw-r--r--    1 cdfdaq   cdf          4095 Dec 13 16:53 YMon_208831_002.log 
+    4 -rw-r--r--    1 cdfdaq   cdf          3202 Dec 13 16:53 YMon_208843_001.log 
+    4 -rw-r--r--    1 cdfdaq   cdf          2309 Dec 13 16:53 YMon_208844_001.log 
+    4 -rw-r--r--    1 cdfdaq   cdf          1416 Dec 13 16:53 YMon_208849_001.log 
+ 1904 -rw-r--r--    1 cdfdaq   cdf       1942668 Dec 21 04:19 YMon_209123_001.log 
+    4 -rw-r--r--    1 cdfdaq   cdf          2195 Dec 21 04:19 YMon_209124_001.log 
+    4 -rw-r--r--    1 cdfdaq   cdf          1296 Dec 21 04:19 YMon_209125_001.log 
+    4 -rw-r--r--    1 cdfdaq   cdf           397 Dec 21 04:19 YMon_209126_001.log 
+    4 -rw-r--r--    1 cdfdaq   cdf          1416 Dec 21 04:28 YMon_209147_001.log 
+    4 -rw-r--r--    1 cdfdaq   cdf          1284 Dec 21 04:44 YMon_209147_002.log 
+    4 -rw-r--r--    1 cdfdaq   cdf          1334 Dec 21 04:59 YMon_209148_001.log 
+    4 -rw-r--r--    1 cdfdaq   cdf          1748 Dec 21 05:54 YMon_209148_002.log 
+   20 -rw-r--r--    1 cdfdaq   cdf         18935 Dec 21 06:31 YMon_209149_001.log 
+   12 -rw-r--r--    1 cdfdaq   cdf         11124 Dec 21 06:35 YMon_209149_002.log 
+ 2180 -rw-r--r--    1 cdfdaq   cdf       2223987 Dec 21 09:38 YMon_209149_003.log 
+  508 -rw-r--r--    1 cdfdaq   cdf        514709 Dec 21 10:31 YMon_209149_004.log 
+  120 -rw-r--r--    1 cdfdaq   cdf        115582 Dec 21 11:12 YMon_209149_005.log 
+   60 -rw-r--r--    1 cdfdaq   cdf         53755 Dec 21 11:12 YMon_209155_001.log 
+ 1960 -rw-r--r--    1 cdfdaq   cdf       1999261 Dec 21 15:25 YMon_209155_002.log 
+ 1812 -rw-r--r--    1 cdfdaq   cdf       1850986 Dec 21 15:25 YMon_209159_001.log 
+  984 -rw-r--r--    1 cdfdaq   cdf       1002912 Dec 21 15:25 YMon_209172_001.log 
+  120 -rw-r--r--    1 cdfdaq   cdf        117870 Dec 21 15:25 YMon_209186_001.log 
+  580 -rw-r--r--    1 cdfdaq   cdf        589138 Dec 21 16:49 YMon_209186_002.log 
+    4 -rw-r--r--    1 cdfdaq   cdf          1296 Dec 21 16:49 YMon_209187_001.log 
+ 6096 -rw-r--r--    1 cdfdaq   cdf       6227612 Dec 22 07:21 YMon_209188_001.log 
+ 6096 -rw-r--r--    1 cdfdaq   cdf       6226719 Dec 22 07:21 YMon_209189_001.log 
+ 6028 -rw-r--r--    1 cdfdaq   cdf       6157514 Dec 22 07:21 YMon_209190_001.log 
+ 6028 -rw-r--r--    1 cdfdaq   cdf       6156617 Dec 22 07:21 YMon_209191_001.log 
+    4 -rw-r--r--    1 cdfdaq   cdf          1686 Dec 22 13:14 YMon_209224_001.log 
+    4 -rw-r--r--    1 cdfdaq   cdf          1416 Dec 22 16:28 YMon_209245_001.log 
+14444 -rw-r--r--    1 cdfdaq   cdf      14756602 Dec 23 20:56 YMon_209262_001.log 
+14108 -rw-r--r--    1 cdfdaq   cdf      14414775 Dec 23 20:56 YMon_209263_001.log 
+ 8952 -rw-r--r--    1 cdfdaq   cdf       9144609 Dec 23 20:56 YMon_209264_001.log 
+ 8096 -rw-r--r--    1 cdfdaq   cdf       8271115 Dec 23 20:56 YMon_209265_001.log 
+    4 -rw-r--r--    1 cdfdaq   cdf          1449 Dec 24 01:07 YMon_209314_001.log 
+15856 -rw-r--r--    1 cdfdaq   cdf      16200913 Dec 25 06:57 YMon_209316_001.log 
+ 9660 -rw-r--r--    1 cdfdaq   cdf       9869177 Dec 25 06:57 YMon_209318_001.log 
+    4 -rw-r--r--    1 cdfdaq   cdf          1416 Dec 25 12:53 YMon_209340_001.log 
+ 9232 -rw-r--r--    1 cdfdaq   cdf       9429907 Dec 26 05:54 YMon_209341_001.log 
+    4 -rw-r--r--    1 cdfdaq   cdf          1416 Dec 26 10:43 YMon_209367_001.log 
+    4 -rw-r--r--    1 cdfdaq   cdf          1356 Dec 26 13:57 YMon_209371_001.log 
+12512 -rw-r--r--    1 cdfdaq   cdf      12781349 Dec 27 12:17 YMon_209372_001.log 
+10532 -rw-r--r--    1 cdfdaq   cdf      10757541 Dec 27 12:17 YMon_209373_001.log 
+    4 -rw-r--r--    1 cdfdaq   cdf          1298 Dec 27 12:17 YMon_209374_001.log 
+    4 -rw-r--r--    1 cdfdaq   cdf          1284 Dec 27 17:11 YMon_209397_001.log 
+ 1216 -rw-r--r--    1 cdfdaq   cdf       1238901 Dec 27 19:25 YMon_209399_001.log 
+11332 -rw-r--r--    1 cdfdaq   cdf      11577652 Dec 28 15:20 YMon_209400_001.log 
+10852 -rw-r--r--    1 cdfdaq   cdf      11085768 Dec 28 15:20 YMon_209401_001.log 
+10528 -rw-r--r--    1 cdfdaq   cdf      10752593 Dec 28 15:20 YMon_209402_001.log 
+16848 -rw-r--r--    1 cdfdaq   cdf      17208388 Dec 30 03:04 YMon_209434_001.log 
+16848 -rw-r--r--    1 cdfdaq   cdf      17207495 Dec 30 03:04 YMon_209435_001.log 
+16840 -rw-r--r--    1 cdfdaq   cdf      17200896 Dec 30 03:04 YMon_209436_001.log 
+16016 -rw-r--r--    1 cdfdaq   cdf      16367049 Dec 30 03:04 YMon_209437_001.log 
+ 9208 -rw-r--r--    1 cdfdaq   cdf       9408418 Dec 30 03:04 YMon_209438_001.log 
+ 8980 -rw-r--r--    1 cdfdaq   cdf       9174954 Dec 30 03:04 YMon_209439_001.log 
+ 2240 -rw-r--r--    1 cdfdaq   cdf       2283850 Dec 30 03:04 YMon_209465_001.log 
+    4 -rw-r--r--    1 cdfdaq   cdf          1340 Dec 30 05:23 YMon_209483_001.log 
+ 2384 -rw-r--r--    1 cdfdaq   cdf       2431955 Dec 30 09:45 YMon_209483_002.log 
+ 2384 -rw-r--r--    1 cdfdaq   cdf       2432835 Dec 30 09:45 YMon_209484_001.log 
+ 2180 -rw-r--r--    1 cdfdaq   cdf       2223807 Dec 30 09:45 YMon_209485_001.log 
+ 1352 -rw-r--r--    1 cdfdaq   cdf       1379929 Dec 30 09:45 YMon_209486_001.log 
+ 7036 -rw-r--r--    1 cdfdaq   cdf       7186231 Dec 31 01:36 YMon_209487_001.log 
+ 7036 -rw-r--r--    1 cdfdaq   cdf       7186231 Dec 31 01:36 YMon_209488_001.log 
+ 7036 -rw-r--r--    1 cdfdaq   cdf       7185332 Dec 31 01:36 YMon_209489_001.log 
+ 6640 -rw-r--r--    1 cdfdaq   cdf       6780482 Dec 31 16:59 YMon_209489_002.log 
+ 6040 -rw-r--r--    1 cdfdaq   cdf       6170260 Dec 31 16:59 YMon_209491_001.log 
+ 4620 -rw-r--r--    1 cdfdaq   cdf       4715299 Dec 31 16:59 YMon_209492_001.log 
+ 3664 -rw-r--r--    1 cdfdaq   cdf       3741768 Dec 31 16:59 YMon_209494_001.log 
+ 3320 -rw-r--r--    1 cdfdaq   cdf       3391251 Dec 31 16:59 YMon_209495_001.log 
+ 3320 -rw-r--r--    1 cdfdaq   cdf       3390356 Dec 31 16:59 YMon_209496_001.log 
+ 3320 -rw-r--r--    1 cdfdaq   cdf       3387446 Dec 31 16:59 YMon_209498_001.log 
+ 2732 -rw-r--r--    1 cdfdaq   cdf       2786072 Dec 31 16:59 YMon_209499_001.log 
+ 2732 -rw-r--r--    1 cdfdaq   cdf       2786072 Dec 31 16:59 YMon_209501_001.log 
+   20 -rw-r--r--    1 cdfdaq   cdf         19776 Dec 31 16:59 YMon_209502_001.log 
+    4 -rw-r--r--    1 cdfdaq   cdf          1416 Dec 31 18:39 YMon_209504_001.log 
+    4 -rw-r--r--    1 cdfdaq   cdf          1416 Dec 31 18:49 YMon_209504_002.log 
+14752 -rw-r--r--    1 cdfdaq   cdf      15069906 Jan  1 21:03 YMon_209504_003.log 
+14748 -rw-r--r--    1 cdfdaq   cdf      15069013 Jan  1 21:03 YMon_209505_001.log 
+14748 -rw-r--r--    1 cdfdaq   cdf      15068120 Jan  1 21:03 YMon_209506_001.log 
+13868 -rw-r--r--    1 cdfdaq   cdf      14168620 Jan  1 21:03 YMon_209507_001.log 
+ 3560 -rw-r--r--    1 cdfdaq   cdf       3636199 Jan  1 21:03 YMon_209508_001.log 
+........... so on</pre>
+<!-- Author: kaori -->
+<!-- Comment: Mon Jan  9 09;43;05 comment by...kaori -->
+<pre>need to look into why it is created so much (same time, 
+duplicated files with slight differences...), and not been
+cleaned up...</pre>
+
+
+<!-- Date: Mon Jan 9 09:45:28 2006 -->
+<pre>after cleaned up YMon, TrigMon, SiliMon, ObjectMon area by hand: 
+ 
+b0dap56:291:YMon/YMon&gt; du --max-depth=1 /cdf/onln/data/cdfdaq/consumer/runarea  
+1597404 /cdf/onln/data/cdfdaq/consumer/runarea/XMon 
+13692   /cdf/onln/data/cdfdaq/consumer/runarea/YMon 
+5336    /cdf/onln/data/cdfdaq/consumer/runarea/test 
+115244  /cdf/onln/data/cdfdaq/consumer/runarea/DAQMon 
+1172    /cdf/onln/data/cdfdaq/consumer/runarea/BeamMon 
+663576  /cdf/onln/data/cdfdaq/consumer/runarea/Stage0 
+4       /cdf/onln/data/cdfdaq/consumer/runarea/SVTSPYMon 
+266700  /cdf/onln/data/cdfdaq/consumer/runarea/LumMon 
+603644  /cdf/onln/data/cdfdaq/consumer/runarea/DAQErrMon 
+502116  /cdf/onln/data/cdfdaq/consumer/runarea/SVXMon 
+13808   /cdf/onln/data/cdfdaq/consumer/runarea/ObjectMon 
+224244  /cdf/onln/data/cdfdaq/consumer/runarea/TrigMon 
+53112   /cdf/onln/data/cdfdaq/consumer/runarea/CableMon 
+30512   /cdf/onln/data/cdfdaq/consumer/runarea/SiliMon 
+452     /cdf/onln/data/cdfdaq/consumer/runarea/L3RegionalMon 
+4091032 /cdf/onln/data/cdfdaq/consumer/runarea 
+</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Tue Jan 10 16:17:53 2006 -->
+<pre>With Stephan's help, made ConsumerFramework binary and YMon with 
+new setup on SL machine. 
+ 
+    23  15:43   set RELEASE = 6.1.2 
+    24  15:43   echo $RELEASE 
+    25  15:43   source /cdf/cdf.cshrc 
+    26  15:43   setup merlin 
+    27  15:43   setup cdfsoft2 $RELEASE 
+    28  15:43   rm -rf testrel 
+    29  15:44   newrel -t $RELEASE testrel 
+    30  15:44   cd testrel 
+    31  15:44   addpkg -h Consumer 
+    32  15:45   addpkg -h ConsumerFramework 
+    33  15:45   gmake ConsumerFramework.nobin 
+     
+    35  15:46   gmake ConsumerFramework.tbin 
+    36  15:49   gmake Consumer.ymon 
+ 
+------- 
+key think is to setup merlin before setup cdfsoft2. 
+</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Tue Jan 10 16:20:33 2006 -->
+<pre>made etc directry under cdfdaq. 
+ 
+crontab.txt now looks: 
+ 
+b0gateway:192:~/etc&gt; more crontab.txt 
+MAILTO=salto@fnal.gov,maeshima@fnal.gov 
+15 7,12,16 * * *        /cdf/onln/home/cdfdaq/DQMon/renew_DQMon_RunSummary.tcsh &gt;& /dev/null 
+0 6 * * 1,3,5           /cdf/onln/home/cdfdaq/DQMon/renew_BitsRunComp.tcsh &gt;& /dev/null 
+04 0,4,8,12,16,20 * * * /cdf/onln/home/cdf_cf/scripts/archive.sh 1&gt;/dev/null 2&gt;&1 
+</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Fri Jan 13 12:28:12 2006 -->
+<pre>making new releases: 
+ 
+6.1.2m:  on b0gateway 
+6.1.2n:  on b0dap35</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Fri Jan 13 15:46:15 2006 -->
+<pre>cdfsoftb0 6.1.2m and n built failed in DAQErrMon 
+ 
+&lt;**building**&gt; DAQErrMon 
+/cdf/onln/code/cdfprod/smartsockets/v5_5/lib/i86_linux/static/libCType.a(.rodata+0xb120): multiple definition of `_nl_C_LC_CTYPE' 
+/cdf/onln/code/cdfprod/smartsockets/v5_5/lib/i86_linux/static/libCType.a(.rodata+0xb120): first defined here 
+/cdf/onln/code/cdfprod/smartsockets/v5_5/lib/i86_linux/static/libCType.a(.rodata+0xad00): multiple definition of `_nl_C_LC_CTYPE_class_print' 
+/cdf/onln/code/cdfprod/smartsockets/v5_5/lib/i86_linux/static/libCType.a(.rodata+0xad00): first defined here 
+/cdf/onln/code/cdfprod/smartsockets/v5_5/lib/i86_linux/static/libCType.a(.data+0x58): multiple definition of `__ctype32_width' 
+/cdf/onln/code/cdfprod/smartsockets/v5_5/lib/i86_linux/static/libCType.a(.data+0x58): first defined here 
+/cdf/onln/code/cdfprod/smartsockets/v5_5/lib/i86_linux/static/libCType.a(.rodata+0xaac0): multiple definition of `_nl_C_LC_CTYPE_class_upper' 
+/cdf/onln/code/cdfprod/smartsockets/v5_5/lib/i86_linux/static/libCType.a(.rodata+0xaac0): first defined here 
+/cdf/onln/code/cdfprod/smartsockets/v5_5/lib/i86_linux/static/libCType.a(.rodata+0xb0c0): multiple definition of `_nl_C_LC_CTYPE_width' 
+/cdf/onln/code/cdfprod/smartsockets/v5_5/lib/i86_linux/static/libCType.a(.rodata+0xb0c0): first defined here 
+............ 
+CTYPE_class_lower' 
+/cdf/onln/code/cdfprod/smartsockets/v5_5/lib/i86_linux/static/libCType.a(.rodata+0xab20): first defined here 
+/cdf/onln/code/cdfprod/smartsockets/v5_5/lib/i86_linux/static/libCType.a(.data+0x8): multiple definition of `__ctype_tolower' 
+/cdf/onln/code/cdfprod/smartsockets/v5_5/lib/i86_linux/static/libCType.a(.data+0x8): first defined here 
+/cdf/onln/code/cdfprod/smartsockets/v5_5/lib/i86_linux/static/libCType.a(.rodata+0xab80): multiple definition of `_nl_C_LC_CTYPE_class_alpha' 
+/cdf/onln/code/cdfprod/smartsockets/v5_5/lib/i86_linux/static/libCType.a(.rodata+0xab80): first defined here 
+collect2: ld returned 1 exit status 
+gmake[2]: *** [/cdf/onln/code/b0cdfsoft/cdfsoftb0/6.1.2m/bin/Linux2_SL-GCC_3_4/DAQErrMon] Error 1 
+gmake[2]: Target `bin' not remade because of errors. 
+gmake[1]: *** [DAQErrMon.bin] Error 2</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Wed Jan 18 12:53:51 2006 -->
+<pre>deleted 6.1.2m and 6.1.2n and trying them again, after Bill 
+replaced back GNUmakefile in DAQErrMon. 
+ 
+Both re-newed 6.1.2m (SL) and 6.1.2n (RH) are built successfully 
+(though I still need to replace GNUmakefile in 
+RootMods/example/mon 
+ 
+need to be tested. 
+Need to deal with tcl files carefully, especially 
+LumMon, and DAQMon.</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Wed Jan 18 22:12:25 2006 -->
+<pre>testing 6.1.2m (SL) and 6.1.2n 
+ 
+YMon was running 6.1.2b for cosmic on (RH), and 6.1.2i (SL) for beam.  Now set YMon to run 6.1.2m (SL) for both. 
+ 
+SiliMon fails reading perl script. </pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Wed Jan 18 22:13:50 2006 -->
+<pre>modified tcl of SiliMon (cosmic)  
+ 
+if { [catch {exec perl ./Consumer/SiliMon/getSiliStatus.pl $env(SILISTATUSFILE)} status] !=0} { 
+    puts "Script failed. Please notify Giulia: manca@fnal.gov" 
+    puts "Diagnostic error : $status" 
+    return 
+} 
+ 
+in Consumer/SiliMon area. 
+This must be fixed in more permanent way.</pre>
+<!-- Author: kaori -->
+<!-- Comment: Wed Jan 18 22;52;31 comment by...klaori -->
+<pre>ok.   I did not switched to the new release tcl.
+With that, it runs fine.  forget what I said above.</pre>
+<!-- Date: Wed Jan 18 22:49:50 2006 -->
+<pre>SVXMon 
+ 
+tried 6.1.2m. in cosmic 
+switched tcl.... 
+ 
+ field is  NON-UNIFORM  
+Tcl file: from release. 
+Directory /cdf/svx/data1/svxmon/RunArea is not writable 
+AC++&gt;  
+---- 
+ 
+will go back to RH.  6.1.2n</pre>
+<!-- Author: kaori -->
+
+
+
+<!-- Date: Wed Jan 18 23:09:02 2006 -->
+<pre>Woking on LumMon. 
+ 
+Tcl file Consumer/LumMon was there.  copy that to runarea/LumMon 
+as runLumMon.tcl_612j, and also copy to cdfdaq/kaori for safety. 
+Then destroy the structure of Consumer/LumMon. 
+ 
+switch LumMon to run on b0dap08 using 6.1.2m. 
+ 
+seems to be running ok with cosmic.</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Wed Jan 18 23:25:50 2006 -->
+<pre>starting XMon partition 0 on b0server08 
+starting YMon partition 0 on b0server06 
+starting SiliMon partition 0 on b0server06 
+starting LumMon partition 0 on b0server08 
+starting TrigMon partition 0 on b0server07 
+starting Stage0 partition 0 on b0server06 
+starting SVXMon partition 0 on b0dap78 
+starting ObjectMon partition 0 on b0server06 
+starting BeamMon partition 0 on b0dap80 
+starting DAQErrMon partition 0 on b0server07 
+starting DAQMon partition 0 on b0server07 
+  
+ 
+all right.  one more to go --- BeamMon</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Wed Jan 18 23:43:04 2006 -->
+<pre>taking care of Display 
+ 
+b0dap51:238:~/consumer_scripts&gt; cp startDisplay.sh startDisplay.sh.01192006 
+b0dap51:239:~/consumer_scripts&gt; cp start_SubDisplay.sh start_SubDisplay.sh.01192006 
+b0dap51:240:~/consumer_scripts&gt; cp startDisplay_new.sh startDisplay.sh 
+b0dap51:241:~/consumer_scripts&gt; cp start_SubDisplay_new.sh start_SubDisplay.sh 
+b0dap51:242:~/consumer_scripts&gt; xemacs startDisplay.sh & 
+b0dap51:243:~/consumer_scripts&gt; xemacs start_SubDisplay.sh &</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Thu Jan 19 00:17:29 2006 -->
+<pre>summary: 
+ 
+Worked on online monitors trying to run the new versions on SL   
+machines.  The new cdfsoftb0 versions built this morning were:  
+6.1.2m (for SL) and 6.1.2n (for RH).  We still need to build on RH  
+because:  
+1) not all the monitors were running on SL, yet.  
+2) PCs in the control rooms are still RH, so event-display and  
+   HistoDisplay are running under RH.  
+ 
+Until today, we were running:  
+BeamMon   b0dap80.fnal.gov    6.1.2j RH     
+DAQErrMon b0server07.fnal.gov 6.1.2i SL     
+DAQMon    b0server07.fnal.gov 6.1.2i SL     
+LumMon    b0dap78.fnal.gov    6.1.2j RH     
+ObjectMon b0server06.fnal.gov 6.1.2i SL     
+SVXMon    b0dap78.fnal.gov    6.1.2j RH     
+SiliMon   b0server06.fnal.gov 6.1.2i SL     
+Stage0_   b0dap81.fnal.gov    6.1.2j RH     
+TrigMon   b0server00.fnal.gov 6.1.2i SL     
+XMon      b0dap80.fnal.gov    6.1.2j RH     
+YMon      b0server06.fnal.gov 6.1.2i SL, cosmic with 6.1.2b!!!     
+ 
+HitoDisplayMain: 6.1.2j RH.   
+EventDisplay 6.1.2j RH.   
+===================  
+Starting today, new config is:  
+ 
+XMon on b0server08   
+YMon on b0server06   
+SiliMon on b0server06   
+LumMon on b0server08   
+TrigMon on b0server07   
+Stage0 on b0server06   
+SVXMon on b0dap78   
+ObjectMon on b0server06   
+BeamMon on b0server08   
+DAQErrMon on b0server07   
+DAQMon on b0server07   
+ 
+HitoDisplayMain: 6.1.2n RH.   
+EventDisplay 6.1.2n RH.   
+ 
+SVXMon still has a problem running on SL.  (more in cdfsoftb0-elog)  
+All the rest of monitors are running on SL machines (6.1.2m).  
+However, we know there are some problems to be fixed before  
+beam runs.  (for example, Stage0 has a problem writing DB.).  
+LumMon, XMon have not been tested with beam runs and they should  
+be varified with beam, later.  
+ 
+HistoDisplay is now set to start the newest version, which open   
+the windows in the right place and starts up slide shows automatically.  
+ 
+Problem with YMon in the cosmic run is now fixed with the new version.  So, there are no need to run 
+the special startup script  
+ 
+for the YMon cosmic runs. </pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Fri Jan 20 12:10:13 2006 -->
+<pre>Hi Kaori, 
+ 
+cdfdaq account is out of quota on the /cdf/onln/data disk --  
+could you please clean up the /cdf/onln/data/cdfdaq/consumer  
+area? 
+ 
+Thanks, 
+Bil 
+ 
+------- 
+b0dap72:231:~&gt; du --max-depth=1 /cdf/onln/data/cdfdaq/consumer/ 
+7080    /cdf/onln/data/cdfdaq/consumer/doc 
+9813260 /cdf/onln/data/cdfdaq/consumer/log 
+229040  /cdf/onln/data/cdfdaq/consumer/data 
+85496   /cdf/onln/data/cdfdaq/consumer/root 
+36      /cdf/onln/data/cdfdaq/consumer/labels 
+11484   /cdf/onln/data/cdfdaq/consumer/DisplayServer 
+30694804        /cdf/onln/data/cdfdaq/consumer/results 
+5100    /cdf/onln/data/cdfdaq/consumer/data2 
+2014588 /cdf/onln/data/cdfdaq/consumer/CotValidation 
+168212  /cdf/onln/data/cdfdaq/consumer/referenceFiles 
+574576  /cdf/onln/data/cdfdaq/consumer/keep_results 
+63586240        /cdf/onln/data/cdfdaq/consumer/runarea 
+107189940       /cdf/onln/data/cdfdaq/consumer 
+ 
+b0dap72:230:~&gt; du --max-depth=1 /cdf/onln/data/cdfdaq/consumer/runarea 
+689460  /cdf/onln/data/cdfdaq/consumer/runarea/XMon 
+4206072 /cdf/onln/data/cdfdaq/consumer/runarea/YMon 
+5336    /cdf/onln/data/cdfdaq/consumer/runarea/test 
+266692  /cdf/onln/data/cdfdaq/consumer/runarea/DAQMon 
+1276904 /cdf/onln/data/cdfdaq/consumer/runarea/BeamMon 
+8435400 /cdf/onln/data/cdfdaq/consumer/runarea/Stage0 
+4       /cdf/onln/data/cdfdaq/consumer/runarea/SVTSPYMon 
+2933752 /cdf/onln/data/cdfdaq/consumer/runarea/LumMon 
+2051532 /cdf/onln/data/cdfdaq/consumer/runarea/DAQErrMon 
+461412  /cdf/onln/data/cdfdaq/consumer/runarea/SVXMon 
+8106120 /cdf/onln/data/cdfdaq/consumer/runarea/ObjectMon 
+31945696        /cdf/onln/data/cdfdaq/consumer/runarea/TrigMon 
+53112   /cdf/onln/data/cdfdaq/consumer/runarea/CableMon 
+3131500 /cdf/onln/data/cdfdaq/consumer/runarea/SiliMon 
+460     /cdf/onln/data/cdfdaq/consumer/runarea/L3RegionalMon 
+63563468        /cdf/onln/data/cdfdaq/consumer/runarea 
+ 
+b0dap72:249:~&gt; du --max-depth=2 /cdf/onln/data/cdfdaq/consumer/runarea/TrigMon 
+1152    /cdf/onln/data/cdfdaq/consumer/runarea/TrigMon/Consumer/TrigMon 
+1156    /cdf/onln/data/cdfdaq/consumer/runarea/TrigMon/Consumer 
+9383276 /cdf/onln/data/cdfdaq/consumer/runarea/TrigMon/TrigMon 
+120     /cdf/onln/data/cdfdaq/consumer/runarea/TrigMon/tcl_archive 
+31945696        /cdf/onln/data/cdfdaq/consumer/runarea/TrigMon 
+ 
+------- 
+above are as is, before the clean up. 
+-------- 
+</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Fri Jan 20 12:32:07 2006 -->
+<pre>doing archive.ch from cdfdaq account. (not quite finished but 
+mostly done). 
+ 
+Also delete all the log files in runarea/xxxxxxMon/xxxxxxMon area. 
+After that, 
+ 
+ 
+b0dap72:283:consumer/runarea&gt; du --max-depth=1 /cdf/onln/data/cdfdaq/consumer/runarea/ 
+135052  /cdf/onln/data/cdfdaq/consumer/runarea/XMon 
+2948    /cdf/onln/data/cdfdaq/consumer/runarea/YMon 
+5336    /cdf/onln/data/cdfdaq/consumer/runarea/test 
+273428  /cdf/onln/data/cdfdaq/consumer/runarea/DAQMon 
+2024    /cdf/onln/data/cdfdaq/consumer/runarea/BeamMon 
+1568    /cdf/onln/data/cdfdaq/consumer/runarea/Stage0 
+4       /cdf/onln/data/cdfdaq/consumer/runarea/SVTSPYMon 
+3679348 /cdf/onln/data/cdfdaq/consumer/runarea/LumMon 
+8660    /cdf/onln/data/cdfdaq/consumer/runarea/DAQErrMon 
+79444   /cdf/onln/data/cdfdaq/consumer/runarea/SVXMon 
+2584    /cdf/onln/data/cdfdaq/consumer/runarea/ObjectMon 
+10656   /cdf/onln/data/cdfdaq/consumer/runarea/TrigMon 
+53112   /cdf/onln/data/cdfdaq/consumer/runarea/CableMon 
+2228    /cdf/onln/data/cdfdaq/consumer/runarea/SiliMon 
+460     /cdf/onln/data/cdfdaq/consumer/runarea/L3RegionalMon 
+4256868 /cdf/onln/data/cdfdaq/consumer/runarea 
+ 
+b0dap72:284:consumer/runarea&gt; du --max-depth=1 /cdf/onln/data/cdfdaq/consumer/ 
+7080    /cdf/onln/data/cdfdaq/consumer/doc 
+6680668 /cdf/onln/data/cdfdaq/consumer/log 
+229040  /cdf/onln/data/cdfdaq/consumer/data 
+85496   /cdf/onln/data/cdfdaq/consumer/root 
+36      /cdf/onln/data/cdfdaq/consumer/labels 
+11484   /cdf/onln/data/cdfdaq/consumer/DisplayServer 
+30694956        /cdf/onln/data/cdfdaq/consumer/results 
+5100    /cdf/onln/data/cdfdaq/consumer/data2 
+2014588 /cdf/onln/data/cdfdaq/consumer/CotValidation 
+168212  /cdf/onln/data/cdfdaq/consumer/referenceFiles 
+574576  /cdf/onln/data/cdfdaq/consumer/keep_results 
+4330084 /cdf/onln/data/cdfdaq/consumer/runarea 
+44801344        /cdf/onln/data/cdfdaq/consumer 
+ 
+ 
+</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Mon Jan 23 16:08:19 2006 -->
+<pre>making new cdfsoftb0 releases. 
+ 
+6.1.2o  --- SL 
+6.1.2p  --- RH 
+with same patch file contents.</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Tue Jan 24 11:40:50 2006 -->
+<pre>Going to test 6.1.2o (SL) and 6.1.2p (RH). 
+ 
+b0dap51:237:~/junji/ryo_script&gt; saveTo.sh All 6.1.2m 
+saveTo.sh: /cdf/onln/home/cdfdaq/consumer_scripts: is a directory 
+we copy runXMon.tcl file and then save to 6.1.2m 
+we copy runYMon_physics.tcl file and then save to 6.1.2m 
+we copy runYMon_cosmic.tcl file and then save to 6.1.2m 
+we copy runTrigMon.tcl file and then save to 6.1.2m 
+we copy runStage0_physics.tcl file and then save to 6.1.2m 
+we copy runStage0_cosmic.tcl file and then save to 6.1.2m 
+we copy runSiliMonPHYSCIS.tcl file and then save to 6.1.2m 
+we copy runSiliMonCOSMICS.tcl file and then save to 6.1.2m 
+we copy runBeamMon_physics.tcl file and then save to 6.1.2m 
+we copy runBeamMon_cosmic.tcl file and then save to 6.1.2m 
+we copy runDAQErrMon_physics.tcl file and then save to 6.1.2m 
+we copy runDAQErrMon_cosmic.tcl file and then save to 6.1.2m 
+we copy runObjectMon_physics.tcl file and then save to 6.1.2m 
+we copy runObjectMon_cosmic.tcl file and then save to 6.1.2m 
+we copy runL3RegionalMon.tcl file and then save to 6.1.2m 
+</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Tue Jan 24 11:42:13 2006 -->
+<pre>b0dap51:240:~/junji/ryo_script&gt; switchRelease.sh All 6.1.2o COSMIC 
+  
+This script changes each tcl file and then switch Consumer Monitor as 6.1.2o. 
+  
+we changes runYMon_physics.tcl file newly 
+we changes runBeamMon_physics.tcl file newly 
+we changes runDAQErrMon_physics.tcl file newly 
+we changes runObjectMon_physics.tcl file newly 
+</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Tue Jan 24 12:24:24 2006 -->
+<pre>copy startMon.sh to startMon.sh_org. 
+ 
+Edit startMon.sh to run with 6.1.2o where 6.1.2m was running. 
+Make no change running SVXMon. 
+No change in 'current'. 
+So, SVXMon, EventDisplay, HistoDisplay are still running 6.1.2n. 
+ 
+But all SL monitors are now running with the new release 6.1.2o. 
+ 
+ 
+b0dap51:252:~/consumer_scripts&gt; runCosmic.sh 
+ 
+b0dap51:253:~/consumer_scripts&gt; startMon.sh All 0 
+  
+This script should be executed by a Consumer Operator 
+  
+starting XMon partition 0 on b0server08 
+starting YMon partition 0 on b0server06 
+starting SiliMon partition 0 on b0server06 
+starting LumMon partition 0 on b0server08 
+starting TrigMon partition 0 on b0server07 
+starting Stage0 partition 0 on b0server06 
+starting SVXMon partition 0 on b0dap78 
+starting ObjectMon partition 0 on b0server06 
+starting BeamMon partition 0 on b0server08 
+starting DAQErrMon partition 0 on b0server07 
+starting DAQMon partition 0 on b0server07 
+</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Sat Jan 28 15:34:56 2006 -->
+<pre>Was paged, because YMon was crashing. 
+YMon was appearently running ok, with beam.  Now, we are in low lum 
+and still have beam.  YMon has been running on b0server06. 
+But started crashing (CO person's report). 
+It seems that the crashing started around 13:47 today. 
+ 
+Log file looks: 
+ 
+         ======================================================= 
+ 
+         Error Log established 
+         28-Jan-2006 15:01:28 CST 
+ 
+         ======================================================= 
+          
+%ERLOG-s DBSTALE: Attempt to access stale data held by DB handle 
+         Class =   
+         13DataContainerI13CALDigiToGeV3St4lessIS0_ESaIS0_EE  DBManager/Handle  
+         28-Jan-2006 15:01:28 CST run = 0 event = 0 
+sendString = YMon|28660@b0server06.fnal.gov$DBManager/Handle$$DBSTALE$11$0/0$run = 0 event = 0$run = 0 event = 0$Attempt to access stale data held by DB handle 
+ $Class =  $13DataContainerI13CALDigiToGeV3St4lessIS0_ESaIS0_EE $ 
+$END 
+%ERLOG-s DBSTALE: Attempt to access stale data held by DB handle 
+         Class =   
+         13DataContainerI13CALDigiToGeV3St4lessIS0_ESaIS0_EE  DBManager/Handle  
+         28-Jan-2006 15:01:29 CST run = 0 event = 0 
+sendString = YMon|28660@b0server06.fnal.gov$DBManager/Handle$$DBSTALE$11$0/0$run = 0 event = 0$run = 0 event = 0$Attempt to access stale data held by DB handle 
+ $Class =  $13DataContainerI13CALDigiToGeV3St4lessIS0_ESaIS0_EE $ 
+$END 
+%ERLOG-s DBSTALE: Attempt to access stale data held by DB handle 
+         Class =   
+         13DataContainerI13CALDigiToGeV3St4lessIS0_ESaIS0_EE  DBManager/Handle  
+         28-Jan-2006 15:01:29 CST run = 0 event = 0 
+sendString = YMon|28660@b0server06.fnal.gov$DBManager/Handle$$DBSTALE$11$0/0$run = 0 event = 0$run = 0 event = 0$Attempt to access stale data held by DB handle 
+ $Class =  $13DataContainerI13CALDigiToGeV3St4lessIS0_ESaIS0_EE $ 
+$END 
+%ERLOG-s DBSTALE: Attempt to access stale data held by DB handle 
+         Class =   
+         13DataContainerI13CALDigiToGeV3St4lessIS0_ESaIS0_EE  DBManager/Handle  
+         28-Jan-2006 15:01:29 CST run = 0 event = 0 
+sendString = YMon|28660@b0server06.fnal.gov$DBManager/Handle$$DBSTALE$11$0/0$run = 0 event = 0$run = 0 event = 0$Attempt to access stale data held by DB handle 
+ $Class =  $13DataContainerI13CALDigiToGeV3St4lessIS0_ESaIS0_EE $ 
+$END 
+%ERLOG-s DBSTALE: Attempt to access stale data held by DB handle 
+         Class =   
+         13DataContainerI13CALDigiToGeV3St4lessIS0_ESaIS0_EE  DBManager/Handle  
+         28-Jan-2006 15:01:29 CST run = 0 event = 0 
+sendString = YMon|28660@b0server06.fnal.gov$DBManager/Handle$$DBSTALE$11$0/0$run = 0 event = 0$run = 0 event = 0$Attempt to access stale data held by DB handle 
+ $Class =  $13DataContainerI13CALDigiToGeV3St4lessIS0_ESaIS0_EE $ 
+$END 
+%ERLOG-s Abnormal termination: caused by signal:  8 Framework abortJob()  
+         28-Jan-2006 15:01:29 CST run = 0 event = 0 
+sendString = YMon|28660@b0server06.fnal.gov$Framework$abortJob$Abnormal termination$11$0/0$run = 0 event = 0$run = 0 event = 0$caused by signal:  $8$ 
+$END 
+Calling abortJob for DummyInput... 
+ 
+ 
+gdb is useless: 
+There is absolutely no warranty for GDB.  Type "show warranty" for details. 
+This GDB was configured as "i686-pc-linux-gnu"..."/cdf/onln/data/cdfdaq/consumer/runarea/YMon/YMon": not in executable format: Is a directory 
+ 
+Core was generated by `YMon Consumer/YMon/runYMon.tcl'. 
+Program terminated with signal 11, Segmentation fault. 
+#0  0xb4da65bb in ?? () 
+(gdb) where 
+#0  0xb4da65bb in ?? () 
+#1  0xb4dc7f24 in ?? () 
+#2  0xb63acd9b in ?? () 
+#3  0xb63acf7b in ?? () 
+ 
+------------ 
+Change machine from b0server06 to b0dap78, running the 
+same release, 6.1.2q with RH. 
+ 
+Then it runs without crashing. 
+ 
+------ 
+The log file which is currently running (on b0dap78) is: 
+         ======================================================= 
+ 
+         Error Log established 
+         28-Jan-2006 15:09:25 CST 
+ 
+         ======================================================= 
+          
+%ERLOG-s DBSTALE: Attempt to access stale data held by DB handle 
+         Class =   
+         13DataContainerI13CALDigiToGeV3St4lessIS0_ESaIS0_EE  DBManager/Handle  
+         28-Jan-2006 15:09:25 CST run = 0 event = 0 
+sendString = YMon|5199@b0dap78.fnal.gov$DBManager/Handle$$DBSTALE$11$0/0$run = 0 event = 0$run = 0 event = 0$Attempt to access stale data held by DB handle 
+ $Class =  $13DataContainerI13CALDigiToGeV3St4lessIS0_ESaIS0_EE $ 
+$END 
+%ERLOG-s DBSTALE: Attempt to access stale data held by DB handle 
+         Class =   
+         13DataContainerI13CALDigiToGeV3St4lessIS0_ESaIS0_EE  DBManager/Handle  
+         28-Jan-2006 15:09:25 CST run = 0 event = 0 
+sendString = YMon|5199@b0dap78.fnal.gov$DBManager/Handle$$DBSTALE$11$0/0$run = 0 event = 0$run = 0 event = 0$Attempt to access stale data held by DB handle 
+ $Class =  $13DataContainerI13CALDigiToGeV3St4lessIS0_ESaIS0_EE $ 
+$END 
+%ERLOG-s DBSTALE: Attempt to access stale data held by DB handle 
+         Class =   
+         13DataContainerI13CALDigiToGeV3St4lessIS0_ESaIS0_EE  DBManager/Handle  
+         28-Jan-2006 15:09:26 CST run = 0 event = 0 
+sendString = YMon|5199@b0dap78.fnal.gov$DBManager/Handle$$DBSTALE$11$0/0$run = 0 event = 0$run = 0 event = 0$Attempt to access stale data held by DB handle 
+ $Class =  $13DataContainerI13CALDigiToGeV3St4lessIS0_ESaIS0_EE $ 
+$END 
+%ERLOG-s DBSTALE: Attempt to access stale data held by DB handle 
+         Class =   
+         13DataContainerI13CALDigiToGeV3St4lessIS0_ESaIS0_EE  DBManager/Handle  
+         28-Jan-2006 15:09:26 CST run = 0 event = 0 
+sendString = YMon|5199@b0dap78.fnal.gov$DBManager/Handle$$DBSTALE$11$0/0$run = 0 event = 0$run = 0 event = 0$Attempt to access stale data held by DB handle 
+ $Class =  $13DataContainerI13CALDigiToGeV3St4lessIS0_ESaIS0_EE $ 
+$EN%ERLOG-s DBSTALE: Attempt to access stale data held by DB handle 
+         Class =   
+         13DataContainerI13CALDigiToGeV3St4lessIS0_ESaIS0_EE  DBManager/Handle  
+         28-Jan-2006 15:09:26 CST run = 0 event = 0 
+sendString = YMon|5199@b0dap78.fnal.gov$DBManager/Handle$$DBSTALE$11$0/0$run = 0 event = 0$run = 0 event = 0$Attempt to access stale data held by DB handle 
+ $Class =  $13DataContainerI13CALDigiToGeV3St4lessIS0_ESaIS0_EE $ 
+$END 
+%ERLOG-s DBSTALE: Attempt to access stale data held by DB handle 
+         Class =   
+         13DataContainerI13CALDigiToGeV3St4lessIS0_ESaIS0_EE  DBManager/Handle  
+         28-Jan-2006 15:09:26 CST run = 0 event = 0 
+sendString = YMon|5199@b0dap78.fnal.gov$DBManager/Handle$$DBSTALE$11$0/0$run = 0 event = 0$run = 0 event = 0$Attempt to access stale data held by DB handle 
+ $Class =  $13DataContainerI13CALDigiToGeV3St4lessIS0_ESaIS0_EE $ 
+$END 
+ Connected to database_oracle_online 
+DBEventLogger::OTLConnect(cdf_reader/xxxxx@cdfonprd) 
+Container size = 36576 
+%ERLOG-e COT Monitor: Wasn't able to read in hotchan file!  YMonModule COT()  
+         28-Jan-2006 15:09:31 CST run = 0 event = 0 
+sendString = YMon|5199@b0dap78.fnal.gov$YMonModule$COT$COT Monitor$7$0/0$run = 0 event = 0$run = 0 event = 0$Wasn't able to read in hotchan file! $ 
+$END 
+%ERLOG-e ROOT/THistPainter:  
+         log scale is requested but maximum is less or equal 0 (0.000000)   
+         GlobalLibraryLogger THistPainter::PaintInit() 28-Jan-2006 15:09:33 CST  
+         run = 0 event = 0 
+%ERLOG-e ROOT/THistPainter:  
+         log scale is requested but maximum is less or equal 0 (0.000000)   
+         GlobalLibraryLogger THistPainter::PaintInit() 28-Jan-2006 15:09:33 CST  
+         run = 0 event = 0 
+%ERLOG-e ROOT/THistPainter:  
+         log scale is requested but maximum is less or equal 0 (0.000000)   
+         GlobalLibraryLogger THistPainter::PaintInit() 28-Jan-2006 15:09:33 CST  
+         run = 0 event = 0 
+%ERLOG-e ROOT/THistPainter:  
+         log scale is requested but maximum is less or equal 0 (0.000000)   
+         GlobalLibraryLogger THistPainter::PaintInit() 28-Jan-2006 15:09:33 CST  
+         run = 0 event = 0 
+%ERLOG-e ROOT/THistPainter:  
+         log scale is requested but maximum is less or equal 0 (0.000000)   
+         GlobalLibraryLogger THistPainter::PaintInit() 28-Jan-2006 15:09:33 CST  
+         run = 0 event = 0 
+%ERLOG-e ROOT/THistPainter:  
+         log scale is requested but maximum is less or equal 0 (0.000000)   
+         GlobalLibraryLogger THistPainter::PaintInit() 28-Jan-2006 15:09:33 CST  
+         run = 0 event = 0 
+%ERLOG-s DBSTALE: Attempt to access stale data held by DB handle 
+         Class =   
+D         13DataContainerI13CALDigiToGeV3St4lessIS0_ESaIS0_EE  DBManager/Handle  
+         28-Jan-2006 15:09:33 CST run = 0 event = 0 
+sendString = YMon|5199@b0dap78.fnal.gov$DBManager/Handle$$DBSTALE$11$0/0$run = 0 event = 0$run = 0 event = 0$Attempt to access stale data held by DB handle 
+ $Class =  $13DataContainerI13CALDigiToGeV3St4lessIS0_ESaIS0_EE $ 
+$END 
+%ERLOG-e ROOT/THistPainter:  
+         log scale is requested but maximum is less or equal 0 (0.000000)   
+         GlobalLibraryLogger THistPainter::PaintInit() 28-Jan-2006 15:09:34 CST  
+         run = 0 event = 0 
+%ERLOG-e ROOT/THistPainter:  
+         log scale is requested but maximum is less or equal 0 (0.000000)   
+         GlobalLibraryLogger THistPainter::PaintInit() 28-Jan-2006 15:09:34 CST  
+         run = 0 event = 0 
+DisplayServer: Connected successfully to CONSUMER socket at port 9050 
+                              on host b0dap78.fnal.gov. 
+=========================================================================== 
+ 
+DisplayServer::openClientServerSocket(): Server socket for HISTO DISPLAY 
+               clients at PORT 9091 available. 
+ 
+               Use   b0dap78.fnal.gov:9091 
+               as input stream to connect from the HistoDisplay 
+               to the Display Server. 
+ 
+ 
+------------------------ 
+It looks like, having problem accessing COT  
+hotchan file!  YMonModule COT() 
+THen error: 
+%ERLOG-e ROOT/THistPainter:  
+         log scale is requested but maximum is less or equal 0 (0.000000)   
+         GlobalLibraryLogger THistPainter::PaintInit() 28-Jan-2006 15:09:33 CST  
+         run = 0 event = 0 
+ 
+happens in RH, but continues, while in SL, it does not even 
+get there.   
+ 
+send mail to YMon person and Stephan.  for this. 
+ 
+</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Thu Feb 9 17:24:52 2006 -->
+<pre>Making 6.1.2r for both SL and RH. 
+Starting with SL on b0gateway. 
+ 
+Patch file looks: 
+# cdfsoftb0 patche file: 6.1.2r.pathces, for both SL and RH 
+# TIME, UT is +5h in Summer, +6h in Winter wrt CST 
+# 
+#Consumer patches 
+Consumer -D          09Feb2006UT23:00 
+ConsumerFramework -D 09Feb2006UT23:00 
+ 
+#Add this for B0AC++Dump till get's tagged in 
+FrameMods -D         09Feb2006UT23:00 
+ 
+#more debug added March 27 (around) 2005 
+ConsumerInterface -D 09Feb2006UT23:00 
+ 
+#packages needed for TrigMon and XMon 
+CalTrigger -D      11Jan2006UT16:00 
+svtsim  -D         09Feb2006UT23:00 
+XTRPSim -D         13Jan2006UT14:20 
+XFTMods -D         11Jan2006UT16:00 
+XFTSim -D          11Jan2006UT16:00 
+PulsarMon -D       11Jan2006UT16:00 
+TriggerObjects -D  11Jan2006UT16:00 
+ 
+# SVXMon utilities update 
+SvxDaqMods  -D    09Feb2006UT23:00 
+SvxDaqUtils -D    09Feb2006UT23:00 
+ 
+# for ObjectMon 
+CalorTimeMods  -D      09Feb2006UT23:00 
+CalorTimeObjects -D    09Feb2006UT23:00 
+ 
+# for Event Display 
+RootMods -D 09Feb2006UT23:00 
+ 
+#this to be the last line of the patch file 
+ 
+------- 
+Charles requested to use svtsim from head.</pre>
+<!-- Author: kaori -->
+<!-- Comment: Fri Feb 10 07;27;42 comment by...kaori -->
+<pre>Above created successfully.
+However, now, I am trying to make 6.1.2r on b0dap72, and having
+a problem.
+
+53:b0dap72 % ../bin/make_patch_release 6.1.2r.patches 6.1.2 6.1.2r
+setup-ppc: assuming PowerPC 603 processor
+make_patch_release: creating new release 6.1.2r. Applying patches...../bin/make_patch_release: 6.1.2r.log: Read-only file system
+  done.
+make_patch_release: building libraries for release 6.1.2r...../bin/make_patch_release: gmake.log: Read-only file system
+  done.
+make_patch_release: adding packages needed for the consumer binaries...touch: creating `additionalpackages.log': Read-only file system
+  done.
+cp: cannot create regular file `./consumerbins': Read-only file system
+make_patch_release: building binaries for release 6.1.2r...../bin/make_patch_release: consumerbins.log: Read-only file system
+  done
+make_patch_release: declaring 6.1.2r to ups.
+cp: cannot create regular file `ups/./cdfsoftb0.table': Read-only file system
+../bin/make_patch_release: declare.csh: Read-only file system
+ERROR: Invalid Specification for Declare -
+        Specified product and version currently exist
+../bin/make_patch_release: current.csh: Read-only file system
+../bin/make_patch_release: current.csh: Read-only file system
+../bin/make_patch_release: current.csh: Read-only file system
+../bin/make_patch_release: current.csh: Read-only file system
+/bin/chmod: changing permissions of `current.csh': Read-only file system
+make_patch_release: created new patch release successfully.
+make_patch_release: execute ./current.csh to make it current.
+</pre>
+<!-- Comment: Fri Feb 10 07;30;58 comment by...kaori -->
+<pre>OK OK,
+
+this is what happens when one tries to make RH release on
+anything other than b0dap35.
+
+Now, I am trying again on b0dap35, and it is going.....</pre>
+<!-- Date: Fri Feb 10 06:53:20 2006 -->
+<pre>127980 -rw-------    1 cdfdaq   cdf      160735232 Feb  9 16:57 core.768 
+ 
+/runarea/YMon/YMon": not in executable format: Is a directory 
+ 
+Core was generated by `YMon Consumer/YMon/runYMon.tcl'. 
+Program terminated with signal 11, Segmentation fault. 
+#0  0xb4da65c7 in ?? () 
+(gdb) where 
+#0  0xb4da65c7 in ?? () 
+#1  0xb4dc7f24 in ?? () 
+#2  0xb63acd9b in ?? () 
+#3  0xb63acf7b in ?? () 
+#4  0xb64c50f3 in ?? () 
+ 
+.... not good enough. 
+ 
+ gdb YMon core.5325 
+ 
+Core was generated by `YMon Consumer/YMon/runYMon.tcl'. 
+Program terminated with signal 8, Arithmetic exception. 
+#0  0xb639b122 in ?? () 
+(gdb) where 
+#0  0xb639b122 in ?? () 
+#1  0xb6481f26 in ?? () 
+#2  0xb644f9bc in ?? () 
+#3  0xb5de65cf in ?? () 
+ 
+...  this one at least terminate with the corresponding  
+error message. 
+But not good enough information there. 
+</pre>
+<!-- Author: kaori -->
+
+
+
+
+<!-- Date: Mon Feb 13 10:01:51 2006 -->
+<pre>Mon Feb 13 10:01:19 Online monitor cdfsoftb0 release is now replaced with a new one, 6.1.2r which was built last Friday. Among a few other updates, TrigMon (XFT monitoring) was updated in this new release. All the monitors are now running with this new release. (XMon and LumMon were restarted as well....). YMon is still set to run on a SL machine. We experienced YMon crashed once, but the 2nd try, it started ok. 6.1.2r is is decleared as the current default cdfsotb0 release for both RH and SL as of this morning. - kaori :: (run 211554)</pre>
+<!-- Author: kaori -->
+
+
+<!-- Date: Mon Feb 13 11:34:22 2006 -->
+<pre>b0dap72:471:consumer/runarea&gt; du --max-depth=1 /cdf/onln/data/cdfdaq/consumer/runarea 
+4674160 /cdf/onln/data/cdfdaq/consumer/runarea/XMon 
+6454596 /cdf/onln/data/cdfdaq/consumer/runarea/YMon 
+5336    /cdf/onln/data/cdfdaq/consumer/runarea/test 
+1814348 /cdf/onln/data/cdfdaq/consumer/runarea/DAQMon 
+1295840 /cdf/onln/data/cdfdaq/consumer/runarea/BeamMon 
+2811588 /cdf/onln/data/cdfdaq/consumer/runarea/Stage0 
+4       /cdf/onln/data/cdfdaq/consumer/runarea/SVTSPYMon 
+7274596 /cdf/onln/data/cdfdaq/consumer/runarea/LumMon 
+1527128 /cdf/onln/data/cdfdaq/consumer/runarea/DAQErrMon 
+1559244 /cdf/onln/data/cdfdaq/consumer/runarea/SVXMon 
+7836304 /cdf/onln/data/cdfdaq/consumer/runarea/ObjectMon 
+2576584 /cdf/onln/data/cdfdaq/consumer/runarea/TrigMon 
+53112   /cdf/onln/data/cdfdaq/consumer/runarea/CableMon 
+9191136 /cdf/onln/data/cdfdaq/consumer/runarea/SiliMon 
+468     /cdf/onln/data/cdfdaq/consumer/runarea/L3RegionalMon 
+47074460        /cdf/onln/data/cdfdaq/consumer/runarea 
+b0dap72:472:consumer/runarea&gt; du --max-depth=1 /cdf/onln/data/cdfdaq/consumer/log 
+20072   /cdf/onln/data/cdfdaq/consumer/log/XMon 
+723496  /cdf/onln/data/cdfdaq/consumer/log/YMon 
+64      /cdf/onln/data/cdfdaq/consumer/log/Template 
+1284    /cdf/onln/data/cdfdaq/consumer/log/DAQMon 
+653756  /cdf/onln/data/cdfdaq/consumer/log/BeamMon 
+243388  /cdf/onln/data/cdfdaq/consumer/log/Stage0 
+3208    /cdf/onln/data/cdfdaq/consumer/log/LumMon 
+14776   /cdf/onln/data/cdfdaq/consumer/log/DAQErrMon 
+462804  /cdf/onln/data/cdfdaq/consumer/log/SVXMon 
+3191476 /cdf/onln/data/cdfdaq/consumer/log/ObjectMon 
+10769220        /cdf/onln/data/cdfdaq/consumer/log/TrigMon 
+1432    /cdf/onln/data/cdfdaq/consumer/log/ConsumerServlet 
+2700696 /cdf/onln/data/cdfdaq/consumer/log/SiliMon 
+4       /cdf/onln/data/cdfdaq/consumer/log/L3RegionalMon 
+18785680        /cdf/onln/data/cdfdaq/consumer/log 
+ 
+ 
+------ 
+run archive script from cdfdaq, first, then from cdf_cf. 
+(deleteing part should be done by cdfdaq, and mv part is 
+by cdf_cf), this should be automated, sometime soon.... 
+ 
+b0gateway:471:runarea/YMon&gt; du --max-depth=1 /cdf/onln/data/cdfdaq/consumer/runa 
+rea 
+653184  /cdf/onln/data/cdfdaq/consumer/runarea/XMon 
+1250560 /cdf/onln/data/cdfdaq/consumer/runarea/YMon 
+5336    /cdf/onln/data/cdfdaq/consumer/runarea/test 
+33636   /cdf/onln/data/cdfdaq/consumer/runarea/DAQMon 
+1224824 /cdf/onln/data/cdfdaq/consumer/runarea/BeamMon 
+820676  /cdf/onln/data/cdfdaq/consumer/runarea/Stage0 
+4       /cdf/onln/data/cdfdaq/consumer/runarea/SVTSPYMon 
+1647196 /cdf/onln/data/cdfdaq/consumer/runarea/LumMon 
+436176  /cdf/onln/data/cdfdaq/consumer/runarea/DAQErrMon 
+116620  /cdf/onln/data/cdfdaq/consumer/runarea/SVXMon 
+2527880 /cdf/onln/data/cdfdaq/consumer/runarea/ObjectMon 
+16340   /cdf/onln/data/cdfdaq/consumer/runarea/TrigMon 
+53112   /cdf/onln/data/cdfdaq/consumer/runarea/CableMon 
+7201252 /cdf/onln/data/cdfdaq/consumer/runarea/SiliMon 
+468     /cdf/onln/data/cdfdaq/consumer/runarea/L3RegionalMon 
+15987280        /cdf/onln/data/cdfdaq/consumer/runarea 
+ 
+</pre>
+<!-- Author: kaori -->
+<!-- Comment: Mon Feb 13 15;11;12 comment by...kaori -->
+<pre>b0dap72:485:~cdf_cf/scripts&gt; du --max-depth=1 /cdf/onln/data/cdfdaq/consumer/log
+3324    /cdf/onln/data/cdfdaq/consumer/log/XMon
+27456   /cdf/onln/data/cdfdaq/consumer/log/YMon
+64      /cdf/onln/data/cdfdaq/consumer/log/Template
+1216    /cdf/onln/data/cdfdaq/consumer/log/DAQMon
+14548   /cdf/onln/data/cdfdaq/consumer/log/BeamMon
+11280   /cdf/onln/data/cdfdaq/consumer/log/Stage0
+1268    /cdf/onln/data/cdfdaq/consumer/log/LumMon
+1736    /cdf/onln/data/cdfdaq/consumer/log/DAQErrMon
+107508  /cdf/onln/data/cdfdaq/consumer/log/SVXMon
+149136  /cdf/onln/data/cdfdaq/consumer/log/ObjectMon
+410636  /cdf/onln/data/cdfdaq/consumer/log/TrigMon
+1432    /cdf/onln/data/cdfdaq/consumer/log/ConsumerServlet
+106668  /cdf/onln/data/cdfdaq/consumer/log/SiliMon
+4       /cdf/onln/data/cdfdaq/consumer/log/L3RegionalMon
+836280  /cdf/onln/data/cdfdaq/consumer/log
+</pre>
+<!-- Date: Mon Feb 13 12:54:47 2006 -->
+<pre>making new release, 6.1.2s, request from xft. 
+ 
+6.1.2s patch file: 
+# cdfsoftb0 patche file: 6.1.2s.pathces, for both SL and RH 
+# TIME, UT is +5h in Summer, +6h in Winter wrt CST 
+# 
+#Consumer patches 
+Consumer -D          12Feb2006UT23:00 
+ConsumerFramework -D 12Feb2006UT23:00 
+ 
+#Add this for B0AC++Dump till get's tagged in 
+FrameMods -D         12Feb2006UT23:00 
+ 
+#more debug added March 27 (around) 2005 
+ConsumerInterface -D 12Feb2006UT23:00 
+ 
+#packages needed for TrigMon and XMon 
+CalTrigger -D      11Jan2006UT16:00 
+svtsim  -D         12Feb2006UT23:00 
+XTRPSim -D         13Jan2006UT14:20 
+XFTMods -D         11Jan2006UT16:00 
+XFTSim -D          12Feb2006UT23:00 
+PulsarMon -D       11Jan2006UT16:00 
+TriggerObjects -D  12Feb2006UT23:00 
+ 
+# SVXMon utilities update 
+SvxDaqMods  -D    12Feb2006UT23:00 
+SvxDaqUtils -D    12Feb2006UT23:00 
+ 
+# for ObjectMon 
+CalorTimeMods  -D      12Feb2006UT23:00 
+CalorTimeObjects -D    12Feb2006UT23:00 
+ 
+# for Event Display 
+RootMods -D 12Feb2006UT23:00 
+ 
+#this to be the last line of the patch file 
+</pre>
+<!-- Author: kaori -->
+
+
+
+<!-- Date: Sat Feb 18 15:20:53 2006 -->
+<pre>Alberto (SVT) changed runTrigMon.tcl 
+   dataFileDir set $env(CDFSOFT2_DIR)/svtsim/svtdata 
+-&gt;   dataFileDir set /cdf/onln/data/cdfdaq/consumer/runarea/TrigMon/Consumer/TrigMon/svtdata 
+ 
+He requested me to detele the files in this directory everytime TrigMon starts. 
+ 
+One line was added in startMon.sh 
+rm -f /cdf/onln/data/cdfdaq/consumer/runarea/TrigMon/Consumer/TrigMon/svtdata/* 
+ 
+He will commit this tcl to CVS.</pre>
+<!-- Author: Junji -->
+
+
+<!-- Date: Thu Feb 23 13:08:22 2006 -->
+<pre>while trying to make 6.1.2t, two things happened: 
+ 
+/cdf/onln/code/b0cdfsoft/cdfsoftb0/6.1.2t/Consumer/Stage0/COTDMonitor.hh:226: error: `cot' has not been declared 
+/cdf/onln/code/b0cdfsoft/cdfsoftb0/6.1.2t/Consumer/Stage0/COTDMonitor.hh:226: error: `NumSLs' was not declared in this scope 
+mv: cannot stat `/cdf/onln/code/b0cdfsoft/cdfsoftb0/6.1.2t/tmp/Linux2_SL-GCC_3_4/Consumer/srt_dep_tmp.8222': No such file or directory 
+gmake[2]: *** [/cdf/onln/code/b0cdfsoft/cdfsoftb0/6.1.2t/tmp/Linux2_SL-GCC_3_4/Consumer/Stage0/Stage0Module.o] Error 1 
+gmake[2]: Target `bin' not remade because of errors. 
+gmake[1]: *** [Stage0.bin] Error 2 
+&lt;**compiling**&gt; TestMon.cc 
+&lt;**compiling**&gt; TestMonModule.cc 
+&lt;**compiling**&gt; TestMonitor.cc 
+&lt;**building**&gt; TestMon 
+/cdf/onln/code/cdfsoft/products/gcc/v3_4_3/Linux+2.4/bin/ld: final link failed: Disk quota exceeded 
+ 
+------ 
+send mail to Aseet about Stage0 problem. 
+ 
+Deleting some old releases  now: 
+71:b0gateway % ups list -aK+ cdfsoftb0 
+"cdfsoftb0" "6.1.1e" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.1h" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2a" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2b" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2f" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2h" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2i" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2j" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2k" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2l" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2m" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2n" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2o" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2p" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2q" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2r" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2s" "Linux+2" "" "current" 
+72:b0gateway % ../bin/rm_cdfsoftb0.sh 6.1.1e 
+deleting cdfsoftb0 6.1.1e      dir   log   ups 
+73:b0gateway % ups list -aK+ cdfsoftb0 
+"cdfsoftb0" "6.1.1h" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2a" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2b" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2f" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2h" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2i" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2j" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2k" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2l" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2m" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2n" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2o" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2p" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2q" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2r" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2s" "Linux+2" "" "current" 
+74:b0gateway % ../bin/rm_cdfsoftb0.sh 6.1.1h 
+ 
+76:b0gateway % ups list -aK+ cdfsoftb0 
+"cdfsoftb0" "6.1.2a" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2b" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2f" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2h" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2i" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2j" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2k" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2l" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2m" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2n" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2o" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2p" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2q" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2r" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2s" "Linux+2" "" "current" 
+77:b0gateway % ../bin/rm_cdfsoftb0.sh 6.1.2a 
+78:b0gateway % ups list -aK+ cdfsoftb0 
+"cdfsoftb0" "6.1.2b" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2h" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2i" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2j" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2k" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2l" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2m" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2n" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2o" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2p" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2q" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2r" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2s" "Linux+2" "" "current" 
+ERROR: No instance matches were made between the 
+version file (/cdf/onln/code/b0cdfsoft/upsdb/cdfsoftb0/6.1.2f.version) and the 
+table file (6.1.2a.table) for flavor (Linux+2) and qualifiers () 
+ERROR: Possible UPS database (/cdf/onln/code/b0cdfsoft/upsdb) corruption in product 'cdfsoftb0'. 
+79:b0gateway % ../bin/rm_cdfsoftb0.sh 6.1.2b 
+113:b0gateway % ups list -aK+ cdfsoftb0 
+"cdfsoftb0" "6.1.2o" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2p" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2q" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2r" "Linux+2" "" "" 
+"cdfsoftb0" "6.1.2s" "Linux+2" "" "current" 
+ERROR: No instance matches were made between the 
+version file (/cdf/onln/code/b0cdfsoft/upsdb/cdfsoftb0/6.1.2f.version) and the 
+table file (6.1.2a.table) for flavor (Linux+2) and qualifiers () 
+ERROR: Possible UPS database (/cdf/onln/code/b0cdfsoft/upsdb) corruption in product 'cdfsoftb0'. 
+114:b0gateway % ls 
+6.1.1           6.1.2f.patches  6.1.2o          6.1.2r          additionalpackages.log 
+6.1.1e.patches  6.1.2g.patches  6.1.2o.log      6.1.2r.log      consumerbins.log 
+6.1.1h.patches  6.1.2h.patches  6.1.2o.patches  6.1.2r.patches  gmake.log 
+6.1.2           6.1.2i.patches  6.1.2p          6.1.2s          patch.log 
+6.1.2a.patches  6.1.2j.patches  6.1.2p.log      6.1.2s.log      productsetup.csh 
+6.1.2b.patches  6.1.2k.patches  6.1.2p.patches  6.1.2s.patches 
+6.1.2c.patches  6.1.2l.patches  6.1.2q          6.1.2t 
+6.1.2d.patches  6.1.2m.patches  6.1.2q.log      6.1.2t.log 
+6.1.2e.patches  6.1.2n.patches  6.1.2q.patches  6.1.2t.patches 
+------ 
+contact Stephan about error message. 
+ 
+-------- 
+ 
+ 
+</pre>
+<!-- Author: kaori -->

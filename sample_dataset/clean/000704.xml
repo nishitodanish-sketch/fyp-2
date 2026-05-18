@@ -1,0 +1,1474 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>Colorado Division of Wildlife</origin>
+<pubdate>20000701</pubdate>
+<pubtime>Unknown</pubtime>
+<title>CO-GAP Vertebrate Distribution Models</title>
+<edition>First</edition>
+<geoform>Map</geoform>
+<pubinfo>
+<pubplace>Colorado Division of Wildlife</pubplace>
+<publish>Habitat Resources Section</publish>
+</pubinfo>
+<onlink>http://nrel.ndis.colostate.edu/cogap</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>
+Mapping of terrestrial vertebrates rests upon linking a spatial representation of
+species-habitat matrices to geographic distribution. Each model is a combination of
+distribution region-grown from county occurrence information in association with contiguous
+appropriate habitats. Ranges for all species were based on county boundaries. Habitats were
+based on a raster CO-GAP 100 ha MMU land cover data set, with aquatic and riparian
+habitats added in from USGS DLG-coverages directly or through modeling. Habitat
+association information was obtained from the Colorado Division of Wildlife - Colorado
+Wildlife Species Database with updates from major scientific literature. This portion of the
+Colorado Gap Analysis Project produced predicted distribution maps for 597 species.
+</abstract>
+<purpose>
+This data was prepared in compliance with the National GAP effort. Distributions of 18
+amphibians, 48 reptiles, 408 birds and 123 mammals were predicted by county using a
+variety of sources. Bird distributions were generated from published and unpublished
+sources; most notably the Colorado Wildlife Species Database, and from field reports of the
+Colorado Bird Atlas Project and Denver Museum of Natural History publication Colorado
+Birds. Mammal distributions were generated from the Colorado Wildlife Species Database,
+with cross-checks with the Fitzgerald, Meaney and Armstrong publication, Mammals of
+Colorado. Amphibian and reptile distributions came from the Colorado Wildlife Species
+Database, and cross-checked with Hammerson&apos;s Reptiles of Colorado. All terrestrial taxa
+county constraint models benefitted from review of the Colorado Division of Wildlife&apos;s
+Scientific Collections Permit Database (SCICOLL). Habitat relationships for all terrestrial
+vertebrates were taken from the Colorado Wildlife Species Database and most recent
+published scientific literature on each taxa, with review of collected relationships by
+species experts. These habitat relationships were cross-linked to one or several of the 52 land
+cover/vegetation types delineated on the Colorado Gap Analysis Project land cover map.
+Predicted distribution maps were produced for each species (or select sub-species) based on
+county of occurrence and habitat affinities.
+</purpose>
+</descript>
+<timeperd></timeperd>
+<status>
+<progress>Complete</progress>
+<update>Over next 5 years; under SW-ReGAP Project</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-109.27901791</westbc>
+<eastbc>-101.86851063</eastbc>
+<northbc>41.02926514</northbc>
+<southbc>36.91383358</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>None</themekt>
+</theme>
+<theme>
+<themekt>Terrestrial Vertebrate Models</themekt>
+</theme>
+<theme>
+<themekt>habitat</themekt>
+</theme>
+<theme>
+<themekt>Natural Vegetation</themekt>
+</theme>
+<theme>
+<themekt>landcover</themekt>
+</theme>
+<theme>
+<themekt>vertebrate distribution</themekt>
+</theme>
+<theme>
+<themekt>birds</themekt>
+</theme>
+<theme>
+<themekt>mammals</themekt>
+</theme>
+<theme>
+<themekt>herptiles</themekt>
+</theme>
+<theme>
+<themekt>amphibians</themekt>
+</theme>
+<theme>
+<themekt>GAP ANALYSIS</themekt>
+<themekey>Accipiter cooperii</themekey>
+<themekey>Accipiter gentilis</themekey>
+<themekey>Accipiter striatus</themekey>
+<themekey>Acris crepitans</themekey>
+<themekey>Actitis  macularia</themekey>
+<themekey>Aechmophorus clarkii</themekey>
+<themekey>Aechmophorus occidentalis</themekey>
+<themekey>Aegolius acadicus</themekey>
+<themekey>Aegolius funereus</themekey>
+<themekey>Aeronautes saxatalis</themekey>
+<themekey>Agelaius phoeniceus</themekey>
+<themekey>Aimophila cassinii</themekey>
+<themekey>Aimophila ruficeps</themekey>
+<themekey>Aix sponsa</themekey>
+<themekey>Alces alces</themekey>
+<themekey>Alder Flycatcher</themekey>
+<themekey>Alectoris chukar</themekey>
+<themekey>Ambystoma tigrinum</themekey>
+<themekey>American Avocet</themekey>
+<themekey>American Badger</themekey>
+<themekey>American Beaver</themekey>
+<themekey>American Bittern</themekey>
+<themekey>American Black Duck</themekey>
+<themekey>American Coot</themekey>
+<themekey>American Crow</themekey>
+<themekey>American Dipper</themekey>
+<themekey>American Elk</themekey>
+<themekey>American Golden Plover</themekey>
+<themekey>American Goldfinch</themekey>
+<themekey>American Kestrel</themekey>
+<themekey>American Marten</themekey>
+<themekey>American Pika</themekey>
+<themekey>American Pipit</themekey>
+<themekey>American Redstart</themekey>
+<themekey>American Robin</themekey>
+<themekey>American Tree Sparrow</themekey>
+<themekey>American White Pelican</themekey>
+<themekey>American Wigeon</themekey>
+<themekey>American Woodcock</themekey>
+<themekey>Ammodramus bairdii</themekey>
+<themekey>Ammodramus leconteii</themekey>
+<themekey>Ammodramus savannarum</themekey>
+<themekey>Ammospermophilus leucurus</themekey>
+<themekey>Amphispiza belli</themekey>
+<themekey>Amphispiza bilineata</themekey>
+<themekey>Anas acuta</themekey>
+<themekey>Anas americana</themekey>
+<themekey>Anas clypeata</themekey>
+<themekey>Anas crecca</themekey>
+<themekey>Anas cyanoptera</themekey>
+<themekey>Anas discors</themekey>
+<themekey>Anas penelope</themekey>
+<themekey>Anas platyrhynchos</themekey>
+<themekey>Anas rubripes</themekey>
+<themekey>Anas strepera</themekey>
+<themekey>Anna&apos;s Hummingbird</themekey>
+<themekey>Anser albifrons</themekey>
+<themekey>Anthus rubescens</themekey>
+<themekey>Anthus spragueii</themekey>
+<themekey>Antilocapra americana</themekey>
+<themekey>Antrozous pallidus</themekey>
+<themekey>Apalone spinifera</themekey>
+<themekey>Aphelocoma californica</themekey>
+<themekey>Aquila chrysaetos</themekey>
+<themekey>Archilochus alexandri</themekey>
+<themekey>Ardea albus</themekey>
+<themekey>Ardea herodias</themekey>
+<themekey>Arenaria interpres</themekey>
+<themekey>Arizona elegans</themekey>
+<themekey>Ash-throated Flycatcher</themekey>
+<themekey>Asio flammeus</themekey>
+<themekey>Asio otus</themekey>
+<themekey>Aythya affinis</themekey>
+<themekey>Aythya americana</themekey>
+<themekey>Aythya collaris</themekey>
+<themekey>Aythya marila</themekey>
+<themekey>Aythya valisineria</themekey>
+<themekey>Baird&apos;s  Sandpiper</themekey>
+<themekey>Baird&apos;s  Sparrow</themekey>
+<themekey>Bald Eagle</themekey>
+<themekey>Baltimore Oriole</themekey>
+<themekey>Baltimore X Bullock&apos;s Oriole</themekey>
+<themekey>Band-tailed Pigeon</themekey>
+<themekey>Bank Swallow</themekey>
+<themekey>Barn Owl</themekey>
+<themekey>Barn Swallow</themekey>
+<themekey>Barrow&apos;s Goldeneye</themekey>
+<themekey>Bartramia longicauda</themekey>
+<themekey>Bassariscus astutus</themekey>
+<themekey>Bay-breasted Warbler</themekey>
+<themekey>Bell&apos;s Vireo</themekey>
+<themekey>Belted Kingfisher</themekey>
+<themekey>Bendire&apos;s Thrasher</themekey>
+<themekey>Bewick&apos;s Wren</themekey>
+<themekey>Big Brown Bat</themekey>
+<themekey>Big Free-tailed Bat</themekey>
+<themekey>Bighorn Sheep</themekey>
+<themekey>Bison</themekey>
+<themekey>Bison bison</themekey>
+<themekey>Black Bear</themekey>
+<themekey>Black Phoebe</themekey>
+<themekey>Black Rail</themekey>
+<themekey>Black Rosy Finch</themekey>
+<themekey>Black Scoter</themekey>
+<themekey>Black Swift</themekey>
+<themekey>Black Tern</themekey>
+<themekey>Black-and-white Warbler</themekey>
+<themekey>Black-bellied Plover</themekey>
+<themekey>Black-billed Cuckoo</themekey>
+<themekey>Black-billed Magpie</themekey>
+<themekey>Black-capped Chickadee</themekey>
+<themekey>Black-chinned Hummingbird</themekey>
+<themekey>Black-crowned Night-Heron</themekey>
+<themekey>Black-footed Ferret</themekey>
+<themekey>Black-headed Grosbeak</themekey>
+<themekey>Black-legged Kittiwake</themekey>
+<themekey>Black-necked Stilt</themekey>
+<themekey>Black-tailed Jackrabbit</themekey>
+<themekey>Black-tailed Prairie Dog</themekey>
+<themekey>Black-throated Blue Warbler</themekey>
+<themekey>Black-throated Gray Warbler</themekey>
+<themekey>Black-throated Green Warbler</themekey>
+<themekey>Black-throated Sparrow</themekey>
+<themekey>Blackburnian Warbler</themekey>
+<themekey>Blackneck Garter Snake</themekey>
+<themekey>Blackpoll Warbler</themekey>
+<themekey>Blarina hylophaga</themekey>
+<themekey>Blue Grosbeak</themekey>
+<themekey>Blue Grouse</themekey>
+<themekey>Blue Jay</themekey>
+<themekey>Blue-gray Gnatcatcher</themekey>
+<themekey>Blue-throated Hummingbird</themekey>
+<themekey>Blue-winged Teal</themekey>
+<themekey>Blue-winged Warbler</themekey>
+<themekey>Bobcat</themekey>
+<themekey>Bobolink</themekey>
+<themekey>Bohemian Waxwing</themekey>
+<themekey>Bombycilla cedrorum</themekey>
+<themekey>Bombycilla garrulus</themekey>
+<themekey>Bonaparte&apos;s Gull</themekey>
+<themekey>Bonasa umbellus</themekey>
+<themekey>Boreal Owl</themekey>
+<themekey>Botaurus lentiginosus</themekey>
+<themekey>Botta&apos;s  Pocket Gopher</themekey>
+<themekey>Brant</themekey>
+<themekey>Branta bernicla</themekey>
+<themekey>Branta canadensis</themekey>
+<themekey>Brazilian Free-tailed Bat</themekey>
+<themekey>Brewer&apos;s Blackbird</themekey>
+<themekey>Brewer&apos;s Sparrow</themekey>
+<themekey>Broad-tailed Hummingbird</themekey>
+<themekey>Broad-winged Hawk</themekey>
+<themekey>Brown Creeper</themekey>
+<themekey>Brown Pelican</themekey>
+<themekey>Brown Thrasher</themekey>
+<themekey>Brown-capped Rosy Finch</themekey>
+<themekey>Brown-headed Cowbird</themekey>
+<themekey>Brush Mouse</themekey>
+<themekey>Bubo virginianus</themekey>
+<themekey>Bubulcus ibis</themekey>
+<themekey>Bucephala albeola</themekey>
+<themekey>Bucephala clangula</themekey>
+<themekey>Bucephala islandica</themekey>
+<themekey>Buff-breasted Sandpiper</themekey>
+<themekey>Bufflehead</themekey>
+<themekey>Bufo boreas</themekey>
+<themekey>Bufo cognatus</themekey>
+<themekey>Bufo debilis</themekey>
+<themekey>Bufo punctatus</themekey>
+<themekey>Bufo woodhousii</themekey>
+<themekey>Bullfrog</themekey>
+<themekey>Bullock&apos;s Oriole</themekey>
+<themekey>Bushtit</themekey>
+<themekey>Bushy-tailed Woodrat</themekey>
+<themekey>Buteo jamaicensis</themekey>
+<themekey>Buteo lagopus</themekey>
+<themekey>Buteo lineatus</themekey>
+<themekey>Buteo platypterus</themekey>
+<themekey>Buteo regalis</themekey>
+<themekey>Buteo swainsoni</themekey>
+<themekey>Butorides virescens</themekey>
+<themekey>Calamospiza melanocorys</themekey>
+<themekey>Calcarius lapponicus</themekey>
+<themekey>Calcarius mccownii</themekey>
+<themekey>Calcarius ornatus</themekey>
+<themekey>Calidris alba</themekey>
+<themekey>Calidris alpina</themekey>
+<themekey>Calidris bairdii</themekey>
+<themekey>Calidris canutus</themekey>
+<themekey>Calidris fuscicollis</themekey>
+<themekey>Calidris himantopus</themekey>
+<themekey>Calidris mauri</themekey>
+<themekey>Calidris melanotos</themekey>
+<themekey>Calidris minutilla</themekey>
+<themekey>Calidris pusilla</themekey>
+<themekey>California Gull</themekey>
+<themekey>California Myotis</themekey>
+<themekey>Calliope Hummingbird</themekey>
+<themekey>Callipepla gambelii</themekey>
+<themekey>Callipepla squamata</themekey>
+<themekey>Calypte anna</themekey>
+<themekey>Canada Goose</themekey>
+<themekey>Canada Warbler</themekey>
+<themekey>Canis latrans</themekey>
+<themekey>Canis lupus</themekey>
+<themekey>Canvasback</themekey>
+<themekey>Canyon Mouse</themekey>
+<themekey>Canyon Towhee</themekey>
+<themekey>Canyon Treefrog</themekey>
+<themekey>Canyon Wren</themekey>
+<themekey>Cape May Warbler</themekey>
+<themekey>Cardinalis cardinalis</themekey>
+<themekey>Carduelis flammea</themekey>
+<themekey>Carduelis pinus</themekey>
+<themekey>Carduelis psaltria</themekey>
+<themekey>Carduelis tristis</themekey>
+<themekey>Carolina Wren</themekey>
+<themekey>Carpodacus cassinii</themekey>
+<themekey>Carpodacus mexicanus</themekey>
+<themekey>Carpodacus purpureus</themekey>
+<themekey>Caspian Tern</themekey>
+<themekey>Cassin&apos;s Finch</themekey>
+<themekey>Cassin&apos;s Kingbird</themekey>
+<themekey>Cassin&apos;s Sparrow</themekey>
+<themekey>Castor canadensis</themekey>
+<themekey>Cathartes aura</themekey>
+<themekey>Catharus fuscescens</themekey>
+<themekey>Catharus guttatus</themekey>
+<themekey>Catharus minimus</themekey>
+<themekey>Catharus ustulatus</themekey>
+<themekey>Catherpes mexicanus</themekey>
+<themekey>Catoptrophorus semipalmatus</themekey>
+<themekey>Cattle Egret</themekey>
+<themekey>Cedar Waxwing</themekey>
+<themekey>Centrocercus urophasianus</themekey>
+<themekey>Certhia americana</themekey>
+<themekey>Cervus elaphus</themekey>
+<themekey>Ceryle alcyon</themekey>
+<themekey>Chaetodipus hispidus</themekey>
+<themekey>Chaetura pelagica</themekey>
+<themekey>Charadrius alexandrinus</themekey>
+<themekey>Charadrius melodus</themekey>
+<themekey>Charadrius montanus</themekey>
+<themekey>Charadrius semipalmatus</themekey>
+<themekey>Charadrius vociferus</themekey>
+<themekey>Chelydra serpentina</themekey>
+<themekey>Chen caerulescens</themekey>
+<themekey>Chen rossii</themekey>
+<themekey>Chestnut-collared Longspur</themekey>
+<themekey>Chestnut-sided Warbler</themekey>
+<themekey>Chickaree</themekey>
+<themekey>Chihuahuan Raven</themekey>
+<themekey>Chimney Swift</themekey>
+<themekey>Chipping Sparrow</themekey>
+<themekey>Chlidonias niger</themekey>
+<themekey>Chondestes grammacus</themekey>
+<themekey>Chordeiles acutipennis</themekey>
+<themekey>Chordeiles minor</themekey>
+<themekey>Chrysemys picta</themekey>
+<themekey>Chukar</themekey>
+<themekey>Cinclus mexicanus</themekey>
+<themekey>Cinnamon Teal</themekey>
+<themekey>Circus cyaneus</themekey>
+<themekey>Cistothorus palustris</themekey>
+<themekey>Cistothorus platensis</themekey>
+<themekey>Clangula hyemalis</themekey>
+<themekey>Clark&apos;s Grebe</themekey>
+<themekey>Clark&apos;s Nutcracker</themekey>
+<themekey>Clay-colored Sparrow</themekey>
+<themekey>Clethrionomys gapperi</themekey>
+<themekey>Cliff Chipmunk</themekey>
+<themekey>Cliff Swallow</themekey>
+<themekey>Cnemidophorus neotesselatus</themekey>
+<themekey>Cnemidophorus sexlineatus</themekey>
+<themekey>Cnemidophorus tesselatus</themekey>
+<themekey>Cnemidophorus tigris</themekey>
+<themekey>Cnemidophorus velox</themekey>
+<themekey>Coachwhip</themekey>
+<themekey>Coccothraustes vespertinus</themekey>
+<themekey>Coccyzus americanus</themekey>
+<themekey>Coccyzus erythropthalmus</themekey>
+<themekey>Colaptes auratus</themekey>
+<themekey>Colinus virginianus</themekey>
+<themekey>Collared Lizard</themekey>
+<themekey>Colorado Chipmunk</themekey>
+<themekey>Coluber constrictor</themekey>
+<themekey>Columba fasciata</themekey>
+<themekey>Columba livia</themekey>
+<themekey>Common Garter Snake</themekey>
+<themekey>Common Goldeneye</themekey>
+<themekey>Common Grackle</themekey>
+<themekey>Common Kingsnake</themekey>
+<themekey>Common Loon</themekey>
+<themekey>Common Merganser</themekey>
+<themekey>Common Moorhen</themekey>
+<themekey>Common Muskrat</themekey>
+<themekey>Common Nighthawk</themekey>
+<themekey>Common Poorwill</themekey>
+<themekey>Common Porcupine</themekey>
+<themekey>Common R</themekey>
+<themekey>Common Redpoll</themekey>
+<themekey>Common Snipe</themekey>
+<themekey>Common Tern</themekey>
+<themekey>Common Yellowthroat</themekey>
+<themekey>Contopus borealis</themekey>
+<themekey>Contopus sordidulus</themekey>
+<themekey>Cooper&apos;s Hawk</themekey>
+<themekey>Cordilleran Flycatcher</themekey>
+<themekey>Corn Snake</themekey>
+<themekey>Corvus brachyrhynchos</themekey>
+<themekey>Corvus corax</themekey>
+<themekey>Corvus cryptoleucus</themekey>
+<themekey>Couch&apos;s Spadefoot</themekey>
+<themekey>Coyote</themekey>
+<themekey>Cratogeomys castanops</themekey>
+<themekey>Crotalus viridis</themekey>
+<themekey>Crotaphytus collaris</themekey>
+<themekey>Crotophaga sulcirostris</themekey>
+<themekey>Cryptotis parva</themekey>
+<themekey>Curve-billed Thrasher</themekey>
+<themekey>Cyanocitta cristata</themekey>
+<themekey>Cyanocitta stelleri</themekey>
+<themekey>Cygnus buccinator</themekey>
+<themekey>Cygnus columbianus</themekey>
+<themekey>Cynomys gunnisoni</themekey>
+<themekey>Cynomys leucurus</themekey>
+<themekey>Cynomys ludovicianus</themekey>
+<themekey>Cypseloides niger</themekey>
+<themekey>Dark-eyed Junco</themekey>
+<themekey>Deer Mouse</themekey>
+<themekey>Dendragapus obscurus</themekey>
+<themekey>Dendroica caerulescens</themekey>
+<themekey>Dendroica castanea</themekey>
+<themekey>Dendroica coronata</themekey>
+<themekey>Dendroica discolor</themekey>
+<themekey>Dendroica dominica</themekey>
+<themekey>Dendroica fusca</themekey>
+<themekey>Dendroica graciae</themekey>
+<themekey>Dendroica magnolia</themekey>
+<themekey>Dendroica nigrescens</themekey>
+<themekey>Dendroica occidentalis</themekey>
+<themekey>Dendroica palmarum</themekey>
+<themekey>Dendroica pensylvanica</themekey>
+<themekey>Dendroica petechia</themekey>
+<themekey>Dendroica pinus</themekey>
+<themekey>Dendroica striata</themekey>
+<themekey>Dendroica tigrina</themekey>
+<themekey>Dendroica townsendi</themekey>
+<themekey>Dendroica virens</themekey>
+<themekey>Desert Cottontail</themekey>
+<themekey>Desert Shrew</themekey>
+<themekey>Desert Spiny Lizard</themekey>
+<themekey>Desert Woodrat</themekey>
+<themekey>Diadophis punctatus</themekey>
+<themekey>Dickcissel</themekey>
+<themekey>Didelphis virginiana</themekey>
+<themekey>Diploid Colorado Checkered Whiptail</themekey>
+<themekey>Dipodomys ordii</themekey>
+<themekey>Dolichonyx oryzivorus</themekey>
+<themekey>Double-crested Cormorant</themekey>
+<themekey>Downy Woodpecker</themekey>
+<themekey>Dumetella carolinensis</themekey>
+<themekey>Dunlin</themekey>
+<themekey>Dusky Flycatcher</themekey>
+<themekey>Dwarf Shrew</themekey>
+<themekey>Eared Grebe</themekey>
+<themekey>Eastern Bluebird</themekey>
+<themekey>Eastern Cottontail</themekey>
+<themekey>Eastern Fence Lizard</themekey>
+<themekey>Eastern Kingbird</themekey>
+<themekey>Eastern Meadowlark</themekey>
+<themekey>Eastern Mole</themekey>
+<themekey>Eastern Phoebe</themekey>
+<themekey>Eastern Screech-Owl</themekey>
+<themekey>Eastern Spotted Skunk</themekey>
+<themekey>Eastern Towhee</themekey>
+<themekey>Eastern Woodrat</themekey>
+<themekey>Egretta caerulea</themekey>
+<themekey>Egretta thula</themekey>
+<themekey>Egretta tricolor</themekey>
+<themekey>Elaphe guttata</themekey>
+<themekey>Elliot&apos;s Short-tailed Shrew</themekey>
+<themekey>Empidonax alnorum</themekey>
+<themekey>Empidonax hammondii</themekey>
+<themekey>Empidonax minimus</themekey>
+<themekey>Empidonax oberholseri</themekey>
+<themekey>Empidonax occidentalis</themekey>
+<themekey>Empidonax traillii</themekey>
+<themekey>Empidonax wrightii</themekey>
+<themekey>Eptesicus fuscus</themekey>
+<themekey>Eremophila alpestris</themekey>
+<themekey>Erethizon dorsatum</themekey>
+<themekey>Ermine</themekey>
+<themekey>Eugenes fulgens</themekey>
+<themekey>Eumeces multivirgatus</themekey>
+<themekey>Eumeces obsoletus</themekey>
+<themekey>Euphagus carolinus</themekey>
+<themekey>Euphagus cyanocephalus</themekey>
+<themekey>Eurasian Wigeon</themekey>
+<themekey>Evening Grosbeak</themekey>
+<themekey>Falco columbarius</themekey>
+<themekey>Falco mexicanus</themekey>
+<themekey>Falco peregrinus</themekey>
+<themekey>Falco rusticolus</themekey>
+<themekey>Falco sparverius</themekey>
+<themekey>Felis concolor</themekey>
+<themekey>Ferruginous Hawk</themekey>
+<themekey>Field Sparrow</themekey>
+<themekey>Flammulated Owl</themekey>
+<themekey>Forster&apos;s Tern</themekey>
+<themekey>Fox Sparrow</themekey>
+<themekey>Fox Squirrel</themekey>
+<themekey>Franklin&apos;s Gull</themekey>
+<themekey>Fringed Myotis</themekey>
+<themekey>Fulica americana</themekey>
+<themekey>Gadwall</themekey>
+<themekey>Gallinago gallinago</themekey>
+<themekey>Gallinula chloropus</themekey>
+<themekey>Gambel&apos;s Quail</themekey>
+<themekey>Gambelia wislizenii</themekey>
+<themekey>Gastrophryne olivacea</themekey>
+<themekey>Gavia adamsii</themekey>
+<themekey>Gavia immer</themekey>
+<themekey>Gavia pacifica</themekey>
+<themekey>Gavia stellata</themekey>
+<themekey>Geococcyx californianus</themekey>
+<themekey>Geomys bursarius</themekey>
+<themekey>Geothlypis trichas</themekey>
+<themekey>Glaucidium gnoma</themekey>
+<themekey>Glaucous Gull</themekey>
+<themekey>Glossy Snake</themekey>
+<themekey>Golden Eagle</themekey>
+<themekey>Golden-crowned Kinglet</themekey>
+<themekey>Golden-crowned Sparrow</themekey>
+<themekey>Golden-mantled Ground Squirrel</themekey>
+<themekey>Golden-winged Warbler</themekey>
+<themekey>Gopher Snake</themekey>
+<themekey>Grace&apos;s Warbler</themekey>
+<themekey>Grasshopper Sparrow</themekey>
+<themekey>Gray Catbird</themekey>
+<themekey>Gray Flycatcher</themekey>
+<themekey>Gray Fox</themekey>
+<themekey>Gray Jay</themekey>
+<themekey>Gray Vireo</themekey>
+<themekey>Gray Wolf</themekey>
+<themekey>Gray-cheeked Thrush</themekey>
+<themekey>Gray-crowned Rosy Finch</themekey>
+<themekey>Great Basin Pocket Mouse</themekey>
+<themekey>Great Basin Spadefoot</themekey>
+<themekey>Great Black-backed Gull</themekey>
+<themekey>Great Blue Heron</themekey>
+<themekey>Great Crested Flycatcher</themekey>
+<themekey>Great Egret</themekey>
+<themekey>Great Horned Owl</themekey>
+<themekey>Great Plains Narrowmouth Toad</themekey>
+<themekey>Great Plains Skink</themekey>
+<themekey>Great Plains Toad</themekey>
+<themekey>Great-tailed Grackle</themekey>
+<themekey>Greater Prairie-chicken</themekey>
+<themekey>Greater Roadrunner</themekey>
+<themekey>Greater Scaup</themekey>
+<themekey>Greater White-fronted Goose</themekey>
+<themekey>Greater Yellowlegs</themekey>
+<themekey>Green Heron</themekey>
+<themekey>Green Toad</themekey>
+<themekey>Green-tailed Towhee</themekey>
+<themekey>Green-winged Teal</themekey>
+<themekey>Grizzly Bear</themekey>
+<themekey>Groove-billed Ani</themekey>
+<themekey>Ground Snake</themekey>
+<themekey>Grus americana</themekey>
+<themekey>Grus canadensis</themekey>
+<themekey>Guiraca caerulea</themekey>
+<themekey>Gulo gulo</themekey>
+<themekey>Gunnison&apos;s Prairie Dog</themekey>
+<themekey>Gymnorhinus cyanocephalus</themekey>
+<themekey>Gyrfalcon</themekey>
+<themekey>Hairy Woodpecker</themekey>
+<themekey>Haliaeetus leucocephalus</themekey>
+<themekey>Hammond&apos;s Flycatcher</themekey>
+<themekey>Harlequin Duck</themekey>
+<themekey>Harris&apos;  Sparrow</themekey>
+<themekey>Heather Vole</themekey>
+<themekey>Helmitheros vermivorus</themekey>
+<themekey>Hepatic Tanager</themekey>
+<themekey>Hermit Thrush</themekey>
+<themekey>Hermit Warbler</themekey>
+<themekey>Herring Gull</themekey>
+<themekey>Heterodon nasicus</themekey>
+<themekey>Himantopus mexicanus</themekey>
+<themekey>Hirundo pyrrhonota</themekey>
+<themekey>Hirundo rustica</themekey>
+<themekey>Hispid Cotton Rat</themekey>
+<themekey>Hispid Pocket Mouse</themekey>
+<themekey>Histrionicus histrionicus</themekey>
+<themekey>Hoary Bat</themekey>
+<themekey>Holbrookia maculata</themekey>
+<themekey>Hooded Merganser</themekey>
+<themekey>Hooded Warbler</themekey>
+<themekey>Hopi Chipmunk</themekey>
+<themekey>Horned Grebe</themekey>
+<themekey>Horned Lark</themekey>
+<themekey>House Finch</themekey>
+<themekey>House Sparrow</themekey>
+<themekey>House Wren</themekey>
+<themekey>Hudsonian Godwit</themekey>
+<themekey>Hyla arenicolor</themekey>
+<themekey>Hylocichla mustelina</themekey>
+<themekey>Hypsiglena torquata</themekey>
+<themekey>Icteria  virens</themekey>
+<themekey>Icterus  bullockii</themekey>
+<themekey>Icterus  galbula X bullockii</themekey>
+<themekey>Icterus  galbula</themekey>
+<themekey>Icterus  parisorum</themekey>
+<themekey>Icterus  spurius</themekey>
+<themekey>Ictinia  mississippiensis</themekey>
+<themekey>Indigo Bunting</themekey>
+<themekey>Interior Piping Plover</themekey>
+<themekey>Ixobrychus exilis</themekey>
+<themekey>Ixoreus naevius</themekey>
+<themekey>Junco hyemalis</themekey>
+<themekey>Kentucky Warbler</themekey>
+<themekey>Killdeer</themekey>
+<themekey>Kinosternon flavescens</themekey>
+<themekey>Kit Fox</themekey>
+<themekey>Ladder-backed Woodpecker</themekey>
+<themekey>Lagopus leucurus</themekey>
+<themekey>Lampornis clemenciae</themekey>
+<themekey>Lampropeltis getula</themekey>
+<themekey>Lampropeltis triangulum</themekey>
+<themekey>Lanius excubitor</themekey>
+<themekey>Lanius ludovicianus</themekey>
+<themekey>Lapland Longspur</themekey>
+<themekey>Lark Bunting</themekey>
+<themekey>Lark Sparrow</themekey>
+<themekey>Larus argentatus</themekey>
+<themekey>Larus atricilla</themekey>
+<themekey>Larus californicus</themekey>
+<themekey>Larus canus</themekey>
+<themekey>Larus delawarensis</themekey>
+<themekey>Larus hyperboreus</themekey>
+<themekey>Larus marinus</themekey>
+<themekey>Larus minutus</themekey>
+<themekey>Larus philadelphia</themekey>
+<themekey>Larus pipixcan</themekey>
+<themekey>Larus thayeri</themekey>
+<themekey>Lasionycteris noctivagans</themekey>
+<themekey>Lasiurus borealis</themekey>
+<themekey>Lasiurus cinereus</themekey>
+<themekey>Laterallus jamaicensis</themekey>
+<themekey>Laughing Gull</themekey>
+<themekey>Lazuli Bunting</themekey>
+<themekey>Lazuli X Indigo Bunting</themekey>
+<themekey>Le Conte&apos;s Sparrow</themekey>
+<themekey>Least Bittern</themekey>
+<themekey>Least Chipmunk</themekey>
+<themekey>Least Flycatcher</themekey>
+<themekey>Least Sandpiper</themekey>
+<themekey>Least Shrew</themekey>
+<themekey>Least Tern</themekey>
+<themekey>Lemmiscus curtatus</themekey>
+<themekey>Leptotyphlops dulcis</themekey>
+<themekey>Lepus americanus</themekey>
+<themekey>Lepus californicus</themekey>
+<themekey>Lepus townsendii</themekey>
+<themekey>Lesser Earless Lizard</themekey>
+<themekey>Lesser Goldfinch</themekey>
+<themekey>Lesser Nighthawk</themekey>
+<themekey>Lesser Prairie-chicken</themekey>
+<themekey>Lesser Scaup</themekey>
+<themekey>Lesser Yellowlegs</themekey>
+<themekey>Leucosticte atrata</themekey>
+<themekey>Leucosticte australis</themekey>
+<themekey>Leucosticte tephrocotis</themekey>
+<themekey>Lewis&apos; Woodpecker</themekey>
+<themekey>Limnodromus griseus</themekey>
+<themekey>Limnodromus scolopaceus</themekey>
+<themekey>Limnothlypis swainsonii</themekey>
+<themekey>Limosa fedoa</themekey>
+<themekey>Limosa haemastica</themekey>
+<themekey>Lincoln&apos;s Sparrow</themekey>
+<themekey>Lined Snake</themekey>
+<themekey>Liochlorophis vernalis</themekey>
+<themekey>Little Blue Heron</themekey>
+<themekey>Little Brown Myotis</themekey>
+<themekey>Little Gull</themekey>
+<themekey>Loggerhead Shrike</themekey>
+<themekey>Long-billed Curlew</themekey>
+<themekey>Long-billed Dowitcher</themekey>
+<themekey>Long-eared Myotis</themekey>
+<themekey>Long-eared Owl</themekey>
+<themekey>Long-legged Myotis</themekey>
+<themekey>Long-tailed Vole</themekey>
+<themekey>Long-tailed Weasel</themekey>
+<themekey>Longnose Leopard Lizard</themekey>
+<themekey>Longnose Snake</themekey>
+<themekey>Lophodytes cucullatus</themekey>
+<themekey>Loxia curvirostra</themekey>
+<themekey>Loxia leucoptera</themekey>
+<themekey>Lutra canadensis</themekey>
+<themekey>Lynx</themekey>
+<themekey>Lynx canadensis</themekey>
+<themekey>Lynx rufus</themekey>
+<themekey>MacGillivray&apos;s Warbler</themekey>
+<themekey>Magnificent Hummingbird</themekey>
+<themekey>Magnolia Warbler</themekey>
+<themekey>Mallard</themekey>
+<themekey>Many-lined Skink</themekey>
+<themekey>Marbled Godwit</themekey>
+<themekey>Marmota flaviventris</themekey>
+<themekey>Marsh Wren</themekey>
+<themekey>Martes americana</themekey>
+<themekey>Masked Shrew</themekey>
+<themekey>Massasauga</themekey>
+<themekey>Masticophis flagellum</themekey>
+<themekey>Masticophis taeniatus</themekey>
+<themekey>McCown&apos;s Longspur</themekey>
+<themekey>Meadow Jumping Mouse</themekey>
+<themekey>Meadow Vole</themekey>
+<themekey>Melanerpes carolinus</themekey>
+<themekey>Melanerpes erythrocephalus</themekey>
+<themekey>Melanerpes lewis</themekey>
+<themekey>Melanitta fusca</themekey>
+<themekey>Melanitta nigra</themekey>
+<themekey>Melanitta perspicillata</themekey>
+<themekey>Meleagris gallopavo</themekey>
+<themekey>Melospiza georgiana</themekey>
+<themekey>Melospiza lincolnii</themekey>
+<themekey>Melospiza melodia</themekey>
+<themekey>Mephitis mephitis</themekey>
+<themekey>Mergus merganser</themekey>
+<themekey>Mergus serrator</themekey>
+<themekey>Merlin</themekey>
+<themekey>Merriam&apos;s Shrew</themekey>
+<themekey>Mew Gull</themekey>
+<themekey>Mexican Vole</themekey>
+<themekey>Mexican Woodrat</themekey>
+<themekey>Microtus longicaudus</themekey>
+<themekey>Microtus mexicanus</themekey>
+<themekey>Microtus montanus</themekey>
+<themekey>Microtus ochrogaster</themekey>
+<themekey>Microtus pennsylvanicus</themekey>
+<themekey>Milk Snake</themekey>
+<themekey>Mimus polyglottos</themekey>
+<themekey>Mink</themekey>
+<themekey>Mississippi Kite</themekey>
+<themekey>Mniotilta varia</themekey>
+<themekey>Molothrus ater</themekey>
+<themekey>Montane Shrew</themekey>
+<themekey>Montane Vole</themekey>
+<themekey>Moose</themekey>
+<themekey>Mountain Bluebird</themekey>
+<themekey>Mountain Chickadee</themekey>
+<themekey>Mountain Cottontail</themekey>
+<themekey>Mountain Goat</themekey>
+<themekey>Mountain Lion</themekey>
+<themekey>Mountain Plover</themekey>
+<themekey>Mourning Dove</themekey>
+<themekey>Mourning Warbler</themekey>
+<themekey>Mule Deer</themekey>
+<themekey>Mustela erminea</themekey>
+<themekey>Mustela frenata</themekey>
+<themekey>Mustela nigripes</themekey>
+<themekey>Mustela vison</themekey>
+<themekey>Myadestes townsendi</themekey>
+<themekey>Myiarchus cinerascens</themekey>
+<themekey>Myiarchus crinitus</themekey>
+<themekey>Myotis californicus</themekey>
+<themekey>Myotis ciliolabrum</themekey>
+<themekey>Myotis evotis</themekey>
+<themekey>Myotis lucifugus</themekey>
+<themekey>Myotis thysanodes</themekey>
+<themekey>Myotis volans</themekey>
+<themekey>Myotis yumanensis</themekey>
+<themekey>Nashville Warbler</themekey>
+<themekey>Neotoma albigula</themekey>
+<themekey>Neotoma cinerea</themekey>
+<themekey>Neotoma floridana</themekey>
+<themekey>Neotoma lepida</themekey>
+<themekey>Neotoma mexicana</themekey>
+<themekey>Neotoma micropus</themekey>
+<themekey>Neotropic Cormorant</themekey>
+<themekey>Nerodia sipedon</themekey>
+<themekey>New Mexico Spadefoot</themekey>
+<themekey>Night Snake</themekey>
+<themekey>Northern Bobwhite</themekey>
+<themekey>Northern Cardinal</themekey>
+<themekey>Northern Cricket Frog</themekey>
+<themekey>Northern Flicker</themekey>
+<themekey>Northern Goshawk</themekey>
+<themekey>Northern Grasshopper Mouse</themekey>
+<themekey>Northern Harrier</themekey>
+<themekey>Northern Leopard Frog</themekey>
+<themekey>Northern Mockingbird</themekey>
+<themekey>Northern Parula</themekey>
+<themekey>Northern Pintail</themekey>
+<themekey>Northern Pocket Gopher</themekey>
+<themekey>Northern Pygmy-Owl</themekey>
+<themekey>Northern River Otter</themekey>
+<themekey>Northern Rock Mouse</themekey>
+<themekey>Northern Rough-winged Swallow</themekey>
+<themekey>Northern Saw-whet Owl</themekey>
+<themekey>Northern Shoveler</themekey>
+<themekey>Northern Shrike</themekey>
+<themekey>Northern Water Snake</themekey>
+<themekey>Northern Waterthrush</themekey>
+<themekey>Notiosorex crawfordi</themekey>
+<themekey>Nucifraga columbiana</themekey>
+<themekey>Numenius americanus</themekey>
+<themekey>Numenius phaeopus</themekey>
+<themekey>Nyctanassa violacea</themekey>
+<themekey>Nyctea scandiaca</themekey>
+<themekey>Nycticorax nycticorax</themekey>
+<themekey>Nyctinomops macrotis</themekey>
+<themekey>Ochotona princeps</themekey>
+<themekey>Odocoileus hemionus</themekey>
+<themekey>Odocoileus virginianus</themekey>
+<themekey>Oldsquaw</themekey>
+<themekey>Olive-backed Pocket Mouse</themekey>
+<themekey>Olive-sided Flycatcher</themekey>
+<themekey>Ondatra zibethicus</themekey>
+<themekey>Onychomys leucogaster</themekey>
+<themekey>Oporornis formosus</themekey>
+<themekey>Oporornis philadelphia</themekey>
+<themekey>Oporornis tolmiei</themekey>
+<themekey>Orange-crowned Warbler</themekey>
+<themekey>Orchard Oriole</themekey>
+<themekey>Ord&apos;s Kangaroo Rat</themekey>
+<themekey>Oreamnos americanus</themekey>
+<themekey>Oreoscoptes montanus</themekey>
+<themekey>Ornate Box Turtle</themekey>
+<themekey>Osprey</themekey>
+<themekey>Otus asio</themekey>
+<themekey>Otus flammeolus</themekey>
+<themekey>Otus kennicottii</themekey>
+<themekey>Ovenbird</themekey>
+<themekey>Ovis canadensis</themekey>
+<themekey>Oxyura jamaicensis</themekey>
+<themekey>Pacific  Loon</themekey>
+<themekey>Painted Bunting</themekey>
+<themekey>Painted Turtle</themekey>
+<themekey>Pallid Bat</themekey>
+<themekey>Palm Warbler</themekey>
+<themekey>Pandion haliaetus</themekey>
+<themekey>Parula americana</themekey>
+<themekey>Parus atricapillus</themekey>
+<themekey>Parus gambeli</themekey>
+<themekey>Parus inornatus</themekey>
+<themekey>Passer domesticus</themekey>
+<themekey>Passerculus sandwichensis</themekey>
+<themekey>Passerella iliaca</themekey>
+<themekey>Passerina amoena</themekey>
+<themekey>Passerina amoena X cyanea</themekey>
+<themekey>Passerina ciris</themekey>
+<themekey>Passerina cyanea</themekey>
+<themekey>Pectoral Sandpiper</themekey>
+<themekey>Pelecanus erythrorhynchos</themekey>
+<themekey>Pelecanus occidentalis</themekey>
+<themekey>Peregrine Falcon</themekey>
+<themekey>Perisoreus canadensis</themekey>
+<themekey>Perognathus fasciatus</themekey>
+<themekey>Perognathus flavescens</themekey>
+<themekey>Perognathus flavus</themekey>
+<themekey>Perognathus parvus</themekey>
+<themekey>Peromyscus boylii</themekey>
+<themekey>Peromyscus crinitus</themekey>
+<themekey>Peromyscus leucopus</themekey>
+<themekey>Peromyscus maniculatus</themekey>
+<themekey>Peromyscus nasutus</themekey>
+<themekey>Peromyscus truei</themekey>
+<themekey>Phainopepla</themekey>
+<themekey>Phainopepla nitens</themekey>
+<themekey>Phalacrocorax auritus</themekey>
+<themekey>Phalacrocorax brasilianus</themekey>
+<themekey>Phalaenoptilus nuttallii</themekey>
+<themekey>Phalaropus fulcaria</themekey>
+<themekey>Phalaropus lobatus</themekey>
+<themekey>Phalaropus tricolor</themekey>
+<themekey>Phasianus colchicus</themekey>
+<themekey>Phenacomys intermedius</themekey>
+<themekey>Pheucticus ludovicianus</themekey>
+<themekey>Pheucticus melanocephalus</themekey>
+<themekey>Philadelphia Vireo</themekey>
+<themekey>Phrynosoma cornutum</themekey>
+<themekey>Phrynosoma hernandezi</themekey>
+<themekey>Phrynosoma modestum</themekey>
+<themekey>Pica pica</themekey>
+<themekey>Picoides pubescens</themekey>
+<themekey>Picoides scalaris</themekey>
+<themekey>Picoides tridactylus</themekey>
+<themekey>Picoides villosus</themekey>
+<themekey>Pied-billed Grebe</themekey>
+<themekey>Pine Grosbeak</themekey>
+<themekey>Pine Siskin</themekey>
+<themekey>Pine Warbler</themekey>
+<themekey>Pinicola enucleator</themekey>
+<themekey>Pinyon Jay</themekey>
+<themekey>Pinyon Mouse</themekey>
+<themekey>Pipilo chlorurus</themekey>
+<themekey>Pipilo erythrophthalmus</themekey>
+<themekey>Pipilo fuscus</themekey>
+<themekey>Pipilo maculatus</themekey>
+<themekey>Pipistrellus hesperus</themekey>
+<themekey>Piranga flava</themekey>
+<themekey>Piranga ludoviciana</themekey>
+<themekey>Piranga olivacea</themekey>
+<themekey>Piranga rubra</themekey>
+<themekey>Pituophis catenifer</themekey>
+<themekey>Plain Titmouse</themekey>
+<themekey>Plains Blackhead Snake</themekey>
+<themekey>Plains Garter Snake</themekey>
+<themekey>Plains Harvest Mouse</themekey>
+<themekey>Plains Leopard Frog</themekey>
+<themekey>Plains Pocket Gopher</themekey>
+<themekey>Plains Pocket Mouse</themekey>
+<themekey>Plains Spadefoot</themekey>
+<themekey>Plateau Striped Whiptail</themekey>
+<themekey>Plecotus townsendii</themekey>
+<themekey>Plectrophenax nivalis</themekey>
+<themekey>Plegadis chihi</themekey>
+<themekey>Pluvialis dominicus</themekey>
+<themekey>Pluvialis squatarola</themekey>
+<themekey>Podiceps auritus</themekey>
+<themekey>Podiceps grisegena</themekey>
+<themekey>Podiceps nigricollis</themekey>
+<themekey>Podilymbus podiceps</themekey>
+<themekey>Polioptila caerulea</themekey>
+<themekey>Pooecetes gramineus</themekey>
+<themekey>Porzana carolina</themekey>
+<themekey>Prairie  Falcon</themekey>
+<themekey>Prairie  Vole</themekey>
+<themekey>Prairie  Warbler</themekey>
+<themekey>Procyon lotor</themekey>
+<themekey>Progne subis</themekey>
+<themekey>Pronghorn</themekey>
+<themekey>Prothonotary Warbler</themekey>
+<themekey>Protonotaria citrea</themekey>
+<themekey>Psaltriparus minimus</themekey>
+<themekey>Pseudacris triseriata</themekey>
+<themekey>Purple Finch</themekey>
+<themekey>Purple Martin</themekey>
+<themekey>Pygmy Nuthatch</themekey>
+<themekey>Pygmy Shrew</themekey>
+<themekey>Pyrocephalus rubinus</themekey>
+<themekey>Quiscalus mexicanus</themekey>
+<themekey>Quiscalus quiscula</themekey>
+<themekey>Raccoon</themekey>
+<themekey>Racer</themekey>
+<themekey>Rallus limicola</themekey>
+<themekey>Rana blairi</themekey>
+<themekey>Rana catesbeiana</themekey>
+<themekey>Rana pipiens</themekey>
+<themekey>Rana sylvatica</themekey>
+<themekey>Recurvirostra americana</themekey>
+<themekey>Red Bat</themekey>
+<themekey>Red Crossbill</themekey>
+<themekey>Red Fox</themekey>
+<themekey>Red Knot</themekey>
+<themekey>Red Phalarope</themekey>
+<themekey>Red-bellied Woodpecker</themekey>
+<themekey>Red-breasted Merganser</themekey>
+<themekey>Red-breasted Nuthatch</themekey>
+<themekey>Red-eyed Vireo</themekey>
+<themekey>Red-headed Woodpecker</themekey>
+<themekey>Red-naped Sapsucker</themekey>
+<themekey>Red-necked Grebe</themekey>
+<themekey>Red-necked Phalarope</themekey>
+<themekey>Red-shouldered Hawk</themekey>
+<themekey>Red-spotted Toad</themekey>
+<themekey>Red-tailed Hawk</themekey>
+<themekey>Red-throated Loon</themekey>
+<themekey>Red-winged Blackbird</themekey>
+<themekey>Redhead</themekey>
+<themekey>Regulus calendula</themekey>
+<themekey>Regulus satrapa</themekey>
+<themekey>Reithrodontomys megalotis</themekey>
+<themekey>Reithrodontomys montanus</themekey>
+<themekey>Rhinocheilus lecontei</themekey>
+<themekey>Ring-billed Gull</themekey>
+<themekey>Ring-necked Duck</themekey>
+<themekey>Ring-necked Pheasant</themekey>
+<themekey>Ringneck Snake</themekey>
+<themekey>Ringtail</themekey>
+<themekey>Riparia riparia</themekey>
+<themekey>Rissa tridactyla</themekey>
+<themekey>Rock Dove</themekey>
+<themekey>Rock Squirrel</themekey>
+<themekey>Rock Wren</themekey>
+<themekey>Rose-breasted Grosbeak</themekey>
+<themekey>Ross&apos; Goose</themekey>
+<themekey>Rough-legged Hawk</themekey>
+<themekey>Roundtail Horned Lizard</themekey>
+<themekey>Ruby-crowned Kinglet</themekey>
+<themekey>Ruddy Duck</themekey>
+<themekey>Ruddy Turnstone</themekey>
+<themekey>Ruffed Grouse</themekey>
+<themekey>Rufous Hummingbird</themekey>
+<themekey>Rufous-crowned Sparrow</themekey>
+<themekey>Rusty Blackbird</themekey>
+<themekey>Sabine&apos;s Gull</themekey>
+<themekey>Sage Grouse</themekey>
+<themekey>Sage Sparrow</themekey>
+<themekey>Sage Thrasher</themekey>
+<themekey>Sagebrush Lizard</themekey>
+<themekey>Sagebrush Vole</themekey>
+<themekey>Salpinctes obsoletus</themekey>
+<themekey>Sanderling</themekey>
+<themekey>Sandhill Crane</themekey>
+<themekey>Savannah Sparrow</themekey>
+<themekey>Say&apos;s Phoebe</themekey>
+<themekey>Sayornis nigricans</themekey>
+<themekey>Sayornis phoebe</themekey>
+<themekey>Sayornis saya</themekey>
+<themekey>Scaled Quail</themekey>
+<themekey>Scalopus aquaticus</themekey>
+<themekey>Scaphiopus couchii</themekey>
+<themekey>Scarlet  Tanager</themekey>
+<themekey>Sceloporus graciosus</themekey>
+<themekey>Sceloporus magister</themekey>
+<themekey>Sceloporus undulatus</themekey>
+<themekey>Scissor-tailed Flycatcher</themekey>
+<themekey>Sciurus aberti</themekey>
+<themekey>Sciurus niger</themekey>
+<themekey>Scolopax minor</themekey>
+<themekey>Scott&apos;s  Oriole</themekey>
+<themekey>Sedge Wren</themekey>
+<themekey>Seiurus noveboracensis</themekey>
+<themekey>Seiurus urocapillus</themekey>
+<themekey>Selasphorus platycercus</themekey>
+<themekey>Selasphorus rufus</themekey>
+<themekey>Semipalmated Plover</themekey>
+<themekey>Semipalmated Sandpiper</themekey>
+<themekey>Setophaga ruticilla</themekey>
+<themekey>Sharp-shinned Hawk</themekey>
+<themekey>Sharp-tailed Grouse</themekey>
+<themekey>Short-billed Dowitcher</themekey>
+<themekey>Short-eared Owl</themekey>
+<themekey>Short-horned Lizard</themekey>
+<themekey>Sialia currucoides</themekey>
+<themekey>Sialia mexicana</themekey>
+<themekey>Sialia sialis</themekey>
+<themekey>Side-blotched Lizard</themekey>
+<themekey>Sigmodon hispidus</themekey>
+<themekey>Silky Pocket Mouse</themekey>
+<themekey>Silver-haired Bat</themekey>
+<themekey>Sistrurus catenatus</themekey>
+<themekey>Sitta canadensis</themekey>
+<themekey>Sitta carolinensis</themekey>
+<themekey>Sitta pygmaea</themekey>
+<themekey>Six-lined Racerunner</themekey>
+<themekey>Smooth Green Snake</themekey>
+<themekey>Snapping Turtle</themekey>
+<themekey>Snow Bunting</themekey>
+<themekey>Snow Goose</themekey>
+<themekey>Snowshoe Hare</themekey>
+<themekey>Snowy Egret</themekey>
+<themekey>Snowy Owl</themekey>
+<themekey>Snowy Plover</themekey>
+<themekey>Solitary Sandpiper</themekey>
+<themekey>Solitary Vireo</themekey>
+<themekey>Song Sparrow</themekey>
+<themekey>Sonora semiannulata</themekey>
+<themekey>Sora</themekey>
+<themekey>Sorex cinereus</themekey>
+<themekey>Sorex hoyi</themekey>
+<themekey>Sorex merriami</themekey>
+<themekey>Sorex monticolus</themekey>
+<themekey>Sorex nanus</themekey>
+<themekey>Sorex palustris</themekey>
+<themekey>Southern Plains Woodrat</themekey>
+<themekey>Southern Red-backed Vole</themekey>
+<themekey>Southwestern Blackhead Snake</themekey>
+<themekey>Spea bombifrons</themekey>
+<themekey>Spea intermontana</themekey>
+<themekey>Spea multiplicata</themekey>
+<themekey>Speotyto cunicularia</themekey>
+<themekey>Spermophilus elegans</themekey>
+<themekey>Spermophilus lateralis</themekey>
+<themekey>Spermophilus spilosoma</themekey>
+<themekey>Spermophilus tridecemlineatus</themekey>
+<themekey>Spermophilus variegatus</themekey>
+<themekey>Sphyrapicus nuchalis</themekey>
+<themekey>Sphyrapicus thyroideus</themekey>
+<themekey>Sphyrapicus varius</themekey>
+<themekey>Spilogale gracilis</themekey>
+<themekey>Spilogale putorius</themekey>
+<themekey>Spiny Softshell</themekey>
+<themekey>Spiza americana</themekey>
+<themekey>Spizella arborea</themekey>
+<themekey>Spizella breweri</themekey>
+<themekey>Spizella pallida</themekey>
+<themekey>Spizella passerina</themekey>
+<themekey>Spizella pusilla</themekey>
+<themekey>Spotted Ground Squirrel</themekey>
+<themekey>Spotted Owl</themekey>
+<themekey>Spotted Sandpiper</themekey>
+<themekey>Spotted Towhee</themekey>
+<themekey>Sprague&apos;s Pipit</themekey>
+<themekey>Stelgidopteryx serripennis</themekey>
+<themekey>Steller&apos;s Jay</themekey>
+<themekey>Stellula calliope</themekey>
+<themekey>Sterna antillarum</themekey>
+<themekey>Sterna caspia</themekey>
+<themekey>Sterna forsteri</themekey>
+<themekey>Sterna hirundo</themekey>
+<themekey>Stilt Sandpiper</themekey>
+<themekey>Striped Skunk</themekey>
+<themekey>Striped Whipsnake</themekey>
+<themekey>Strix occidentalis</themekey>
+<themekey>Sturnella magna</themekey>
+<themekey>Sturnella neglecta</themekey>
+<themekey>Summer Tanager</themekey>
+<themekey>Surf Scoter</themekey>
+<themekey>Swainson&apos;s Hawk</themekey>
+<themekey>Swainson&apos;s Thrush</themekey>
+<themekey>Swainson&apos;s Warbler</themekey>
+<themekey>Swamp Sparrow</themekey>
+<themekey>Swift Fox</themekey>
+<themekey>Sylvilagus audubonii</themekey>
+<themekey>Sylvilagus floridanus</themekey>
+<themekey>Sylvilagus nuttallii</themekey>
+<themekey>Tachycineta bicolor</themekey>
+<themekey>Tachycineta thalassina</themekey>
+<themekey>Tadarida brasiliensis</themekey>
+<themekey>Tamias dorsalis</themekey>
+<themekey>Tamias minimus</themekey>
+<themekey>Tamias quadrivittatus</themekey>
+<themekey>Tamias rufus</themekey>
+<themekey>Tamias umbrinus</themekey>
+<themekey>Tamiasciurus hudsonicus</themekey>
+<themekey>Tantilla hobartsmithi</themekey>
+<themekey>Tantilla nigriceps</themekey>
+<themekey>Taxidea taxus</themekey>
+<themekey>Tennessee Warbler</themekey>
+<themekey>Terrapene ornata</themekey>
+<themekey>Texas Blind Snake</themekey>
+<themekey>Texas Horned Lizard</themekey>
+<themekey>Thamnophis cyrtopsis</themekey>
+<themekey>Thamnophis elegans</themekey>
+<themekey>Thamnophis radix</themekey>
+<themekey>Thamnophis sirtalis</themekey>
+<themekey>Thayer&apos;s Gull</themekey>
+<themekey>Thirteen-lined Ground Squirrel</themekey>
+<themekey>Thomomys bottae</themekey>
+<themekey>Thomomys talpoides</themekey>
+<themekey>Three-toed Woodpecker</themekey>
+<themekey>Thryomanes bewickii</themekey>
+<themekey>Thryothorus ludovicianus</themekey>
+<themekey>Tiger Salamander</themekey>
+<themekey>Townsend&apos;s Big-eared Bat</themekey>
+<themekey>Townsend&apos;s Solitaire</themekey>
+<themekey>Townsend&apos;s Warbler</themekey>
+<themekey>Toxostoma bendirei</themekey>
+<themekey>Toxostoma curvirostre</themekey>
+<themekey>Toxostoma rufum</themekey>
+<themekey>Tree Lizard</themekey>
+<themekey>Tree Swallow</themekey>
+<themekey>Tricolored Heron</themekey>
+<themekey>Tringa flavipes</themekey>
+<themekey>Tringa melanoleuca</themekey>
+<themekey>Tringa solitaria</themekey>
+<themekey>Triploid Colorado Checke</themekey>
+<themekey>Troglodytes aedon</themekey>
+<themekey>Troglodytes troglodytes</themekey>
+<themekey>Tropidoclonion lineatum</themekey>
+<themekey>Trumpeter Swan</themekey>
+<themekey>Tryngites subruficollis</themekey>
+<themekey>Tundra Swan</themekey>
+<themekey>Turdus migratorius</themekey>
+<themekey>Turkey Vulture</themekey>
+<themekey>Tympanuchus cupido</themekey>
+<themekey>Tympanuchus pallidicinctus</themekey>
+<themekey>Tympanuchus phasianellus</themekey>
+<themekey>Tyrannus forficatus</themekey>
+<themekey>Tyrannus tyrannus</themekey>
+<themekey>Tyrannus verticalis</themekey>
+<themekey>Tyrannus vociferans</themekey>
+<themekey>Tyto alba</themekey>
+<themekey>Uinta Chipmunk</themekey>
+<themekey>Upland Sandpiper</themekey>
+<themekey>Urocyon cinereoargenteus</themekey>
+<themekey>Urosaurus ornatus</themekey>
+<themekey>Ursus americanus</themekey>
+<themekey>Ursus arctos</themekey>
+<themekey>Uta stansburiana</themekey>
+<themekey>Varied Thrush</themekey>
+<themekey>Veery</themekey>
+<themekey>Vermilion Flycatcher</themekey>
+<themekey>Vermivora celata</themekey>
+<themekey>Vermivora chrysoptera</themekey>
+<themekey>Vermivora peregrina</themekey>
+<themekey>Vermivora pinus</themekey>
+<themekey>Vermivora ruficapilla</themekey>
+<themekey>Vermivora virginiae</themekey>
+<themekey>Vesper Sparrow</themekey>
+<themekey>Violet-green Swallow</themekey>
+<themekey>Vireo bellii</themekey>
+<themekey>Vireo flavifrons</themekey>
+<themekey>Vireo gilvus</themekey>
+<themekey>Vireo griseus</themekey>
+<themekey>Vireo olivaceus</themekey>
+<themekey>Vireo philadelphicus</themekey>
+<themekey>Vireo solitarius</themekey>
+<themekey>Vireo vicinior</themekey>
+<themekey>Virginia Opossum</themekey>
+<themekey>Virginia Rail</themekey>
+<themekey>Virginia&apos;s Warbler</themekey>
+<themekey>Vulpes macrotis</themekey>
+<themekey>Vulpes velox</themekey>
+<themekey>Vulpes vulpes</themekey>
+<themekey>Warbling Vireo</themekey>
+<themekey>Water Shrew</themekey>
+<themekey>Western Bluebird</themekey>
+<themekey>Western Burrowing Owl</themekey>
+<themekey>Western Chorus Frog</themekey>
+<themekey>Western Grebe</themekey>
+<themekey>Western Harvest Mouse</themekey>
+<themekey>Western Hognose Snake</themekey>
+<themekey>Western Jumping Mouse</themekey>
+<themekey>Western Kingbird</themekey>
+<themekey>Western Meadowlark</themekey>
+<themekey>Western Pipistrelle</themekey>
+<themekey>Western Rattlesnake</themekey>
+<themekey>Western Sandpiper</themekey>
+<themekey>Western Screech-Owl</themekey>
+<themekey>Western Scrub Jay</themekey>
+<themekey>Western Small-footed Myotis</themekey>
+<themekey>Western Spotted Skunk</themekey>
+<themekey>Western Tanager</themekey>
+<themekey>Western Terrestrial Garter Snake</themekey>
+<themekey>Western Toad</themekey>
+<themekey>Western Whiptail</themekey>
+<themekey>Western Wood-Pewee</themekey>
+<themekey>Whimbrel</themekey>
+<themekey>White-breasted Nuthatch</themekey>
+<themekey>White-crowned Sparrow</themekey>
+<themekey>White-eyed Vireo</themekey>
+<themekey>White-faced Ibis</themekey>
+<themekey>White-footed Mouse</themekey>
+<themekey>White-rumped Sandpiper</themekey>
+<themekey>White-tailed Antelope Squirrel</themekey>
+<themekey>White-tailed Deer</themekey>
+<themekey>White-tailed Jackrabbit</themekey>
+<themekey>White-tailed Prairie Dog</themekey>
+<themekey>White-tailed Ptarmigan</themekey>
+<themekey>White-throated Sparrow</themekey>
+<themekey>White-throated Swift</themekey>
+<themekey>White-throated Woodrat</themekey>
+<themekey>White-winged Crossbill</themekey>
+<themekey>White-winged Dove</themekey>
+<themekey>White-winged Scoter</themekey>
+<themekey>Whooping Crane</themekey>
+<themekey>Wild Turkey</themekey>
+<themekey>Willet</themekey>
+<themekey>Williamson&apos;s Sapsucker</themekey>
+<themekey>Willow Flycatcher</themekey>
+<themekey>Wilson&apos;s Phalarope</themekey>
+<themekey>Wilson&apos;s Warbler</themekey>
+<themekey>Wilsonia canadensis</themekey>
+<themekey>Wilsonia citrina</themekey>
+<themekey>Wilsonia pusilla</themekey>
+<themekey>Winter Wren</themekey>
+<themekey>Wolverine</themekey>
+<themekey>Wood Duck</themekey>
+<themekey>Wood Frog</themekey>
+<themekey>Wood Thrush</themekey>
+<themekey>Woodhouse&apos;s Toad</themekey>
+<themekey>Worm-eating Warbler</themekey>
+<themekey>Wyoming Ground Squirrel</themekey>
+<themekey>Xanthocephalus xanthocephalus</themekey>
+<themekey>Xema sabini</themekey>
+<themekey>Yellow Mud Turtle</themekey>
+<themekey>Yellow Warbler</themekey>
+<themekey>Yellow-bellied Marmot</themekey>
+<themekey>Yellow-bellied Sapsucker</themekey>
+<themekey>Yellow-billed Cuckoo</themekey>
+<themekey>Yellow-billed Loon</themekey>
+<themekey>Yellow-breasted Chat</themekey>
+<themekey>Yellow-crowned Night-Heron</themekey>
+<themekey>Yellow-faced Pocket Gopher</themekey>
+<themekey>Yellow-headed Blackbird</themekey>
+<themekey>Yellow-rumped Warbler</themekey>
+<themekey>Yellow-throated Vireo</themekey>
+<themekey>Yellow-throated Warbler</themekey>
+<themekey>Yuma Myotis</themekey>
+<themekey>Zapus hudsonius</themekey>
+<themekey>Zapus princeps</themekey>
+<themekey>Zenaida asiatica</themekey>
+<themekey>Zenaida macroura</themekey>
+<themekey>Zonotrichia albicollis</themekey>
+<themekey>Zonotrichia atricapilla</themekey>
+<themekey>Zonotrichia leucophrys</themekey>
+<themekey>Zonotrichia querula</themekey>
+</theme>
+</keywords>
+<accconst>None</accconst>
+<useconst>
+This database in not intended for site-specific analyses. Interpretations derived from its use are
+suited for regional and planning purposes only. Acknowledgment of Colorado Division of
+Wildlife and the Colorado Gap Analysis Project is appreciated.
+</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>Colorado Division of Wildlife</cntorg>
+<cntper>Habitat Resources Section</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>Mailing and Physical Address</addrtype>
+<address>6060 N. Broadway</address>
+<city>Denver</city>
+<state>Colorado</state>
+<postal>80216</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>303.291.7277</cntvoice>
+<cntfax>303.291.7456</cntfax>
+<cntemail>hqwris@lamar.ColoState.EDU</cntemail>
+<cntinst>
+All standard CO-GAP vertebrate modeling data may be obtained on the CD-ROM included
+with the Gap Standard Distribution CDs to be distributed by the USGS - Biological
+Resources Division, National Gap Analysis office.
+</cntinst>
+</cntinfo>
+</ptcontac>
+<datacred>
+Schrupp, D.L., L.E. O&apos;Brien, J. Kindler, J. Lowsky, M. Wunder, C. Buoy, L. Satcowitz, T. G.
+Thompson, J. Stark.
+</datacred>
+<native>SunOS5.6 (sun4c) and Intel 586</native>
+</idinfo>
+<dataqual>
+<attracc>
+<attraccr>
+Thematic accuracy of vertebrate models were tested and presented, in the form of tables in
+the final report and may be obtained at
+http://ndis.nrel.colostate.edu/cogap/report/dwnldrpt.html
+</attraccr>
+</attracc>
+<logic>Uknown</logic>
+<complete>
+Models were developed for 597 species of amphibians (18), reptiles (48), birds (408) and
+mammals (123), focusing on native and established non-native species, not considered
+incidental or accidental to Colorado.
+</complete>
+<posacc>
+<horizpa>
+<horizpar></horizpar>
+</horizpa>
+</posacc>
+<posacc>
+<vertacc>
+<vertaccr>Unknown</vertaccr>
+</vertacc>
+</posacc>
+<lineage>
+<procstep>
+<procdesc>
+For a full description of the procedures involved in constructing this database please refer to
+the CO-GAP Final Report chapter on &quot;Predicted Animal Distributions and Species
+Richness&quot; at the URL:
+http://ndis.nrel.colostate.edu/cogap/report/dwnldrpt.html
+</procdesc>
+<procdate>Unknown</procdate>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Raster</direct>
+</spdoinfo>
+<spref>
+<horizsys>
+<planar>
+<gridsys>
+<gridsysn></gridsysn>
+<utm></utm>
+<utm>
+<utmzone>13</utmzone>
+</utm>
+</gridsys>
+</planar>
+<geodetic>
+<ellips>Clarke1866</ellips>
+<semiaxis>6378206.4</semiaxis>
+<denflat>294.98</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>Habitat/Stewardship Weight Ranks</enttypl>
+<enttypd>Modeled habitat and associated stewardship class (1or2 or 3or4)</enttypd>
+<enttypds>CO-GAP vertebrate habitat ranking methodologies - see Final Report</enttypds>
+</enttyp>
+<attr>
+<attrlabl>1</attrlabl>
+<attrdef>Known/Likely Habitat - Stewardship 1 or 2</attrdef>
+<attrdefs>CO-Gap vertebrate habitat modeling methodologies - see Final Report</attrdefs>
+<attrdomv>
+<codesetd>
+<codesetn>CO-GAP Vertebrates</codesetn>
+<codesets>CO-GAP Vertebrate Modeling - Weight Categories</codesets>
+</codesetd>
+</attrdomv>
+</attr>
+</detailed>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>Colorado Division of Wildlife</cntorg>
+<cntper>Habitat Resources Section</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>Mailing and Physical Address</addrtype>
+<address>6060 N. Broadway</address>
+<city>Denver</city>
+<state>Colorado</state>
+<postal>80216</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>303.291.7277</cntvoice>
+<cntfax>303.291.7456</cntfax>
+<cntemail>hqwris@lamar.ColoState.EDU</cntemail>
+<cntinst>
+All standard CO-GAP vertebrate modeling data may be obtained on the CD-ROM included
+with the Gap Standard Distribution CDs to be distributed by the USGS - Biological
+Resources Division, National Gap Analysis office.
+</cntinst>
+</cntinfo>
+</distrib>
+<distliab>
+The digital data described by this metadata report were prepared by the Colorado Division of
+Wildlife, of the Colorado Department of Natural Resources, of the State of Colorado. Neither
+the State of Colorado nor any agency thereof, nor any of their employees, make any warranty,
+for the accuracy, completeness, or usefulness of any information, apparatus, product, or
+process disclosed in this report or media or represent that its use would not infringe privately
+owned rights. Reference therein to any specific commercial product, process, or service by
+trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its
+endorsement, recommendation, or favoring by the State of Colorado. Any views and opinions
+of authors expressed herein do not necessarily state or reflect those of the State of Colorado.
+Data on this media may have been derived from federal agencies or from other external
+sources or from data developed by the Colorado Division of Wildlife. In those cases where
+data has been translated from one format to another or initially developed from map or other
+sources the Colorado Division of Wildlife has made all reasonable efforts to preserve the data
+quality as originally developed, however no warranty, expressed or implied, is made by the
+Colorado Division of Wildlife as to the completeness or accuracy of the data and related
+materials. The act of distribution does not constitute any such warranty, and no responsibility
+is assumed by the Colorado Division of Wildlife in the use of this data, or related materials.
+</distliab>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>ARC/INFO</formname>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>http://ndis.nrel.colostate.edu/cogap/verts/grids/taxa.html</networkr>
+</networka>
+</computer>
+</onlinopt>
+</digtopt>
+</digform>
+<fees>None - Acknowledgment Credits Requested</fees>
+</stdorder>
+</distinfo>
+<metainfo>
+<metd>20000701</metd>
+<metrd>20000701</metrd>
+<metc></metc>
+<metstdn>FGDC Content Standard For Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+</metainfo>
+</metadata>

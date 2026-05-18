@@ -1,0 +1,57 @@
+{}              {HASH(0x81f1ba8)
+
+{author}        National Aeronautics and Space Administration
+
+{date}          22-Sep-2004
+
+{description}   KENNEDY SPACE CENTER, FLA. Felix A. Soto Toro (left) and Joseph
+                Tellado (right) get into the spirit of KSCs annual Hispanic
+                American Heritage luncheon. The theme was Hispanic Americans
+                Making a Difference. Soto Toro and Tellado are co-chairs of the
+                event hosted by the Hispanic Employment Program Working Group.
+                The annual event helps employees reflect on the extensive
+                contributions Hispanics have made to KSC, NASA and the nation.
+                The guest speaker was Charles A. Gambaro, NASA KSC engineering
+                lead and Combat Engineering Group commander, who recently
+                returned from Operation Iraqi Freedom.
+
+{highres}       3008 x 2000
+
+{highsize}      453068
+
+{hightype}      JPEG
+
+{keywords}      NASA,KSC,Kennedy Space Center
+
+{lowres}        320 x 212
+
+{lowsize}       77727
+
+{lowtype}       GIF
+
+{mediumres}     1024 x 680
+
+{mediumsize}    102585
+
+{mediumtype}    JPEG
+
+{number}        KSC-04PD-1881
+
+{slideres}      120 x 108
+
+{slidesize}     15500
+
+{slidetype}     GIF
+
+{tinyres}       100 x 66
+
+{tinysize}      8288
+
+{tinytype}      GIF
+
+{title}         KSC-04PD-1881
+
+{type}          Image
+
+{end}
+

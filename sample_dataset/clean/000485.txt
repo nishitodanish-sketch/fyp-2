@@ -1,0 +1,89 @@
+
+From gilg@lbl.gov Tue Jan 21 16:37:23 2003
+Date: Tue, 21 Jan 2003 16:35:41 -0800 (PST)
+From: Murdock Gilchriese <gilg@lbl.gov>
+To: SCT hybrid/module at LBL <chtran@lbl.gov>,
+    Alessandra Ciocio <A_Ciocio@lbl.gov>,
+    Steve Dardin <SMDardin@lbl.gov>,
+    Vitaliy Fadeyev <VAFadeyev@lbl.gov>,
+    Murdock Gilchriese <gilg@sts.lbl.gov>,
+    Fred Goozen <FRGoozen@lbl.gov>,
+    Carl Haber <chhaber@lbl.gov>,
+    jasnow@lbl.gov,
+    Jeremey Lys <jelys@lbl.gov>,
+    Frank McCormack <fjmccormack@lbl.gov>,
+    rapowers@lbl.gov,
+    Rhonda Witharm <RMWitharm@lbl.gov>
+Cc: bill@scipp.ucsc.edu,
+    Felix Rosenbaum <felix@scipp.ucsc.edu>,
+    Alex Grillo <grillo@scipp.ucsc.edu>,
+    Mark Anderson <mark@scipp.ucsc.edu>,
+    Abe Seiden <abs@scipp.ucsc.edu>
+Subject: SCT "minutes" week of Jan. 20
+
+Here are some partial minutes for the last week. Next full meeting on Jan.
+27.
+
+The summary files are at
+http://www-physics.lbl.gov/~gilg/SCTWeeklyMeetings/Jan212003/
+
+For some reason the channel summary is very large now. Vitaliy created a
+start on a Z metrology summary, which is at the above. He is working on
+IVs. Hope to add this next week. Note that I'm taking the
+hybrids-started, hybrid-up-to-fanout and modules with testing complete
+from Sandra's spreadsheet(unlike last week), so counts might have been off
+last week.
+
+Hybrids started as of end last week	58	In last week 	5
+Hybrids up to fanout bonds		37	In last week    1
+
+Modules started as of end last week	14	In last week 	2
+Modules test complete			 3	In last week    1
+
+Cleanroom
+We are back in operation after multiple water leaks. One was repaired. The
+second will be repaired but leak only occurs with lots of water in
+drainage well external to the building. This hopefully wont occur before
+the repair is made. But we lost some time last week.
+
+Hybrids
+16 more arrived and look fine. Chips arrived. Visual inspection done and
+all look OK to use. Co started today on this batch and should be mounting
+chips at about 2 hybrids per day. 
+
+Module assembly
+P11 - bonded with hybrid, ready for IV in cleanroom today, then put in
+test box.
+
+P12 - same
+
+P13 - ready for bonding today, then metrology(reverse usual order to avoid
+conflict with SmartScope) and then IV 
+
+P14 - metrology(no hybrid) completed, meets specs. IV done. Hybrid attach
+starting today.
+
+P15 - hope to start one side today using fixture A1
+
+A0 fixture initial qualification was completed today and backside of D31
+will be glued today. 
+
+Ready to start A2 qualification but limited by vacuum line availability.
+Have new A2 plate from UK. Bearings to be replaced.
+
+Drawing package to make more metrology fixtures being completed by Carl.
+
+Robert assembled three more test boxes with connectors for P11-13.
+
+Module bonding has priority. If time allows Rhonda will work on ordering
+bonder supplies and getting bonders #2 and #3 up.
+
+Rhonda talked to Mark at UCSC on Friday about what fixtures UCSC needs.
+Will follow up(and with Gil).
+
+Personnel schedule. Gil will circulate request for people to give him
+their schedules from now through March. Will update this weekly, or as
+needed.
+
+
+

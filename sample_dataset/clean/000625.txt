@@ -1,0 +1,192 @@
+Document: 6443 | Created: 23:23 02/05/2009 UTC | Help#:1-877-280-2811 | Page: 01
+Description: SIGMET Text              | Europe
+________________________________________________________________________________
+No reports are currently available for WSBX EBBR
+No reports are currently available for WSDL EDDL
+No reports are currently available for WSDL EDZF
+No reports are currently available for WSDL EDZO
+No reports are currently available for WSDL EDZW
+No reports are currently available for WSDN EKCH
+No reports are currently available for WSDN EKDK
+No reports are currently available for WSEE EPWA
+No reports are currently available for WSEE LKPR
+No reports are currently available for WSEE LOWM
+No reports are currently available for WSEE LZIB
+No reports are currently available for WSEE UGEE
+No reports are currently available for WSEE UMMS
+No reports are currently available for WSEE USRR
+No reports are currently available for WSEE USUU
+No reports are currently available for WSEE UUWV
+WSFI31 EFHK 051750
+EFIN SIGMET S1 VALID 051750/051950 EFHK-
+EFIN FINLAND FIR SEV ICE OBS AT 1745 S
+OF N6200 BLW 4000FT STNR NC=
+
+WSFI31 EFHK 051950
+EFIN SIGMET S2 VALID 051950/052150 EFHK-
+EFIN FINLAND FIR SEV ICE INC BLW 4000FT
+S OF N6200 FCST AT 1950Z STNR NC=
+
+WSFR32 LFPW 052019
+LFBB SIGMET 2 VALID 052030/052230 LFBD-
+LFBB BORDEAUX FIR/UIR SQL TS OBS AT 2015Z AND FCST N44 W00230 -
+NN4430 W002 -  N45 W00140 - N4530 W00140 - N46 W00130 TOP CB FL280
+MOV ENE 15/20KT INTSF
+=
+
+WSFR34 LFPW 051724
+LFMM SIGMET 5 VALID 051800/052200 LFML-
+LFMM MARSEILLE FIR/UIR : ISOL EMBD TS OBS AND FCST ON LFMM FIR, SOUTH
+N4500 .TOP CB FL260/300, MOVE SLW E, NC.
+=
+
+WSFR34 LFPW 052154
+LFMM SIGMET 6 VALID 052200/060200 LFML-
+LFMM MARSEILLE FIR/UIR : EMBD TS OBS AND FCST ON LFMM FIR SOUTH
+N4500 TOP CB FL260/300 MOVE SLW ENE NC.
+=
+
+WSFR35 LFPW 051755
+LFRR SIGMET 7 VALID 051800/052100 LFRN-
+LFRR BREST FIR/UIR SEV TURB FCST WI N4900 W00630- N4700 W00230 -
+N4400 W00230 BLW FL100 MOV NE 20KT NC=
+
+WSFR35 LFPW 051915
+LFRR SIGMET 8 VALID 051930/052100 LFRN-
+LFRR BREST FIR/UIR EMBD TS OBS AT 1930Z N OF N46 AND WI W007 - W00150
+TOP FL300 MOV NE 40KT NC=
+
+WSFR35 LFPW 052055
+LFRR SIGMET 9 VALID 052100/052300 LFRN-
+Document: 6443 | Created: 23:23 02/05/2009 UTC | Help#:1-877-280-2811 | Page: 02
+Description: SIGMET Text              | Europe
+________________________________________________________________________________
+LFRR BREST FIR/UIR SEV TURB FCST WI N4920 W006- N4630 W001 - N45
+W00140 - N4610 W008 BLW FL080 MOV NE 15KT NC=
+
+WSFR35 LFPW 052100
+LFRR SIGMET 10 VALID 052100/052300 LFRN-
+LFRR BREST FIR/UIR EMBD TS OBS AT 2100Z NW OF N4440 W005 - N4640
+W00145 - N50 W00220 TOP FL300 MOV NE 30KT NC=
+
+WSFR35 LFPW 052245
+LFRR SIGMET 11 VALID 052300/060200 LFRN-
+LFRR BREST FIR/UIR SEV TURB FCST WI N4940 W004- N4630 W00140 - N4650
+W008 BLW FL080 STNR NC=
+
+WSFR35 LFPW 052245
+LFRR SIGMET 12 VALID 052300/060200 LFRN-
+LFRR BREST FIR/UIR EMBD TS OBS AT 2245Z NW OF N4430 W005 - N47 W002 -
+N50 W002 TOP FL300 MOV NE 10KT NC=
+
+No reports are currently available for WSEE UWUU
+No reports are currently available for WSEM LBSF
+No reports are currently available for WSEM LEMM
+No reports are currently available for WSEM LHBP
+No reports are currently available for WSEM LROP
+No reports are currently available for WSEN WKCH
+No reports are currently available for WSEO EETN
+No reports are currently available for WSEO EETT
+No reports are currently available for WSEU UHPP
+No reports are currently available for WSEW LEMM
+No reports are currently available for WSFI EFES
+No reports are currently available for WSFR LFLF
+No reports are currently available for WSGR LGAT
+No reports are currently available for WSHU LHBM
+WSIE31 EIDB 052130
+EISN SIGMET 01 VALID 052130/052330 EINN-
+EISN SHANNON FIR SEV ICE OBS 20 MILES EAST OF EIDW AT FL040
+MOV S NC=
+
+WSIY31 LIIB 051739
+LIRR SIGMET 04 VALID 051745/051945 LIMM-
+LIRR ROMA FIR SEV TURB FCST ABV FL300 MAINLY S AND W PART STNR NC.
+LIRR ROMA FIR EMBD TS OBS N TYRRHENIAN SEA AND TUSCANIA AREA STNR NC=
+
+WSIY31 LIIB 051741
+LIMM SIGMET 03 VALID 051745/051945 LIMM-
+LIMM MILANO FIR EMBD TS OBS LIGURIAN AREA STNR NC=
+
+WSIY31 LIIB 051810
+LIBB SIGMET 03 VALID 051815/052215 LIMM-
+LIBB BRINDISI FIR SEV TURB FCST ABV FL300 S PART STNR NC=
+
+WSIY31 LIIB 051935
+LIMM SIGMET 04 VALID 051945/052345 LIMM-
+LIMM MILANO FIR EMBD TS OBS LIGURIAN SEA AND COASTS STNR NC=
+
+WSIY31 LIIB 051937
+LIRR SIGMET 05 VALID 051945/052145 LIMM-
+LIRR ROMA FIR SEV TURB FCST ABV FL300 MAINLY S AND W PART STNR NC.
+Document: 6443 | Created: 23:23 02/05/2009 UTC | Help#:1-877-280-2811 | Page: 03
+Description: SIGMET Text              | Europe
+________________________________________________________________________________
+LIRR ROMA FIR EMBD TS OBS N TYRRHENIAN SEA AND TUSCANIA AREA STNR NC=
+
+WSIY31 LIIB 052131
+LIRR SIGMET 06 VALID 052145/052345 LIMM-
+LIRR ROMA FIR SEV TURB FCST ABV FL300 MAINLY S AND W PART STNR NC.
+LIRR ROMA FIR EMBD TS OBS N PART STNR NC=
+
+WSIY31 LIIB 052321
+LIMM SIGMET 05 VALID 052345/060345 LIMM-
+LIMM MILANO FIR EMBD TS OBS LIGURIAN AREA AND W PART STNR NC=
+
+WSIY31 LIIB 052324
+LIRR SIGMET 07 VALID 052345/060345 LIMM-
+LIRR ROMA FIR SEV TURB FCST ABV FL300 MAINLY S AND W PART STNR NC.
+LIRR ROMA FIR EMBD TS OBS N PART AND SARDINIAN AREA STNR NC=
+
+WSNO31 ENMI 051850
+ENOR SIGMET 05 VALID 051900/052300 ENMI-
+ENOR NORWAY FIR LOC SEV TURB FCST BTN E01700 AND E02000 BLW FL080.
+WKN.=
+
+No reports are currently available for WSIY LIBB
+No reports are currently available for WSIY LIMM
+No reports are currently available for WSIY LIRE
+No reports are currently available for WSLJ LJLJ
+No reports are currently available for WSLT EYVI
+No reports are currently available for WSLV EVRA
+No reports are currently available for WSLV EVRR
+No reports are currently available for WSLV EYVL
+No reports are currently available for WSMJ LWSK
+No reports are currently available for WSNL EHAA
+No reports are currently available for WSNL EHDB
+No reports are currently available for WSNO ENBD
+No reports are currently available for WSNO ENOB
+No reports are currently available for WSNO ENOS
+No reports are currently available for WSNO ENTR
+No reports are currently available for WSNO ENVS
+No reports are currently available for WSOS LOWM
+No reports are currently available for WSPL EPWA
+No reports are currently available for WSPO LPPT
+No reports are currently available for WSRH LDZM
+No reports are currently available for WSRM LUKK
+No reports are currently available for WSSN ESMM
+No reports are currently available for WSSN ESOS
+No reports are currently available for WSSN ESUM
+No reports are currently available for WSSN ESWI
+No reports are currently available for WSSW LSSW
+No reports are currently available for WSUK EGGY
+No reports are currently available for WSUK EGJJ
+No reports are currently available for WSUR UKMS
+No reports are currently available for WSYG LYBE
+No reports are currently available for WSYG LYBM
+WVIY31 LIIB 051729
+LIRR SIGMET 06 VALID 051730/052330 LIMM-
+LIRR ROMA FIR FBL VA LAST OBS (050552Z BY LICZ) EXT 10 NM E OF ETNA
+BTN FL080/120 MOV NE 35 KT=
+
+Document: 6443 | Created: 23:23 02/05/2009 UTC | Help#:1-877-280-2811 | Page: 04
+Description: SIGMET Text              | Europe
+________________________________________________________________________________
+WVIY31 LIIB 052305
+LIRR SIGMET 07 VALID 052330/060530 LIMM-
+LIRR ROMA FIR FBL VA LAST OBS (050552Z BY LICZ) EXT 10 NM E OF ETNA
+BTN FL080/120 MOV NE 30 KT=
+
+No reports are currently available for WVEU LPMG
+No reports are currently available for WVEU UHPP
+No reports are currently available for WVNL EHAA
+No reports are currently available for WVNL EHDB

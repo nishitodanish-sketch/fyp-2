@@ -1,0 +1,549 @@
+
+   UNITED STATES OF AMERICA, PETITIONER V. FRANK DENNIS FELIX
+
+   No. 90-1599
+
+   In The Supreme Court Of The United States
+
+   October Term, 1990
+
+   The Solicitor General, On Behalf Of The United States, Petitions
+For A Writ Of Certiorari To Review The Judgment Of The United States
+Court Of Appeals For The Tenth Circuit In This Case.
+
+   Petition For A Writ Of Certiorari To The United States Court Of
+Appeals For The Tenth Circuit
+
+            TABLE OF CONTENTS
+   Questions Presented
+   Opinions below
+   Jurisdiction
+   Constitutional provision involved
+   Statement
+   Reasons for granting the petition
+   Conclusion
+
+                            OPINIONS BELOW
+
+   The decision of the court of appeals (App., infra, 1a-40a) is
+reported at 926 F.2d 1522.  The decision of the district court (App.,
+infra, 41a-50a) is unreported.
+
+                             JURISDICTION
+
+   The judgment of the court of appeals was entered on February 28,
+1991.  The jurisdiction of this Court is invoked under 28 U.S.C.
+1254(1).
+
+                   CONSTITUTIONAL PROVISION INVOLVED
+
+   The Double Jeopardy Clause of the Fifth Amendment to the United
+States Constitution provides:  "nor shall any person be subject for
+the same offence to be twice put in jeopardy of life or limb."
+
+                          QUESTIONS PRESENTED
+
+   1. Whether a defendant may be prosecuted for conspiracy to violate
+several narcotics statutes after previously having been prosecuted for
+conduct alleged in some of the overt acts of the conspiracy charge.
+
+   2. Whether prosecution of respondent for narcotics offenses in
+connection with the operation of a narcotics laboratory in Oklahoma is
+barred because he was previously prosecuted for attempting to set up a
+narcotics laboratory in Missouri, where evidence of his conduct with
+respect to the Oklahoma laboratory had been introduced in the Missouri
+prosecution as evidence of his intent to commit the Missouri offense.
+
+                               STATEMENT
+
+   1. On September 15, 1987, respondent was indicted in the Western
+District of Missouri for attempting to manufacture methamphetamine
+from on or about August 26, 1987, to on or about August 31, 1987, in
+violation of 21 U.S.C. 846.  App., infra, 62a-63a.  He was convicted
+and his conviction was affirmed by the Eighth Circuit.  United States
+v. Felix, 867 F.2d 1068 (1989).
+
+   At respondent's trial on the Missouri indictment, the government
+introduced evidence that on August 26, 1987, respondent had met with
+George Dwinnells, who was employed by a supplier of scientific
+equipment and, unbeknownst to respondent, was a DEA informant.
+Dwinnells testified that respondent sought to purchase chemicals and
+equipment needed to make methamphetamine.  Respondent made a down
+payment of $7,500 toward the purchase and gave Dwinnells instructions
+for securing a trailer to transport the merchandise.  In later
+telephone conversations, respondent increased his order for chemicals
+and equipment and instructed Dwinnells to deliver the items to a
+Joplin, Missouri, hotel, on August 31, 1987.  Dwinnells met respondent
+at the hotel on the designated date.  Respondent was arrested after
+inspecting the chemicals and equipment and hitching the trailer in
+which Dwinnells had transported them to his own car.  867 F.2d at
+1070-1071.
+
+   At trial in the Missouri case, the government introduced evidence
+that respondent had been involved earlier in 1987 in manufacturing
+methamphetamine in Oklahoma.  See 867 F.2d at 1072-1073.  That
+evidence showed that during the Spring of 1987 respondent had
+furnished government witness Paul Roach with chemicals and materials
+for making methamphetamine in exchange for lessons on how to "cook" --
+i.e., produce -- the drug.  Roach testified that he and respondent had
+used the chemicals and equipment to manufacture methamphetamine in a
+trailer near Beggs, Oklahoma.  On July 13, 1987, law enforcement
+agents seized the unattended trailer, but they did not arrest
+respondent at that time.  867 F.2d at 1070-1071.
+
+   The trial court instructed the jury that the evidence of the
+Oklahoma transactions could not be used "to decide whether
+(respondent) carried out the physical acts involved in the crime
+charged here." See 867 F.2d at 1075.  Instead, it was admitted to show
+respondent's state of mind with respect to the chemicals he arranged
+to have delivered in Missouri.  Respondent's defense had been that "he
+never had criminal intent, but had been acting under the mistaken
+belief that he was working in a covert DEA operation." 867 F.2d at
+1074.  In that context, the Eighth Circuit found the evidence
+concerning the methamphetamine laboratory in Oklahoma to be "highly
+probative of (respondent's) knowledge and intent," and thus admissible
+under Fed. R. Evid. 404(b).  867 F.2d at 1073.
+
+   2. On February 16, 1989, respondent was named in eight counts of an
+11-count indictment filed in the Eastern District of Oklahoma.  App.,
+infra, 51a-61a.  Count 1 charged that he conspired in the Eastern
+District of Oklahoma and elsewhere between May 1, 1987, and August 31,
+1987, to manufacture, possess, and distribute methamphetamine, in
+violation of 21 U.S.C. 846.  Respondent was named in nine of the 18
+overt acts that the indictment charged had been committed "(t)o effect
+the objects of the conspiracy." Two of the nine overt acts in which
+respondent was named took place within the time period of the Missouri
+indictment.  Overt act 17 charged that "(o)n August 26, 1987,
+(respondent), while in Tulsa Oklahoma, provided money for the purchase
+of chemicals and equipment necessary in the manufacture of
+methamphetamine." App., infra, 55a.  Overt act 18 charged that "(o)n
+August 31, 1987, (respondent), while at a location in Missouri,
+possessed chemicals and equipment necessary in the manufacture of
+methamphetamine." Ibid.
+
+   Respondent was also named in seven substantive counts.  Counts 2
+through 5 charged that, in violation of 21 U.S.C. 841(a)(1),
+respondent had on or about July 13, 1987, in the Easter District of
+Oklahoma, manufactured methamphetamine (Count 2), possessed
+methamphetamine with intent to distribute it (Count 3), possessed
+methamphetamine oil with intent to manufacture methamphetamine (Count
+4), and manufactured phenylacetone (Count 5).  App., infra, 55a-57a.
+Count 6 charged that, between June 1, 1987, and July 13, 1987, in the
+Eastern District of Oklahoma, respondent maintained a place and
+enclosure for manufacturing methamphetamine, in violation of 21 U.S.C.
+856.  App., infra, 57a.  Counts 9 and 10 charged that, on or about
+June 21, 1987 (Count 9) and July 13, 1987 (Count 10), respondent
+traveled from Texas to the Eastern District of Oklahoma with intent to
+promote the manufacture of methamphetamine and thereafter attempted to
+promote such activity, in violation of 18 U.S.C. 1952.  App., infra,
+59a-60a.
+
+   At trial, the government introduced much of the same evidence that
+had been introduced in the Missouri trial pursuant to Rule 404(b).
+Respondent was convicted on all counts and sentenced to serve
+concurrent 20-year terms of imprisonment on Counts 1 through 6 and
+five-year terms of imprisonment on Counts 9 and 10.  The 20-year
+sentence imposed for the Oklahoma offenses was set to run
+consecutively to the sentence imposed for respondent's Missouri
+conviction.
+
+   3. A divided panel of the Tenth Circuit reversed respondent's
+convictions on Count 1 through 6 and affirmed his convictions on
+Counts 9 and 10.
+
+   a. Writing for the majority, Chief Judge Holloway first addressed
+the relationship between this Court's recent decisions in Dowling v.
+United States, 110 S. Ct. 668 (1990), and Grady v. Corbin, 110 S. Ct.
+2084 (1990).  In Dowling, this Court held that the Double Jeopardy
+Clause did not bar the government from introducing relevant evidence
+in a bank robbery prosecution even though that evidence had been the
+subject of a previous prosecution for burglary, assault, and related
+offenses in which the defendant had been acquitted.  In Grady, this
+Court held that a second prosecution was barred where "the government,
+to establish an essential element of an offense charged in that
+prosecution, will prove conduct that constitutes an offense for which
+the defendant had already been prosecuted." 110 S. Ct. at 2093.
+Noting that Dowling "concerned * * * the admissibility of evidence in
+conformity with the collateral estoppel principle of Ashe (v. Swenson,
+397 U.S. 436 (1970))," while "Grady concerned the protection afforded
+by the Double Jeopardy Clause from successive prosecutions for the
+same conduct," Chief Judge Holloway held that "(i)t is this latter
+protection * * * which is implicated here and this causes us to focus
+mainly on the teaching of Grady." App., infra, 14a.
+
+   As to the conspiracy count in the current indictment, the court
+followed the Second Circuit's recent holding in United States v.
+Calderone, 917 F.2d 717 (1990), petition for cert. pending, No.
+90-1527, that, for purposes of applying Grady to a conspiracy charge,
+it is the conduct from which the jury is asked to infer a
+conspiratorial agreement -- rather than the agreement itself -- that
+is considered to be the conduct for which the defendant is prosecuted.
+ App., infra, 13a.  The court then summarized the proof presented in
+the Missouri trial, as recounted by the Eighth Circuit, and concluded
+that "(a)s to Count 1, the conspiracy charge, the duplication was
+extensive." Id. at 15a.
+
+   Specifically, the court pointed out that in both trials the
+government proved respondent's course of conduct in learning to make
+methamphetamine and setting up the Oklahoma lab.  Further, in both
+trials the government proved that, after the raid on the Oklahoma lab,
+respondent had purchased chemicals and equipment for setting up a new
+lab and had taken delivery of those materials in Joplin, Missouri.
+The court noted that respondent's conduct in arranging for the
+purchase of the chemicals and equipment and receiving delivery of them
+were listed as overt acts in the Oklahoma conspiracy count.  App.,
+infra, 15a-17a.  The court also noted that both the Missouri
+indictment and the Oklahoma conspiracy count focused on the actions of
+respondent and Roach, and that both the Missouri and Oklahoma charges
+alleged conduct that took place outside their respective States.
+Finally, the court found that "the relevant time frames of the two
+indictments also overlap" (id. at 18a);  the court stated that "(t)he
+Missouri prosecution was premised on conduct that occurred from the
+spring of 1987 to August 31, 1987," while the Oklahoma conspiracy
+count charged conduct that occurred from approximately May 1, 1987 to
+August 1, 1987.  Ibid.  Based on those facts, the court of appeals
+concluded that the Oklahoma conspiracy count charged "the same conduct
+for which (respondent) was previously convicted in Missouri" and that
+prosecution on the Oklahoma conspiracy charge was therefore barred by
+the Double Jeopardy Clause.  Ibid.
+
+   With respect to the substantive offenses charged in Counts 2
+through 6, the court noted that in both trials the government proved
+that respondent had bought chemicals and equipment to manufacture
+methamphetamine, that he had used those chemicals to produce
+methamphetamine at the Beggs, Oklahoma, trailer, and that the trailer
+had subsequently been seized by law enforcement authorities.  App.,
+infra, 18a-19a.  That evidence was used to show intent in the Missouri
+trial /1/ and as direct evidence of the Oklahoma charges.  Because the
+government relied on the same evidence to establish critical elements
+in each case, the court of appeals concluded that respondent's
+convictions on Counts 2 through 6 had to be reversed.  Id. at 18a-20a.
+
+   Finally, the court affirmed respondent's convictions on Counts 9
+and 10, charging travel on June 21 and July 13, 1987, respectively,
+from Texas to Oklahoma to promote the manufacture of methamphetamine.
+According to the court, the conduct alleged in those counts was not
+sufficiently closely related to the conduct proved in the Missouri
+trial to require that his convictions under those counts be reversed
+under the Double Jeopardy Clause.  App., infra, 20a-21a.
+
+   b. Judge Anderson dissented from the dismissal of the first 6
+counts of the Oklahoma indictment.  He stated that even after Grady, a
+mere overlap of proof in two prosecutions does not establish that the
+second prosecution is barred by the Double Jeopardy Clause.  App.,
+infra, 23a & n.1.  According to Judge Anderson, Grady requires instead
+a showing that (1) the conduct sought to be proved in the second
+prosecution "constitutes an offense for which the defendant has
+already been prosecuted," and (2) the conduct is "being proven to
+establish an essential element" of the second prosecution.  App.,
+infra, 24a.  In Judge Anderson's view, that test, if applied
+correctly, would not require reversal of any of respondent's
+convictions.
+
+   The conduct charged in the conspiracy count, Judge Anderson argued,
+did not "constitute an offense for which the defendant has already
+been prosecuted." Judge Anderson noted that the Missouri indictment
+alleged conduct only "(f)rom on or about August 26, 1987, to on or
+about August 31, 1987." App., infra, 30a.  Although the government had
+introduced evidence in the Missouri trial of respondent's conduct
+prior to August 26, 1987, that evidence had been introduced only
+pursuant to Rule 404(b).  In Judge Anderson's view, respondent was not
+prosecuted for that conduct in the Missouri case.  App., infra, 30a.
+
+   Judge Anderson further argued that although the Oklahoma conspiracy
+count contained two overt acts that related directly to the Missouri
+offense, the inclusion of those overt acts did not convert the
+Oklahoma conspiracy into the "same offense" as the attempt for which
+respondent was prosecuted in Missouri.  An attempt, he explained,
+consists of two elements -- intent and a substantial step toward
+commission of the offense -- and the proof that established the overt
+acts in the conspiracy indictment at most established the "substantial
+step" element of the attempt offense.  App., infra, 31a.  In this
+respect, Judge Anderson disagreed with Judge Newman's statement in
+Calderone that Grady bars a subsequent prosecution in which conduct
+constituting an element of a prior offense -- as opposed to the
+entirety of the prior offense -- must be proved.  App., infra, 32a.
+
+   With respect to the substantive counts, Judge Anderson noted that
+each of them "was based on (respondent's) conduct on or before July
+13, 1987, in establishing and operating the methamphetamine lab in
+Beggs, Oklahoma." App., infra, 25a.  In contrast, the Missouri count
+alleged conduct that took place more than a month later, on August
+26-31, 1987.  Although the government had introduced evidence in the
+Missouri trial concerning respondent's pre-August conduct, Judge
+Anderson stated that introducing evidence of a prior bad act under
+Rule 404(b) "is not prosecution for that act." App., infra, 26a.  In
+Judge Anderson's view, the court of appeals' conclusion to the
+contrary conflicted with this Court's analysis in the Dowling case.
+App., infra, 28a.
+
+                   REASONS FOR GRANTING THE PETITION
+
+   This case presents important issues that merit this Court's review.
+ The Tenth Circuit in this case reached the remarkable conclusion that
+a prosecution of respondent for attempting to set up one
+methamphetamine lab barred his subsequent prosecution for a number of
+offenses relating to his operation of a separate methamphetamine lab.
+The court was able to reach that conclusion only by making serious
+errors in applying the principles of double jeopardy law.
+
+   First, the court departed from the well-settled principle that the
+gravamen of a charge of criminal conspiracy is that the defendant
+entered into an agreement with others to accomplish criminal
+objectives.  Instead of recognizing that the "conduct" at issue in a
+conspiracy prosecution is thus the agreement, the court held that the
+"conduct" at issue in such a case is the acts of the defendant from
+which the government intends to ask the jury to infer the
+conspiratorial agreement.  The court's decision on that point is in
+direct conflict with a recent decision of the Fourth Circuit and is in
+tension with the reasoning of a recent Eleventh Circuit decision as
+well.
+
+   Second, the court held that the introduction of "similar act"
+evidence to establish a defendant's intent bars a separate prosecution
+of the defendant for committing those similar acts.  That holding
+departs substantially from well-established principles regarding the
+use of "similar act" evidence.
+
+   Both holdings have the effect of upsetting settled doctrine that
+the government may, in a variety of settings, introduce evidence that
+a defendant has engaged in criminal conduct other than that which is
+specifically charged in the indictment without losing the opportunity
+to prosecute the defendant for that conduct separately.  Further
+review is therefore warranted on both issues.
+
+   1. The court of appeals held that respondent's conspiracy
+conviction in Oklahoma was a "successive prosecution() for the same
+conduct for which (respondent) was previously convicted in Missouri,"
+and was therefore barred by the Double Jeopardy Clause.  App., infra,
+18a.
+
+   The Tenth Circuit did not bar the conspiracy charge on the ground
+that the agreement that formed the basis for the Oklahoma conspiracy
+charge was the same as an agreement alleged and proved in the Missouri
+case.  Because the Missouri prosecution involved a charge of attempt,
+not conspiracy, no agreement was alleged or proved in the Missouri
+prosecution.  Rather, the court's decision that the conspiracy count
+was jeopardy-barred rested on its holding that the offense being
+prosecuted under the conspiracy count consisted of conduct from which
+the government sought to have the jury infer the defendant's
+participation in the conspiracy.  Since that conduct consisted in part
+of conduct that had previously been proved in the course of the
+Missouri case, the court of appeals concluded that the Oklahoma and
+Missouri offenses were "the same offense" for double jeopardy
+purposes.
+
+   The court of appeals' analysis is at odds with the law of
+conspiracy.  "The gist of the crime of conspiracy * * * is the
+agreement or confederation of the conspirators to commit one or more
+unlawful acts." United States v. Braverman, 317 U.S. 49, 53 (1942).
+Accord United States v. Broce, 488 U.S. 563, 570 (1989) (agreement "is
+all but synonymous" with conspiracy);  Iannelli v. United States, 420
+U.S. 770, 777 (1975).  Because a criminal conspiracy poses special
+dangers to society," independently of any other evil it seeks to
+accomplish," Dennis v. United States, 341 U.S. 494, 573 (1951)
+(Jackson, J., concurring), an individual who joins a conspiracy is
+liable for his participation in the criminal agreement in addition to
+any liability he may have for committing the substantive crimes that
+are the objects of the conspiracy.  In other words, a conspiracy is
+not "the same offense" as its object offenses.  See Garrett v. United
+States, 471 U.S. 773, 778 (1985);  Iannelli v. United States, 420 U.S.
+770, 781-782 (1975);  United States v. Feola, 420 U.S. 671, 693
+(1975);  Callanan v. United States, 364 U.S. 587 (1961);  Pinkerton v.
+United States, 328 U.S. 640, 643-644 (1946).  Accordingly, the
+government may prosecute a defendant separately for a substantive
+offense and for conspiracy to commit that offense.  See, e.g., United
+States v. Bayer, 331 U.S. 532, 542-543 (1947);  United States v.
+Guthrie, 789 F.2d 356, 358 (5th Cir. 1986);  United States v. Hines,
+713 F.2d 584, 586 (10th Cir. 1983);  United States v. Snell, 627 F.2d
+186, 188 (9th Cir. 1980), cert. denied, 450 U.S. 957 (1981);  United
+States v. Brown, 604 F.2d 557, 559 (8th Cir. 1979);  United States v.
+Bosch, 584 F.2d 1113, 1118-1119 (1st Cir. 1978);  United States v.
+Shelton, 573 F.2d 917, 919 (6th Cir.), cert. denied, 439 U.S. 827
+(1978);  United States v. Ricco, 549 F.2d 264, 273 (2d Cir.), cert.
+denied, 431 U.S. 905 (1977).
+
+   Contrary to settled precedent, the court of appeals' decision in
+this case would require the government to prosecute a conspiracy and
+all substantive offenses that come within it in the same prosecution.
+If any substantive offense committed in furtherance of the conspiracy
+were prosecuted separately -- even a substantive offense that included
+no element of agreement and required the government to prove only the
+conduct of a single individual -- the government would lose the
+opportunity to prosecute the conspiracy later, or at least to
+introduce evidence concerning the previously prosecuted substantive
+offense.  Presumably, the same result would follow if the order of
+prosecutions were reversed;  prosecution for the conspiracy would
+immunize the defendant from later prosecution for any substantive
+offense evidence of which was introduced to help prove the
+conspiratorial agreement.
+
+   The court of appeals' ruling on that issue squarely conflicts with
+the decision of the Fourth Circuit in United States v. Clark, No.
+90-5771 (Mar. 20, 1991).  In Clark, the defendant was found in
+constructive possession of a suitcase containing cocaine and heroin.
+He was first tried and convicted for the substantive offenses of
+possessing cocaine and heroin with intent to distribute them.  Seven
+months after his conviction on those counts, he was indicted for
+conspiring to possess and distribute cocaine and heroin, in violation
+of 21 U.S.C. 846.  The Fourth Circuit noted that "(the defendant's)
+possession of drugs at the airport, the same conduct for which he had
+been convicted earlier, was alleged as overt act number 18 in the
+conspiracy indictment and evidence about the airport incident was
+introduced at (the conspiracy) trial." Slip op. at 3.  Nonetheless,
+the Fourth Circuit upheld the defendant's conviction over his
+objection that the conspiracy charge was barred under Grady v. Corbin,
+because the offenses for which he was convicted in his first trial
+were alleged and proved as an overt act in his subsequent conspiracy
+prosecution.  The analysis and result in Clark cannot be squared with
+the analysis and result in this case.
+
+   Other circuits as well have had difficulty in discerning the effect
+of this Court's decision in Grady v. Corbin on the law of conspiracy.
+The Second Circuit has taken the same position as does the Tenth
+Circuit in this case -- that the "conduct" at issue in a conspiracy
+prosecution is not the agreement itself, but is the conduct from which
+the government asks the jury to infer the existence of an agreement.
+See United States v. Calderone, 917 F.2d 717 (2d Cir. 1990), petition
+for cert. pending, No. 90-1527;  United States v. Gambino, 920 F.2d
+1108, 1112 (2d Cir. 1990).  The Eleventh Circuit, on the other hand,
+has disagreed with the position adopted by the courts of appeals in
+this case and in Calderone.  In United States v. Gonzalez, 921 F.2d
+1530, 1538 (11th Cir. 1991), the court distinguished Calderone in a
+RICO conspiracy case, holding that the "conduct" in a RICO conspiracy
+case was the defendant's agreement, while the "conduct" charged in a
+previous prosecution for substantive narcotics offenses was the
+"criminal activity of the importation and distribution of contraband
+substances." /2/ As the Eleventh Circuit noted, "(t)he mere fact that
+(the agreement and the substantive conduct) are part of the same
+'transaction' or can be proven by the same 'evidence' is not
+sufficient to bar successive prosecutions under the language in
+Grady." Ibid.  See also United States v. Esposito, 912 F.2d 60, 65 (3d
+Cir. 1990).
+
+   The courts of appeals are thus in disagreement over the effect of
+Grady on longstanding principles of conspiracy law and the
+well-settled legal doctrine permitting the successive prosecution of a
+conspiracy and the substantive offenses committed pursuant to that
+conspiracy.  Review by this Court is warranted to resolve that
+conflict.
+
+   2. In addition to reversing respondent's conspiracy conviction, the
+court of appeals also reversed his convictions on five of the
+substantive counts.  None of those counts charge respondent with a
+conspiracy, and the court's decision with respect to those counts thus
+does not depend on its holding concerning the "conduct" at issue in a
+conspiracy prosecution.  Rather, the court based its holding on the
+fact that the conduct charged in those substantive counts had been the
+subject of evidence introduced against respondent under Rule 404(b) in
+the Missouri prosecution.
+
+   In Dowling v. United States, 110 S. Ct. 668 (1990), this Court held
+that evidence of a crime of which a defendant has been acquitted may
+be introduced against the defendant in a later prosecution for another
+offense.  That principle dictates the result here:  that two crimes do
+not become the "same offense" for double jeopardy purposes merely
+because the evidence that establishes the first crime is also relevant
+to prove the second.
+
+   To be sure, there are two possible distinctions between Dowling and
+this case.  First, Dowling involved a prior acquittal, while this case
+involves a prior conviction.  Yet, that distinction suggests that the
+result in this case should follow a fortiori from the result in
+Dowling.  Dowling held that the government may use evidence that was
+introduced in a prior prosecution of the same defendant, in which the
+defendant had been acquitted;  surely it follows that the government
+may use evidence that was introduced in a prior prosecution in which
+the same defendant had been convicted.
+
+   Second, in Dowling the defendant was first prosecuted for the prior
+act of misconduct and then prosecuted for the other conduct of which
+the prior misconduct was merely relevant evidence.  In this case, the
+order of the prosecutions was reversed.  Yet that distinction, too,
+does not suggest any real difference between this case and Dowling.
+If, as in Dowling, evidence of conduct for which a defendant has
+already been prosecuted may be introduced at a later trial on another
+charge, then evidence of conduct for which the defendant has never
+been prosecuted, but which has been introduced in a prior trial of the
+same defendant, is surely admissible in a later trial for the conduct.
+ The underlying principle in both cases is that the introduction of
+relevant evidence of particular misconduct is not the same thing as
+prosecution for that conduct.  As Judge Anderson explained (App.,
+infra, 29a n.6), any suggestion to the contrary is inconsistent with
+this Court's holding in Huddleston v. United States, 485 U.S. 681, 689
+(1988), that a jury may accept similar act evidence if it "can
+reasonably conclude that the act occurred and that the defendant was
+an actor" -- a standard substantially lower than the "beyond a
+reasonable doubt" standard that governs the jury's findings that a
+defendant committed the acts charged in a criminal indictment.
+
+   The decision in this case is therefore inconsistent with Dowling,
+as well as with the numerous pre-Dowling appellate decisions that
+reached the same result as Dowling, /3/ and it is erroneous unless
+Grady v. Corbin has effectively overruled Dowling.  We agree with
+Judge Anderson that Grady has had no such effect.  If Grady is
+interpreted to foreclose prosecution for an offense simply because
+evidence of the commission of that offense was relevant to a
+prosecution for a different crime, the double jeopardy rule of Grady
+will have been converted into a version of the "same evidence" test:
+to avoid the bar of double jeopardy, the government will have to avoid
+any reference in one prosecution to acts of misconduct that might
+ultimately be charged as criminal offenses in a second prosecution.
+That is a result that the Court in Grady appears to have disclaimed.
+See 110 S. Ct. at 2093 & n.12 ("(T)he presentation of specific
+evidence in one trial does not forever prevent the government from
+introducing that same evidence in a subsequent proceeding.").
+Nonetheless, the breadth of that disclaimer is subject to debate, as
+the conflicting opinions in this case indicate.  Review by this Court
+is needed to resolve this important issue of double jeopardy law.
+
+                              CONCLUSION
+
+   The petition for a writ of certiorari should be granted.
+
+   Respectfully submitted.
+
+   KENNETH W. STARR
+
+      Solicitor General
+
+   ROBERT S. MUELLER, III
+
+      Assistant Attorney General
+
+   WILLIAM C. BRYSON
+
+      Deputy Solicitor General
+
+   JAMES A. FELDMAN
+
+      Assistant to the Solicitor General
+
+   APRIL 1991
+
+   /1/ The court of appeals was mistaken in stating that evidence of
+respondent's conduct in connection with the Beggs lab was used in the
+Missouri prosecution to "establish()" the "substantial step" element
+of the attempt offense.  App., infra, 17a;  see also id. at 20a.
+Compare 867 F.2d at 1071.  As Judge Anderson noted, the Missouri jury
+was specifically instructed that the Rule 404(b) evidence relating to
+the Beggs lab could be used only "on the question of motive,
+opportunity, preparation, plan, knowledge, identity or absence of
+mistake." App., infra, 26a.
+
+   /2/ Because Gonzalez was a RICO conspiracy case, and Calderone
+involved a drug conspiracy, the Eleventh Circuit merely
+"distinguish(ed) the dicta underlying Calderone" (921 F.2d at 1539)
+and found it unnecessary to decide whether it disagreed with the
+result in Calderone.  The Eleventh Circuit noted, however, that "the
+Second Circuit would appear to disagree with part of our holding above
+* * * that the conspiratorial agreement and any actions in furtherance
+of it, are in fact distinguishable conduct." 921 F.2d at 1538 n.12.
+
+   /3/ See, e.g., Flittie v. Solem, 775 F.2d 933, 942 (8th Cir. 1985)
+(en banc), cert. denied, 475 U.S. 1025 (1986);  United States v.
+Castro-Castro, 464 F.2d 336 (9th Cir. 1972), cert. denied, 410 U.S.
+916 (1973);  United States v. Van Cleave, 599 F.2d 954, 957 (10th Cir.
+1979).
+
+   APPENDIX

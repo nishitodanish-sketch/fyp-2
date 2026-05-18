@@ -1,0 +1,278 @@
+     REPORT NO. 24674          B R O A D C A S T   A P P L I C A T I O N S                    02/18/2000 
+
+STATE FILE NUMBER	CALL LETTERS	APPLICANT AND LOCATION			NATURE OF APPLICATION
+
+AM STATION APPLICATIONS FOR ASSIGNMENT OF LICENSE ACCEPTED FOR FILING
+---------------------------------------------------------------------
+
+AK    BAL-20000207AAZ	KSLD  34880	CHESTER P. COLEMAN			Voluntary Assignment of License
+			1140 KHZ	SOLDOTNA, AK				From: CHESTER P. COLEMAN
+										To: RADIO ONE, INC.
+										Form 316
+										
+
+OR    BAL-20000210AAH	KKSN  2431	ENTERCOM PORTLAND LICENSE, LLC		Voluntary Assignment of License
+			1520 KHZ	OREGON CITY, OR				From: ENTERCOM PORTLAND LICENSE, 
+										LLC (OR)
+										To: ENTERCOM PORTLAND LICENSE, LLC (DE)
+										Form 316
+										
+
+WA    BAL-20000210AAI	KFXX  35033	ENTERCOM PORTLAND LICENSE, LLC		Voluntary Assignment of License
+			910 KHZ		VANCOUVER, WA				From: ENTERCOM PORTLAND LICENSE, 
+										LLC (OR)
+										To: ENTERCOM PORTLAND LICENSE, LLC (DE)
+										Form 316
+										
+
+OR    BAL-20000210AAM	KSLM  72475	ENTERCOM PORTLAND LICENSE, LLC		Voluntary Assignment of License
+			1660 KHZ	SALEM, OR				From: ENTERCOM PORTLAND LICENSE, 
+										LLC (OR)
+										To: ENTERCOM PORTLAND LICENSE, LLC (DE)
+										Form 316
+										
+
+
+FM STATION APPLICATIONS FOR ASSIGNMENT OF LICENSE ACCEPTED FOR FILING
+---------------------------------------------------------------------
+
+ME    BALH-20000207AAV	WVOM  4092	MOON SONG COMMUNICATIONS, INC.		Voluntary Assignment of License
+			103.9 MHZ	HOWLAND, ME				From: MOON SONG COMMUNICATIONS, INC.
+										To: COMMUNICATIONS CAPITAL MANAGERS, LLC
+										Form 314
+										
+
+ME    BALH-20000207AAW	WBYA  59505	MOON SONG COMMUNICATIONS, INC.		Voluntary Assignment of License
+			101.7 MHZ	SEARSPORT, ME				From: MOON SONG COMMUNICATIONS, INC.
+										To: COMMUNICATIONS CAPITAL MANAGERS, LLC
+										Form 314
+										
+
+AK    BALH-20000207AAY	KKIS-FM  34883	CHESTER P. COLEMAN			Voluntary Assignment of License
+			96.5 MHZ	SOLDOTNA, AK				From: CHESTER P. COLEMAN
+										To: RADIO ONE, INC.
+										Form 316
+										
+
+AK    BALH-20000207ABA	KWHQ-FM  35636	CHESTER P. COLEMAN			Voluntary Assignment of License
+			100.1 MHZ	KENAI, AK				From: CHESTER P. COLEMAN
+										To: RADIO ONE, INC.
+										Form 316
+										
+
+OR    BALH-20000210AAG	KGON  2432	ENTERCOM PORTLAND LICENSE, LLC		Voluntary Assignment of License
+			92.3 MHZ	PORTLAND, OR				From: ENTERCOM PORTLAND LICENSE, 
+										LLC (OR)
+										To: ENTERCOM PORTLAND LICENSE, LLC (DE)
+										Form 316
+										
+
+WA    BALH-20000210AAJ	KNRK  51213	ENTERCOM PORTLAND LICENSE, LLC		Voluntary Assignment of License
+			94.7 MHZ	CAMAS, WA				From: ENTERCOM PORTLAND LICENSE, 
+										LLC (OR)
+										To: ENTERCOM PORTLAND LICENSE, LLC (DE)
+										Form 316
+										
+
+OR    BALH-20000210AAK	KKSN-FM  35034	ENTERCOM PORTLAND LICENSE, LLC		Voluntary Assignment of License
+			97.1 MHZ	PORTLAND, OR				From: ENTERCOM PORTLAND LICENSE, 
+										LLC (OR)
+										To: ENTERCOM PORTLAND LICENSE, LLC (DE)
+										Form 316
+										
+
+OR    BALH-20000210AAL	KRSK  68213	ENTERCOM PORTLAND LICENSE, LLC		Voluntary Assignment of License
+			105.1 MHZ	SALEM, OR				From: ENTERCOM PORTLAND LICENSE, 
+										LLC (OR)
+										To: ENTERCOM PORTLAND LICENSE, LLC (DE)
+										Form 316
+										
+
+
+TV TRANSLATOR OR LPTV STATION APPLICATIONS FOR ASSIGNMENT OF LICENSE ACCEPTED FOR FILING
+----------------------------------------------------------------------------------------
+
+SC    BALTTL-20000202AAY WCHD-LP  32940	JULIO FELIX IZZO			Voluntary Assignment of License
+			CHAN-49		CHARLESTON, SC				From: JULIO FELIX IZZO
+										To: IZZO LIVING TRUST
+										(Form 316 Pro Forma)
+										
+
+VA    BALTTL-20000202AAZ WVBN-LP  32941	JULIO FELIX IZZO			Voluntary Assignment of License
+			CHAN-19		VIRGINIA BEACH, VA			From: JULIO FELIX IZZO
+										To: IZZO LIVING TRUST
+										(Form 316 Pro Forma)
+										
+
+NY    BALTTL-20000202ABA WNYN-LP  74305	XENIA RENATTA IZZO			Voluntary Assignment of License
+			CHAN-53		DEER PARK, NY				From: XENIA RENATTA IZZO
+										To: IZZO LIVING TRUST
+										(Form 316 Pro Forma)
+										
+
+
+FM STATION APPLICATIONS FOR ASSIGNMENT OF PERMIT ACCEPTED FOR FILING
+--------------------------------------------------------------------
+
+TX    BAPH-20000207AAX	KBPL  31640	JOHN MEANS				Voluntary Assignment of Construction 
+			94.5 MHZ	THREE RIVERS, TX			Permit
+										From: JOHN MEANS
+										To: ROY E. HENDERSON
+										Form 314
+										
+
+
+FM STATION APPLICATIONS FOR LICENSE TO COVER ACCEPTED FOR FILING
+----------------------------------------------------------------
+
+PA    BLH-20000202ABB	WZPT  20351	EZ PITTBURGH, INC.			Lic. to cover
+			100.7 MHZ	NEW KENSINGTON, PA	
+
+
+TV TRANSLATOR OR LPTV STATION APPLICATIONS FOR LICENSE TO COVER ACCEPTED FOR FILING
+-----------------------------------------------------------------------------------
+
+OR    BLTTL-20000119ABV K35FG  71079	WATCHTV, INC.				License to cover construction 
+			CHAN-35		PORTLAND, OR				permit no: BPTTL-19980601WX, 
+										callsign K35FG.
+
+
+FM STATION APPLICATIONS FOR MINOR MODIFICATION TO A CONSTRUCTION PERMIT ACCEPTED FOR FILING
+-------------------------------------------------------------------------------------------
+
+MS    BMPED-20000121ACS WAQB  79265	AMERICAN FAMILY ASSOCIATION		Mod of CP to chg
+			91.7 MHZ	TUPELO, MS	
+
+OH    BMPED-20000211AAA WBJV  76930	AMERICAN FAMILY ASSOCIATION		Mod of CP to chg
+			88.9 MHZ	STEUBENVILLE, OH	
+
+
+TV TRANSLATOR OR LPTV STATION APPLICATIONS FOR MINOR MODIFICATION TO A CONSTRUCTION PERMIT ACCEPTED FOR FILING
+--------------------------------------------------------------------------------------------------------------
+
+TX    BMPTTL-20000124ABL K64FM  3265	AUSTIN B. PETERSEN			Modification of construction 
+			CHAN-64		BROWNSVILLE, TX				permit file number BPTTL-GO0308ST.
+
+
+DIGITAL TV APPLICATIONS FOR MINOR MODIFICATION TO A LICENSED FACILTY ACCEPTED FOR FILING
+----------------------------------------------------------------------------------------
+
+LA    BPEDT-20000208AAQ KLTS-DT  38591	LOUISIANA EDUCATIONAL TELEVISION AUTHORITY	Minor change in licensed 
+			CHAN-25		SHREVEPORT, LA				facilities, callsign KLTS-TV.
+
+ND    BPEDT-20000210AAC KFME-DT  53321	PRAIRIE PUBLIC BROADCASTING, INC.	Minor change in licensed 
+			CHAN-23		FARGO, ND				facilities, callsign KFME.
+
+NM    BPEDT-20000210AAD KENW-DT  18338	REGENTS OF EASTERN NEW MEXICO UNIVERSITY	Minor change in licensed 
+			CHAN-32		PORTALES, NM				facilities, callsign KENW.
+
+LA    BPEDT-20000210AAE WYES-DT  25090	GREATER NEW ORLEANS EDUCATIONAL TELEVISION FOUNDATION	Minor change in licensed 
+			CHAN-11		NEW ORLEANS, LA				facilities, callsign WYES-TV.
+
+LA    BPEDT-20000210AAF WLAE-DT  18819	EDUCATIONAL BROADCASTING FOUNDATION, INC.	Minor change in licensed 
+			CHAN-31		NEW ORLEANS, LA				facilities, callsign WLAE-TV.
+
+
+FM STATION APPLICATIONS FOR MINOR MODIFICATION TO A LICENSED FACILTY ACCEPTED FOR FILING
+----------------------------------------------------------------------------------------
+
+CO    BPH-20000105ABJ	KRDO-FM  66249	THE PIKES PEAK BROADCASTING COMPANY	Mod of CP to chg
+			95.1 MHZ	COLORADO SPRINGS, CO	
+
+
+TELEVISION APPLICATIONS FOR MINOR MODIFICATION TO A LICENSED FACILTY ACCEPTED FOR FILING
+----------------------------------------------------------------------------------------
+
+NM    BPET-20000210AAN	KENW  18338	REGENTS OF EASTERN NEW MEXICO UNIVERSITY	Minor change in licensed 
+			CHAN-3		PORTALES, NM				facilities, callsign KENW.
+
+
+TV TRANSLATOR OR LPTV STATION APPLICATIONS FOR MINOR MODIFICATION TO A LICENSED FACILTY ACCEPTED FOR FILING
+-----------------------------------------------------------------------------------------------------------
+
+WA    BPTTL-20000121ACT K68DL  66997	THREE ANGELS BROADCASTING NETWORK	Minor change in licensed 
+			CHAN-53		SEATTLE, WA				facilities, callsign K68DL.
+
+KY    BPTTL-20000128ABU W48BM  30580	PROCLAIM BROADCASTING, INC.		Minor change in licensed 
+			CHAN-57		SCOTTSVILLE, KY				facilities, callsign W48BM.
+
+NV    BPTTL-20000202AAX KNRV-LP  23028	SCOTTS VALLEY GROUP, INC.		Construction permit for minor changes.
+			CHAN-41		RENO/SPARKS, NV	
+
+
+FM STATION APPLICATIONS FOR ORIGINAL CONSTRUCTION PERMIT ACCEPTED FOR FILING
+----------------------------------------------------------------------------
+
+CA    BNPED-20000120AAW NEW  122468	IHR EDUCATIONAL BROADCASTING		CP New Stn.
+			88.1 MHZ	CALIPATRIA, CA	
+
+MS    BNPED-20000121ACU NEW  122472	SALT & LIGHT COMMUNICATIONS, INC.	CP New Stn.
+			91.7 MHZ	TUPELO, MS	
+
+AZ    BNPED-20000127ABK NEW  122438	AMERICAN FAMILY ASSOCIATION		CP New Stn.
+			91.3 MHZ	WINSLOW, AZ	
+
+TX    BNPED-20000127ABL NEW  122443	AMERICAN FAMILY ASSOCIATION		CP New Stn.
+			91.7 MHZ	DUMAS, TX	
+
+ND    BNPED-20000127ABN NEW  122444	AMERICAN FAMILY ASSOCIATION		CP New Stn.
+			89.1 MHZ	WATFORD CITY, ND	
+
+NM    BNPED-20000127ABO NEW  122454	AMERICAN FAMILY ASSOCIATION		CP New Stn.
+			91.3 MHZ	CLAYTON, NM	
+
+TX    BNPED-20000127ABP NEW  122455	AMERICAN FAMILY ASSOCIATION		CP New Stn.
+			91.7 MHZ	WELLINGTON, TX	
+
+MO    BNPED-20000127ABQ NEW  122456	AMERICAN FAMILY ASSOCIATION		CP New Stn.
+			91.7 MHZ	BROOKFIELD, MO	
+
+NE    BNPED-20000128ABQ NEW  122440	AMERICAN FAMILY ASSOCIATION		CP New Stn.
+			89.3 MHZ	CHADRON, NE	
+
+OK    BNPED-20000204AAL NEW  122439	AMERICAN FAMILY ASSOCIATION		CP New Stn.
+			91.9 MHZ	ELK CITY, OK	
+
+TX    BNPED-20000204AAM NEW  122441	AMERICAN FAMILY ASSOCIATION		CP New Stn.
+			91.5 MHZ	VAN HORN, TX	
+
+GA    BNPED-20000207AAS NEW  122460	CHRISTIAN RADIO MEDIA, INC.		CP New Stn.
+			90.7 MHZ	FITZGERALD, GA	
+
+FL    BNPED-20000207AAT NEW  122465	CHRISTIAN RADIO MEDIA, INC.		CP New Stn.
+			91.9 MHZ	APALACHICOLA, FL	
+
+PA    BNPED-20000207AAU NEW  122467	PENSACOLA CHRISTIAN COLLEGE, INC.	CP New Stn.
+			91.9 MHZ	TYRONE, PA	
+
+
+FM STATION APPLICATIONS FOR ORIGINAL CONSTRUCTION PERMIT PETITION TO DENY
+-------------------------------------------------------------------------
+
+MI    BNPED-19991104AAP NEW  121776	MICHIGAN COMMUNITY RADIO		CP New Stn.
+					GOOD HART, MI				Petition to Deny filed 12/17/99.  
+
+
+AM STATION APPLICATIONS FOR TRANSFER OF CONTROL ACCEPTED FOR FILING
+-------------------------------------------------------------------
+
+MI    BTC-20000208AAR	WBCH  3990	BARRY BROADCASTING CO.			Voluntary Transfer of Control
+			1220 KHZ	HASTINGS, MI				From: KENNETH R. & MARJORIE E. RADANT
+										To:KENNETH R. & MARJORIE 
+										E. RADANT TRUSTS
+										Form 316
+										
+
+
+FM STATION APPLICATIONS FOR TRANSFER OF CONTROL ACCEPTED FOR FILING
+-------------------------------------------------------------------
+
+MI    BTCH-20000208AAS	WBCH-FM  3989	BARRY BROADCASTING CO.			Voluntary Transfer of Control
+			100.1 MHZ	HASTINGS, MI				From: KENNETH R. & MARJORIE E. RADANT
+										To:KENNETH R. & MARJORIE 
+										E. RADANT TRUSTS
+										Form 316
+										
+
+
+fcc

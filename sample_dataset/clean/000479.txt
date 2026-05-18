@@ -1,0 +1,136 @@
+README
+
+1) OVERVIEW
+
+The results of a compilation of production, reserve, resource, and geologic data about worldwide porphyry-related metal camps are presented in a database. Users may extract, reformat, or manipulate any of the included data for their own purposes.
+
+2) TITLE AND AUTHORS
+
+Giant porphyry-related metal camps of the world - a database
+
+Compiled by Felix E. Mutschler, Steve Ludington, and Arthur A. Bookstrom
+
+Felix E. Mutschler
+Petrophysics Crisis Center
+Department of Geology, MS 70
+Eastern Washington University
+Cheney, WA 99004
+fmutschler@mail.ewu.edu
+
+Steve Ludington
+U.S. Geological Survey
+MS 901, 345 Middlefield Road
+Menlo Park, CA 94025
+slud@usgs.gov
+
+Arthur A. Bookstrom
+U.S. Geological Survey
+W 904 Riverside Avenue
+Spokane, WA   99201
+
+3) ACKNOWLEDGMENTS
+
+The data summarized in this report come largely from the publications cited, and the included reference list should be read as an acknowledgment of those authors. We also thank the many other colleagues from industry, academia, and government who over the last four decades have generously shared their knowledge of porphyry-related metal deposits with us. For providing us with unpublished material included in this report, we thank J.T. Abbott, R.G. Anderson, R.P. Ashley, W.C. Bagby, K.S. Bolm, D.P. Cox, J.E. Elliott, A.J. Erickson, Jr., Fess Foster, D.G. Frank, Paul Gilmour, J.M. Guilbert, M.A. Hedrick, Mohammed Ikramuddin, M.A. Kaufman, S.J.Kay, R.V. Kirkham, Boris Kotlyar, Ron Lane, Ray Lasmanis, K.R. Long, Mike McCulla, G.E. McKelvey, V.T. McLemore, H.T. Morris, Ken Moss, JosŽ Perell—, L.A. Readdy, W.D. Sinclair, D.A. Singer, R.P. Smith, L.W. Snee, H.J. Stein, Ray Willcox, J.E. Worthington, E.G. Wright, and Marcos Zentilli. For a helpful review of this database, we thank Donald A. Singer.
+
+4) SYSTEM REQUIREMENTS
+
+This database can be used by any desktop computer that can use Microsoft EXCEL in a version equivalent to 5.0 (Macintosh) or 95 (Windows).
+
+5) REPORT ORGANIZATION AND CONTENTS
+
+The report comprises 4 files that contain information about worldwide porphyry-related metal camps. The main database file, WORLD_PPY, is in Microsoft EXCEL 5.0/95 format, and should be readable by most spreadsheet programs. The explanatory file, INTRO, and the reference list, BIB, are in Microsoft WORD format, and should be readable by most word processors. Finally, there is the file you are reading, README, which is a text file.
+
+WORLD_PPY contains the data compiled for this study, and the fields (columns) included are described in the next section.
+
+INTRO provides a context for the study, and defines a number of terms used.
+
+BIB is a reference list that contains all the citations listed in the References field.
+
+6) DESCRIPTION OF FIELDS IN WORLD_PPY
+
+Continent - This is a 2- or 3-letter code that designates the continent or region where the camp described is located. Allowable values are: AF, Africa; AS, Asia; CAC, Central America; CRC, Caribbean region; EU, Europe; NAC, North American Cordillera; NAO, North America, other; OC, Oceania; OCA, Australia and New Zealand, SAC, South American Cordillera; and SAO, South America, other.
+
+Country - Name of the country in which the deposit is located.
+
+State or Province - Further political subdivision; used only for U.S.A., Canada, Mexico, and Australia.
+
+No. - A sequential number applied to deposits within a country, state, or province, as they were compiled.
+
+Camp - Name of deposit, district or mining camp.
+
+Lat. Deg - Given in degrees, negative numbers are South latitude.
+
+Lat. Min - Given in minutes, negative numbers are South latitude.
+
+Long. Deg - Given in degrees, negative numbers are West longitude.
+
+Long. Min - Given in minutes, negative numbers are West longitude.
+
+Deposit Type - This is a concise deposit-type designation useful for grouping the camps. The metallogeny is based on value, as follows: Metals contributing more than 10 percent of the value are listed first, with multiple metals separated by hyphens. Metals contributing less than 10 percent, but more than 1 percent of the value are listed next, in parentheses.
+
+Deposit  Description - This is a deposit-type designator that was created during compilation, and is meant to encapsulate deposit type, metallogeny, and source/host pluton chemistry.  Abbreviations include high-S and low-S = high- and low-sulfidation.
+Metals are listed in decreasing order of their contribution to the total value of the camp's estimated endowment. Metals contributing more than 10 percent of the value are listed first, with multiple metals separated by hyphens. Metals contributing less than 10 percent of the value are listed next, in parentheses, followed by metals (in italics) which are reported to be present, but for which no numeric values are available.
+
+The metallogeny is followed, in square brackets, by a petrochemical characterization, where known. Allowable values are GRD (granodiorite to low-silica granite), C-A (calc-alkaline), ALK (alkaline), TRN (transitional; includes substantial amounts of alkaline and calc-alkaline rocks), HSR (high-silica rhyolite/granite), and PDC (strongly peraluminous dacite). Petrochemical designators with an asterisk mean the classification is based on compiled major-element chemical data; other deposits are classified based on literature descriptions and personal observations.
+
+Age - Reported in Ma, or in geologic time scale units.
+
+Crust - As compiled from literature. Allowable values are: C, continental; O, oceanic (including island arcs); P, pericratonic (including Precambrian crust); and Pz, pericratonic (including Paleozoic and Mesozoic crust).
+
+References - Important references for metal endowment and geologic information. A plus sign (+) indicates two or more additional authors. The references are found in the accompanying file BIB.
+
+Metal Endowment Data
+
+Data have been compiled from literature and various unpublished sources, including personal communications and site visits. The numbers compiled here represent endowments - that is, the sum of production, reserves, and resources at the lowest reported cutoff values.
+
+Thresholds used as a guide to compilation are listed below, under specific metals. The database includes 232 deposits that exceed the threshold for one or more metals. A further 51 deposits are included in the database, either because they are very close to one or more thresholds, are especially illustrative of some deposit type, or hold special interest for some other reason.
+
+The data have not been systematically rounded, but have been summed as compiled. The user should be cautioned that few of the totals are likely to be accurate to better than one percent, and in most cases, should be reported to no more than two significant figures. Where data were particularly uncertain, the figures are preceded by "ca." in the column immediately preceding. Where the data are known to be a minimum, for example, when we believed that important production or reserve data were unavailable, the figures are preceded by a greater than symbol (>) in the column immediately preceding.
+
+Ore (mt) - No thresholds were established for ore.
+
+Cu (mt) - Deposits with copper endowments greater than 1,000,000 mt exceeded our threshold, and are listed in red. An x indicates that the metal is reported in the literature, but no quantitative data are available.
+
+Mo (mt) - Deposits with  molybdenum endowments greater than 250,000 mt exceeded our threshold, and are listed in red. An x indicates that the metal is reported in the literature, but no quantitative data are available.
+
+Au (kg) - Deposits with gold endowments greater than 155,000 kg (ca. 5,000,000 troy oz) exceeded our threshold, and are listed in red. An x indicates that the metal is reported in the literature, but no quantitative data are available.
+
+Ag (kg) - Deposits with silver endowments greater than 7,750,000 kg (ca. 250,000,000 troy oz) exceeded our threshold, and are listed in red. An x indicates that the metal is reported in the literature, but no quantitative data are available.
+
+Pb (mt) - Deposits with lead endowments greater than 1,000,000 mt exceeded our threshold, and are listed in red. An x indicates that the metal is reported in the literature, but no quantitative data are available.
+
+Zn (mt) - Deposits with zinc endowments greater than 1,000,000 mt exceeded our threshold, and are listed in red. An x indicates that the metal is reported in the literature, but no quantitative data are available.
+
+Sn (mt) - Deposits with tin endowments greater than 200,000 mt exceeded our threshold, and are listed in red. An x indicates that the metal is reported in the literature, but no quantitative data are available.
+
+W (mt) - Deposits with tungsten endowments greater than 100,000 mt exceeded our threshold, and are listed in red. An x indicates that the metal is reported in the literature, but no quantitative data are available.
+
+U3O8 (mt) - No threshold was established
+
+Other Commodities - Other commodities known to have been produced or measured are simply noted here.
+
+Cu grade (%) - This figure is calculated by dividing the copper endowment by the amount of ore and multiplying by 100, and is displayed to the nearest 0.01 percent. A hyphen is entered where lack of information precludes calculation of a grade.
+
+Mo grade (%) - This figure is calculated by dividing the molybdenum endowment by the amount of ore and multiplying by 100, and is displayed to the nearest 0.01 percent. A hyphen is entered where lack of information precludes calculation of a grade.
+
+Au grade (g/mt) - This figure is calculated by dividing the gold endowment by the amount of ore and multiplying by 1,000, and is displayed to three significant figures or less. A hyphen is entered where lack of information precludes calculation of a grade.
+
+Ag grade (g/mt) - This figure is calculated by dividing the silver endowment by the amount of ore and multiplying by 1,000, and is displayed to three significant figures or less. A hyphen is entered where lack of information precludes calculation of a grade.
+
+Pb grade (%) - This figure is calculated by dividing the lead endowment by the amount of ore and multiplying by by 100, and is displayed to the nearest 0.01 percent. A hyphen is entered where lack of information precludes calculation of a grade.
+
+Zn grade (%) - This figure is calculated by dividing the zinc endowment by the amount of ore and multiplying by 100, and is displayed to the nearest 0.01 percent. A hyphen is entered where lack of information precludes calculation of a grade.
+
+Sn grade (%) - This figure is calculated by dividing the tin endowment by the amount of ore and multiplying by 100, and is displayed to the nearest 0.01 percent. A hyphen is entered where lack of information precludes calculation of a grade.
+
+W grade (%) - This figure is calculated by dividing the tungsten endowment by the amount of ore and multiplying by 100, and is displayed to the nearest 0.01 percent. A hyphen is entered where lack of information precludes calculation of a grade.
+
+U3O8 grade (%) - This figure is calculated by dividing the uranium endowment by the amount of ore and multiplying by 100, and is displayed to the nearest 0.01 percent. A hyphen is entered where lack of information precludes calculation of a grade.
+
+7) DISCLAIMER
+
+This report was prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, makes any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof.
+
+ Although all data and software published here have been used by the USGS, no warranty, expressed or implied, is made by the U.S. Geological Survey as to the accuracy of the data and related materials and/or the functioning of the software. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the USGS in the use of these data, software, or related materials.
+
+Graphical map depictions made from these data are intended to be used within the map scale limits applicable to the source data. Although software enables the construction of maps at various scales, the user is cautioned that the location of the deposits and camps in this database is not accurate to less than 1 minute of latitude or longitude (approximately 2 km). 

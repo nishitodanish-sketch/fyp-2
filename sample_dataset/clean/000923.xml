@@ -1,0 +1,140 @@
+<rdf:RDF
+    xmlns:j.0="http://xmdr.org/ont/iso11179-3e3draft_r4.owl#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:pf="java:com.hp.hpl.jena.query.pfunction.library."
+    xmlns:owl="http://www.w3.org/2002/07/owl#" > 
+  <rdf:Description rdf:nodeID="A0">
+    <j.0:Designation_Context.relevant_designation rdf:nodeID="A1"/>
+    <j.0:Designation_Context.preferred_designation_indicator rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">
+            true
+          </j.0:Designation_Context.preferred_designation_indicator>
+    <j.0:Designation_Context.scope rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/NAICS/CON/DEFAULT.xml"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://xmdr.org/ont/iso11179-3e3draft_r4.owl#Designation_Context"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A2">
+    <j.0:Identification.item_identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NAICS/R-C/81/1310.xml</j.0:Identification.item_identifier>
+    <j.0:Identification.identifier_scope rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/NAICS/R-C/81/1310.xml"/>
+    <j.0:Identification.identifier_context rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/admin/XMDR_Register.xml"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://xmdr.org/ont/iso11179-3e3draft_r4.owl#Identification"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A3">
+    <j.0:Link_End.link rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/mapping-NAICS02-SIC87/L/mapsTo/NAICS/81/1310/SIC/7623.xml"/>
+    <j.0:Link_End.role rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/mapping-NAICS02-SIC87/R-R/mapsTo.mapsTo.xml"/>
+    <j.0:Link_End.end rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/NAICS/R-C/81/1310.xml"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://xmdr.org/ont/iso11179-3e3draft_r4.owl#Link_End"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bambam.lbl.gov:8080/xmdr/content/NAICS/R-C/81/1310.xml">
+    <rdf:type rdf:resource="http://xmdr.org/ont/iso11179-3e3draft_r4.owl#Attached_Item"/>
+    <rdf:type rdf:resource="http://xmdr.org/ont/iso11179-3e3draft_r4.owl#Identified_Item"/>
+    <j.0:Registered_Item.submission_submitted_item rdf:nodeID="A4"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.0:Concept.link_end_end rdf:nodeID="A5"/>
+    <j.0:Concept.link_end_end rdf:nodeID="A6"/>
+    <rdf:type rdf:resource="http://xmdr.org/ont/iso11179-3e3draft_r4.owl#Documentable_Item"/>
+    <rdf:type rdf:resource="http://xmdr.org/ont/iso11179-3e3draft_r4.owl#Classifiable_Item"/>
+    <j.0:Concept.link_end_end rdf:nodeID="A7"/>
+    <rdf:type rdf:resource="http://xmdr.org/ont/iso11179-3e3draft_r4.owl#Classification_Node"/>
+    <j.0:Concept.link_end_end rdf:nodeID="A8"/>
+    <rdf:type rdf:resource="http://xmdr.org/ont/iso11179-3e3draft_r4.owl#Registered_Item"/>
+    <j.0:Designatable_Item.designation rdf:nodeID="A1"/>
+    <j.0:Concept.link_end_end rdf:nodeID="A9"/>
+    <j.0:Concept.link_end_end rdf:nodeID="A10"/>
+    <rdf:type rdf:resource="http://xmdr.org/ont/iso11179-3e3draft_r4.owl#Reference_Concept"/>
+    <j.0:Attached_Item.owner rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/NAICS/CS.xml"/>
+    <j.0:Concept.container rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/NAICS/CS.xml"/>
+    <rdf:type rdf:resource="http://xmdr.org/ont/iso11179-3e3draft_r4.owl#Concept"/>
+    <j.0:Concept.link_end_end rdf:nodeID="A3"/>
+    <j.0:Concept.link_end_end rdf:nodeID="A11"/>
+    <j.0:Concept.link_end_end rdf:nodeID="A12"/>
+    <j.0:Designatable_Item.definition rdf:nodeID="A13"/>
+    <rdf:type rdf:resource="http://xmdr.org/ont/iso11179-3e3draft_r4.owl#Designatable_Item"/>
+    <j.0:Identified_Item.identification_identifier_scope rdf:nodeID="A2"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A4">
+    <j.0:Submission.submitter rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/admin/XMDR_Registration_Authority.xml"/>
+    <j.0:Submission.submitted_item rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/NAICS/R-C/81/1310.xml"/>
+    <j.0:Submission.submission_contact rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/admin/XMDR_Registrar.xml"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://xmdr.org/ont/iso11179-3e3draft_r4.owl#Submission"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A8">
+    <j.0:Link_End.end rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/NAICS/R-C/81/1310.xml"/>
+    <j.0:Link_End.role rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/mapping-NAICS02-SIC87/R-R/mapsTo.mapsTo.xml"/>
+    <j.0:Link_End.link rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/mapping-NAICS02-SIC87/L/mapsTo/NAICS/81/1310/SIC/7694.xml"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://xmdr.org/ont/iso11179-3e3draft_r4.owl#Link_End"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A11">
+    <j.0:Link_End.end rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/NAICS/R-C/81/1310.xml"/>
+    <j.0:Link_End.role rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/mapping-NAICS02-SIC87/R-R/mapsTo.mapsTo.xml"/>
+    <j.0:Link_End.link rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/mapping-NAICS02-SIC87/L/mapsTo/NAICS/81/1310/SIC/7699.xml"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://xmdr.org/ont/iso11179-3e3draft_r4.owl#Link_End"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A9">
+    <j.0:Link_End.link rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/mapping-NAICS02-SIC87/L/mapsTo/NAICS/81/1310/SIC/7694.xml"/>
+    <j.0:Link_End.role rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/mapping-NAICS02-SIC87/R-R/mapsTo.mapsTo.xml"/>
+    <j.0:Link_End.end rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/NAICS/R-C/81/1310.xml"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://xmdr.org/ont/iso11179-3e3draft_r4.owl#Link_End"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A5">
+    <j.0:Link_End.end rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/NAICS/R-C/81/1310.xml"/>
+    <j.0:Link_End.role rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/mapping-NAICS02-SIC87/R-R/mapsTo.mapsTo.xml"/>
+    <j.0:Link_End.link rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/mapping-NAICS02-SIC87/L/mapsTo/NAICS/81/1310/SIC/7623.xml"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://xmdr.org/ont/iso11179-3e3draft_r4.owl#Link_End"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A12">
+    <j.0:Link_End.link rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/mapping-NAICS02-SIC87/L/mapsTo/NAICS/81/1310/SIC/7692.xml"/>
+    <j.0:Link_End.role rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/mapping-NAICS02-SIC87/R-R/mapsTo.mapsTo.xml"/>
+    <j.0:Link_End.end rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/NAICS/R-C/81/1310.xml"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://xmdr.org/ont/iso11179-3e3draft_r4.owl#Link_End"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A10">
+    <j.0:Link_End.end rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/NAICS/R-C/81/1310.xml"/>
+    <j.0:Link_End.role rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/mapping-NAICS02-SIC87/R-R/mapsTo.mapsTo.xml"/>
+    <j.0:Link_End.link rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/mapping-NAICS02-SIC87/L/mapsTo/NAICS/81/1310/SIC/7692.xml"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://xmdr.org/ont/iso11179-3e3draft_r4.owl#Link_End"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A6">
+    <j.0:Link_End.link rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/NAICS/L/NT/NAICS/8/1131/NAICS/81/1310.xml"/>
+    <j.0:Link_End.end rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/NAICS/R-C/81/1310.xml"/>
+    <j.0:Link_End.role rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/NAICS/R-R/NT.broaderTerm.xml"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://xmdr.org/ont/iso11179-3e3draft_r4.owl#Link_End"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A7">
+    <j.0:Link_End.link rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/mapping-NAICS02-SIC87/L/mapsTo/NAICS/81/1310/SIC/7699.xml"/>
+    <j.0:Link_End.role rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/mapping-NAICS02-SIC87/R-R/mapsTo.mapsTo.xml"/>
+    <j.0:Link_End.end rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/NAICS/R-C/81/1310.xml"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://xmdr.org/ont/iso11179-3e3draft_r4.owl#Link_End"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A1">
+    <j.0:Designation.designation_context_relevant_designation rdf:nodeID="A0"/>
+    <j.0:Designation.designation_sign rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance</j.0:Designation.designation_sign>
+    <j.0:Designation.designation_language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">en</j.0:Designation.designation_language>
+    <j.0:Designation.item rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/NAICS/R-C/81/1310.xml"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://xmdr.org/ont/iso11179-3e3draft_r4.owl#Designation"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A13">
+    <j.0:Definition.definition_text rdf:parseType="Literal">
+
+ 811310  Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance 
+
+ This industry comprises establishments primarily engaged in the repair and maintenance of commercial and industrial machinery and equipment. Establishments in this industry either sharpen/install commercial and industrial machinery blades and saws or provide welding (e.g., automotive, general) repair services; or repair agricultural and other heavy and industrial machinery and equipment (e.g., forklifts and other materials handling equipment, machine tools, commercial refrigeration equipment, construction equipment, and mining machinery). Automotive repair (except welding) and maintenance are--classified in <a xmlns="http://LexGrid.org/schema/2006/01/LexGrid/concepts" href="http://bambam.lbl.gov:8080/xmdr/content/NAICS/R-C/81121.xml">Industry 81121,</a> Electronic and Precision Equipment Repair and Maintenance; Repairing and servicing aircraft--are classified in <a xmlns="http://LexGrid.org/schema/2006/01/LexGrid/concepts" href="http://bambam.lbl.gov:8080/xmdr/content/NAICS/R-C/488190.xml">Industry 488190</a>, Other Support Activities for Air Transportation; Converting, rebuilding, and overhauling aircraft--are classified in <a xmlns="http://LexGrid.org/schema/2006/01/LexGrid/concepts" href="http://bambam.lbl.gov:8080/xmdr/content/NAICS/R-C/336410.xml">Industry 336410</a>, Aerospace Product and Parts Manufacturing; Repairing and servicing railroad cars and engines--are classified in <a xmlns="http://LexGrid.org/schema/2006/01/LexGrid/concepts" href="http://bambam.lbl.gov:8080/xmdr/content/NAICS/R-C/488210.xml">Industry 488210</a>, Support Activities for Rail Transportation; Rebuilding or remanufacturing railroad engines and cars--are classified in <a xmlns="http://LexGrid.org/schema/2006/01/LexGrid/concepts" href="http://bambam.lbl.gov:8080/xmdr/content/NAICS/R-C/336510.xml">Industry 336510</a>, Railroad Rolling Stock Manufacturing; Repairing and overhauling ships at floating dry docks--are classified in <a xmlns="http://LexGrid.org/schema/2006/01/LexGrid/concepts" href="http://bambam.lbl.gov:8080/xmdr/content/NAICS/R-C/488390.xml">Industry 488390</a>, Other Support Activities for Water Transportation; Repairing and overhauling ships at shipyards--are classified in U.S. <a xmlns="http://LexGrid.org/schema/2006/01/LexGrid/concepts" href="http://bambam.lbl.gov:8080/xmdr/content/NAICS/R-C/336611.xml">Industry 336611</a>, Ship Building and Repairing; Rewinding armatures or rebuilding electric motors on a factory basis--are classified in U.S. <a xmlns="http://LexGrid.org/schema/2006/01/LexGrid/concepts" href="http://bambam.lbl.gov:8080/xmdr/content/NAICS/R-C/335312.xml">Industry 335312</a>, Motor and Generator Manufacturing; and Repairing and maintaining home and garden equipment (e.g., sharpening or installing blades and saws)--are classified in <a xmlns="http://LexGrid.org/schema/2006/01/LexGrid/concepts" href="http://bambam.lbl.gov:8080/xmdr/content/NAICS/R-C/811411.xml">Industry 811411</a>, Home and Garden Equipment Repair and Maintenance. 
+
+</j.0:Definition.definition_text>
+    <j.0:Definition.definition_language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">en</j.0:Definition.definition_language>
+    <j.0:Definition.item rdf:resource="http://bambam.lbl.gov:8080/xmdr/content/NAICS/R-C/81/1310.xml"/>
+    <rdf:type rdf:resource="http://xmdr.org/ont/iso11179-3e3draft_r4.owl#Definition"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </rdf:Description>
+</rdf:RDF>

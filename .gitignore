@@ -1,0 +1,31 @@
+# Python environments and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Databases
+*.db
+*.sqlite3
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Large dataset files that exceed GitHub limits (100MB)
+sample_dataset/clean/ziUrAJ8W
+sample_dataset/7ZIP-BZIP2-tiny/BZIP2.pdf
+
+# Generated reports
+*.csv
+
+# Quarantine files
+fim_system/quarantine/

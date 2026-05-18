@@ -1,0 +1,634 @@
+TITLE OF THE DATA SET
+
+The Global Historical Climatology Network:  Long-Term Monthly Temperature,
+Precipitation, Sea Level Pressure, and Station Pressure Data
+
+
+PRINCIPAL INVESTIGATORS
+
+Russell S. Vose
+Carbon Dioxide Information Analysis Center
+Oak Ridge National Laboratory
+Post Office Box 2008
+Oak Ridge, Tennessee 37831-6335
+
+Richard L. Schmoyer
+Statistical Computing Office
+Oak Ridge National Laboratory
+Post Office Box 2008
+Oak Ridge, Tennessee 37831-6367
+
+Peter M. Steurer, Thomas C. Peterson, Richard Heim, Thomas R. Karl
+National Oceanic and Atmospheric Administration
+National Climatic Data Center
+Federal Building
+Asheville, North Carolina 28801
+
+Jon K. Eischeid
+Cooperative Institute for Research in Environmental Sciences
+Campus Box 216
+Boulder, Colorado 80309-0216
+
+
+SOURCE AND SCOPE OF THE DATA
+
+The purpose of this file is to provide a detailed description of the
+GHCN data base.  Information regarding data base compilation is presented
+first.  Each variable (temperature, precipitation, sea level pressure, and
+station pressure) is then discussed at length.
+
+
+Compilation of the GHCN Data Base
+
+The compilation of the GHCN data base took place in several stages,
+beginning with data set acquisition.  The GHCN data base was assembled
+from the various national-, continental-, and global-scale data bases
+listed in Table 1 of the documentation that accompanies these files.
+Most of the global data sets listed in Table 1 are derived
+from the WMSSC, and therefore contain many of the same stations (i.e.,
+duplicates).  However, each also includes previously undigitized data that
+either extends the records of WMSSC stations or consists of observations
+from additional stations.  Similarly, most of the national- and
+continental-scale data sets in Table 1 contain numerous stations that have
+never been incorporated into a global data base.  In addition, several of
+the national-scale data sets, notably those from the USSR and China, were
+only recently made available through bilateral data exchanges and thus
+have rarely, if ever, been used by anyone outside their respective
+countries.
+
+The second step in the compilation of the GHCN data base entailed
+scrutinizing and revising all station inventory parameters (i.e., country
+codes, station numbers, station names, latitudes, longitudes, and
+elevations).  Whenever possible, all such parameters were updated with the
+most recent information available from the World Meteorological
+Organization (WMO).  Assigned 3-digit country codes for all countries
+in the GHCN may be found in the files cocodes.f1 (sorted by country name)
+and cocodes.f2 (sorted by country code), which are contained in the
+CDIAC online directory /pub/ndp041.  These files can serve as the
+starting point for a user who wishes to work with data from select
+countries. 
+
+In the third compilation step, all data sets were merged and subjected to
+a process that removed the numerous "duplicate" stations.  On average, for
+each unique temperature and precipitation station, there were two
+duplicates, while for sea level pressure and station pressure, there was
+an average of one duplicate station for each unique station.
+
+In the final compilation step, all stations in the data base were
+subjected to a two-part quality control analysis.  In the first part, all
+observations exceeding certain thresholds (obtained from world record
+values) were set to missing.  In the second part, each time series was
+plotted and inspected for "gross" errors (i.e., errors visible to the
+naked eye).  Some erroneous values were readily corrected (i.e.,
+observations with missing negative signs, etc.), while others were
+uncorrectable and had to be set to missing.
+
+Data collection (as opposed to analysis) was emphasized during the first
+year of the project.  As a result, the GHCN data base is considerably
+larger than most of its predecessors.  Specifically, the GHCN data base
+contains 80 and 100% more temperature and precipitation stations,
+respectively, than the WMSSC (the number of sea level pressure and station
+pressure stations is roughly the same for both data bases).  Furthermore,
+across all variables, many of the stations in the GHCN data base have
+longer periods of record than their counterparts in the WMSSC.
+
+Only one restriction was applied to limit the size of the data base.  To
+be included, a station was required to have a minimum of 10 years of data
+for at least one of the four variables.  Consequently, the distribution of
+stations across the globe is uneven.  For example, industrialized
+countries such as the United States have a large network of stations with
+periods of record in excess of 10 years, while developing countries such
+as Brazil have only a small number of stations with long periods of
+record.  A detailed inventory of all stations in the GHCN data base is
+presented in Appendix C.  As a future goal, an effort will be made to
+develop a data set consisting only of long-term records from a network of
+stations that is more uniformly distributed across the globe.
+
+
+Temperature
+
+The GHCN data base contains mean monthly temperature data (in tenths of
+degrees celsius) for 6039 stations throughout the world.  The majority
+(61%) have records for fewer than 50 years, but a significant proportion
+(10%) have records in excess of 100 years.  The longest period of record
+for any given station is 290 years (1701-1990 for Berlin-Tempelhof,
+Germany).  Most records (90%) end in the 1980s.  No data are available for
+any station after 1990.
+
+The density of stations in central North America and central Europe is
+extremely high, and moderately high in eastern Europe, central Asia, and
+eastern Asia.  Significant data gaps are evident in northern North
+America, the Amazon basin, the Sahara desert, the Arabian peninsula,
+northern Asia, the Tibetan plateau, the East Indies, western Australia,
+and all of Antarctica.  The global distribution of stations with 50 years
+or more of data is characterized by a lower density of stations in all
+areas, and the appearance of additional data gaps over South America,
+Africa, and central Asia.  Stations with 100 years or more of data are
+primarily restricted to eastern North America, central Europe, and
+scattered pockets in Asia.  There are few stations in the Southern
+Hemisphere with 100 years of data.
+
+In general, the number of stations has increased over the past 300 years,
+particularly in third-world countries.  The rate of increase has
+accelerated since the late nineteenth century, owing to the widespread
+introduction of reliable thermometers and the increased habitation of
+areas that were previously less populated.  The sharp increase in the
+number of stations in 1951 and in 1961 is due to the inclusion of the
+1951-1960 and 1961-1970 versions of the WWR data set in the WMSSC.  The
+similar increase in the number of stations in 1981 is due to the inclusion
+of the Climate Analysis Center global temperature and precipitation data
+set, which contains a large number of stations that only have data for the
+period 1981-1990.  The decrease in the number of stations in 1971 results
+from the inclusion of only three of the six volumes of the 1971-1980 WWR
+publication (i.e., three volumes have yet to be prepared and thus could
+not be included).  The decrease in the number of stations in the late
+1980s results from the fact that most of the data sets from which the GHCN
+was compiled were produced during the late 1980s.
+
+Nearly 77% of all stations are missing less than 10% of their data. 
+Typically, these are the same stations in central North America, Europe,
+and central Asia with the longest periods of record.  In contrast, the
+data-sparse areas of the Amazon basin and Sahara desert are characterized
+by higher proportions of missing data.
+
+
+Precipitation
+
+The GHCN data base contains total monthly precipitation data (in tenths of
+millimeters) for 7533 stations throughout the world.  A slight majority
+(55%) have records in excess of 50 years, and a significant proportion
+(13%) have records in excess of 100 years.  The longest period of record
+for any given station is 291 years (1697-1987 for Kew, United Kingdom). 
+Most records (76%) end in the 1980s.  No data are available for any
+station after 1990.
+
+The density of stations in central North America, central Europe, sub-
+Saharan Africa, and eastern Australia is extremely high, and moderately
+high in eastern Europe and Asia.  Significant data gaps are evident in
+northern North America, central South America, the Sahara desert, the
+Arabian peninsula, the Tibetan plateau, the East Indies, and all of
+Antarctica.  The global distribution of stations with 50 years or more of
+data is characterized by a lower density of stations in most areas and the
+appearance of additional data gaps over southern Africa, central Asia, and
+western Australia.  Stations with 100 years or more of data are
+concentrated in eastern North America, central Europe, and eastern
+Australia.
+
+In general, the number of stations has increased over the past 300 years,
+particularly in third-world countries.  The rate of increase has
+accelerated since the late nineteenth century, owing to the increased
+habitation of areas that were previously less populated.  The sharp
+increase in the number of stations in 1951 is due to the inclusion of the
+1951-1960 version of the WWR data set in the WMSSC.  The decrease in the
+number of stations after 1971 results from the inclusion of only three of
+the six volumes of the 1971-1980 WWR publication (i.e., three volumes have
+yet to be prepared and thus could not be included).  The continuing
+decrease in the number of stations through the 1980s results from the fact
+that most of the data sets from which the GHCN was compiled were produced
+during the late 1980s, and in the case of the African data sets, in the
+early 1980s or late 1970s.
+
+Nearly 72% of all stations are missing less than 10% of their data. 
+Typically, these are the same stations in central North America, central
+Europe, and eastern Australia with the longest periods of record.  In
+contrast, the data-sparse areas of South America and northern Africa are
+characterized by higher proportions of missing data.
+
+
+Sea Level Pressure
+
+The GHCN data base contains mean monthly sea level pressure data (in
+tenths of millibars) for 1883 stations throughout the world.  The majority
+(89%) have records for fewer than 50 years, and only a small proportion
+(2%) have records in excess of 100 years.  The longest period of record
+for any given station is 216 years (1755-1970 for Basel/Binningen,
+Switzerland).  Most records (72%) end in the 1980s.  No data are available
+for any station after 1988.
+
+The density of stations in central Europe is extremely high, and
+moderately high in much of the rest of the world.  Significant data gaps
+are evident in northern North America, the Amazon basin, the Sahara
+desert, southern Africa, the Arabian peninsula, the Gobi desert, the East
+Indies, and all of Antarctica.  The global distribution of stations with
+50 years or more of data is characterized by a low density of stations in
+all areas.  There are very few stations with 100 years or more of data.
+
+In general, the number of stations has increased over the past 250 years,
+particularly in third-world countries.  The rate of increase has
+accelerated since the nineteenth century, owing to the widespread
+availability of reliable instrumentation and the increased habitation of
+areas that were previously less populated.  The sharp increase in the
+number of stations in 1921, 1931, 1941, 1951, and 1961 is due to the
+inclusion of various versions of the WWR data set in the WMSSC.  The
+decrease in the number of stations after 1971 results from the inclusion
+of only three of the six volumes of the 1971-1980 WWR publication (i.e.,
+three volumes have yet to be prepared and thus could not be included).
+
+Nearly 66% of all stations are missing less than 10% of their data. 
+Typically, these are the same stations in central North America and
+central Europe with the longest periods of record.  In contrast, the data
+sparse areas of South America, Africa, and Asia are characterized by
+higher proportions of missing data.
+
+
+Station Pressure
+
+The GHCN data base contains mean monthly station pressure data (in tenths
+of millibars) for 1873 stations throughout the world.  The majority (83%)
+have data for fewer than 50 years, and only a small proportion (4%) have
+records in excess of 100 years.  The longest period of record for any
+given station is 221 years (1768-1988 for Geneve-Cointrin, Switzerland). 
+Most records (71%) end in the 1980s.  No data are available for any
+station after 1988.
+
+The density of stations in central Europe is extremely high, and
+moderately high in most of the rest of the world.  Significant data gaps
+are evident in northern North America, the Sahara desert, the Arabian
+peninsula, the Gobi desert, the East Indies, and all of Antarctica.  The
+global distribution of stations with 50 years or more of data is
+characterized by a low density of stations in most areas, except central
+North America, central Europe, and the Indian subcontinent.  Stations with
+100 years or more of data are primarily restricted to these same areas.
+
+In general, the number of stations has increased over the past 250 years,
+particularly in third-world countries.  The rate of increase has
+accelerated since the nineteenth century, owing to the widespread
+availability of reliable instrumentation and the increased habitation of
+areas that were previously less populated.  The sharp increase in the
+number of stations in 1951 is due to the inclusion of the 1951-1960
+version of the WWR data set in the WMSSC.
+
+Nearly 75% of all stations are missing less than 10% of their data. 
+Typically, these are the same stations in eastern North America and
+central Europe with the longest periods of record.  In contrast, the data
+sparse areas of northern South America, northern Africa, and Asia are
+characterized by higher proportions of missing data.
+
+
+DATA FORMAT
+
+This subdirectory (/PUB/NDP041) contains 21 files including: 
+
+- this descriptive file (ndp041.txt)
+- FORTRAN IV data retrieval routine to read and print the station
+  inventory files (invent.for)
+- FORTRAN IV data retrieval routine to read and print the climate data
+  files (data.for)
+- FORTRAN IV data retrieval routine to read and print the flag code 
+  files (flag.for)
+- SAS data retrieval routine to read and print the station inventory
+  file (invent.sas)
+- SAS data retrieval routine to read and print the climate data files
+  (data.sas)
+- SAS data retrieval routine to read and print the flag code files
+  (flag.sas)
+- temperature station inventory file (temp.statinv)
+- precipitation station inventory file (precip.statinv)
+- sea level pressure station inventory file (press.sea.statinv)
+- station pressure station inventory file (press.sta.statinv)
+- temperature data file (temp.data)
+- precipitation data file (precip.data)
+- sea level pressure data file (press.sea.data)
+- station pressure data file (press.sta.data)
+- temperature flag code file (temp.flag)
+- precipitation flag code file (precip.flag)
+- sea level pressure flag code file (press.sea.flag)
+- station pressure flag code file (press.sta.flag)
+- country code file sorted by country name (cocodes.f1)
+- country code file sorted by country code (cocodes.f2)
+
+
+STATION INVENTORY FILES
+
+This subdirectory contains four station inventory files (*.inv).  The
+first (temp.statinv) provides a list of the 6039 stations associated 
+with the mean monthly temperature data set.  The second (precip.statinv) 
+provides a list of the 7533 stations associated with the total monthly 
+precipitation data set.  The third (press.sea.statinv) provides a list 
+of the 1883 stations associated with the mean monthly sea level 
+pressure data set. The fourth (press.sta.statinv) provides a list of the
+1873 stations associated with the mean monthly station pressure data set.
+
+Each file contains essential information about each station, including
+country identification number, station identification number, station
+name, latitude, longitude, elevation, first year of record, last year of
+record, and percent of data missing.  The presence or absence of major
+discontinuities in each time series is also noted.  The station inventory
+files can be read using the following FORTRAN IV code:
+
+      INTEGER COUNTRY, STATION, ELEV, FIRST, LAST, DISC
+      REAL LAT, LON, MISSING
+      CHARACTER * 25 NAME
+      READ (1, 1, END=99) COUNTRY, STATION, NAME, LAT, LON, ELEV,
+     *FIRST, LAST, MISSING, DISC
+    1 FORMAT (I3, I7, 2X, A25, 1X, F6.2, 1X, F7.2, 1X, I4,
+     *1X, I4, 1X, I4, 1X, F4.1, 1X, I1)
+
+These files can also be read using the following SAS code:
+
+INPUT COUNTRY 1-3 STATION 4-10 NAME $ 13-37 LAT 39-44 LON 46-52 ELEV 54-57
+      FIRST 59-62 LAST 64-67 MISSING 69-72 DISC 74;
+
+Stated in tabular form, the contents include the following:
+
+
+                  Variable      Variable     Starting     Ending
+Variable            type          width       column      column
+
+COUNTRY            Numeric          3            1           3
+STATION            Numeric          7            4          10
+NAME              Character        25           13          37
+LAT                Numeric          6           39          44
+LON                Numeric          7           46          52
+ELEV               Numeric          4           54          57
+FIRST              Numeric          4           59          62
+LAST               Numeric          4           64          67
+MISSING            Numeric          4           69          72
+DISC               Numeric          1           74          74
+
+
+where
+
+COUNTRY            is a three-digit country code (e.g., 404 = United States of
+                   America, etc.).
+
+STATION            is a seven-digit station identification number.  In most
+                   cases, the last two digits of this variable are 00, and the
+                   first five digits are the station's normal WMO number (e.g.,
+                   1234500).  For some stations, no WMO number was currently in
+                   use.  In these cases, the last two digits of STATION are
+                   other than 00, and the first five digits are the WMO number
+                   of the nearest active WMO station (e.g., 1234501).
+
+NAME               is the name of the station.
+
+LAT                is the latitude of the station in decimal degrees.  Stations
+                   in the Southern Hemisphere have negative latitudes.
+
+LON                is the longitude of the station in decimal degrees.  Stations
+                   in the Western Hemisphere have negative longitudes.
+
+ELEV               is the elevation of the station in meters.  Missing
+                   elevations are coded as -999.
+
+FIRST              is the first year for which data are available at this
+                   station.
+
+LAST               is the last year for which data are available at this
+                   station.
+
+MISSING            is the percent of the record with missing data.
+
+DISC               is a code which can be used to identify a time series which
+                   contains a "gross" discontinuity (i.e., one which was readily
+                   identified when the time series was plotted and analyzed
+                   visually).  If DISC is 1, then the station has a major
+                   discontinuity.  If DISC is 0, then the station has no major
+                   discontinuities.  However, it could still contain more subtle
+                   discontinuities.
+
+
+CLIMATE DATA FILES
+
+This NDP includes four data files that contain time series of monthly
+climatic measurements.  The first (temp.data) consists of mean monthly 
+temperature data in tenths of degrees Celsius. The second (precip.data) 
+consists of total monthly precipitation data in tenths of millimeters.  
+The third (press.sea.data) consists of mean monthly sea level pressure
+data in tenths of millibars.  The fourth (press.sta.data) consists of 
+mean monthly station pressure data in tenths of millibars.
+
+These four files only contain climate data.  Flag codes indicating the
+source and reliability of each monthly value have also been compiled. 
+These codes are archived in four flag code files which are described in a
+later section.  The reader is strongly encouraged to utilize these flag
+codes in his/her analysis.
+
+Each logical record in the climate data files contains a country
+identification number, a station identification number, a year, and 12
+monthly data values.  Each file is sorted by station number and year and
+can be read using the following FORTRAN IV code:
+
+       INTEGER COUNTRY, STATION, YEAR, MONTH(12)
+       READ (1, 1, END=99) COUNTRY, STATION, YEAR, (MONTH(J), J = 1, 12)
+     1 FORMAT (I3, I7, I4, 12I5)
+
+These files can also be read using the following SAS code:
+
+INPUT COUNTRY 1-3 STATION 4-10 YEAR 11-14 (MONTH1-MONTH12) (5.);
+
+Stated in tabular form, the contents include the following:
+
+
+                  Variable      Variable     Starting     Ending
+Variable            type          width       column      column
+                                                                                              
+COUNTRY            Numeric          3            1           3
+STATION            Numeric          7            4          10
+YEAR               Numeric          4           11          14
+MONTH1             Numeric          5           15          19
+MONTH2             Numeric          5           20          24
+MONTH3             Numeric          5           25          29
+MONTH4             Numeric          5           30          34
+MONTH5             Numeric          5           35          39
+MONTH6             Numeric          5           40          44
+MONTH7             Numeric          5           45          49
+MONTH8             Numeric          5           50          54
+MONTH9             Numeric          5           55          59
+MONTH10            Numeric          5           60          64
+MONTH11            Numeric          5           65          69
+MONTH12            Numeric          5           70          74
+                                                                                                        
+
+where
+
+COUNTRY            is a three-digit country code (e.g., 404 = United States of
+                   America, etc.).
+
+STATION            is a seven-digit station identification number.  In most
+                   cases, the last two digits of this variable are 00, and the
+                   first five digits are the station's normal WMO number (e.g.,
+                   1234500).  For some stations, no WMO number was currently in
+                   use.  In these cases, the last two digits of STATION are
+                   other than 00, and the first five digits are the WMO number
+                   of the nearest active WMO station (e.g., 1234501).
+
+YEAR               is the year of the data record.
+
+MONTH(1-12)        are the monthly data values.  Missing data values are coded
+                   as -9999.  Mean monthly temperatures are in tenths of degrees
+                   celsius.  Monthly precipitation totals are in tenths of
+                   millimeters, with trace totals coded as -8888.  Mean monthly
+                   sea level pressures and mean monthly station pressures are
+                   in tenths of millibars.
+
+
+FLAG CODE FILES
+
+This numeric data package includes four flag code files that contain
+information regarding the source of each monthly data value, its
+reliability, whether or not it has been modified, and whether or not a
+discontinuity is present.  These files correspond on a line-by-line basis
+with the climate data files described in the previous section.  The first
+(temp.flag) provides the flag codes for the mean monthly temperature data 
+set.  The second (precip.flag) provides the flag codes for the total monthly 
+precipitation data set.  The third (press.sea.flag) provides the flag codes 
+for the mean monthly sea level pressure data set.  The fourth (press.sta.flag)
+provides the flag codes for the mean monthly station pressure data set.
+
+Each logical record in these files contains a country number, a station
+number, a year, and 12 sets of data source codes and flag codes (one set
+per month).  Each file is sorted by station number and year and can be
+read using the following FORTRAN IV code:
+
+       INTEGER COUNTRY, STATION, YEAR, SOURCE(12), REVISE(12),
+      *SUSP(12), DISC(12)
+       READ (1, 1, END=99) COUNTRY, STATION, YEAR,
+      *(SOURCE(J), REVISE(J), SUSP(J), DISC(J), J = 1, 12)
+     1 FORMAT (I3, I7, I4, 12(I2, 3I1))
+
+These files can also be read using the following SAS code:
+
+ARRAY SOURCE(12);
+ARRAY REVISE(12);
+ARRAY SUSP(12);
+ARRAY DISC(12);
+INPUT COUNTRY 1-3 STATION 4-10 YEAR 11-14 @;
+DO J = 1 TO 12;
+  INPUT SOURCE(J) 2. REVISE(J) 1. SUSP(J) 1. DISC(J) 1. @;
+END;
+
+Stated in tabular form, the contents include the following:
+
+
+                  Variable      Variable     Starting     Ending
+Variable            type          width       column      column
+                                                                                                   
+COUNTRY            Numeric          3            1           3
+STATION            Numeric          7            4          10
+YEAR               Numeric          4           11          14
+SOURCE1            Numeric          2           15          16
+REVISE1            Numeric          1           17          17
+SUSPECT1           Numeric          1           18          18
+DISC1              Numeric          1           19          19
+SOURCE2            Numeric          2           20          21
+REVISE2            Numeric          1           22          22
+SUSPECT2           Numeric          1           23          23
+DISC2              Numeric          1           24          24
+SOURCE3            Numeric          2           25          26
+REVISE3            Numeric          1           27          27
+SUSPECT3           Numeric          1           28          28
+DISC3              Numeric          1           29          29
+SOURCE4            Numeric          2           30          31
+REVISE4            Numeric          1           32          32
+SUSPECT4           Numeric          1           33          33
+DISC4              Numeric          1           34          34
+SOURCE5            Numeric          2           35          36
+REVISE5            Numeric          1           37          37
+SUSPECT5           Numeric          1           38          38
+DISC5              Numeric          1           39          39
+SOURCE6            Numeric          2           40          41
+REVISE6            Numeric          1           42          42
+SUSPECT6           Numeric          1           43          43
+DISC6              Numeric          1           44          44
+SOURCE7            Numeric          2           45          46
+REVISE7            Numeric          1           47          47
+SUSPECT7           Numeric          1           48          48
+DISC7              Numeric          1           49          49
+SOURCE8            Numeric          2           50          51
+REVISE8            Numeric          1           52          52
+SUSPECT8           Numeric          1           53          53
+DISC8              Numeric          1           54          54
+SOURCE9            Numeric          2           55          56
+REVISE9            Numeric          1           57          57
+SUSPECT9           Numeric          1           58          58
+DISC9              Numeric          1           59          59
+SOURCE10           Numeric          2           60          61
+REVISE10           Numeric          1           62          62
+SUSPECT10          Numeric          1           63          63
+DISC10             Numeric          1           64          64
+SOURCE11           Numeric          2           65          66
+REVISE11           Numeric          1           67          67
+SUSPECT11          Numeric          1           68          68
+DISC11             Numeric          1           69          69
+SOURCE12           Numeric          2           70          71
+REVISE12           Numeric          1           72          72
+SUSPECT12          Numeric          1           73          73
+DISC12             Numeric          1           74          74
+
+
+where
+
+COUNTRY            is a three-digit country code (e.g., 404 = United States of
+                   America, etc.).
+
+STATION            is a seven-digit station identification number.  In most
+                   cases, the last two digits of this variable are 00, and the
+                   first five digits are the station's normal WMO number (e.g.,
+                   1234500).  For some stations, no WMO number was currently in
+                   use.  In these cases, the last two digits of STATION are
+                   other than 00, and the first five digits are the WMO number
+                   of the nearest active WMO station (e.g., 1234501).
+
+YEAR               is the year of the data record.
+
+SOURCE(1-12)       are codes indicating the source of each monthly data value
+                   (for additional information, see Table 1).  The codes and
+                   their meanings are as follows:
+
+                    1   =  60-station temperature/precipitation data base for
+                           the PRC,
+                    2   =  277-station temperature/precipitation data base for
+                           Mexico,
+                    3   =  U.S. Historical Climatology Network,
+                    4   =  223-station temperature/precipitation data base for
+                           the USSR,
+                    5   =  243-station temperature data base for the USSR,
+                    6   =  622-station precipitation data base for the USSR,
+                    7   =  65-station temperature/pressure data base compiled by
+                           T.H. Jacka,
+                    8   =  African precipitation data base compile by Sharon
+                           Nicholson,
+                    9   =  TD9799: African Historical Precipitation Data,
+                   10   =  TD9799: Non-african Historical Precipitation Data,
+                   11   =  A Comprehensive Precipitation Data Base for Global
+                           Land Areas,
+                   12   =  1872-station temperature data base for global land
+                           areas,
+                   13   =  World Monthly Surface Station Climatology,
+                   14   =  World Weather Records,
+                   15   =  6775-station temperature/precipitation data base for
+                           global land areas,
+                   99   =  Missing data value.
+
+REVISE(1-12)       are codes indicating whether or not each monthly value has
+                   been revised.  All time series were plotted and visually
+                   inspected for "gross" errors.  Numerous errors were the
+                   result of simple keypunch problems (e.g., missing negative
+                   signs, etc.) and thus were easily revised.  If a REVISE
+                   variable has a value of one, then the original observation
+                   appeared problematic and therefore was revised.  If the
+                   REVISE variable has a value of zero, then the original
+                   observation did not seem problematic and therefore was not
+                   revised.  If the REVISE variable has a value of 9, then the
+                   observation is missing.
+
+SUSP(1-12)         are codes indicating whether or not each monthly value is
+                   suspect.  All time series were plotted and visually inspected
+                   for "gross" errors.  Some observations appeared atypical, but
+                   not so seriously as to be clearly erroneous.  If a SUSP
+                   variable has a value of one, then the observation should be
+                   considered suspect.  If the SUSP variable has a value of
+                   zero, then the observation did not seem suspect.  If the SUSP
+                   variable has a value of 9, then the observation is missing.
+
+DISC(1-12)         are codes indicating whether or not there is a discontinuity
+                   in the time series beginning with this month.  All time
+                   series were plotted and visually inspected for "gross"
+                   errors.  All discontinuities visible on these plots were
+                   noted.  If a given DISC variable has a value of one, then
+                   there is a discontinuity in the time series beginning
+                   APPROXIMATELY at that month.  If the DISC variable has a
+                   value of zero, then there is no major discontinuity beginning
+                   at that month.  If the DISC variable has a value of 9, then
+                   the observation is missing.

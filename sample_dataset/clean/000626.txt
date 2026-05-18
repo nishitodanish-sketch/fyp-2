@@ -1,0 +1,132 @@
+Document: 6443 | Created: 23:06 02/22/2009 UTC | Help#:1-877-280-2811 | Page: 01
+Description: SIGMET Text              | Europe
+________________________________________________________________________________
+WSBX31 EBBR 221810
+EBBU SIGMET 2 VALID 222200/230200 EBBR-
+EBBU BRUSSELS FIR SEV TURB FCST
+OVER THE WHOLE FIR FL250/400 MOV E 35 KT NC=
+
+No reports are currently available for WSDL EDDL
+No reports are currently available for WSDL EDZF
+No reports are currently available for WSDL EDZO
+No reports are currently available for WSDL EDZW
+No reports are currently available for WSDN EKCH
+No reports are currently available for WSDN EKDK
+No reports are currently available for WSEE EPWA
+No reports are currently available for WSEE LKPR
+No reports are currently available for WSEE LOWM
+No reports are currently available for WSEE LZIB
+No reports are currently available for WSEE UGEE
+No reports are currently available for WSEE UMMS
+No reports are currently available for WSEE USRR
+No reports are currently available for WSEE USUU
+No reports are currently available for WSEE UUWV
+WSFR34 LFPW 221707
+LFMM SIGMET 8 VALID 221700/222000 LFML-
+LFMM MARSEILLE FIR/UIR : SEV TURB OBS AND FCST BTN N4100 AND N4500
+AND W OF E0630 BLW FL070 NC=
+
+WSFR34 LFPW 222012
+LFMM SIGMET 9 VALID 222000/222300 LFML-
+LFMM MARSEILLE FIR/UIR : SEV TURB OBS AND FCST BTN N4100 AND N4500
+AND W OF E0630 BLW FL080 NC=
+
+WSFR34 LFPW 222303
+LFMM SIGMET 10 VALID 222300/230200 LFML-
+LFMM MARSEILLE FIR/UIR : SEV TURB OBS AND FCST BTN N4100 AND N4500
+AND W OF E0600 BLW FL080 NC=
+
+WSGR31 LGAT 221920
+LGGG SIGMET 4 VALID 221920/222320 LGAT-
+LGGG ATHINAI FIR/UIR MOD LOC SEV ICE OBS S OF N39 AND W OF E026 FROM
+FL050 TO FL070=
+
+WSGR31 LGAT 222010
+LGGG SIGMET 5 VALID 222010/230010 LGGG-
+LGGG ATHINAI FIR/UIR EMBD TS OBS W OF E27 AND S OF N40 NC=
+
+No reports are currently available for WSEE UWUU
+No reports are currently available for WSEM LBSF
+No reports are currently available for WSEM LEMM
+No reports are currently available for WSEM LHBP
+No reports are currently available for WSEM LROP
+No reports are currently available for WSEN WKCH
+No reports are currently available for WSEO EETN
+No reports are currently available for WSEO EETT
+No reports are currently available for WSEU UHPP
+No reports are currently available for WSEW LEMM
+No reports are currently available for WSFI EFES
+No reports are currently available for WSFI EFHK
+No reports are currently available for WSFR LFLF
+Document: 6443 | Created: 23:06 02/22/2009 UTC | Help#:1-877-280-2811 | Page: 02
+Description: SIGMET Text              | Europe
+________________________________________________________________________________
+No reports are currently available for WSHU LHBM
+WSIY31 LIIB 221859
+LIRR SIGMET 06 VALID 221900/222300 LIMM-
+LIRR ROMA FIR EMBD TS OBS AND FCST SICILIA CALABRIA AND IONIAN SEA
+STNR NC=
+
+WSIY31 LIIB 221900
+LIBB SIGMET 06 VALID 221900/222300 LIMM-
+LIBB BRINDISI FIR SEV TURB FCST ABV FL220 MAINLY N AND CENTRAL PART
+STNR NC=
+
+WSIY31 LIIB 222249
+LIRR SIGMET 07 VALID 222300/230300 LIMM-
+LIRR ROMA FIR EMBD TS OBS AND FCST S FIR STNR NC=
+
+WSNL31 EHDB 221944
+EHAA SIGMET 2 VALID 221945/222245 EHDB-
+EHAA AMSTERDAM FIR MOD TO SEV TURB FCST WEST AND CENTRAL PART
+AMSTERDAM FIR FL240/FL400 MOV E 30 KT=
+
+No reports are currently available for WSIE EIDB
+No reports are currently available for WSIY LIBB
+No reports are currently available for WSIY LIMM
+No reports are currently available for WSIY LIRE
+No reports are currently available for WSLJ LJLJ
+No reports are currently available for WSLT EYVI
+No reports are currently available for WSLV EVRA
+No reports are currently available for WSLV EVRR
+No reports are currently available for WSLV EYVL
+No reports are currently available for WSMJ LWSK
+No reports are currently available for WSNL EHAA
+No reports are currently available for WSNO ENBD
+No reports are currently available for WSNO ENMI
+No reports are currently available for WSNO ENOB
+No reports are currently available for WSNO ENOS
+No reports are currently available for WSNO ENTR
+No reports are currently available for WSNO ENVS
+No reports are currently available for WSOS LOWM
+No reports are currently available for WSPL EPWA
+No reports are currently available for WSPO LPPT
+No reports are currently available for WSRH LDZM
+No reports are currently available for WSRM LUKK
+No reports are currently available for WSSN ESMM
+No reports are currently available for WSSN ESOS
+No reports are currently available for WSSN ESUM
+No reports are currently available for WSSN ESWI
+No reports are currently available for WSSW LSSW
+No reports are currently available for WSUK EGGY
+No reports are currently available for WSUK EGJJ
+No reports are currently available for WSUR UKMS
+No reports are currently available for WSYG LYBE
+No reports are currently available for WSYG LYBM
+WVIY31 LIIB 221755
+LIRR SIGMET 04 VALID 221800/222200 LIMM-
+LIRR ROMA FIR FBL VA LAST OBS (220530Z BY LICZ) EXT 10 NM E OF ETNA
+FL070/FL110 MOV SSE 20/30 KT=
+
+Document: 6443 | Created: 23:06 02/22/2009 UTC | Help#:1-877-280-2811 | Page: 03
+Description: SIGMET Text              | Europe
+________________________________________________________________________________
+WVIY31 LIIB 222115
+LIRR SIGMET 05 VALID 222200/230200 LIMM-
+LIRR ROMA FIR FBL VA LAST OBS (220530Z BY LICZ) EXT 10 NM E OF ETNA
+FL070/FL110 MOV SSE 30 KT=
+
+No reports are currently available for WVEU LPMG
+No reports are currently available for WVEU UHPP
+No reports are currently available for WVNL EHAA
+No reports are currently available for WVNL EHDB

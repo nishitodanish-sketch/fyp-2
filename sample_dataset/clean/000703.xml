@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>South Carolina Cooperative Fish and Wildlife Research Unit,USGS Biological Resources Division</origin>
+<pubdate>20011221</pubdate>
+<title>South Carolina Predicted Bird Distribution</title>
+<edition>Version 1.0, December 2001</edition>
+<geoform>map</geoform>
+<serinfo>
+<sername></sername>
+<issue></issue>
+</serinfo>
+<pubinfo>
+<pubplace>Clemson, South Carolina</pubplace>
+<publish>South Carolina Cooperative Fish and Wildlife Research Unit, USGS Biological Resources Division</publish>
+</pubinfo>
+<onlink>http://www.gap.uidaho.edu</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>249 maps representing predicted range and habitat affinity for birds known to occur in South Carolina were produced.  Distributions were based on county occurrences as indicated by recognized experts in the state and by current literature.  Habitat preferences were also described by experts as well as documented in the literature.  The predicted distribution was based on a 30 meter raster habitat land cover produced by SC-GAP.</abstract>
+<purpose>Bird species distributions are critical to understanding the South Carolina&apos;s biodiversity.  Prior to SC-GAP birds had not been mapped in the state according to distribution and habitat affinity.  This database comprised a significant component of the SC-GAP project in planning for diversity and serves as a background for future studies of bird biodiversity within the state.</purpose>
+</descript>
+<timeperd>
+<timeinfo>
+<sngdate>
+<caldate>20011221</caldate>
+</sngdate>
+</timeinfo>
+<current>Current as of publication date.</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>None planned</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-83.2831</westbc>
+<eastbc>-78.5004</eastbc>
+<northbc>35.1977</northbc>
+<southbc>32.0262</southbc>
+</bounding>
+<descgeog>South Carolina State</descgeog>
+</spdom>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>Predicted distribution</themekey>
+<themekey>Birds</themekey>
+<themekey>Predicted habitat</themekey>
+</theme>
+<place>
+<placekt>None</placekt>
+<placekey>South Carolina</placekey>
+<placekey>Southeastern United States</placekey>
+<placekey>Coastal Plain</placekey>
+<placekey>Blue Ridge</placekey>
+<placekey>Piedmont</placekey>
+</place>
+<temporal>
+<tempkt>None</tempkt>
+<tempkey>1990s</tempkey>
+<tempkey>Late 20th Century</tempkey>
+</temporal>
+</keywords>
+<accconst>None</accconst>
+<useconst>These data were developed from statewide Landsat Thematic Mapper data and are appropriate for use in landscape level analysis of biodiversity.  They are not intended for combination with parcel level data for site-specific analysis or decision-making.</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>South Carolina Department of Natural Resources</cntorg>
+<cntper>James D. Scurry</cntper>
+</cntorgp>
+<cntpos>Information Management Section Leader</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>2221 Devine St., Suite 200</address>
+<city>Columbia</city>
+<state>South Carolina</state>
+<postal>29205</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(803)734-9100</cntvoice>
+<cntfax>(803)734-9200</cntfax>
+<cntemail>scurry@dnr.state.sc.us</cntemail>
+<hours>9 AM - 5 PM</hours>
+</cntinfo>
+</ptcontac>
+<browse>
+<browsen>&quot;species_number&quot;.jpg (ex. - 173435.jpg)</browsen>
+<browsed>Species predicted distribution, species number = ITIS code</browsed>
+<browset>jpeg</browset>
+</browse>
+<native>UNIX AIX 4.3.3, MS Windows NT 4.0, ESRI ArcInfo 8.0.2</native>
+<taxonomy>
+<taxoncl>
+<taxonrn>Bird</taxonrn>
+<taxonrv></taxonrv>
+</taxoncl>
+<keywtax>
+<taxonkt>None</taxonkt>
+<taxonkey>bird</taxonkey>
+<taxonkey>american black duck</taxonkey>
+<taxonkey>Anas rubripes</taxonkey>
+<taxonkey>acadian flycatcher</taxonkey>
+<taxonkey>Empidonax virescens</taxonkey>
+<taxonkey>american avocet</taxonkey>
+<taxonkey>Recurvirostra americana</taxonkey>
+<taxonkey>american bittern</taxonkey>
+<taxonkey>Botaurus lentiginosus</taxonkey>
+<taxonkey>american coot</taxonkey>
+<taxonkey>Fulica americana</taxonkey>
+<taxonkey>american crow</taxonkey>
+<taxonkey>Corvus brachyrhynchos</taxonkey>
+<taxonkey>american goldfinch</taxonkey>
+<taxonkey>Carduelis tristis</taxonkey>
+<taxonkey>american kestrel</taxonkey>
+<taxonkey>Falco sparverius</taxonkey>
+<taxonkey>american oystercatcher</taxonkey>
+<taxonkey>Haematopus palliatus</taxonkey>
+<taxonkey>american redstart</taxonkey>
+<taxonkey>Setophaga ruticilla</taxonkey>
+<taxonkey>american robin</taxonkey>
+<taxonkey>Turdus migratorius</taxonkey>
+<taxonkey>american wigeon</taxonkey>
+<taxonkey>Anas americana</taxonkey>
+<taxonkey>american woodcock</taxonkey>
+<taxonkey>Scolopax minor</taxonkey>
+<taxonkey>anhinga</taxonkey>
+<taxonkey>Anhinga anhinga</taxonkey>
+<taxonkey>american swallow-tailed kite</taxonkey>
+<taxonkey>Elanoides forficatus</taxonkey>
+<taxonkey>bachman&apos;s sparrow</taxonkey>
+<taxonkey>Aimophila aestivalis</taxonkey>
+<taxonkey>bald eagle</taxonkey>
+<taxonkey>Haliaeetus leucocephalus</taxonkey>
+<taxonkey>barn swallow</taxonkey>
+<taxonkey>Hirundo rustica</taxonkey>
+<taxonkey>black-and-white warbler</taxonkey>
+<taxonkey>Mniotilta varia</taxonkey>
+<taxonkey>black-bellied plover</taxonkey>
+<taxonkey>Pluvialis squatarola</taxonkey>
+<taxonkey>black-crowned night-heron</taxonkey>
+<taxonkey>Nycticorax nycticorax</taxonkey>
+<taxonkey>barred owl</taxonkey>
+<taxonkey>Strix varia</taxonkey>
+<taxonkey>belted kingfisher</taxonkey>
+<taxonkey>Ceryle alcyon</taxonkey>
+<taxonkey>blue-gray gnatcatcher</taxonkey>
+<taxonkey>Polioptila caerulea</taxonkey>
+<taxonkey>brown-headed cowbird</taxonkey>
+<taxonkey>Molothrus ater</taxonkey>
+<taxonkey>brown-headed nuthatch</taxonkey>
+<taxonkey>Sitta pusilla</taxonkey>
+<taxonkey>blackburnian warbler</taxonkey>
+<taxonkey>Dendroica fusca</taxonkey>
+<taxonkey>blue grosbeak</taxonkey>
+<taxonkey>Guiraca caerulea</taxonkey>
+<taxonkey>blue jay</taxonkey>
+<taxonkey>Cyanocitta cristata</taxonkey>
+<taxonkey>black scoter</taxonkey>
+<taxonkey>Melanitta nigra</taxonkey>
+<taxonkey>black skimmer</taxonkey>
+<taxonkey>Rynchops niger</taxonkey>
+<taxonkey>black vulture</taxonkey>
+<taxonkey>Coragyps atratus</taxonkey>
+<taxonkey>barn owl</taxonkey>
+<taxonkey>Tyto alba</taxonkey>
+<taxonkey>black-necked stilt</taxonkey>
+<taxonkey>Himantopus mexicanus</taxonkey>
+<taxonkey>bonaparte&apos;s gull</taxonkey>
+<taxonkey>Larus philadelphia</taxonkey>
+<taxonkey>brant</taxonkey>
+<taxonkey>Branta bernicla</taxonkey>
+<taxonkey>brewer&apos;s blackbird</taxonkey>
+<taxonkey>Euphagus cyanocephalus</taxonkey>
+<taxonkey>brown creeper</taxonkey>
+<taxonkey>Certhia americana</taxonkey>
+<taxonkey>brown pelican</taxonkey>
+<taxonkey>Pelecanus occidentalis</taxonkey>
+<taxonkey>brown thrasher</taxonkey>
+<taxonkey>Toxostoma rufum</taxonkey>
+<taxonkey>black-throated blue warbler</taxonkey>
+<taxonkey>Dendroica caerulescens</taxonkey>
+<taxonkey>boat-tailed grackle</taxonkey>
+<taxonkey>Quiscalus major</taxonkey>
+<taxonkey>black-throated green warbler</taxonkey>
+<taxonkey>Dendroica virens</taxonkey>
+<taxonkey>bufflehead</taxonkey>
+<taxonkey>Bucephala albeola</taxonkey>
+<taxonkey>broad-winged hawk</taxonkey>
+<taxonkey>Buteo platypterus</taxonkey>
+<taxonkey>blue-winged teal</taxonkey>
+<taxonkey>Anas discors</taxonkey>
+<taxonkey>blue-winged warbler</taxonkey>
+<taxonkey>Vermivora pinus</taxonkey>
+<taxonkey>carolina chickadee</taxonkey>
+<taxonkey>Parus carolinensis</taxonkey>
+<taxonkey>cattle egret</taxonkey>
+<taxonkey>Bubulcus ibis</taxonkey>
+<taxonkey>canada goose</taxonkey>
+<taxonkey>Branta canadensis</taxonkey>
+<taxonkey>canvasback</taxonkey>
+<taxonkey>Aythya valisineria</taxonkey>
+<taxonkey>carolina wren</taxonkey>
+<taxonkey>Thryothorus ludovicianus</taxonkey>
+<taxonkey>caspian tern</taxonkey>
+<taxonkey>Sterna caspia</taxonkey>
+<taxonkey>canada warbler</taxonkey>
+<taxonkey>Wilsonia canadensis</taxonkey>
+<taxonkey>cedar waxwing</taxonkey>
+<taxonkey>Bombycilla cedrorum</taxonkey>
+<taxonkey>chipping sparrow</taxonkey>
+<taxonkey>Spizella passerina</taxonkey>
+<taxonkey>chimney swift</taxonkey>
+<taxonkey>Chaetura pelagica</taxonkey>
+<taxonkey>clapper rail</taxonkey>
+<taxonkey>Rallus longirostris</taxonkey>
+<taxonkey>cliff swallow</taxonkey>
+<taxonkey>Hirundo pyrrhonota</taxonkey>
+<taxonkey>common ground-dove</taxonkey>
+<taxonkey>Columbina passerina</taxonkey>
+<taxonkey>common goldeneye</taxonkey>
+<taxonkey>Bucephala clangula</taxonkey>
+<taxonkey>common grackle</taxonkey>
+<taxonkey>Quiscalus quiscula</taxonkey>
+<taxonkey>cooper&apos;s hawk</taxonkey>
+<taxonkey>Accipiter cooperii</taxonkey>
+<taxonkey>common loon</taxonkey>
+<taxonkey>Gavia immer</taxonkey>
+<taxonkey>common merganser</taxonkey>
+<taxonkey>Mergus merganser</taxonkey>
+<taxonkey>common moorhen</taxonkey>
+<taxonkey>Gallinula chloropus</taxonkey>
+<taxonkey>common nighthawk</taxonkey>
+<taxonkey>Chordeiles minor</taxonkey>
+<taxonkey>common raven</taxonkey>
+<taxonkey>Corvus corax</taxonkey>
+<taxonkey>common snipe</taxonkey>
+<taxonkey>Gallinago gallinago</taxonkey>
+<taxonkey>common tern</taxonkey>
+<taxonkey>Sterna hirundo</taxonkey>
+<taxonkey>common yellowthroat</taxonkey>
+<taxonkey>Geothlypis trichas</taxonkey>
+<taxonkey>chestnut-sided warbler</taxonkey>
+<taxonkey>Dendroica pensylvanica</taxonkey>
+<taxonkey>chuck-will&apos;s-widow</taxonkey>
+<taxonkey>Caprimulgus carolinensis</taxonkey>
+<taxonkey>double-crested cormorant</taxonkey>
+<taxonkey>Phalacrocorax auritus</taxonkey>
+<taxonkey>dark-eyed junco</taxonkey>
+<taxonkey>Junco hyemalis</taxonkey>
+<taxonkey>dickcissel</taxonkey>
+<taxonkey>Spiza americana</taxonkey>
+<taxonkey>downy woodpecker</taxonkey>
+<taxonkey>Picoides pubescens</taxonkey>
+<taxonkey>dunlin</taxonkey>
+<taxonkey>Calidris alpina</taxonkey>
+<taxonkey>eastern bluebird</taxonkey>
+<taxonkey>Sialia sialis</taxonkey>
+<taxonkey>eastern kingbird</taxonkey>
+<taxonkey>Tyrannus tyrannus</taxonkey>
+<taxonkey>eastern meadowlark</taxonkey>
+<taxonkey>Sturnella magna</taxonkey>
+<taxonkey>eastern phoebe</taxonkey>
+<taxonkey>Sayornis phoebe</taxonkey>
+<taxonkey>eastern screech-owl</taxonkey>
+<taxonkey>Otus asio</taxonkey>
+<taxonkey>eastern towhee</taxonkey>
+<taxonkey>Pipilo erythrophthalmus</taxonkey>
+<taxonkey>eastern wood-pewee</taxonkey>
+<taxonkey>Contopus virens</taxonkey>
+<taxonkey>european starling</taxonkey>
+<taxonkey>Sturnus vulgaris</taxonkey>
+<taxonkey>evening grosbeak</taxonkey>
+<taxonkey>Coccothraustes vespertinus</taxonkey>
+<taxonkey>fish crow</taxonkey>
+<taxonkey>Corvus ossifragus</taxonkey>
+<taxonkey>field sparrow</taxonkey>
+<taxonkey>Spizella pusilla</taxonkey>
+<taxonkey>fox sparrow</taxonkey>
+<taxonkey>Passerella iliaca</taxonkey>
+<taxonkey>forster&apos;s tern</taxonkey>
+<taxonkey>Sterna forsteri</taxonkey>
+<taxonkey>gadwall</taxonkey>
+<taxonkey>Anas strepera</taxonkey>
+<taxonkey>great black-backed gull</taxonkey>
+<taxonkey>Larus marinus</taxonkey>
+<taxonkey>great blue heron</taxonkey>
+<taxonkey>Ardea herodias</taxonkey>
+<taxonkey>gull-billed tern</taxonkey>
+<taxonkey>Sterna nilotica</taxonkey>
+<taxonkey>great crested flycatcher</taxonkey>
+<taxonkey>Myiarchus crinitus</taxonkey>
+<taxonkey>golden-crowned kinglet</taxonkey>
+<taxonkey>Regulus satrapa</taxonkey>
+<taxonkey>great horned owl</taxonkey>
+<taxonkey>Bubo virginianus</taxonkey>
+<taxonkey>glossy ibis</taxonkey>
+<taxonkey>Plegadis falcinellus</taxonkey>
+<taxonkey>gray catbird</taxonkey>
+<taxonkey>Dumetella carolinensis</taxonkey>
+<taxonkey>great egret</taxonkey>
+<taxonkey>Casmerodius albus</taxonkey>
+<taxonkey>green heron</taxonkey>
+<taxonkey>Butorides virescens</taxonkey>
+<taxonkey>greater scaup</taxonkey>
+<taxonkey>Aythya marila</taxonkey>
+<taxonkey>grasshopper sparrow</taxonkey>
+<taxonkey>Ammodramus savannarum</taxonkey>
+<taxonkey>greater yellowlegs</taxonkey>
+<taxonkey>Tringa melanoleuca</taxonkey>
+<taxonkey>green-winged teal</taxonkey>
+<taxonkey>Anas crecca</taxonkey>
+<taxonkey>hairy woodpecker</taxonkey>
+<taxonkey>Picoides villosus</taxonkey>
+<taxonkey>herring gull</taxonkey>
+<taxonkey>Larus argentatus</taxonkey>
+<taxonkey>henslow&apos;s sparrow</taxonkey>
+<taxonkey>Ammodramus henslowii</taxonkey>
+<taxonkey>hermit thrush</taxonkey>
+<taxonkey>Catharus guttatus</taxonkey>
+<taxonkey>house finch</taxonkey>
+<taxonkey>Carpodacus mexicanus</taxonkey>
+<taxonkey>horned grebe</taxonkey>
+<taxonkey>Podiceps auritus</taxonkey>
+<taxonkey>horned lark</taxonkey>
+<taxonkey>Eremophila alpestris</taxonkey>
+<taxonkey>hooded merganser</taxonkey>
+<taxonkey>Lophodytes cucullatus</taxonkey>
+<taxonkey>house sparrow</taxonkey>
+<taxonkey>Passer domesticus</taxonkey>
+<taxonkey>hooded warbler</taxonkey>
+<taxonkey>Wilsonia citrina</taxonkey>
+<taxonkey>house wren</taxonkey>
+<taxonkey>Troglodytes aedon</taxonkey>
+<taxonkey>indigo bunting</taxonkey>
+<taxonkey>Passerina cyanea</taxonkey>
+<taxonkey>kentucky warbler</taxonkey>
+<taxonkey>Oporornis formosus</taxonkey>
+<taxonkey>killdeer</taxonkey>
+<taxonkey>Charadrius vociferus</taxonkey>
+<taxonkey>king rail</taxonkey>
+<taxonkey>Rallus elegans</taxonkey>
+<taxonkey>laughing gull</taxonkey>
+<taxonkey>Larus atricilla</taxonkey>
+<taxonkey>lapland longspur</taxonkey>
+<taxonkey>Calcarius lapponicus</taxonkey>
+<taxonkey>long-billed curlew</taxonkey>
+<taxonkey>Numenius americanus</taxonkey>
+<taxonkey>long-billed dowitcher</taxonkey>
+<taxonkey>Limnodromus scolopaceus</taxonkey>
+<taxonkey>little blue heron</taxonkey>
+<taxonkey>Egretta caerulea</taxonkey>
+<taxonkey>le conte&apos;s sparrow</taxonkey>
+<taxonkey>Ammodramus leconteii</taxonkey>
+<taxonkey>least bittern</taxonkey>
+<taxonkey>Ixobrychus exilis</taxonkey>
+<taxonkey>least sandpiper</taxonkey>
+<taxonkey>Calidris minutilla</taxonkey>
+<taxonkey>lesser scaup</taxonkey>
+<taxonkey>Aythya affinis</taxonkey>
+<taxonkey>least tern</taxonkey>
+<taxonkey>Sterna antillarum</taxonkey>
+<taxonkey>lesser yellowlegs</taxonkey>
+<taxonkey>Tringa flavipes</taxonkey>
+<taxonkey>lincoln&apos;s sparrow</taxonkey>
+<taxonkey>Melospiza lincolnii</taxonkey>
+<taxonkey>loggerhead shrike</taxonkey>
+<taxonkey>Lanius ludovicianus</taxonkey>
+<taxonkey>louisiana waterthrush</taxonkey>
+<taxonkey>Seiurus motacilla</taxonkey>
+<taxonkey>marbled godwit</taxonkey>
+<taxonkey>Limosa fedoa</taxonkey>
+<taxonkey>mallard</taxonkey>
+<taxonkey>Anas platyrhynchos</taxonkey>
+<taxonkey>marsh wren</taxonkey>
+<taxonkey>Cistothorus palustris</taxonkey>
+<taxonkey>merlin</taxonkey>
+<taxonkey>Falco columbarius</taxonkey>
+<taxonkey>mississippi kite</taxonkey>
+<taxonkey>Ictinia mississippiensis</taxonkey>
+<taxonkey>mourning dove</taxonkey>
+<taxonkey>Zenaida macroura</taxonkey>
+<taxonkey>mottled duck</taxonkey>
+<taxonkey>Anas fulvigula</taxonkey>
+<taxonkey>northern bobwhite</taxonkey>
+<taxonkey>Colinus virginianus</taxonkey>
+<taxonkey>northern cardinal</taxonkey>
+<taxonkey>Cardinalis cardinalis</taxonkey>
+<taxonkey>northern flicker</taxonkey>
+<taxonkey>Colaptes auratus</taxonkey>
+<taxonkey>northern harrier</taxonkey>
+<taxonkey>Circus cyaneus</taxonkey>
+<taxonkey>northern mockingbird</taxonkey>
+<taxonkey>Mimus polyglottos</taxonkey>
+<taxonkey>baltimore oriole</taxonkey>
+<taxonkey>Icterus galbula</taxonkey>
+<taxonkey>northern parula</taxonkey>
+<taxonkey>Parula americana</taxonkey>
+<taxonkey>northern pintail</taxonkey>
+<taxonkey>Anas acuta</taxonkey>
+<taxonkey>northern rough-winged swallow</taxonkey>
+<taxonkey>Stelgidopteryx serripennis</taxonkey>
+<taxonkey>northern shoveler</taxonkey>
+<taxonkey>Anas clypeata</taxonkey>
+<taxonkey>northern saw-whet owl</taxonkey>
+<taxonkey>Aegolius acadicus</taxonkey>
+<taxonkey>orange-crowned warbler</taxonkey>
+<taxonkey>Vermivora celata</taxonkey>
+<taxonkey>oldsquaw</taxonkey>
+<taxonkey>Clangula hyemalis</taxonkey>
+<taxonkey>orchard oriole</taxonkey>
+<taxonkey>Icterus spurius</taxonkey>
+<taxonkey>osprey</taxonkey>
+<taxonkey>Pandion haliaetus</taxonkey>
+<taxonkey>ovenbird</taxonkey>
+<taxonkey>Seiurus aurocapillus</taxonkey>
+<taxonkey>painted bunting</taxonkey>
+<taxonkey>Passerina ciris</taxonkey>
+<taxonkey>palm warbler</taxonkey>
+<taxonkey>Dendroica palmarum</taxonkey>
+<taxonkey>pied-billed grebe</taxonkey>
+<taxonkey>Podilymbus podiceps</taxonkey>
+<taxonkey>peregrine falcon</taxonkey>
+<taxonkey>Falco peregrinus</taxonkey>
+<taxonkey>piping plover</taxonkey>
+<taxonkey>Charadrius melodus</taxonkey>
+<taxonkey>pine siskin</taxonkey>
+<taxonkey>Carduelis pinus</taxonkey>
+<taxonkey>pine warbler</taxonkey>
+<taxonkey>Dendroica pinus</taxonkey>
+<taxonkey>pileated woodpecker</taxonkey>
+<taxonkey>Dryocopus pileatus</taxonkey>
+<taxonkey>prairie warbler</taxonkey>
+<taxonkey>Dendroica discolor</taxonkey>
+<taxonkey>prothonotary warbler</taxonkey>
+<taxonkey>Protonotaria citrea</taxonkey>
+<taxonkey>purple finch</taxonkey>
+<taxonkey>Carpodacus purpureus</taxonkey>
+<taxonkey>purple gallinule</taxonkey>
+<taxonkey>Porphyrula martinica</taxonkey>
+<taxonkey>purple martin</taxonkey>
+<taxonkey>Progne subis</taxonkey>
+<taxonkey>purple sandpiper</taxonkey>
+<taxonkey>Calidris maritima</taxonkey>
+<taxonkey>ring-billed gull</taxonkey>
+<taxonkey>Larus delawarensis</taxonkey>
+<taxonkey>red-breasted merganser</taxonkey>
+<taxonkey>Mergus serrator</taxonkey>
+<taxonkey>red-breasted nuthatch</taxonkey>
+<taxonkey>Sitta canadensis</taxonkey>
+<taxonkey>red-bellied woodpecker</taxonkey>
+<taxonkey>Melanerpes carolinus</taxonkey>
+<taxonkey>ruby-crowned kinglet</taxonkey>
+<taxonkey>Regulus calendula</taxonkey>
+<taxonkey>red-cockaded woodpecker</taxonkey>
+<taxonkey>Picoides borealis</taxonkey>
+<taxonkey>red crossbill</taxonkey>
+<taxonkey>Loxia curvirostra</taxonkey>
+<taxonkey>redhead</taxonkey>
+<taxonkey>Aythya americana</taxonkey>
+<taxonkey>red knot</taxonkey>
+<taxonkey>Calidris canutus</taxonkey>
+<taxonkey>red-eyed vireo</taxonkey>
+<taxonkey>Vireo olivaceus</taxonkey>
+<taxonkey>red-headed woodpecker</taxonkey>
+<taxonkey>Melanerpes erythrocephalus</taxonkey>
+<taxonkey>ring-necked duck</taxonkey>
+<taxonkey>Aythya collaris</taxonkey>
+<taxonkey>rock dove</taxonkey>
+<taxonkey>Columba livia</taxonkey>
+<taxonkey>royal tern</taxonkey>
+<taxonkey>Sterna maxima</taxonkey>
+<taxonkey>red-shouldered hawk</taxonkey>
+<taxonkey>Buteo lineatus</taxonkey>
+<taxonkey>red-tailed hawk</taxonkey>
+<taxonkey>Buteo jamaicensis</taxonkey>
+<taxonkey>ruby-throated hummingbird</taxonkey>
+<taxonkey>Archilochus colubris</taxonkey>
+<taxonkey>rusty blackbird</taxonkey>
+<taxonkey>Euphagus carolinus</taxonkey>
+<taxonkey>ruddy duck</taxonkey>
+<taxonkey>Oxyura jamaicensis</taxonkey>
+<taxonkey>ruffed grouse</taxonkey>
+<taxonkey>Bonasa umbellus</taxonkey>
+<taxonkey>ruddy turnstone</taxonkey>
+<taxonkey>Arenaria interpres</taxonkey>
+<taxonkey>red-winged blackbird</taxonkey>
+<taxonkey>Agelaius phoeniceus</taxonkey>
+<taxonkey>sanderling</taxonkey>
+<taxonkey>Calidris alba</taxonkey>
+<taxonkey>sandwich tern</taxonkey>
+<taxonkey>Sterna sandvicensis</taxonkey>
+<taxonkey>savannah sparrow</taxonkey>
+<taxonkey>Passerculus sandwichensis</taxonkey>
+<taxonkey>short-billed dowitcher</taxonkey>
+<taxonkey>Limnodromus griseus</taxonkey>
+<taxonkey>scarlet tanager</taxonkey>
+<taxonkey>Piranga olivacea</taxonkey>
+<taxonkey>short-eared owl</taxonkey>
+<taxonkey>Asio flammeus</taxonkey>
+<taxonkey>semipalmated plover</taxonkey>
+<taxonkey>Charadrius semipalmatus</taxonkey>
+<taxonkey>seaside sparrow</taxonkey>
+<taxonkey>Ammodramus maritimus</taxonkey>
+<taxonkey>sedge wren</taxonkey>
+<taxonkey>Cistothorus platensis</taxonkey>
+<taxonkey>snow bunting</taxonkey>
+<taxonkey>Plectrophenax nivalis</taxonkey>
+<taxonkey>snowy egret</taxonkey>
+<taxonkey>Egretta thula</taxonkey>
+<taxonkey>snow goose</taxonkey>
+<taxonkey>Chen caerulescens</taxonkey>
+<taxonkey>sora</taxonkey>
+<taxonkey>Porzana carolina</taxonkey>
+<taxonkey>song sparrow</taxonkey>
+<taxonkey>Melospiza melodia</taxonkey>
+<taxonkey>sooty tern</taxonkey>
+<taxonkey>Sterna fuscata</taxonkey>
+<taxonkey>blue-headed vireo</taxonkey>
+<taxonkey>Vireo solitarius</taxonkey>
+<taxonkey>spotted sandpiper</taxonkey>
+<taxonkey>Actitis macularia</taxonkey>
+<taxonkey>sharp-shinned hawk</taxonkey>
+<taxonkey>Accipiter striatus</taxonkey>
+<taxonkey>surf scoter</taxonkey>
+<taxonkey>Melanitta perspicillata</taxonkey>
+<taxonkey>summer tanager</taxonkey>
+<taxonkey>Piranga rubra</taxonkey>
+<taxonkey>swamp sparrow</taxonkey>
+<taxonkey>Melospiza georgiana</taxonkey>
+<taxonkey>swainson&apos;s warbler</taxonkey>
+<taxonkey>Limnothlypis swainsonii</taxonkey>
+<taxonkey>tree swallow</taxonkey>
+<taxonkey>Tachycineta bicolor</taxonkey>
+<taxonkey>tricolored heron</taxonkey>
+<taxonkey>Egretta tricolor</taxonkey>
+<taxonkey>tundra swan</taxonkey>
+<taxonkey>Cygnus columbianus</taxonkey>
+<taxonkey>tufted titmouse</taxonkey>
+<taxonkey>Parus bicolor</taxonkey>
+<taxonkey>turkey vulture</taxonkey>
+<taxonkey>Cathartes aura</taxonkey>
+<taxonkey>vesper sparrow</taxonkey>
+<taxonkey>Pooecetes gramineus</taxonkey>
+<taxonkey>virginia rail</taxonkey>
+<taxonkey>Rallus limicola</taxonkey>
+<taxonkey>water pipit</taxonkey>
+<taxonkey>Anthus spinoletta</taxonkey>
+<taxonkey>white-breasted nuthatch</taxonkey>
+<taxonkey>Sitta carolinensis</taxonkey>
+<taxonkey>white-crowned sparrow</taxonkey>
+<taxonkey>Zonotrichia leucophrys</taxonkey>
+<taxonkey>white-eyed vireo</taxonkey>
+<taxonkey>Vireo griseus</taxonkey>
+<taxonkey>worm-eating warbler</taxonkey>
+<taxonkey>Helmitheros vermivorus</taxonkey>
+<taxonkey>white ibis</taxonkey>
+<taxonkey>Eudocimus albus</taxonkey>
+<taxonkey>whimbrel</taxonkey>
+<taxonkey>Numenius phaeopus</taxonkey>
+<taxonkey>willet</taxonkey>
+<taxonkey>Catoptrophorus semipalmatus</taxonkey>
+<taxonkey>wilson&apos;s plover</taxonkey>
+<taxonkey>Charadrius wilsonia</taxonkey>
+<taxonkey>wild turkey</taxonkey>
+<taxonkey>Meleagris gallopavo</taxonkey>
+<taxonkey>winter wren</taxonkey>
+<taxonkey>Troglodytes troglodytes</taxonkey>
+<taxonkey>wood duck</taxonkey>
+<taxonkey>Aix sponsa</taxonkey>
+<taxonkey>wood stork</taxonkey>
+<taxonkey>Mycteria americana</taxonkey>
+<taxonkey>wood thrush</taxonkey>
+<taxonkey>Hylocichla mustelina</taxonkey>
+<taxonkey>whip-poor-will</taxonkey>
+<taxonkey>Caprimulgus vociferus</taxonkey>
+<taxonkey>white-throated sparrow</taxonkey>
+<taxonkey>Zonotrichia albicollis</taxonkey>
+<taxonkey>white-winged scoter</taxonkey>
+<taxonkey>Melanitta fusca</taxonkey>
+<taxonkey>yellow-breasted chat</taxonkey>
+<taxonkey>Icteria virens</taxonkey>
+<taxonkey>yellow-billed cuckoo</taxonkey>
+<taxonkey>Coccyzus americanus</taxonkey>
+<taxonkey>yellow-bellied sapsucker</taxonkey>
+<taxonkey>Sphyrapicus varius</taxonkey>
+<taxonkey>yellow-crowned night-heron</taxonkey>
+<taxonkey>Nyctanassa violacea</taxonkey>
+<taxonkey>yellow rail</taxonkey>
+<taxonkey>Coturnicops noveboracensis</taxonkey>
+<taxonkey>yellow-rumped warbler</taxonkey>
+<taxonkey>Dendroica coronata</taxonkey>
+<taxonkey>yellow-throated vireo</taxonkey>
+<taxonkey>Vireo flavifrons</taxonkey>
+<taxonkey>yellow-throated warbler</taxonkey>
+<taxonkey>Dendroica dominica</taxonkey>
+<taxonkey>yellow warbler</taxonkey>
+<taxonkey>Dendroica petechia</taxonkey>
+</keywtax>
+<taxongen>Birds that breed, winter, or migrate through South Carolina.</taxongen>
+</taxonomy>
+<tool>
+<tooldesc>ARC Version 8.0.2 Patch 1</tooldesc>
+<toolacc>
+<toolinst>Contact ESRI</toolinst>
+<toolcomp>IBM AIX 4.3.3</toolcomp>
+</toolacc>
+<toolcont>
+<cntinfo>
+<cntorgp>
+<cntorg>Environmental System Research Institution</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>Mailing</addrtype>
+<address>380 New York St</address>
+<city>Redlands</city>
+<state>California</state>
+<postal>92373-8100</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>
+909-793-2853
+Facsimile_Telephone: 909-307-3025
+</cntvoice>
+<cntemail>calweb@esri.com</cntemail>
+</cntinfo>
+</toolcont>
+</tool>
+<tool>
+<tooldesc>ArcView 3.2</tooldesc>
+<toolacc>
+<toolinst>Contact ESRI</toolinst>
+<toolcomp>Windows NT 4.0</toolcomp>
+</toolacc>
+<toolcont>
+<cntinfo>
+<cntorgp>
+<cntorg>Environmental System Research Institution</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>Mailing</addrtype>
+<address>380 New York St</address>
+<city>Redlands</city>
+<state>California</state>
+<postal>92373-8100</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>
+909-793-2853
+Facsimile_Telephone: 909-307-3025
+</cntvoice>
+<cntemail>calweb@esri.com</cntemail>
+</cntinfo>
+</toolcont>
+</tool>
+</idinfo>
+<dataqual>
+<attracc>
+<attraccr>Data were compared to species distributions in the following areas with the following accuracy results: Francis Marion Forest - 80.0%, Mt. Bridge Wilderness Area - 67.5%, York County - 61.5%, Fort Jackson - 57%.</attraccr>
+<qattracc>
+<attraccv>57 - 80.0%</attraccv>
+<attracce>See accuracy assessment report</attracce>
+</qattracc>
+</attracc>
+<logic></logic>
+<complete>Species range maps were created using range descriptions and maps from several publications.  Ranges were delineated by county and land cover habitat associated with each species.  Binary maps were created for each species based on presence/absence of species within a given county and land cover type (habitat association).  All cells within South Carolina were assigned a value of 1 (presence) or 0 (absence).  SC GAP used scientific literature and expert opinion to develop a list of vertebrate species in South Carolina.  After expert review, the final list of species contained 455 birds, mammals, reptiles, and amphibians.</complete>
+<posacc>
+<horizpa>
+<horizpar>Unknown</horizpar>
+<qhorizpa>
+<horizpav></horizpav>
+<horizpae></horizpae>
+</qhorizpa>
+</horizpa>
+</posacc>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>The Nature Conservancy</origin>
+<pubdate>1992</pubdate>
+<title>The Land Manager&apos;s Guide to the Birds of the South</title>
+<geoform>book</geoform>
+<pubinfo>
+<pubplace>Chapel Hill, North Carolina</pubplace>
+<publish>The Nature Conservancy</publish>
+</pubinfo>
+</citeinfo>
+</srccite>
+<typesrc>book</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>1992</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>Publication Date</srccurr>
+</srctime>
+<srccitea>None</srccitea>
+<srccontr>Species distribution reference</srccontr>
+</srcinfo>
+<procstep>
+<procdesc>The SC GAP analysis project used scientific literature and expert opinion to develop a list of vertebrate species in South Carolina and model their potential spatial distribution.  The range extent was mapped for each species using counties as the basis of its general occurance.  The range extent was refined using physiographic regions.  Habitat affinities were used as a second component to define predicted distribution.  These data provided information regarding each species use of specific vegetation communities that were linked to land cover data.  Based on this information, a habitat matrix was created for each species using the 27 classes from the land cover classification.</procdesc>
+<procdate>20011215</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>South Carolina Department of Natural Resources</cntorg>
+<cntper>James D. Scurry</cntper>
+</cntorgp>
+<cntpos>Information Management Section Leader</cntpos>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>2221 Devine St., Suite 200</address>
+<city>Columbia</city>
+<state>South Carolina</state>
+<postal>29205</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(803)734-9100</cntvoice>
+<cntfax>(803)734-9200</cntfax>
+<cntemail>scurry@dnr.state.sc.us</cntemail>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>A distribution map was created for each of the 455 species.  The map combined habitat affinities and county distribution to create distribution maps that indicated areas whose vegetation was capable of supporting individual species.  Each species was coded for presence/absence only.</procdesc>
+<procdate>20011201</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>South Carolina Department of Natural Resources</cntorg>
+<cntper>James D. Scurry</cntper>
+</cntorgp>
+<cntpos>Information Management Section Leader</cntpos>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>2221 Devine St., Suite 200</address>
+<city>Columbia</city>
+<state>South Carolina</state>
+<postal>29205</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(803)734-9100</cntvoice>
+<cntfax>(803)734-9200</cntfax>
+<cntemail>scurry@dnr.state.sc.us</cntemail>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Raster</direct>
+<rastinfo>
+<rasttype>Grid Cell</rasttype>
+<rowcount>11740</rowcount>
+<colcount>14771</colcount>
+</rastinfo>
+</spdoinfo>
+<spref>
+<horizsys>
+<planar>
+<gridsys>
+<gridsysn>Universal Transverse Mercator</gridsysn>
+<utm>
+<utmzone>17</utmzone>
+<transmer>
+<sfctrmer>0.9996</sfctrmer>
+<longcm>-81</longcm>
+<latprjo>0</latprjo>
+<feast>500000</feast>
+<fnorth>0</fnorth>
+</transmer>
+</utm>
+</gridsys>
+<planci>
+<plance>coordinate pair</plance>
+<coordrep>
+<absres>30</absres>
+<ordres>30</ordres>
+</coordrep>
+<plandu>Meters</plandu>
+</planci>
+</planar>
+<geodetic>
+<horizdn>North American Datum of 1927</horizdn>
+<ellips>Clarke 1866</ellips>
+<semiaxis>6378206.4</semiaxis>
+<denflat>294.98</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>Predicted Species Distribution</enttypl>
+<enttypd>Predicted species distribution based on county and habitat type</enttypd>
+<enttypds>SC GAP</enttypds>
+</enttyp>
+<attr>
+<attrlabl>Value</attrlabl>
+<attrdef>predicted presence of species within a given pixel</attrdef>
+<attrdefs>SC DNR</attrdefs>
+<attrdomv>
+<edom>
+<edomv>0</edomv>
+<edomvd>Predicted absence of species in cell</edomvd>
+<edomvds>SC DNR</edomvds>
+</edom>
+<edom>
+<edomv>1</edomv>
+<edomvd>Predicted presence of species in cell</edomvd>
+<edomvds>SC DNR</edomvds>
+</edom>
+<rdom>
+<rdommin>0</rdommin>
+<rdommax>1</rdommax>
+<attrunit>presence</attrunit>
+<attrmres>1</attrmres>
+</rdom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Count</attrlabl>
+<attrdef>Number of cells</attrdef>
+<attrdefs>SC DNR</attrdefs>
+<attrdomv>
+<edom>
+<edomv></edomv>
+<edomvd></edomvd>
+<edomvds></edomvds>
+</edom>
+<rdom>
+<rdommin>0</rdommin>
+<rdommax>89808162</rdommax>
+<attrunit>cells (pixels)</attrunit>
+<attrmres>1</attrmres>
+</rdom>
+</attrdomv>
+<begdatea></begdatea>
+<enddatea></enddatea>
+<attrvai>
+<attrva></attrva>
+<attrvae></attrvae>
+</attrvai>
+<attrmfrq></attrmfrq>
+</attr>
+</detailed>
+<overview>
+<eaover>Predicted species distribution, indicated by presence/absence of species within individual cells, based on county and habitiat affinity.</eaover>
+<eadetcit></eadetcit>
+</overview>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>South Carolina Department of Natural Resources</cntorg>
+<cntper>James D. Scurry</cntper>
+</cntorgp>
+<cntpos>Information Management Section Leader</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>2221 Devine St., Suite 200</address>
+<city>Columbia</city>
+<state>South Carolina</state>
+<postal>29205</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(803)734-9100</cntvoice>
+<cntfax>(803)734-9200</cntfax>
+<cntemail>scurry@dnr.state.sc.us</cntemail>
+<hours></hours>
+</cntinfo>
+</distrib>
+<resdesc>South Carolina predicted species distribution</resdesc>
+<distliab>The South Carolina Dept. of Natural Resources MAKES NO WARRANTY OF MERCHANTABILITY OR WARRANTY FOR FITNESS OF USE FOR A PARTICULAR PURPOSE, EXPRESSED OR IMPLIED, WITH RESPECT TO THIS MAP PRODUCT.  Any user of this map product accepts the same AS IS, WITH ALL FAULTS, and assumes all responsibility for the use thereof, and further covenants and agrees to hold the South Carolina Dept. of Natural Resources harmless from and against any damage, loss, or liability arising from any use of the map product.</distliab>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>Arc Info</formname>
+<formvern>8.0.2</formvern>
+<formspec></formspec>
+<formcont></formcont>
+<filedec></filedec>
+<transize></transize>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr></networkr>
+</networka>
+</computer>
+<accinstr></accinstr>
+<oncomp></oncomp>
+</onlinopt>
+<offoptn>
+<offmedia>CD-ROM</offmedia>
+<reccap>
+<recden>650</recden>
+<recdenu>megabytes</recdenu>
+</reccap>
+<recfmt>CD-ROM</recfmt>
+<compat></compat>
+</offoptn>
+</digtopt>
+</digform>
+<fees>Free</fees>
+</stdorder>
+</distinfo>
+<metainfo>
+<metd>20011215</metd>
+<metrd>20011221</metrd>
+<metfrd></metfrd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>South Carolina Department of Natural Resources</cntorg>
+<cntper>James D. Scurry</cntper>
+</cntorgp>
+<cntpos>Information Management Section Leader</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>2221 Devine St., Suite 200</address>
+<city>Columbia</city>
+<state>South Carolina</state>
+<postal>29205</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(803)734-9100</cntvoice>
+<cntfax>(803)734-9200</cntfax>
+<cntemail>scurry@dnr.state.sc.us</cntemail>
+<hours>9 AM - 5 PM</hours>
+</cntinfo>
+</metc>
+<metstdn>Content Standard for Digital Geospatial Metadata - June, 1998</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc></mettc>
+<metac>None</metac>
+<metuc>These data were developed from statewide Landsat Thematic Mapper data and are appropriate for use in landscape level analysis of biodiversity.  They are not intended for combination with parcel level data for site-specific analysis or decision-making.</metuc>
+</metainfo>
+</metadata>

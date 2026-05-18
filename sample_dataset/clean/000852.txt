@@ -1,0 +1,421 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Sonny Hornbaker
+      Publication_Date: 19991228
+      Title: Dam sites within the state of Idaho
+      Edition: 1
+      Geospatial_Data_Presentation_Form: atlas
+      Publication_Information:
+        Publication_Place: Idaho Department of Water Resources
+        Publisher: Idaho Department of Water Resources
+      Online_Linkage: <URL:http://www.idwr.state.id.us/gisdata/iddata.htm>
+  Description:
+    Abstract:
+      Dam sites within the state of Idaho. Information includes dam name,
+      section, storage capacity, height, reservoir surface area, spill type, spill
+      depth, outlet type, release capacity, condition, inspection date, as well as
+      other information. See the supplemental information for the complete list of
+      attributes. This coverage was generated from Sonny's database of Active Dams,
+      from lat long, decmial degree information and then projected into IDTM. this
+      database is updated every six months.
+    Purpose: To show active dams within the state of Idaho.
+    Supplemental_Information:
+      >
+      >	Attribute Information
+      >
+      >	BASIN : DRAINAGE BASIN
+      >	DAM NUMBER : 1111 - WATER RIGHT ESTABLISHED
+      >	XX11 - XX SIGNIFIES NO WATER RIGHT ESTABLISHED
+      >	NAME OF DAM : GENERIC NAME
+      >	COUNTY : COUNTY
+      >	STREAM : NEAREST NAMED STREAM
+      >	TR - TRIBUTARY
+      >	OS - OFF STREAM
+      >	REGION : N - NORTHERN S - SOUTHERN
+      >	E - EASTERN W - WESTERN
+      >	PURPOSE :
+      >	A - AESTHETICS
+      >	N - INDUSTRIAL
+      >	B - MINING
+      >	O - OTHER - DESCRIRIBE IN REMARKS
+      >	C - COMMERCIAL
+      >	P - POWER
+      >	D - DOMESTIC
+      >	Q - FIRE PROTECTION
+      >	E - EROSION CONTROL
+      >	F - FLOOD CONTROL
+      >	S - STOCKWATER
+      >	G - WILDLIFE PROPAGATION
+      >	T - MINE TAILINGS
+      >	H - FISH PROPAGATION
+      >	I - IRRIGATION
+      >	J - STOCKWATER & IRRIGATION
+      >	K - DOMESTIC, STOCK, & IRRIGATION
+      >	L - DOMESTIC & IRRIGATION
+      >	M - MUNICIPAL SUPPLY
+      >
+      >	RISK CATEGORY
+      >	: 1 - HIGH - URBAN DEVELOPMENT,AGRICULTURAL,COMMERCIAL,INDUSTRIAL, PUBLIC
+      >	UTILITIES DOWN STREAM, WHICH ARE POTENTIALLY INUNDATED WITH FLOOD WATER AT A
+      >	DEPTH OF 2 FEET OR MORE AND AT A VELOCITY OF 2 FEET PER SECOND OR GREATER.
+      >	: 2 - MODERATE - NO CONCENTRATED URBAN DEVELOPMENT, AGRICULTURE, COMMERCIAL,
+      >	INDUSTRIAL, PUBLIC UTILITIES, WHICH SIGNIFICANT DAMAGE COULD OCCUR DUE TO FLOOD
+      >	WATERS AT A DEPTH OF 2 FEET OR LESS AND A VELOCITY OF 2 FEET PER SECOND OR LESS.
+      >	: 3 - LOW - NO PERMANENT STRUCTURES FOR HABITATION, MINOR DAMAGE TO AGRICULTURE,
+      >	INDUSTRIAL, ETC.
+      >
+      >	SIZE CATEGORY
+      >	: 1 - LARGE DAM - HEIGHT 40 FEET OR GREATER OR STORES 4,000
+      >	ACRE-FEET OR MORE.
+      >	: 2 - INTERMEDIATE DAM - HEIGHT GREATER THAN 20 FEET AND LESS THAN 40 FEET OR
+      >	STORES 100 ACRE-FEET OR MORE BUT LESS THAN 4,000 ACRE-FEET.
+      >	: 3 - SMALL DAM - HEIGHT 20 FEET OR LESS AND STORES LESS THAN 100 ACRE FEET.
+      >
+      >	QUARTER QUARTER SEC : LEGAL DESCRIPTION WITHIN SECTION. IF DAM IS LOCATED IN
+      >	MORE THAN ONE 1/4,1/4, USE 1/4 SECTION __SW ETC.
+      >
+      >	SECTION : SECTION (IF < 10 USE 09 ETC.)
+      >
+      >	TOWNSHIP : TOWNSHIP (IF < 10 USE 09, 08, ETC.)
+      >
+      >	RANGE : RANGE (IF < 10 USE 09, 08, ETC.)
+      >
+      >	LATITUDE : DEGREES IN DECIMALS.
+      >
+      >	LONGITUDE : DEGREES IN DECIMALS.
+      >
+      >	DAM TYPE : IF DAM IS COMPOSITE, NOTE IN REMARKS.
+      >	EARTH - EARTHFILL
+      >	ROCK - ROCKFILL
+      >	CNGRV - CONCRETE GRAVITY
+      >	CNAR - CONCRETE ARCH
+      >	MCNAR - MULTIPLE CONCRETE ARCH
+      >	TMCRB - TIMBER CRIB
+      >	SLBT - SLAB AND BUTTRESS
+      >	RKMAS - ROCK MASONRY
+      >	METAL - METAL SHEET PILE
+      >	AUXDAM - AUXILIARY DAM
+      >
+      >	STORAGE : STORAGE CAPACITY IN ACRE FEET AT MAXIMUM WATER STORAGE ELEVATION.
+      >
+      >	HEIGHT : HYDRAULIC HEIGHT IN FEET FROM TOE TO MAXIMUM WATER STORAGE ELEVATION.
+      >
+      >	DRAINAGE : DRAINAGE AREA IN SQUARE MILES.
+      >
+      >	RES AREA : RESERVOIR SURFACE AREA IN ACRES AT MAXIMUM WATER STORAGE ELEVATION.
+      >
+      >	YEAR COMPLETED : COMPLETION DATE
+      >	PROP - PROPOSED
+      >	UNFN - UNFINISHED
+      >
+      >	CREST ELEV : CREST ELEVATION ABOVE MEAN SEA LEVEL
+      >
+      >	CREST LENGTH : LENGTH ALONG CREST IN FEET. NOTE IN REMARKS WHETHER OR NOT LENGTH
+      >	INCLUDES AUXILIARY DIKES.
+      >
+      >	SPILL TYPE :
+      >	ERCHAN - CHANNEL THROUGH EARTH ABUTMENT
+      >	RKCHAN - CHANNEL THROUGH ROCK ABUTMENT
+      >	CNCHAN - CONCRETE CHANNEL THROUGH ABUTMENT
+      >	RPCHAN - RIPRAP CHANNEL THROUGH ABUTMENT
+      >	CNOVFL - CONCRETE OVERFLOW ON DAM - NOTE IN REMARKS IF SPILLWAY IS
+      >	GAITED OR IF FLASHBOARDS ARE USED.
+      >	CHNAFD - CHANNEL AWAY FROM DAMSITE
+      >	GLHOLE - GLORYHOLE SPILLWAY
+      >	TMOVFL - TIMBER OVERFLOW SECTION
+      >	SCHAN - SIDE CHANNEL OGEE SECTION
+      >	OVFL - OVERFLOW SECTION ON DAM
+      >	PIPE - PIPE OVERFLOW
+      >	NONE - NO SPILLWAY
+      >
+      >	SPILL DEPTH : VERTICAL DEPTH OF SPILLWAY IN FEET BELOW LOWEST
+      >	ELEVATION ALONG DAM CREST.
+      >
+      >	SPILL CAP : CAPACITY OF SPILLWAY IN CUBIC FEET PER SECOND AT
+      >	REQUIRED FREEBOARD.
+      >
+      >	OUTLET TYPE :
+      >	CMP - CORRUGATED METAL PIPE
+      >	CNARCH - CONCRETE ARCH TUNNEL
+      >	CNTUN - CONCRETE LINED TUNNEL
+      >	MPENCN - METAL PIPE ENCASED IN CONCRETE
+      >	NONE - NO OUTLET
+      >	PENSTK - PENSTOCK TO POWER PLANT
+      >	PLASTC - PLASTIC PIPE
+      >	PLSLNR - PLASTIC LINER INSIDE PIPE
+      >	PUMP - PUMP FROM DAM OR ABUTMENTS
+      >	RADGAT - RADIAL GATE
+      >	STEEL - STEEL PIPE
+      >	SYPHON - SYPHON OVER DAM
+      >	TUNNEL - ROCK TUNNEL THRU ABUTMENT
+      >	WOOD - WOOD STAVE OR WOODEN BOX CULVERT
+      >	CNBOX - CONCRETE BOX CULVERT OR TUNNEL
+      >
+      >	OUTLET SIZE : OUTLET SIZE MEASURED IN INCHES.
+      >
+      >	OUTLET CAP : MAXIMUM OUTLET CAPACITY IN CUBIC FEET PER SECOND AT MAXIMUM WATER
+      >	STORAGE ELEVATION.
+      >
+      >	INFLOW DESIGN FLOOD : FLOOD SPECIFIED FOR DESIGNING THE DAM AND APPURTENANT
+      >	FACILITIES. IF IDF > Q100, NOTE IN REMARKS WHETHER OR NOT IT CAN BE PASSED WITHOUT
+      >	OVERTOPPING DAM.
+      >
+      >	IDF MAGNITUDE : ESTIMATED RATE (CFS) OF INFLOW DESIGN FLOOD.
+      >
+      >	RELEASE CAPACITY : TOTAL COMBINED RELEASE CAPACITY OF ALL OUTLETS AND SPILLWAYS
+      >	AT REQUIRED FREEBOARD.
+      >
+      >	CONDITION :
+      >	IN - INACTIVE
+      >	NA - NOT APPROVED FOR STORAGE OF WATER.
+      >	PR - POOR - SERIOUS PROBLEMS PRESENT. STORAGE RESTRICTIONS NECESSARY
+      >	FOR SAFETY.
+      >	US - UNSATISFACTORY - SIGNIFICANT WORK NEEDED. MINOR RESTRICTIONS MAY
+      >	BE IMPOSED.
+      >	FR - FAIR - ONLY MINOR MAINTENANCE REQUIRED.
+      >	GD - GOOD CONDITION WITH NO SIGNIFICANT MAINTENANCE PROBLEMS.
+      >	EX - EXCELLENT AND RECEIVING PROPER REGULAR MAINTENANCE.
+      >	UF - UNFINISHED
+      >	NR - NOT REGULATED
+      >
+      >	INSPECTION DATE : DATE OF LAST SITE INSPECTION.
+      >
+      >	CERT EXPIRATION : DATE STORAGE CERTIFICATE EXPIRES.
+      >
+      >	SURVEY DATE : DATE DAM WAS SURVEYED BY DEPT
+      >
+      >	CALL UP DATE : DATE WHICH DAM IS CALLED UP TO CONTACT OWNER OR REINSPECT
+      >	REQUIRED REPAIR WORK.
+      >
+      >	CERT ISSUE DATE : DATE STORAGE CERTIFICATE ISSUED.
+      >
+      >	INSPECTION INTERVAL : SCHEDULE OF INSPECTION IN YEARS.
+      >
+      >	RESTRICTED :
+      >	Y - RESTRICTION ORDERS ISSUED.
+      >	BLANK - NO RESTRICTIONS.
+      >
+      >	PHASE 1 INSPECTION : DATE OF PHASE 1 INSPECTION REPORT.
+      >
+      >	OPERATION PLAN :
+      >	A - APPROVED
+      >	U - UNDER REVIEW
+      >	X - NOT SUBMITTED
+      >
+      >	SECISMIC ANALYSIS :
+      >	Y - SEISMIC STABILITY ANALYSIS CONDUCTED ON DAM.
+      >	N - NO SEISMIC STABILITY ANALYSIS CONDUCTED.
+      >	R - SEISMIC STABILITY ANALYSIS REQUIRED BUT NOT ON FILE.
+      >
+      >	ORDERS ISSUED :
+      >	Y - ORDERS ISSUED TO MAINTAIN SAFE OPERATION.
+      >	BLANK - NO ORDERS ISSUED.
+      >
+      >	JOINT INSPECTION : NAME OF AGENCY PARTICIPATING IN JOINT INSPECTION.
+      >
+      >	QUADRANGLE NUMBER : USGS MAP CATALOG NUMBER.
+      >
+      >	QUADRANGLE NAME : NAME OF USGS QUADRANGLE MAP.
+      >
+      >	DAM OWNER : NAME OF OWNER.
+      >
+
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 19981201
+        Ending_Date: 19991228
+    Currentness_Reference: publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: 6 months
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -111.04240417
+      East_Bounding_Coordinate: -117.24301147
+      North_Bounding_Coordinate: 49.001194
+      South_Bounding_Coordinate: 41.98846817
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: none
+      Theme_Keyword: Dams
+    Place:
+      Place_Keyword_Thesaurus: none
+      Place_Keyword: Idaho
+  Access_Constraints: None
+  Use_Constraints:
+    None - Address fields of the dam's owner are not present in this
+    database. If this is needed, please see Sonny Hornbaker.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Linda Davis
+        Contact_Organization:
+          Idaho Department of Water Resources
+          Contact_Postion: Sr. GIS Analyst
+      Contact_Address:
+        Address_Type: Mailing and Physical Address
+        Address: 1301 North Orchard Street
+        City: Boise
+        State_or_Province: ID
+        Postal_Code: 83706
+        Country: USA
+      Contact_Voice_Telephone: 208 327-7995
+      Contact_Facsimile_Telephone: 208 327-7866
+      Contact_Electronic_Mail_Address: ldavis@idwr.state.id.us
+  Data_Set_Credit: Sonny Hornbaker
+  Native_Data_Set_Environment: OSF1, V4.0, alpha UNIX ARC/INFO version 7.2.1
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report:
+  Logical_Consistency_Report: Point features present
+  Completeness_Report:
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report:
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Publication_Date:
+          Title:
+          Geospatial_Data_Presentation_Form:
+          Series_Information:
+            Series_Name:
+            Issue_Identification:
+          Publication_Information:
+            Publication_Place:
+            Publisher:
+      Source_Scale_Denominator:
+      Type_of_Source_Media:
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date:
+        Source_Currentness_Reference:
+      Source_Citation_Abbreviation:
+      Source_Contribution:
+    Process_Step:
+      Process_Description:
+      Process_Date:
+    Process_Step:
+      Process_Description:
+        First draft of metadata created by sthiel using FGDCMETA.AML ver. 1.2 05/14/98
+        on ARC/INFO data set /d7/streams/streams/dam
+      Process_Date: 20000321
+
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Point
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Point
+      Point_and_Vector_Object_Count: 612
+
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Map_Projection:
+        Map_Projection_Name: Transverse Mercator
+        Transverse_Mercator:
+          Scale_Factor_at_Central_Meridian: 0.99960
+          Longitude_of_Central_Meridian: -114
+          Latitude_of_Projection_Origin: 42
+          False_Easting: 500000.00000
+          False_Northing: 100000.00000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: coordinate pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 14.97849273681
+          Ordinate_Resolution: 14.97849273681
+        Planar_Distance_Units: Meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1927
+      Ellipsoid_Name: Clarke 1866
+      Semi-major_Axis: 6378206.4
+      Denominator_of_Flattening_Ratio: 294.98
+
+Entity_and_Attribute_Information:
+  Overview_Description:
+    Entity_and_Attribute_Overview:
+      >
+      >      DAM.PAT:
+      >
+      >      COLUMN   ITEM NAME        WIDTH OUTPUT  TYPE N.DEC  ALTERNATE NAME
+      >        1  	AREA                4    12     F      3
+      >        5  	PERIMETER           4    12     F      3
+      >        9  	DAM#                4     5     B      -
+      >       13  	DAM-ID              4     5     B      -
+      >       17  	INVENTORY           3     3     C      -
+      >       20  	UP_DATE             8    10     D      -
+      >       28  	BASIN               2     2     C      -
+      >       30  	DAM_NUMBER          7     7     C      -
+      >       37  	DAM_NAME           23    23     C      -
+      >       60  	COUNTY             10    10     C      -
+      >       70  	STREAM             26    26     C      -
+      >       96  	REGION              1     1     C      -
+      >       97  	PURPOSE             6     6     C      -
+      >      103  	RISK_CAT            4     1     B      -
+      >      107  	SIZE_CAT            4     1     B      -
+      >      111  	Q_Q_SEC             4     4     C      -
+      >      115  	SECTION             2     2     C      -
+      >      117  	TOWNSHIP            3     3     C      -
+      >      120  	RANGE               3     3     C      -
+      >      123  	LAT_DEC             4     7     F      4
+      >      127  	LONG_DEC            8     8     F      4
+      >      135  	DAM_TYPE            5     5     C      -
+      >      140  	STOR_CAP            8     8     F      0
+      >      148  	HEIGHT              4     6     F      1
+      >      152  	DRAIN_AREA          8     8     F      1
+      >      160  	RES_AREA            4     5     B      -
+      >      164  	YEAR_COMP           4     4     C      -
+      >      168  	CREST_ELEV          4     5     B      -
+      >      172  	CREST_LENG          4     5     B      -
+      >      176  	SPILL_TYPE          6     6     C      -
+      >      182  	SPILL_DEPT          4     7     F      1
+      >      186  	SPILL_CAP           4     6     B      -
+      >
+    Entity_and_Attribute_Detail_Citation: none
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Idaho Department of Water Resources
+        Contact_Person: Linda Davis
+      Contact_Position: Sr. GIS Analyst
+      Contact_Address:
+        Address_Type: Mailing and Physical Address
+        Address: 1301 N. Orchard St.
+        City: Boise
+        State_or_Province: Idaho
+        Postal_Code: 83706
+        Country: USA
+      Contact_Voice_Telephone: (208) 327-7995
+      Contact_Electronic_Mail_Address: ldavis@idwr.state.id.us
+      Contact_Instructions: Contact via email
+  Resource_Description: Dams in Idaho
+  Distribution_Liability:
+    Dams that have been updated since last revision may not be seen in
+    this database. See Sonny for the latest information.
+  Custom_Order_Process: Data is on internal data page and on ftp.state.id.us
+Metadata_Reference_Information:
+  Metadata_Date: 19991228
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Linda Davis
+        Contact_Organization: Idaho Department of Water Resources
+      Contact_Position: Sr. GIS Analyst
+      Contact_Address:
+        Address_Type: Mailing and Physical Address
+        Address: 1301 North Orchard Street
+        City: Boise
+        State_or_Province: ID
+        Postal_Code: 83712
+        Country: USA
+      Contact_Voice_Telephone: 208 327-7995
+      Contact_Facsimile_Telephone: 208 327-7866
+      Contact_Electronic_Mail_Address: ldavis@idwr.state.id.us
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998

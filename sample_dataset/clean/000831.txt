@@ -1,0 +1,27 @@
+QUESTION:
+Are there any geomorphically-suitable areas on Mars for habitation?
+
+ANSWER from Mike Mellon on March 28, 2000:
+Two important criteria for habitation on Mars would be shelter and resources.
+Depending on the radiation environment and climate conditions, we would
+want to build a colony in a protected area. Martian winds are relatively 
+light due to the thin atmosphere. The thin atmosphere may not limit radiation
+from space as our own atmosphere does, though it may not be necessary to 
+bury a shelter beneath a soil layer, as it might be on the moon. A colony 
+built too close to the poles would experience winter temperatures as low 
+as -120 C. Heating may be a problem, as well as sunlight for energy 
+in the long polar night.
+
+Water and oxygen would be critical resources for a Mars colony. Water 
+might be found as vapor in the thin atmosphere. More abundant water could
+be found as ice frozen in the soil at mid latitudes or further poleward. 
+Ground water may be too deep to be easily accessed. Building a colony 
+near a source of water would be necessary. In addition, water could
+be used to produce oxygen. A byproduct, hydrogen, could also be used
+as a fuel. 
+
+Geomorphology would be an indicator of the geologic environment in
+which to build a colony. A bedrock surface would probably not contain
+any significant amounts of water. A relatively thick soil surface 
+would be a better choice. Probably most of Mars is covered by an 
+adequately thick soil surface.

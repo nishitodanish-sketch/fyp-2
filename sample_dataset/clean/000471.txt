@@ -1,0 +1,260 @@
+
+ *Pages 1--7 from  Microsoft Word - 27050.doc*
+ Federal  Communications  Commission  DA  03-  1228 
+ Before  the  Federal  Communications  Commission 
+ Washington,  D.  C.  20554 
+ In  the  Matter  of 
+ Pacific  Wireless  Technologies,  Inc.  800  MHz  Station  KGQ445 
+
+
+ Assignment  from  Pacific  Wireless  Technologies,  Inc.  to  Nextel  of  California,  Inc. 
+
+
+ )  ) 
+ )  ) 
+ )  ) 
+ )  ) 
+ ) 
+
+
+ File  No.  0000659443 
+
+
+ ORDER 
+ Adopted:  April  23,  2003  Released:  April  25,  2003 
+ By  the  Chief,  Policy  and  Rules  Branch,  Commercial  Wireless  Division,  Wireless  Telecommunications  Bureau: 
+
+
+ I.  INTRODUCTION 
+ 1.  We  have  before  us  two  petitions  for  reconsideration,  and  a  request  for  stay,  filed  by  Pacific  Wireless  Technologies,  Inc.  (“  Pacific  Wireless”).  1  Pacific  Wireless  seeks  reconsideration  of 
+ Letter  Decisions  by  the  Licensing  and  Technical  Analysis  Branch  (“  Branch”)  of  the  Commercial  Wireless  Division,  Wireless  Telecommunications  Bureau,  which  reinstated  a  license  to  operate  conventional 
+ industrial/  land  transportation  pool  station  KGQ445  (“  License”)  to  Lodi  Farming,  Inc.  (“  Lodi”),  and  set  aside  an  earlier  assignment  of  the  License  from  Lodi  to  Pacific  Wireless.  2  For  the  reasons  discussed 
+ below,  we  deny  the  Petitions  and  the  Request  for  Stay.  3 
+
+
+ 1  See  Petition  for  Reconsideration,  filed  by  Pacific  Wireless,  dated  January  17,  2002  (“  Petition  I”);  Petition  for 
+ Reconsideration,  filed  by  Pacific  Wireless,  dated  March  7,  2002  (“  Petition  II”)  (collectively,  “Petitions”);  Request  for  Stay,  filed  by  Pacific  Wireless,  dated  January  17,  2002  (“  Request  for  Stay”).  A  Supplement  to  Petition  I  was 
+
+
+ also  filed.  See  Supplement  to  Petition  for  Reconsideration,  filed  by  Pacific  Wireless,  dated  March  7,  2002  (“  Supplement”). 
+
+
+ 2  See  Letter  from  Terry  L.  Fishel,  Deputy  Chief,  Licensing  and  Technical  Analysis  Branch,  Commercial  Wireless 
+ Division,  to  Russell  Fox,  Esq.  (counsel  for  Pacific  Wireless),  et  al,  dated  December  20,  2001  (“  December  20,  2001  Letter  Decision”);  Letter  from  Terry  L.  Fishel,  Deputy  Chief,  Licensing  and  Technical  Analysis  Branch, 
+
+
+ Commercial  Wireless  Division,  to  Russell  Fox,  Esq.  (counsel  for  Pacific  Wireless),  et  al,  dated  February  5,  2002  (“  February  5,  2002  Letter  Decision”)  (collectively,  “Letter  Decisions”). 
+
+
+ 3  In  Petition  II,  Pacific  Wireless  argues  that,  in  the  "unlikely  event"  that  the  Commission  intended  the  February  5, 
+ 2002  Letter  Decision  to  resolve  Petition  I,  the  February  5,  2002  Letter  Decision  is  not  a  "reasoned  response"  to  that  petition.  See  Petition  II  at  2.  See  also,  Letter  from  Russell  Fox,  (counsel  for  Pacific  Wireless),  to  Magalie  R. 
+
+
+ Salas,  FCC  Secretary,  dated  December  20,  2001  ("  Pacific  Wireless  December  20,  2001  Letter").  We  clarify  that  the  February  5,  2002  Letter  Decision  was  not  intended  to  address  Petition  I.  Rather,  we  address  the  arguments 
+ raised  in  Petition  I  in  the  instant  order.  Accordingly,  Pacific  Wireless'  argument  in  Petition  II  regarding  the  February  5,  2002  Letter  Decision  is  moot. 
+1
+ Federal  Communications  Commission  DA  03-  1228 
+ 2 
+ II.  BACKGROUND 
+ 2.  On  August  8,  1986,  Cortopassi  Farms,  Inc.  assigned  station  license  KGQ445  to  Lodi.  4  Call  sign  KGQ445  was  authorized  as  a  community  repeater  station  on  Mount  Oso  in  Stanislaus  County, 
+ California  on  frequency  851.8375  MHz.  5  Diamondback  Enterprises,  Inc.  d/  b/  a  Noack  Pump  Co.  (‘  Noack”)  operated  a  co-  channel  station  under  call  sign  KMA683  for  frequency  851.8375  MHz  on  the 
+ same  community  repeater  as  Lodi.  6  On  June  25,  1997,  Noack  assigned  station  license  KMA683  to  Delta.  7  On  October  25,  2000,  an  FCC  Form  601  and  accompanying  assignment  of  authorization  form  (FCC 
+ Form  1046),  designating  Felix  Difuntorum  as  signatory  for  Lodi,  was  filed  with  the  Commission  to  assign  call  sign  KGQ445  from  Lodi  to  Pacific  Wireless.  8  The  assignment  was  granted  on  April  16,  2001.  9  Felix 
+ Difuntorum  is  Vice  President  of  Delta  and  is  not  an  officer,  director,  or  authorized  employee  of  Lodi.  10  On  July  27,  2001,  Pacific  Wireless  filed  an  application  with  the  Commission  to  assign  188  of  its  SMR 
+ licenses  to  Nextel  of  California,  Inc.  (“  Nextel”),  including  call  sign  KGQ445.  11  On  September  25,  2001,  Lodi  sent  a  letter  to  the  Commission  alleging  that  the  prior  assignment  of  station  license  KGQ445  to 
+ Pacific  Wireless  was  unauthorized  and  requesting  that  the  License  be  reinstated  to  Lodi.  12  On  November  15,  2001,  Pacific  Wireless  filed:  i)  an  amended  application  to  delete  the  License  from  the  pending 
+ application  for  assignment  to  Nextel;  13  and  (ii)  a  new  application  to  assign  the  License  to  Nextel.  14  On  December  4,  2000  and  January  8,  2001,  Felix  Difuntorum  wrote  to  the  Commission  confirming  his  lack 
+ of  authority  to  act  on  Lodi’s  behalf,  and  requested  reinstatement  of  the  License  to  Lodi.  15  The  Branch 
+ 4  See  Letter  from  Jeff  Colombini,  President  of  Lodi  Farming  Inc.,  to  Terry  L.  Fishel,  Deputy  Chief,  Licensing  and 
+ Technical  Analysis  Branch,  Commercial  Wireless  Division,  dated  September  25  2001  (“  Lodi  Letter”)  at  1. 
+ 5  Id. 
+
+
+ 6  See  Letter  from  Felix  Difuntorum,  Delta  Wireless  Inc.  (“  Delta”),  to  Terry  L.  Fishel,  Deputy  Chief,  Licensing 
+ and  Technical  Analysis  Branch,  Commercial  Wireless  Division,  dated  December  4,  2001  (“  Delta  Letter  I”)  at  1;  Letter  from  Felix  Difuntorum,  Delta  Wireless  Inc.,  to  Terry  L.  Fishel,  Deputy  Chief,  Licensing  and  Technical 
+
+
+ Analysis  Branch,  Commercial  Wireless  Division,  dated  June  18,  2002  (“  Delta  Letter  II”)  at  1.  Delta  maintains  that  Lodi  had  abandoned  the  community  repeater  station  and  was  no  longer  a  customer  at  the  time  of  assignment. 
+
+
+ 7  See  Delta  Letter  I  at  1;  Delta  Letter  II  at  1;  Lodi  Letter  at  1-  2. 
+ 8  See  File  No.  0000298982,  dated  October  25,  2000. 
+ 9  See  File  No.  0000298982,  dated  April  16,  2001. 
+ 10  See  Delta  Letter  I  at  1;  Delta  Letter  II  at  1;  Lodi  Letter  at  1-  2. 
+ 11  See  Pacific  Wireless  Technologies,  Inc.  and  Nextel  Communications,  Inc.  Seek  Consent  to  Assign  800  MHz 
+ Licenses,  Public  Notice,  DA  01-  1931  (rel.  Aug.  14,  2001). 
+ 12  See  Lodi  Letter  at  1-  2. 
+
+
+ 13  See  File  No.  0000523796.  On  November  16,  2001,  the  Commission  consented  to  the  assignment  of  Pacific 
+ Wireless’  remaining  SMR  licenses  to  Nextel.  See  Applications  of  Pacific  Wireless  Technologies,  Inc.,  Memorandum  Opinion  and  Order,  16  FCC  Rcd  20341  (WTB  2001). 
+
+
+ 14  See  File  No.  0000659443. 
+ 15  See  Delta  Letter  I  at  1;  Delta  Letter  II  at  1. 
+2
+ Federal  Communications  Commission  DA  03-  1228 
+ 3 
+ subsequently  issued  the  Letter  Decisions,  setting  aside  the  prior  assignment  from  Lodi  to  Pacific  Wireless  and  reinstating  the  license  to  Lodi.  16  Based  on  the  Letter  Decisions,  on  February  11,  2002,  the  Branch 
+ also  dismissed  Pacific  Wireless’  pending  application  to  assign  the  License  to  Nextel.  17  Pacific  Wireless  subsequently  filed  the  instant  Petitions  for  Reconsideration,  Supplement  to  Petition  for  Reconsideration 
+ and  Request  for  Stay. 
+ III.  DISCUSSION 
+ 3.  We  affirm  the  Branch’s  decision  to  reinstate  station  license  KGQ445  to  Lodi  and  set  aside  the  assignment  of  the  License  from  Lodi  to  Pacific  Wireless.  It  is  well  established  that  an 
+
+
+ unauthorized  assignment  is  void  ab  initio,  and  cannot  convey  any  rights  to  the  assignee.  18  We  find  that  the  assignment  from  Lodi  to  Pacific  Wireless  was  unauthorized,  because  Felix  Difuntorum  had  no 
+ authority  to  act  as  Lodi’s  signatory  on  the  assignment  of  authorization  form  filed  on  October  25,  2000.  Pacific  Wireless  fails  to  offer  any  evidence  or  even  allege  that  Mr.  Difuntorum  had  authority  to  act  as 
+ signatory  for  Lodi.  In  fact,  in  his  letters  to  the  Commission,  Mr.  Difuntorum  requests  that  the  License  be  reinstated  to  Lodi,  because  he  lacked  authority  to  assign  the  License.  19  We  therefore  reject  Pacific 
+ Wireless’  argument  that  the  Branch  revoked  the  License  before  considering  all  the  facts  and  circumstances  as  required  by  Commission  precedent.  20 
+
+
+ 4.  We  further  reject  Pacific  Wireless’  argument  that  the  Branch  failed  to  provide  proper  notice  pursuant  to  section  312(  c)  of  the  Communications  Act  before  reinstating  the  License  to  Lodi.  21  As 
+ the  Commission  stated  in  Tsooris,  if  an  assignment  is  “void  ab  initio,”  the  purported  assignee  is  not  a  Commission  recognized  licensee,  and  therefore  the  provisions  of  section  312(  c)  of  the  Communications 
+ Act  do  not  apply.  22  We  find  the  cases  cited  by  Pacific  Wireless  as  authority  for  its  section  312(  c)  argument  inapposite,  because  those  cases  involve  proceedings  against  Commission  recognized  licensees 
+ that  acquired  their  licenses  through  authorized  Commission  processes,  not  through  an  unauthorized  assignment.  23  For  example,  in  S.  A.  Dawson  Associates,  the  case  upon  which  Pacific  Wireless  chiefly 
+
+
+ 16  See  December  20,  2001  Letter  Decision  at  1-  2;  February  5,  2002  Letter  Decision  at  1. 
+ 17  See  File  No.  0000659443. 
+ 18  See  In  Re  Application  of  Tsooris  Corporation  and  Talkline  Broadcasting  Corporation,  Memorandum  Opinion 
+ and  Order,  12  FCC  Rcd  1675,  1679,  ¶  10  (1997)  (“  Tsooris”).  See  also  In  the  Matter  of  Clarklift  of  San  Jose,  Inc.  and  Moore  Material  Handling  Group,  Second  Order  on  Further  Reconsideration,  16  FCC  Rcd  14844  (WTB 
+
+
+ 2001)  (“  Clarklift”). 
+ 19  See  Delta  Letter  I  at  1;  Delta  Letter  II  at  1.  Mr.  Difuntorum  alleges  that  his  attempt  to  assign  the  license  was 
+ inadvertent  and  based  on  a  mistaken  belief  that  Delta  had  acquired  the  license  in  1997.  See  id. 
+ 20  See  Petition  I  at  3-  4;  Petition  II  at  3-  4. 
+
+
+ 21  See  id. 
+ 22  See  Tsooris,  12  FCC  Rcd  at  1679,  ¶  10. 
+ 23  See  In  re  Applications  of  Dale  J.  Parsons,  Jr.,  Memorandum  Opinion  and  Order,  10  FCC  Rcd  2718,  ¶  16 
+ (1995)  (noting  procedural  requirements  of  Section  312  apply  only  to  Commission  licensees);  MCI  Telecommunications  Corporation,  Order  and  Notice  of  Apparent  Liability,  3  FCC  Rcd  509,  513-  514,  ¶¶  46-  47 
+
+
+ (1988)  (recognized  Commission  licensee  entitled  to  procedural  safeguards);  Mark  Sobel,  Application  for  Certain  (continued….) 
+3
+ Federal  Communications  Commission  DA  03-  1228 
+ 4 
+ relies,  the  request  for  reinstatement  of  a  license  centered  on  the  issue  of  the  corporate  authority  of  an  admitted  employee  of  the  license  holder  to  assign  the  license.  24  Under  such  circumstances,  the 
+ Commission  will  investigate  to  determine  whether  a  substantial  and  material  question  of  fact  exists  that  requires  the  matter  under  consideration  be  designated  for  hearing  or  referred  to  courts  of  competent 
+ jurisdiction.  25  There  is  no  substantial  and  material  question  of  fact  in  the  instant  case,  because  it  is  uncontroverted  that  Felix  Difuntorum  possesses  no  connection  to  the  licensee,  Lodi,  and  has  admitted  his 
+ lack  of  authority  to  assign  the  license. 
+ 5.  We  also  reject  Pacific  Wireless’  argument  that  the  Branch  did  not  have  the  authority  to  set  aside  the  assignment  to  Pacific  Wireless  because  the  assignment  was  administratively  final.  Pacific 
+ Wireless  argues  that  it  is  in  the  public  interest  to  have  Commission  decisions  remain  final  if  not  timely  challenged.  26  Nonetheless,  it  is  well  settled  that  misuse  of  Commission  processes  can  result  in  the  re-opening 
+ of  a  proceeding.  27  Pacific  Wireless’  reliance  on  Birach  Broadcasting  in  support  of  its  administrative  finality  argument  is  misplaced  because,  in  that  case,  the  Commission  found  that  its 
+ determination  to  reissue  a  broadcast  license  would  not  be  re-  opened  unless  there  had  been  fraud  in  the  proceeding  or  the  challenged  result  was  unconscionable.  28  Here,  while  the  record  does  not  support  a 
+ finding  of  fraud  in  the  assignment  process,  the  filing  of  an  unauthorized  assignment  through  mistake  represents  a  misuse  of  the  Commission’s  processes,  and  it  would  be  unconscionable  to  apply  the  doctrine 
+ of  administrative  finality  to  an  assignment  that  was  void  ab  initio.  29 
+ 6.  In  addition,  we  are  not  persuaded  by  Pacific  Wireless’  argument  that  the  Branch  should  not  have  set  aside  the  assignment,  because  Pacific  Wireless  had  no  knowledge  of  the  unauthorized 
+ assignment.  Lack  of  knowledge  has  no  bearing  on  whether  the  assignment  should  be  invalidated.  30  Although  Pacific  Wireless  states  that  it  had  no  prior  knowledge  of  the  unauthorized  assignment,  failure  to 
+ return  the  parties  to  their  rightful  positions  under  these  circumstances  would  encourage  such  conduct,  have  an  injurious  effect  on  the  Commission’s  processes,  and  otherwise  be  contrary  to  the  public  interest. 
+
+
+ 7.  Further,  we  reject  Pacific  Wireless’  argument  that  because  this  matter  involves  a  private 
+ (Continued  from  previous  page)  Part  90  Authorizations,  Order  to  Show  Cause,  Hearing  Designation  Order  and  Notice  of  Opportunity  for  Hearing 
+
+
+ for  Forfeiture,  12  FCC  Rcd  3298  (1997)  (Commission  licensee  ordered  to  show  cause  why  his  licenses  should  not  be  revoked). 
+
+
+ 24  See  S.  A.  Dawson  Associates,  Memorandum  Opinion  and  Order,  17  FCC  Rcd  472,  474,  ¶¶  6-  7,  (WTB  2002) 
+ (“  S.  A.  Dawson  Associates”). 
+ 25  Id. 
+
+
+ 26  Pacific  Wireless  claims  that  the  Lodi  Letter  objecting  to  the  unauthorized  assignment  was  submitted  “well  after 
+ the  time  for  challenging  the  FCC’s  action  has  past.”  Petition  I  at  6. 
+
+
+ 27  See  In  Re  Application  of  Birach  Broadcasting  Corporation,  Memorandum  Opinion  and  Order,  16  FCC  Rcd 
+ 5015,  5018,  ¶  8  (“  Birach  Broadcasting”). 
+ 28  Id. 
+
+
+ 29  Id. 
+ 30  See  Petition  I  at  6;  Petition  II  at  3. 
+4
+ Federal  Communications  Commission  DA  03-  1228 
+ 5 
+ contractual  dispute,  the  Courts  and  not  the  Commission  should  decide  it.  31  The  Commission  generally  does  not  adjudicate  private  contractual  disputes,  but  instead  attempts  to  reach  a  fair  accommodation 
+ between  its  exclusive  authority  over  licensing  matters  and  the  authority  of  State  and  local  courts  to  decide  contractual  matters  under  State  and  local  law.  32  However,  where  there  is  no  legal  or  factual  question  that 
+ an  unauthorized  assignment  has  taken  place,  the  Commission  will  act  to  invalidate  the  transaction.  33  Accordingly,  Pacific  Wireless’  reliance  on  Listener’s  Guild,  where  material  factual  questions  requiring 
+ local  court  resolution  did  exist,  is  misplaced.  34 
+ 8.  Pacific  Wireless  additionally  seeks  reconsideration  of  the  Branch’s  decision  rejecting  its  request  that  the  License  be  cancelled  due  to  Lodi’s  failure  to  operate  the  station  for  one  year  or  more.  35 
+ We  affirm  the  Branch’s  finding  that  Pacific  Wireless  failed  to  provide  adequate  information  demonstrating  that  the  License  canceled  automatically  due  to  Lodi’s  failure  to  operate  the  station  for  one 
+ year  or  more.  36  Section  90.157  of  the  Commission's  rules  provides  that  a  station  license  terminates  automatically  if  operations  are  permanently  discontinued.  37  The  rule  section  further  defines  "permanently 
+ discontinued"  as  any  station  that  has  not  operated  for  one  year  or  more.  38  As  evidence  of  non-  operation,  Pacific  Wireless  offers  the  declaration  of  its  Chief  Executive  Officer,  Jeffery  Fuller,  which  states  that, 
+ after  monitoring  the  channel,  Pacific  Wireless  detected  no  activity  from  April  16,  2001  to  December  20,  2001,  the  period  in  which  Pacific  Wireless  controlled  the  license.  39  Pacific  Wireless  also  cites  statements 
+ made  by  Felix  Difuntorum  of  Delta,  which  state  that  Lodi  abandoned  its  community  repeater  station  and  was  no  longer  a  customer  when  the  co-  channel  station,  call  sign  KMA683,  was  assigned  to  Delta  in 
+ 1997.  40  The  Division  found  that  because  Pacific  Wireless  monitored  the  station  for  less  than  one  year,  its 
+
+
+ 31  See  Petition  I  at  6;  Petition  II  at  3. 
+ 32  See,  e.  g.,  In  the  Matter  of  Airtouch  Paging,  Inc.  For  Consent  to  Partial  Assignment  of  Station  KCC485  to 
+ Schuylkill  Mobile  Fone  Inc.,  Order,  14  FCC  Rcd  9658,  (CWD/  WTB  1999);  Listener's  Guild,  Inc.  v.  FCC,  813  F.  2d  465,  469  (D.  C.  Cir.  1987)  (“  Listener’s  Guild”).  See  also  Clarklift,  16  FCC  Rcd  at  14846,  ¶¶  6-  7. 
+
+
+ 33  See  Clarklift,  16  FCC  Rcd  at  14846,  ¶¶  6-  7;  In  the  Matter  of  Champion  Communications  Services,  Inc.,  Order, 
+ 15  FCC  Rcd  12832,  ¶  2  (PSPWD/  WTB  2000). 
+ 34  Listener's  Guild,  813  F.  2d  at  468-  69  (Commission  has  discretion  to  determine  whether  a  substantial  and 
+ material  question  of  fact  is  presented  requiring  resolution  by  courts  of  competent  jurisdiction). 
+ 35  See  Petition  I  at  6;  Petition  II  at  4;  Letter  from  Russell  Fox  (counsel  for  Pacific  Wireless),  to  Magalie  R.  Salas, 
+ Secretary  FCC,  dated  May  6,  2002  (“  Pacific  Wireless  May  6,  2002,  Letter”)  at  1. 
+ 36  See  December  20,  2001  Letter  Decision  at  1-  2;  February  5,  2002,  Letter  Decision  at  1-  2. 
+
+
+ 37  See  47  C.  F.  R.  §  90.157. 
+ 38  Id. 
+ 39  See  Pacific  Wireless  December  20,  2001  Letter  at  1. 
+ 40  See  Pacific  Wireless  May  6,  2002  Letter  at  1;  Delta  Letter  I  at  1;  Delta  Letter  II  at  1.  Pacific  Wireless  does  not 
+ raise  this  argument  in  its  Petitions,  but  rather  does  so  in  a  subsequently  filed  letter  dated  May  6,  2002.  See  Pacific  Wireless  May  6,  2002  Letter.  There  is  no  evidence  in  the  record  that  Pacific  Wireless  was  placed  on  notice  of  the 
+
+
+ Delta  Letters  prior  to  filing  the  Petitions;  nonetheless,  we  will  exercise  our  discretion  and  consider  this  argument  notwithstanding  the  procedural  defect. 
+5
+ Federal  Communications  Commission  DA  03-  1228 
+ 6 
+ certification  of  non-  operation  failed  to  provide  a  level  of  proof  necessary  for  cancellation.  41  As  the  Letter  Decisions  state,  Pacific  Wireless’  monitoring  of  the  frequency  for  less  than  one  year  does  not  serve  to 
+ substantiate  a  violation  of  section  90.157.  42  Similarly,  the  statements  of  Felix  Difuntorum,  standing  alone,  do  not  conclusively  establish  Lodi’s  permanent  discontinuance  of  its  operation  of  the  License. 
+ Specifically,  Pacific  Wireless  seeks  to  rely  on  Mr.  Difuntorum’s  statements  that  during  the  period  of  Delta’s  ownership  of  the  community  repeater,  Lodi  was  not  a  customer.  43  However,  there  remain 
+ significant  questions  in  the  record  regarding  the  ownership  of  the  facilities  stationed  on  Mount  Oso  in  Stanislaus  County,  California,  44  because  Pacific  Wireless  and  Delta  maintain  that  Noack  owned  the 
+ repeater,  and  Lodi  maintains  it  owned  the  repeater.  45  As  such,  the  statements  of  Felix  Difuntorum,  without  more,  do  not  conclusively  demonstrate  Lodi’s  non-  operational  status  for  one  year  or  more  in 
+ violation  of  the  Commission’s  rules.  Moreover,  Mr.  Difuntorum’s  statements,  being  unsworn  and  uncertified,  do  not  satisfy  the  requirements  of  section  1.106(  d)  that  findings  of  fact  in  petitions  for 
+ reconsideration  be  stated  with  particularity.  46 
+ 9.  Finally,  we  reject  Pacific  Wireless’  argument  that  Lodi’s  license  cancelled  automatically  because  it  failed  to  construct  and  begin  operations  within  one  year  after  the  date  of  the  license  grant 
+ pursuant  to  section  90.155.  47  We  make  this  finding  because  Pacific  Wireless  has  not  provided  any  evidence  that  Lodi  failed  to  construct  its  facilities  or  failed  to  begin  operations  within  the  required  one 
+ year  time  period  under  the  rule. 
+
+
+ 41  See  February  5,  2002  Letter  Decision  at  1-  2. 
+ 42  Id. 
+ 43  See  Delta  Letter  I  at  1;  Delta  Letter  II  at  1. 
+ 44  See  id.;  Lodi  Letter  at  1-  2. 
+ 45  Id. 
+ 46  See  In  re  Application  of  Communico  Oceanic  Corporation  (Assignor)  and  KHVH  Inc.  (Assignee)  for 
+ Assignment  of  License  Permit  for  KPOI  Honolulu,  Hawaii,  Memorandum  Opinion  and  Order,  68  FCC  2d  638  (1978)  (unsworn  statements  in  reconsideration  proceeding  before  the  Commission  are  not  pled  with  “particularity” 
+
+
+ and  are  accorded  less  weight  than  sworn  affidavits);  47  C.  F.  R.  §  1.106(  d). 
+
+
+ 47  47  C.  F.  R.  §  90.155.  Pacific  Wireless’  reliance  on  Dale  Kane  as  authority  for  this  argument  is  misplaced 
+ because,  in  that  matter,  the  Commission  determined  that  the  license  automatically  cancelled  based  on  unrefuted  evidence  of  the  licensee’s  failure  to  construct  and  operate  its  facilities  pursuant  to  the  Commission’s  rules.  See  In 
+
+
+ re  Dale  Kane,  Order,  14  FCC  Rcd  14052,  14057,  ¶  14  (PSPWD/  WTB  1999)  (“  Dale  Kane”). 
+6
+ Federal  Communications  Commission  DA  03-  1228 
+ 7 
+ IV.  ORDERING  CLAUSE 
+ 10.  Accordingly,  IT  IS  ORDERED  that,  pursuant  to  Section  4(  i),  303(  r),  and  405  of  the  Communications  Act,  as  amended,  47  U.  S.  C.  §§  154(  i),  303(  r),  405,  and  Sections  0.331  and  1.106  of  the 
+ Commission's  rules,  47  C.  F.  R.  §§  0.331,  1.106,  the  Petitions  for  Reconsideration  filed  by  Pacific  Wireless  Technologies,  Inc.  on  January  17,  2002  and  March  7,  2002,  the  Supplement  to  Petition  for 
+ Reconsideration  filed  on  March  7,  2002,  and  the  Request  for  Stay  filed  on  January  17,  2002  ARE  DENIED. 
+
+
+ FEDERAL  COMMUNICATIONS  COMMISSION 
+ Paul  D’Ari,  Chief  Policy  and  Rules  Branch 
+ Commercial  Wireless  Division  Wireless  Telecommunications  Bureau 
+7
+

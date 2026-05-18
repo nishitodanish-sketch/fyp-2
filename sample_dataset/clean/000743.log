@@ -1,0 +1,569 @@
+<!-- Title: Day shift. Fri Feb 23, 2007 -->
+<!-- SciCo: P Derwent -->
+<!-- DAQAce: Jim Lungu -->
+<!-- MonAce: &nbsp; -->
+<!-- CO: Shan-Huei CHUANG -->
+<!-- OpManager: Max Goncharov -->
+<!-- Notes: -->
+<pre>Store 5242 in progress, Lum = 90e30.  Run 234972 continuing.</pre>
+
+
+<!-- Date: Fri Feb 23 08:21:54.115 2007 -->
+<pre>the EVB proxy button in Daqmon was red, checked the EVB proxy in the Ace controls panel: RTserver relay running and EVB proxy for partition 0 running. 
+ 
+After that noticed that evb2b client in Replies and Ack window was red: HRR once and went back to green. The EVB proxy in daqmon also turned green. 
+ 
+everuthing ok now. </pre>
+<!-- Author: Jim :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234972' target=_top>234972</a>) -->
+
+
+<!-- Date: Fri Feb 23 09:16:28.495 2007 -->
+<table><tr><td><a href=/cgi/elog/elog.pl?nb=2007&action=view&page=-2102&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/elog.pl?nb=2007&action=view&page=-2102  width='300' align='top'></a></td><td>More than 2 consecutive red cells</td></tr></table>
+<!-- Author: Sunny -->
+<!-- Comment: Fri Feb 23 09;36;56 comment by...Jim -->
+<pre>Carla P. asked to shepherd crate pcal01, done so successfully, now running.</pre>
+<!-- Date: Fri Feb 23 09:22:08.100 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234972>234972</A>
+trigger: <tt>Posting in the elog a dubious plot, not sure if the Level1 should be marked good or not</tt>
+<!-- Author: Consumer Operator(Shan-Huei Chuang) -->
+
+
+<!-- Date: Fri Feb 23 09:22:09.102 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234972>234972</A>
+general: <tt>All is OK with the CO checklist, except the L1, which I marked not yet</tt>
+<!-- Author: Consumer Operator(Shan-Huei Chuang) -->
+
+
+
+<!-- Date: Fri Feb 23 09:32:31.653 2007 -->
+<pre>RXPT Error for crate/s:  
+    b0svx06    
+ 
+SRC Fatality Error for b0svx06: Sl 6 2 L1A to Buff  
+ 
+autoHRR ok</pre>
+<!-- Author: Jim :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234972' target=_top>234972</a>) -->
+<!-- Comment: Fri Feb 23 09;33;48 comment by...Ulrich -->
+Looks like a short glitch in the clock line for ISL.
+
+
+
+<!-- Date: Fri Feb 23 09:51:58.481 2007 -->
+<pre>ProcMon error: IMON. Rechecked it and now ok.</pre>
+<!-- Author: Jim :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234972' target=_top>234972</a>) -->
+
+
+<!-- Date: Fri Feb 23 10:25:21.660 2007 -->
+<pre>Done TO. for crate/s:  
+    b0cot02    
+ 
+autoHRR ok</pre>
+<!-- Author: Jim :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234972' target=_top>234972</a>) -->
+
+
+<!-- Date: Fri Feb 23 10:41:51.806 2007 -->
+YMon crashed. I followed the highlighted instruction and typed ctrl-D to terminate the crashed window and restart the process. It's been blue since I restarted the YMon process so far (600 events now). 
+<!-- Author: Sunny :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234972' target=_top>234972</a>) -->
+
+
+<!-- Date: Fri Feb 23 11:02:11.314 2007 -->
+<pre>following JJ's instructions (ace meeting Feb.8th) and helped by the SciCo, Paul D., I have set the CDF scrapbook to plot L2COLI instead of L1COLI in AcePlot2. We'll see in the next round of hourly plots, if that was successful.</pre>
+<!-- Author: Jim :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234972' target=_top>234972</a>) -->
+<!-- Comment: Fri Feb 23 11;27;15 comment by...jj -->
+How about a comment on what an Ace has to do to change back?
+i.e. We need to know variable name and logger name I believe.
+
+<!-- Comment: Fri Feb 23 12;05;42 comment by...Jim -->
+<pre>ok, so I will try to write the instructions on how to switch back and forth between the L1COLI and L2COLI:
+
+1) from L1COLI to L2COLI: 
+in D44 (aka Lumberjack Datalogger) hit Node (to the left of Recall), select User from the little box that shows up, then select CDF from the next box (you might have to scroll up or down to find it), then hit Recall, select AcePlot2 from the next box showing up. 
+At this point, you can edit T:L2COLI instead of T:L1COLI, then hit Ctrls on the 3rd line just below T:L2COLI, select the line "Tev 1Sec" in the box that pops up. One can edit the limits at this point too. 
+Once you did all these, hit Save (to the right of Recall), then select AcePlot2 in the box popping up, then hit AcePlot2 again in the following box. 
+
+2) from L2COLI to L1COLI:
+Identical instructions up to the point where you have to edit the name of the variable. 
+Once there edit T:L1COLI instead of T:L2COLI, then hit Tev on the 3rd line below T:L2COLI, select the line "Ctrls 1Hz".
+Then save it as in the previous case.
+
+Once you're done, hit User (next to Recall) and select Node. So I checked the hourly plots and now they plot L2COLI.</pre>
+<!-- Comment: Fri Feb 23 21;25;28 comment by...jj -->
+Thank you very much!
+<!-- Date: Fri Feb 23 11:39:16.211 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234972>234972</A>
+clc: <tt>bin 13 is empty in both the CLAD and CLTD occupancy plots but, since the criteria are "no empty plots", I count them OK. </tt>
+<!-- Author: Consumer Operator(Shan-Huei Chuang) -->
+
+
+<!-- Date: Fri Feb 23 11:39:17.860 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234972>234972</A>
+cal: <tt>The CHA YMon plot seems low-statistic in comparison to the reference plot because I restarted the YMon process from the crash just 30 minutes before I updated the checklisted plots. </tt>
+<!-- Author: Consumer Operator(Shan-Huei Chuang) -->
+
+
+<!-- Date: Fri Feb 23 11:39:18.775 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234972>234972</A>
+trigger: <tt>L1_DCAS-ADMEM same as 2 hours ago. </tt>
+<!-- Author: Consumer Operator(Shan-Huei Chuang) -->
+
+
+<!-- Date: Fri Feb 23 11:39:19.214 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234972>234972</A>
+clc: <tt>bin 13 is empty in both the CLAD and CLTD occupancy plots but, since the criteria are "no empty plots", I count them OK. </tt>
+<!-- Author: Consumer Operator(Shan-Huei Chuang) -->
+
+
+<!-- Date: Fri Feb 23 11:39:20.762 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234972>234972</A>
+cal: <tt>The CHA YMon plot seems low-statistic in comparison to the reference plot because I restarted the YMon process from the crash just 30 minutes before I updated the checklisted plots. </tt>
+<!-- Author: Consumer Operator(Shan-Huei Chuang) -->
+
+
+<!-- Date: Fri Feb 23 11:39:21.140 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234972>234972</A>
+clc: <tt>bin 13 is empty in both the CLAD and CLTD occupancy plots but, since the criteria are "no empty plots", I count them OK. </tt>
+<!-- Author: Consumer Operator(Shan-Huei Chuang) -->
+
+
+<!-- Date: Fri Feb 23 11:39:22.314 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234972>234972</A>
+cal: <tt>The CHA YMon plot seems low-statistic in comparison to the reference plot because I restarted the YMon process from the crash just 30 minutes before I updated the checklisted plots. </tt>
+<!-- Author: Consumer Operator(Shan-Huei Chuang) -->
+
+
+<!-- Date: Fri Feb 23 11:39:23.214 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234972>234972</A>
+trigger: <tt>L1_DCAS-ADMEM same as 2 hours ago. </tt>
+<!-- Author: Consumer Operator(Shan-Huei Chuang) -->
+
+
+<!-- Date: Fri Feb 23 11:39:24.346 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234972>234972</A>
+general: <tt>All are as good as 2 hours ago. </tt>
+<!-- Author: Consumer Operator(Shan-Huei Chuang) -->
+<!-- Comment: Fri Feb 23 13;46;19 comment by...Sunny -->
+But see <a href=
+'/cgi/elog/fixlist.pl?nb=fixlist&action=view&page=1&frame=2&anchor=12:02:49.677'>
+this ObjMon #97 plot that I posted along with this check</a>. 
+<!-- Comment: Fri Feb 23 13;49;35 comment by...Sunny -->
+<a href='https://www-cdfonline.fnal.gov/cgi/internal/elog/fixlist.pl?nb=fixlist&action=copyentry&pa\ge=1&time=12:02:49.677'>Try again</a>. 
+<!-- Date: Fri Feb 23 12:06:12.717 2007 -->
+<pre>*** Node b0pcal07 in Error *** 
+Heap is Corrupt 
+ 
+shepherded ok.</pre>
+<!-- Author: Jim :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234972' target=_top>234972</a>) -->
+
+
+<!-- Date: Fri Feb 23 12:23:44.576 2007 -->
+<pre>Trigger Inhibit is set from the components: 
+ Plug HV 01 Trip  	[016] Plug Calorimeter Trip 00 
+ 
+went upstairs and recovered it, now taking data.</pre>
+<!-- Author: Jim :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234972' target=_top>234972</a>) -->
+
+
+<!-- Date: Fri Feb 23 12:30:14.506 2007 -->
+<pre>SVTSPYMON turned red for a couple of minutes in DQMon, meaning that  it wasn't updating; recovered by itself, and now ok.</pre>
+<!-- Author: Jim :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234972' target=_top>234972</a>) -->
+
+<!-- Date: Fri Feb 23 13:36:28.704 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234972>234972</A>
+ Terminated at 2007.02.23 13:36:17
+<!-- Author: RunControl -->
+
+
+<!-- Date: Fri Feb 23 13:36:48.868 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234972>234972</A>
+TERMINATE: remove svx 074
+<!-- Author: Jim -->
+
+
+<!-- Date: Fri Feb 23 13:40:32.278 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234972>234972</A>
+cal: <tt>WHA west {eta=-7, phi=9} tower is light blue in the reference plot but red in the up-to-date plot where almost all the neighboring cells are cool purples. </tt>
+<!-- Author: Consumer Operator(Shan-Huei Chuang) -->
+
+
+<!-- Date: Fri Feb 23 13:40:33.350 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234972>234972</A>
+general: <tt>All are as good as 2 hours ago. Life is easy today. </tt>
+<!-- Author: Consumer Operator(Shan-Huei Chuang) -->
+
+
+
+<!-- Date: Fri Feb 23 13:41:51.578 2007 -->
+<table><tr><td><a href=/cgi/elog/elog.pl?nb=2007&action=view&page=-2103&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/elog.pl?nb=2007&action=view&page=-2103  width='300' align='top'></a></td><td>WHA west {eta=-7, phi=9} tower is light blue in the reference plot but red in the up-to-date plot where almost all the neighboring cells are cool purples. </td></tr></table>
+<!-- Author: Sunny -->
+
+<!-- Date: Fri Feb 23 13:42:12.758 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234981>234981</A>
+TERMINATE: end
+
+<!-- Author: Jim -->
+<!-- Comment: Fri Feb 23 14;06;28 comment by...Jim -->
+<pre>SVX B0W7L4 tripped, tried to recover it, tripped again, tried to take it out of the run, refreshed the hardware DB, then fib05 crate turned red in config. Tried to restart the run, but fib05 was failing config.
+
+restarted RC and another run successfully.</pre>
+<!-- Date: Fri Feb 23 13:54:35.465 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234982>234982</A>
+TERMINATE: try again
+<!-- Author: Jim -->
+
+
+<!-- Date: Fri Feb 23 13:59:34.158 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234983>234983</A>
+ Activated at 2007.02.23 13:59:04
+<!-- Author: RunControl -->
+
+
+<!-- Date: Fri Feb 23 13:59:35.791 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234983>234983</A>
+ACTIVATE: RunSet: AAA_CURRENT  Trigger: PHYSICS_4_01 [4,862,675] 
+<!-- Author: Jim -->
+
+
+
+<!-- Date: Fri Feb 23 14:00:29.483 2007 -->
+<pre>Attention!!! L2 Decision Timeout ERROR !!.  
+  
+ If L2 Timeouts persist, please page L2  
+ 
+HRR ok</pre>
+<!-- Author: Jim :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234983' target=_top>234983</a>) -->
+
+
+
+<!-- Date: Fri Feb 23 14:19:57.343 2007 -->
+<pre>Attention!!!. FERML_TDC_NOT_READY_GLOBAL !!!  
+ - Timeout on global TDC Done  for crate b0cot06    
+  
+ AUTO HRR will be issued.   
+  
+ If HRR does NOT help,  
+ please SHEPHERD the offending TDC crate.   
+ 
+Done TO. for crate/s:  
+    b0cot06    
+ 
+autoHRR ok</pre>
+<!-- Author: Jim :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234983' target=_top>234983</a>) -->
+
+
+<!-- Date: Fri Feb 23 14:27:24.308 2007 -->
+<table><tr><td><a href=/cgi/elog/elog.pl?nb=2007&action=view&page=-2105&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/elog.pl?nb=2007&action=view&page=-2105  width='300' align='top'></a></td><td>The yellow box in ISL1, z side is an ISL ladder  (f452) that has started to return bad  data. The same thing  happend wendsday night and it went away after an HRR, not this time. We will work on this ladder when quiet time is available. </td></tr></table>
+<!-- Author: Ignacio (MPC) -->
+
+
+<!-- Date: Fri Feb 23 14:34:23.667 2007 -->
+<pre>the Error Handler is printing a lot of the following messages: 
+ 
+(MLW) b0pcal10:Messenger:Feb 23, 2007 02:24:50 PM->Runtime Error 586500, Event 586500: ShowerMax FE board has stopped sending data, slot 6, header 0x0x394066d 
+ 
+also in DQMon there is an error related to PES EastOccupancy complaining about more than 20 dead channels. The CO also noticed that the PES plots show to few events compared to the other detectors. 
+ 
+we've paged the PES front end electronics pager.</pre>
+<!-- Author: Jim :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234983' target=_top>234983</a>) -->
+<!-- Comment: Fri Feb 23 15;32;33 comment by...Jim -->
+<pre>The expert, Karen B., advised to:
+
+1) try restart the run and observe the PES occupancy plots
+2) if problem persists, ask cryo tech to powercycle crate pcal10, then start a new run
+3) if problem still there, recalibrate SMX qie following the specific instructions, then restart the run</pre>
+<!-- Comment: Fri Feb 23 17;09;50 comment by...greg feild -->
+<pre>Well spotted on the scrolling error messages.
+Seems they actually started toward the end of
+Run 234972 ....</pre>
+<!-- Date: Fri Feb 23 14:42:08.308 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234983>234983</A>
+ Terminated at 2007.02.23 14:41:45
+<!-- Author: RunControl -->
+
+
+<!-- Date: Fri Feb 23 14:42:09.085 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234983>234983</A>
+TERMINATE: restart run due to PES problems
+<!-- Author: Jim -->
+
+
+<!-- Date: Fri Feb 23 14:45:32.295 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234984>234984</A>
+ Activated at 2007.02.23 14:45:28
+<!-- Author: RunControl -->
+
+
+<!-- Date: Fri Feb 23 14:45:34.591 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234984>234984</A>
+ACTIVATE: RunSet: AAA_CURRENT  Trigger: PHYSICS_4_01 [4,862,675] 
+<!-- Author: Jim -->
+
+
+<!-- Date: Fri Feb 23 14:45:58.120 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234983>234983</A>
+RUNSTATUS: <PRE>Marked Bad, explanation:
+PSMX 
+</PRE>
+<!-- Author: cdfscico -->
+
+
+
+<!-- Date: Fri Feb 23 14:46:32.797 2007 -->
+<pre>Attention !!!. CER_SVXMON_HALT_RECOVER_RUN_ERROR !!!  
+  
+ Pipeline out of synch in 101 silicon readout chips .  
+ AUTO HRR will be issued   
+ 
+autoHRR ok</pre>
+<!-- Author: Jim :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234984' target=_top>234984</a>) -->
+
+<!-- Date: Fri Feb 23 14:56:31.575 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234984>234984</A>
+ Terminated at 2007.02.23 14:56:23
+<!-- Author: RunControl -->
+
+
+<!-- Date: Fri Feb 23 14:56:56.431 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234984>234984</A>
+TERMINATE: we're gonna powercycle pcal10
+<!-- Author: Jim -->
+
+
+<!-- Date: Fri Feb 23 15:01:53.806 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234983>234983</A>
+si: <tt>Cell ID L00 & ISL Chip Status (low stat) shows no data at {bulkhead z=4, wedge #32} and failure at {bulkhead phi=4, wedge #32}, which are being watched by silicon experts. </tt>
+<!-- Author: Consumer Operator(Shan-Huei Chuang) -->
+
+
+<!-- Date: Fri Feb 23 15:01:54.968 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234983>234983</A>
+smx: <tt>PES-East number of consecutive dead (white box) channels > 10; PES data marked bad; will post the plot(s). </tt>
+<!-- Author: Consumer Operator(Shan-Huei Chuang) -->
+
+
+<!-- Date: Fri Feb 23 15:01:55.445 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234983>234983</A>
+pr: <tt>PPR data marked bad for the same reason as for PES above. </tt>
+<!-- Author: Consumer Operator(Shan-Huei Chuang) -->
+
+
+<!-- Date: Fri Feb 23 15:01:56.671 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234983>234983</A>
+general: <tt>Not everything is good, perhaps it is normal 30 minutes after the start of a new run? </tt>
+<!-- Author: Consumer Operator(Shan-Huei Chuang) -->
+
+
+<!-- Date: Fri Feb 23 15:01:57.987 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234983>234983</A>
+pr: <tt>PPR data marked bad for the same reason as for PES above. </tt>
+<!-- Author: Consumer Operator(Shan-Huei Chuang) -->
+
+
+<!-- Date: Fri Feb 23 15:01:58.107 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234983>234983</A>
+general: <tt>Not everything is good, perhaps it is normal 30 minutes after the start of a new run? </tt>
+<!-- Author: Consumer Operator(Shan-Huei Chuang) -->
+<!-- Comment: Fri Feb 23 15;14;05 comment by...Sunny -->
+XMon, YMon and DAQMon all crashed while I was saving and pasting plots and all were restarted by now. 
+<!-- Date: Fri Feb 23 15:04:29.651 2007 -->
+<center><a href='/cgi/elog/elog.pl?nb=2007&action=view&page=-2106&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/elog.pl?nb=2007&action=view&page=-2106' width='300'></a><a href='/cgi/elog/elog.pl?nb=2007&action=view&page=-2107&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/elog.pl?nb=2007&action=view&page=-2107' width='300'></a></center>
+<!-- Author: Sunny -->
+<!-- Comment: Fri Feb 23 15;04;59 comment by...Sunny -->
+Plots for PES east consequtive dead channels. 
+
+<!-- Date: Fri Feb 23 15:06:21.956 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234985>234985</A>
+ Activated at 2007.02.23 15:05:07
+<!-- Author: RunControl -->
+
+
+<!-- Date: Fri Feb 23 15:06:22.350 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234985>234985</A>
+ACTIVATE: RunSet: AAA_CURRENT  Trigger: PHYSICS_4_01 [4,862,675] 
+<!-- Author: Jim -->
+
+
+
+<!-- Date: Fri Feb 23 15:08:47.896 2007 -->
+<table><tr><td><a href=/cgi/elog/elog.pl?nb=2007&action=view&page=-2108&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/elog.pl?nb=2007&action=view&page=-2108  width='300' align='top'></a></td><td>Just for information, the PEM & PHA east & west occupancy plots corresponding to the above PES east & west ones are also provided. </td></tr></table>
+<!-- Author: Sunny -->
+<!-- Comment: Fri Feb 23 15;12;21 comment by...Sunny -->
+Good news is that the problem has gone as Jim started a new run. 
+
+<!-- Comment: Fri Feb 23 15;13;46 comment by...Jim -->
+<pre>the above plot corresponds to run234983 where we first encountered the PES problems. In the current run we got it solved by powercycling pcal10</pre>
+
+
+
+<!-- Date: Fri Feb 23 15:15:46.887 2007 -->
+<table><tr><td><a href=/cgi/elog/elog.pl?nb=2007&action=view&page=-2109&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/elog.pl?nb=2007&action=view&page=-2109  width='300' align='top'></a></td><td>This is the occupancy plot for PES East U Layer in the current run after the crate pcal10 was powercycled. The problem was fixed.</td></tr></table>
+<!-- Author: Jim -->
+
+
+<!-- Date: Fri Feb 23 15:28:23.575 2007 -->
+<table border=0><td><tr><td bgcolor=#e0e030><pre>I have included crate b0l2pu00 in AAA_CURRENT run configuration and saved the run configuration as such. This must be checked next time a new run is started.</pre></td></tr></td></table>
+<!-- Author: Jim :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234985' target=_top>234985</a>) -->
+
+
+
+<!-- Date: Fri Feb 23 15:40:51.489 2007 -->
+TrigMon crashed right before the CO checklist 30 min after the start of a run. I restarted the TrigMon process, not sure if I will have enough statistics in TrigMon for the checklist... 
+<!-- Author: Sunny :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234985' target=_top>234985</a>) -->
+
+
+<!-- Date: Fri Feb 23 15:53:39.916 2007 -->
+<pre>DQMon error: SVXMon found errors in the following cells ISL B4W5L2 ch.12-&gt;15. Ignacio made an entry earlier, but I don't know if he knows about this, so we'll page Silicon.</pre>
+<!-- Author: Jim :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234985' target=_top>234985</a>) -->
+<!-- Comment: Fri Feb 23 15;54;59 comment by...Ulrich -->
+Yes, this is the same thing. Ignacio will call you in a second.
+
+<!-- Date: Fri Feb 23 15:55:18.381 2007 -->
+<TABLE BORDER=2 CELLSPACING=1 CELLPADDING=1 BGCOLOR=WHITE>
+<TR BGCOLOR=YELLOW><TH>RunNumber</TH>
+<TH>DataType</TH>
+<TH>PhysicsTable</TH>
+<TH>Begin</TH>
+<TH>End</TH>
+<TH>LiveTime</TH>
+<TH>L3Accepts</TH>
+<TH>DelivLumi nb<SUP>-1</SUP></TH>
+<TH>LiveLumi nb<SUP>-1</SUP></TH>
+<TH>GR</TH>
+<TH>SC</TH>
+<TH>RC</TH></TR>
+<TR><TD><A HREF=/java/cdfdb/servlet/RunSummary?RUN=234972 target=_runSummary>234972</A> x395DC</TD>
+<TD>BEAM</TD>
+<TD><FONT SIZE=-1>PHYSICS_4_01 [4,862,675]</FONT></TD>
+<TD ALIGN=CENTER>00:50:35</TD>
+<TD ALIGN=CENTER>13:36:17</TD>
+<TD ALIGN=CENTER>11:50:17</TD>
+<TD ALIGN=RIGHT>   5,016,400</TD>   <TD ALIGN=RIGHT>  5,163.99</TD>
+<TD ALIGN=RIGHT>  4,766.21</TD>
+<TD ALIGN=CENTER>1</TD>
+<TD ALIGN=CENTER>1</TD>
+<TD ALIGN=CENTER>1</TD></TR>
+
+<TR><TD><A HREF=/java/cdfdb/servlet/RunSummary?RUN=234983 target=_runSummary>234983</A> x395E7</TD>
+<TD>BEAM</TD>
+<TD><FONT SIZE=-1>PHYSICS_4_01 [4,862,675]</FONT></TD>
+<TD ALIGN=CENTER>13:59:04</TD>
+<TD ALIGN=CENTER>14:41:45</TD>
+<TD ALIGN=CENTER>00:39:16</TD>
+<TD ALIGN=RIGHT>     220,778</TD>   <TD ALIGN=RIGHT>    154.45</TD>
+<TD ALIGN=RIGHT>    140.07</TD>
+<TD ALIGN=CENTER>0</TD>
+<TD ALIGN=CENTER>1</TD>
+<TD ALIGN=CENTER>1</TD></TR>
+
+<TR><TD><A HREF=/java/cdfdb/servlet/RunSummary?RUN=234984 target=_runSummary>234984</A> x395E8</TD>
+<TD>BEAM</TD>
+<TD><FONT SIZE=-1>PHYSICS_4_01 [4,862,675]</FONT></TD>
+<TD ALIGN=CENTER>14:45:28</TD>
+<TD ALIGN=CENTER>14:56:23</TD>
+<TD ALIGN=CENTER>00:10:18</TD>
+<TD ALIGN=RIGHT>      43,290</TD>   <TD ALIGN=RIGHT>     39.55</TD>
+<TD ALIGN=RIGHT>     35.56</TD>
+<TD ALIGN=CENTER></TD>
+<TD ALIGN=CENTER>1</TD>
+<TD ALIGN=CENTER>1</TD></TR>
+
+<TR><TD><A HREF=/java/cdfdb/servlet/RunSummary?RUN=234985 target=_runSummary>234985</A> x395E9</TD>
+<TD>BEAM</TD>
+<TD><FONT SIZE=-1>PHYSICS_4_01 [4,862,675]</FONT></TD>
+<TD ALIGN=CENTER>15:05:07</TD>
+<TD ALIGN=CENTER></TD>
+<TD ALIGN=CENTER>00:46:27</TD>
+<TD ALIGN=RIGHT>     256,530</TD>   <TD ALIGN=RIGHT>    163.65</TD>
+<TD ALIGN=RIGHT>    154.51</TD>
+<TD ALIGN=CENTER></TD>
+<TD ALIGN=CENTER></TD>
+<TD ALIGN=CENTER>1</TD></TR>
+
+<TR><TD>Totals</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>15:55:01</TD>
+<TD ALIGN=CENTER>13:26:19</TD>
+<TD ALIGN=RIGHT>     5,536,998</TD> <TD ALIGN=RIGHT>  5,521.64</TD>
+<TD ALIGN=RIGHT>  5,096.35</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD></TR>
+
+</TABLE>
+<!-- Author: End of Shift Report -->
+
+
+<!-- Date: Fri Feb 23 15:57:23.180 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234984>234984</A>
+RUNSTATUS: <PRE>Marked Bad, explanation:
+PSMX 
+</PRE>
+<!-- Author: cdfscico -->
+
+
+<!-- Date: Fri Feb 23 15:59:04.295 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234985>234985</A>
+si: <tt>The known problem of no data in {bulkhead z=4, wedge #32}. </tt>
+<!-- Author: Consumer Operator(Shan-Huei Chuang) -->
+
+
+<!-- Date: Fri Feb 23 15:59:05.542 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234985>234985</A>
+cal: <tt>CEM eta 0 phi 4l is red while all its neighbors are green; marked "not yet". </tt>
+<!-- Author: Consumer Operator(Shan-Huei Chuang) -->
+
+
+<!-- Date: Fri Feb 23 15:59:06.241 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234985>234985</A>
+si: <tt>The known problem of no data in {bulkhead z=4, wedge #32}. </tt>
+<!-- Author: Consumer Operator(Shan-Huei Chuang) -->
+
+
+<!-- Date: Fri Feb 23 15:59:07.786 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234985>234985</A>
+cal: <tt>CEM eta 0 phi 4l is red while all its neighbors are green; marked "not yet". </tt>
+<!-- Author: Consumer Operator(Shan-Huei Chuang) -->
+
+
+<!-- Date: Fri Feb 23 15:59:08.373 2007 -->
+Run <A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=234985>234985</A>
+general: <tt>Almost all good. </tt>
+<!-- Author: Consumer Operator(Shan-Huei Chuang) -->
+
+
+
+<!-- Date: Fri Feb 23 16:01:43.321 2007 -->
+<font color=red>Shift Summary: </font><pre>Start Shift:  Run 234972 in progress, store 5242.  Luminosity 90e30. 
+ 
+1220  Plug HV trip -- recovered 
+ 
+1330  SVX B0W7L4 trip, took a some iterations to recover 
+ 
+1336 Run 234972 ended as fib05 crate hung in configuration 
+ 
+1359 Back up and running, run 234983 
+ 
+1430  Problem with shower max in PCAL10, paging expert. 
+ 
+1442  Restarting run due to PES problems on expert's advice.  Will mark run bad for PES. 
+ 
+1500 Powercycling PCAL10 to recover PES. 
+ 
+Delivered luminosity: 2015.19 
+Acquired luminosity: 1776.42 
+Efficiency:  88.2 % 
+</pre> 
+<br><b>End of Shift Numbers</b>
+<table><tr><td width=60% align=left>
+<b>CDF Run II <p></b>                       
+<pre>
+Runs                   234972, 234832-5
+Delivered Luminosity   2015.2  
+Acquired Luminosity    1776.4  
+Efficiency             88.2%
+   
+</td></tr></table></pre>
+<!-- Author: P Derwent -->
+
+

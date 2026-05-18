@@ -1,0 +1,199 @@
+
+   RANDALL SCOTT SILKWOOD, PETITIONER V. UNITED STATES OF AMERICA
+
+   No. 89-6750
+
+   In The Supreme Court Of The United States
+
+   October Term, 1989
+
+   On Petition For A Writ Of Certiorari To The United States Court Of
+Appeals For The Tenth Circuit
+
+   Brief For The United States
+
+                             OPINION BELOW
+
+   The opinion of the court of appeals (Pet. App. 1a-11a) is reported
+at 893 F.2d 245.
+
+                             JURISDICTION
+
+   The judgment of the court of appeals was entered on December 23,
+1989.  The petition for a writ of certiorari was filed on February 21,
+1990.  The jurisdiction of this Court is invoked under 28 U.S.C.
+1254(1).
+
+                          QUESTION PRESENTED
+
+   Whether the Texas offense of burglary is a "violent felony" under
+the sentence enhancement provision of 18 U.S.C. 924(e)(1) and
+924(e)(2)(B)(ii) (Supp. V 1987).
+
+                               STATEMENT
+
+   1. Petitioner was indicted in the Eastern District of Oklahoma on
+one count of possession of a firearm by a previously convicted felon,
+in violation of 18 U.S.C. 922(g)(1).  A separately filed "information"
+alleged that petitioner had six previous convictions for burglary
+under Texas law, /1/ one previous state conviction for escape, and one
+previous state firearms conviction, thus subjecting him to an enhanced
+sentence of a minimum of 15 years' imprisonment under 18 U.S.C.
+924(e)(1) (Supp. V 1987).  /2/ Pet. App. 2a;  Pet. C.A. Br. 34-36.
+
+   The jury convicted petitioner.  Petitioner later fired his attorney
+and, with the district court's permission, represented himself at the
+sentencing hearing.  The district court sentenced petitioner to an
+enhanced term of 25 years' imprisonment under Section 924(e)(1).  Pet.
+App. 2a, 7a-8a.
+
+   2. On appeal, petitioner contended that the district court's
+allowing him to proceed pro se violated the Sixth Amendment.  Pet.
+C.A. Br. 22-29.  Petitioner also contended that his previous Texas
+convictions for burglary were not "violent felonies" under 18 U.S.C.
+924(e).  In his view, Section 924(e) included only those burglaries
+that involve violent conduct.  Pet. C.A. Br. 29-38.  /3/
+
+   The court of appeals held that the district court had conducted an
+insufficient inquiry regarding petitioner's waiver of his right to
+counsel, and thus "remand(ed) this case for resentencing and
+direct(ed) the sentencing court to appoint counsel for (petitioner)
+unless, after proper inquiry, (petitioner) waives that right." Pet.
+App. 9a.  In order to guide petitioner's resentencing, the court of
+appeals addressed his contention regarding the scope of the term
+"burglary" in Section 924(e).  After surveying the conflicting
+decisions among the circuits, the court of appeals concluded that the
+statute retained the generic definition contained in its predecessor,
+18 U.S.C. App. 1202(c)(9) (Supp. II 1984), namely, "any felony
+consisting of entering or remaining surreptitiously within a building
+that is property of another with intent to engage in conduct
+constituting a Federal or State offense." Pet. App. 10a-11a.  The
+court therefore instructed the district court to "apply that
+definition when it determines which of (petitioner's) prior burglary
+convictions should count towards enhancement (under Section 924(e))."
+Pet. App. 11a.
+
+                               ARGUMENT
+
+   Petitioner now contends (Pet. 3-8) that only those burglaries that
+satisfy the common law definition of burglary qualify as "violent
+felon(ies)" under the sentence enhancement provision of 18 U.S.C.
+924(e)(1) and 924(e)(2)(B)(ii) (Supp. V 1987).  In Taylor v. United
+States, No. 88-7194 (argued Feb. 28, 1990), this Court has granted
+certiorari to resolve the conflict among the circuits concerning the
+meaning of the term "burglary" under Section 924(e)(2)(B)(ii).  In our
+submission to this Court in Taylor, /4/ we have described the
+conflicting decisions among the courts of appeals and have explained
+that the statutory reference to burglary is not limited either to
+common law burglary or to burglaries that pose a potential risk of
+physical injury.  To the contrary, even though Congress failed to
+include an express definition of burglary in its most recent
+amendments to Section 924(e), Congress retained the generic definition
+of burglary that was contained in the predecessor Armed Career
+Criminal Act of 1984, 18 U.S.C. App. 1202(c)(9) (Supp. II 1984), a
+definition that reflects the prevailing modern view of the offense of
+burglary as defined in federal and state law, i.e., the unlawful
+entering or remaining within a building belonging to another with the
+intent to commit a federal or state offense.  That interpretation is
+consistent with the language, legislative history, and purposes of the
+1986 amendments to the Armed Career Criminal Act of 1984.
+
+   Petitioner's six Texas burglary convictions therefore qualify as
+predicate crimes, since those state offenses, by definition, require
+entering a building belonging to another for the purpose of committing
+a state or federal offense.  See note 1, supra.  Although petitioner
+is awaiting sentencing, which makes this case "not yet ripe for review
+by this Court," Brotherhood of Locomotive Firemen v. Bangor, 389 U.S.
+327, 328 (1967), we nevertheless believe that the Court should hold
+the instant petition pending the disposition of Taylor v. United
+States, No. 88-7194.
+
+                              CONCLUSION
+
+   The petition for a writ of certiorari should be held pending the
+disposition of Taylor v. United States, No. 88-7194, and disposed of
+as appropriate in light of that decision.
+
+   Respectfully submitted.
+
+   KENNETH W. STARR
+
+      Solicitor General
+
+   EDWARD S.G. DENNIS, JR.
+
+      Assistant Attorney General
+
+   ANDREW LEVCHUK
+
+      Attorney
+
+   APRIL 1990
+
+   /1/ On August 9 and 23, 1973, petitioner was convicted of burglary
+in Texas state court.  See Information 1-2, United States v. Silkwood,
+No. 88-20-CR (E.D. Okla. filed May 23, 1988).  At the time of those
+offenses, Texas state law defined burglary as follows:
+
+         The offense of burglary is constituted by entering a house by
+      force, threats or fraud, at night, or in like manner by entering
+      a house at any time, either day or night, and remaining
+      concealed therein, with the intent in either case of committing
+      a felony or the crime of theft.
+
+Tex. Penal Code art. 1389 (1925).
+
+   Between May 9, 1977, and July 31, 1980, petitioner was convicted of
+four separate offenses of burglary of a building in Texas state court.
+ See Information 1-2, supra.  At the time of those offenses, Texas
+state law defined burglary as follows:
+
+         A person commits an offense if, without the effective consent
+      of the owner, he:
+
+         (1) enters a habitation, or a building * * * not then open to
+      the public, with intent to commit a felony or theft;  or
+
+         (2) remains concealed, with intent to commit a felony or
+      theft, in a building or habitation;  or
+
+         (3) enters a building or habitation and commits or attempts
+      to commit a felony or theft.
+
+Tex. Penal Code Ann. Section 30.02(a) (Vernon 1974).
+
+   /2/ The sentence enhancement provision of 18 U.S.C. 924(e)(1)
+applies to previously convicted felons who possess or receive a
+firearm in violation of 18 U.S.C. 922(g).  Title 18, United States
+Code, Section 924(e)(1), provides in pertinent part:
+
+         In the case of a person who violates section 922(g) of this
+      title and has three previous convictions by any court referred
+      to in section 922(g)(1) of this title for a violent felony or a
+      serious drug offense, or both, such person shall be fined not
+      more than $25,000 and imprisoned not less than fifteen years * *
+      *.
+
+Title 18, United States Code, Section 922(g)(1), refers to any
+"convict(ion) in any court of a crime punishable by imprisonment for a
+term exceeding one year."
+
+   Title 18, United States Code, Section 924(e)(2)(B), provides:
+
+      (T)he term "violent felony" means any crime punishable by
+      imprisonment for a term exceeding one year that -- (i) has as an
+      element the use, attempted use, or threatened use of physical
+      force against the person of another;  or (ii) is burglary,
+      arson, or extortion, involves use of explosives, or otherwise
+      involves conduct that presents a serious potential risk of
+      physical injury to another.
+
+   /3/ Petitioner also argued that the district court had erroneously
+refused to suppress evidence, that the government had improperly
+withheld Brady information, and that the district court had erred in
+refusing to declare a mistrial on two occasions.  Pet. C.A. Br. 7-29.
+The court of appeals rejected each of those claims, Pet. App. 4a-5a,
+and petitioner does not renew those challenges in this Court.
+
+   /4/ See U.S. Br. 11-37.  We have provided a copy of our brief in
+Taylor to counsel for petitioner in this case.

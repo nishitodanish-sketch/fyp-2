@@ -1,0 +1,745 @@
+[Federal Register: March 28, 2001 (Volume 66, Number 60)]
+[Notices]               
+[Page 17017-17033]
+From the Federal Register Online via GPO Access [wais.access.gpo.gov]
+[DOCID:fr28mr01-105]                         
+
+
+[[Page 17017]]
+
+-----------------------------------------------------------------------
+
+Part IV
+
+
+
+
+
+Department of Commerce
+
+
+
+
+
+-----------------------------------------------------------------------
+
+
+
+Bureau of the Census
+
+
+
+-----------------------------------------------------------------------
+
+
+
+Urban Area Criteria for Census 2000--Proposed Criteria; Notice
+
+
+[[Page 17018]]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of the Census
+
+[Docket Number 010209034-1034-01]
+RIN Number 0607-XX63
+
+ 
+Urban Area Criteria for Census 2000--Proposed Criteria
+
+AGENCY: Bureau of the Census, Department of Commerce.
+
+ACTION: Notice of Proposed Criteria and Request for Public Comment.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This Notice provides the Bureau of the Census' (Census 
+Bureau's) proposed criteria for defining urban and rural territory 
+based on the results of Census 2000. It also provides a description of 
+the changes from the criteria used for the 1990 census. The Census 
+Bureau identifies and classifies urban and rural population and 
+delineates urbanized areas (UAs) after each decennial census using 
+criteria that originated with the 1950 census. Since the 1950 census, 
+the Census Bureau has reviewed and revised these criteria for each 
+decennial census. These criteria revisions over the years reflect the 
+Census Bureau's desire to improve the classification of urban and rural 
+population by refining the criteria to take advantage of improvements 
+in data collection and reporting methodologies as well as advancements 
+in technology.
+    Since the 1990 census, significant technological advancements, 
+together with already existing nationwide block numbering (which was 
+initiated with the 1990 census), has made it possible to classify urban 
+and rural territory on a uniform basis. The Census Bureau proposes a 
+number of significant changes to the criteria for classification of 
+urban and rural population to make use of this opportunity to meet its 
+objective of a uniform result nationwide.
+    The Census Bureau identifies and tabulates data for the urban and 
+rural population and territory solely for the purpose of statistical 
+presentation and comparison. It does not take into account or attempt 
+to anticipate any nonstatistical uses that may be made of these areas 
+or their associated data, nor does it attempt to meet the requirements 
+of such nonstatistical program uses. Nonetheless, the Census Bureau 
+recognizes that some federal and state agencies are legally required to 
+use the Census Bureau-defined urban and rural classifications for 
+allocating program funds, setting program standards, and implementing 
+aspects of their programs. The agencies that make such nonstatistical 
+uses of the areas and data should be aware that the changes to the 
+urban and rural criteria also might affect the implementation of their 
+programs.
+    If a federal, state, local, or tribal agency voluntarily uses these 
+urban and rural criteria in a nonstatistical program, it is that 
+agency's responsibility to ensure that the results are appropriate for 
+such use. In considering the appropriateness of such nonstatistical 
+program uses, the Census Bureau urges each agency to consider 
+permitting appropriate modifications of the results of implementing the 
+urban and rural criteria specifically for the purposes of its program. 
+When a program permits such modifications, the Census Bureau urges each 
+agency to use descriptive terminology that clearly identifies the 
+different criteria being applied so as to avoid confusion with the 
+Census Bureau's official urban and rural classifications.
+
+DATES: Any comments, suggestions, or recommendations concerning this 
+Census 2000 proposed program in this notice should be submitted in 
+writing April 27, 2001.
+
+ADDRESSES: Address all written comments to the Director, U.S. Census 
+Bureau, Room 2049, Federal Building 3, Washington, DC 20233-0001.
+
+FOR FURTHER INFORMATION CONTACT: Robert Marx, Chief, Geography 
+Division, Census Bureau, Room 651, WP-1, Washington, DC 20233-7400, 
+telephone (301) 457-1099-2131, or e-mail (rmarx@geo.census.gov).
+
+SUPPLEMENTARY INFORMATION:
+
+Executive Order 12866
+
+    This notice does not meet the criteria for a ``significant 
+regulatory action'' as specified in Executive Order 12866.
+
+Regulatory Flexibility Act
+
+    Because a notice of program criteria is not required by Title 5, 
+United States Code (U.S.C.), section 553 or any other law, a Regulatory 
+Flexibility Analysis is not required and has not been prepared (5 
+U.S.C. 603 (a)).
+
+Paperwork Reduction Act
+
+    This program notice does not represent a collection of information 
+subject to the requirements of the Paperwork Reduction Act, Title 44, 
+U.S.C., Chapter 35.
+
+Criteria
+
+    The following criteria will apply to the 50 states, the District of 
+Columbia, and the Commonwealth of Puerto Rico. The Census Bureau may 
+apply these criteria to other areas as well.
+
+I. Census 2000 Urbanized Area and Urban Cluster Definitions
+
+    For Census 2000, an urbanized area (UA) will consist of a densely 
+settled core of census block groups (BGs) \1\ and census blocks \2\ 
+that meet minimum population density requirements, along with adjacent 
+densely settled surrounding census blocks that together encompass a 
+population of at least 50,000 people, at least 35,000 of whom live in 
+an area that is not part of a military installation. For Census 2000, 
+an urban cluster (UC) will consist of a densely settled core of census 
+BGs and census blocks that meet minimum population density 
+requirements, along with adjacent densely settled surrounding census 
+blocks that together encompass a population of at least 2,500 people, 
+but fewer than 50,000 people, or greater than 50,000 people if fewer 
+than 35,000 of them live in an area that is not part of a military 
+installation. All criteria based on land area, population, and 
+population density will reflect the information contained in the Census 
+Bureau's Topologically Integrated Geographic Encoding and Referencing 
+(TIGER) data base and the population counts from the official Census 
+2000 redistricting data file.
+---------------------------------------------------------------------------
+
+    \1\ A census block group (BG) is a group of census blocks within 
+a census tract whose numbers begin with the same digit; for example, 
+BG 3 within a census tract includes all census blocks numbered from 
+3000 to 3999.
+    \2\ A census block is an area normally bounded by visible 
+features, such as streets, streams, and railroads, and by nonvisible 
+features, such as the boundary of an incorporated place, minor civil 
+division, county, or other Census 2000 tabulation entity.
+---------------------------------------------------------------------------
+
+    A. The ``densely settled core'' of a UA or UC shall include the 
+following:
+    1. One or more contiguous \3\ census BGs that have a total land 
+area less than or equal to 2 square miles and a population density of 
+at least 1,000 people per square mile (ppsm) \4\ (Figures 1 and 6.). 
+(Please note that all illustrative figures are attachments located at 
+the end of the document.)
+---------------------------------------------------------------------------
+
+    \3\ Contiguity requires at least one point of intersection.
+    \4\ Population density is calculated by dividing the total 
+population of the census BG or census block by the land area of that 
+BG or block.
+---------------------------------------------------------------------------
+
+    2. One or more contiguous census blocks that have a population 
+density of at least 1,000 ppsm, if no qualifying BG exists.
+    3. One or more census BGs that have a land area less than or equal 
+to 2 square miles, a population density of at least 500 ppsm, and that 
+are contiguous with the census BGs and census blocks identified by 
+criterion I.A.1. (Figures 1 and 6).
+
+[[Page 17019]]
+
+    4. One or more contiguous census blocks that have a population 
+density of at least 500 ppsm and that are contiguous with the 
+qualifying census BGs and census blocks identified by criterion I.A.1., 
+I.A.2., or I.A.3. (Figures 2 and 7).
+    5. The Census Bureau will include in the core any noncontiguous 
+census BG(s) and/or census block(s) that otherwise qualifies based on 
+population density and land area if it can be reached using a ``hop'' 
+connection. That is, if the distance to the core is no greater than 0.5 
+miles, and it is connected to the core by one or more nonqualifying 
+census blocks that:
+    a. When combined, have the highest population density along the 
+shortest road connection, and
+    b. Has a combined population density of at least 500 ppsm, or
+    c. The least populated area (core or noncontiguous census BG(s) or 
+census block(s) has a population greater than or equal to 1,000 
+(Figures 3 and 9).
+    6. Census BGs and/or census blocks surrounded by the core, as 
+defined above, provided the BGs or blocks contain fewer than 5 square 
+miles \5\ (Figure 8).
+---------------------------------------------------------------------------
+
+    \5\ Census BGs and/or census blocks are defined as 
+``surrounded'' if the boundary of the BG or block completely borders 
+the core. Additionally, bodies of water wider than one mile across 
+are excluded from the equation, so that a census BG and/or census 
+block completely surrounded by the core and excluded water bodies 
+are included in the core.
+---------------------------------------------------------------------------
+
+    7. Census BGs and/or blocks that are indentations into the core, as 
+long as the indentation is no longer than 1 mile across the open end, 
+and has a length at least three times greater than the distance across 
+the open end (Figure 8).
+    B. Census BGs and/or census blocks adjacent to a UA or UC core 
+consists of the following:
+    1. Territory made up of one or more contiguous census blocks, with 
+a population density of at least 500 ppsm, that are not contiguous to 
+the core, provided that the core of the UA or UC has a population of at 
+least 1,000, and that the contiguous blocks are within the distance of 
+either a jump, a jump plus one or more hops, or an uninhabitable 
+territory connection.
+    2. The following connection criteria determine the method used for 
+connecting densely settled noncontiguous territory to the qualifying 
+core of a UA or UC:
+    a. The Census Bureau will include additional noncontiguous area in 
+a UA or UC using a ``jump'' connection if the noncontiguous area is 
+within 2.5 miles of the main body of a core that has a total population 
+of at least 1,500 people, and is connected to it by one or more 
+nonqualifying census blocks that:
+    (1) Are adjacent to a road connection;
+    (2) When combined, have the highest population density along the 
+connection; and
+    (3) Together with the qualifying outlying blocks/BGs, have a 
+combined population density of at least 500 ppsm (Figures 3 and 10), or 
+the noncontiguous qualifying blocks/BGs has a total population greater 
+than or equal to 1,000.
+    The Census Bureau will not include additional noncontiguous area in 
+a UA or UC if the connection required to include it is greater than 0.5 
+miles and the link required to connect the additional area starts from 
+territory already qualifying under criterion I.B.1.b.
+    b. For territory added using a jump, the Census Bureau will include 
+additional noncontiguous area in a UA or UC that is connected to 
+territory added using a jump by using a ``hop'' connection if the 
+distance between the UA or UC is within 0.5 miles of qualifying 
+territory, and connected to it by one or more nonqualifying census 
+blocks that:
+    (1) When combined, have the highest population density along the 
+shortest road connection; and
+    (2) Together with the outlying qualifying territory, have a 
+combined population density of at least 500 ppsm (Figures 3 and 9), or 
+the noncontiguous qualifying territory has a total population greater 
+than or equal to 1,000. Hop connections are allowed after jump 
+connections as long as the conditions in criterion I.B.1.b. still 
+apply.
+    c. The Census Bureau will include uninhabitable territory \6\ to 
+the main body of the core or adjacent qualifying territory if the area 
+to connect it is within 5 road miles, and as long as the 5 miles 
+include no more than 2.5 miles of otherwise habitable territory. In 
+addition, one of the following conditions must be met:
+---------------------------------------------------------------------------
+
+    \6\ Uninhabitable territory is defined as territory in which 
+residential development is not possible; that is, it consists of 
+bodies of water, national parks and monuments, and military 
+installations. Water is an example of a topographic situation in 
+which habitation is not possible due to a physical limitation. 
+National parks, such as Yellowstone and Yosemite, and military 
+installations are examples of territory in which habitation is 
+restricted due to governmental regulations. Because the Census 
+Bureau does not maintain an extensive land use data base for the 
+entire country, only the aforementioned land use types, which are 
+included within the Census Bureau's TIGER data base, will be used 
+when distinguishing between habitable and uninhabitable territory.
+---------------------------------------------------------------------------
+
+    (1) The noncontiguous qualifying territory has a total population 
+greater than or equal to 1,000; or
+    (2) The overall population density of the linking and noncontiguous 
+qualifying territory (excluding water) has a total population density 
+of at least 500 ppsm (Figure 4).
+    Hops are allowed after uninhabitable territory connections as long 
+as the conditions in criterion I.B.1.a. still apply.
+    3. Other territory with a population density of less than 500 ppsm, 
+provided that it:
+    a. Eliminates an enclave of no more than 5 square miles in the 
+territory otherwise qualifying for a UA or UC when the surrounding 
+territory qualifies on the basis of population density, or
+    b. Closes an indentation in the boundary of the territory otherwise 
+qualifying for inclusion in a UA or UC if the contiguous territory 
+qualifies on the basis of population density, provided that the 
+indentation:
+    (1) Is no more than 1 mile across the open end;
+    (2) Has a length at least 3 times greater than the distance across 
+the open end;
+    (3) Is closeable by means of a census block boundary located across 
+or close to its open end; and
+    (4) Encompasses no more than 5 square miles.
+    4. As a result of the UA and UC delineation, an incorporated place 
+\7\ or census designated place (CDP) \8\, may be partially within and 
+partially outside of a UA or UC. Any place that is split by a UA or UC 
+boundary is referred to as an extended place (Figures 5 and 11).
+---------------------------------------------------------------------------
+
+    \7\ An incorporated place is a governmental unit designated as a 
+city, town (except in New England and Wisconsin), village, or 
+borough (except in New York and Alaska), and includes all 
+consolidated cities.
+    \8\ A census designated place (CDP) is a statistical equivalent 
+of an incorporated place and represents a locally defined named 
+area. CDPs include comunidades and zonas urbana in Puerto Rico.
+---------------------------------------------------------------------------
+
+II. UA and UC Central Places
+
+    The Census Bureau will identify one or more central places for each 
+UA and UC (if an incorporated place or CDP exists within the UC) using 
+the following criteria:
+    A. The UA or UC central place is an incorporated place or CDP with 
+the most population within the UA or UC. Additional places may become 
+UA or UC central places provided that:
+    1. The place's population within a UA or UC exceeds 50,000 people; 
+or
+    2. The place's population is at least \2/3\ of the most populous UA 
+or UC central place.
+
+[[Page 17020]]
+
+III. UA and UC Titles and Codes
+
+    The title of a UA or UC identifies the place(s) that is (are) most 
+populated within the UA or UC. All population requirements for places 
+and minor civil divisions \9\ (MCDs) apply to the population of the 
+place or MCD that is within the specific UA or UC being named.
+---------------------------------------------------------------------------
+
+    \9\ A minor civil division is a legal subdivision of a county or 
+statistically equivalent entity. Governmental MCDs exist in 
+Connecticut, Illinois, Indiana, Kansas, Maine, Massachusetts, 
+Michigan, Minnesota, Missouri, Nebraska, New Hampshire, New Jersey, 
+New York, North Dakota, Ohio, Pennsylvania, Rhode Island, South 
+Dakota, Vermont, and Wisconsin.
+---------------------------------------------------------------------------
+
+A. UA and UC Titles
+    The following criteria are used to determine UA and UC titles:
+    1. The UA or UC title includes the name of the incorporated place 
+with the most population within the UA or UC (minimum population of 
+2,500). As many as two additional incorporated place names can be part 
+of the UA or UC title. Additional incorporated place names are added to 
+the title, provided that either the incorporated place's UA or UC 
+population exceeds 250,000 people or the incorporated place has both 
+(1) a UA or UC population of at least 2,500 and (2) a UA or UC 
+population that is at least \2/3\ of the total in the most populous 
+place in the UA or UC.
+    If the UA or UC does not contain an incorporated place having at 
+least 2,500 people, the UA or UC title will include the single name 
+that occurs first from the following list:
+    a. The nonmilitary CDP with the largest population within the UA or 
+UC, if its population is at least 2,500;
+    b. The incorporated place with the largest population within the UA 
+or UC;
+    c. The nonmilitary CDP with the largest population within the UA or 
+UC;
+    d. The military CDP with the largest population within the UA or 
+UC;
+    e. The governmental MCD with the largest population within the UA 
+or UC; or
+    f. A local name recognized for the area by the United States 
+Geological Survey's Geographic Names Information System, with 
+preference given to post office names recognized by the United States 
+Postal Service (USPS).
+    2. The criterion for the sequence of place or MCD names in the UA 
+or UC title consists of the qualifying names in descending order of 
+their Census 2000 population within the UA or UC.
+    3. The UA or UC title will include the USPS abbreviation of the 
+name of each state into which the UA or UC extends. The order of the 
+state names is the same as the order of the related place or MCD names 
+in the UA or UC title. For UAs or UCs that extend into states in which 
+there are no place names as part of the UA or UC title, the names of 
+these states are included in descending order of the state's Census 
+2000 population within the UA or UC.
+    4. If a single place or MCD qualifies as the title of more than one 
+UA or UC, the largest UA or UC will use the name of the place or MCD. 
+The smaller UA or UC will have a title consisting of the place or MCD 
+name and a compass directional. The compass directional will generally 
+describe the location of the lesser populated UA or UC; for example, a 
+UA titled Allenville and a UC titled Allenville South.
+    5. If any name in a UA or UC name duplicates a name in another UA 
+or UC within the same state, the name of the county that has most of 
+the population of the largest place or MCD will be appended after the 
+duplicate place or MCD name in parentheses for each UA or UC. If there 
+is no central place or MCD, then the name of the county with the 
+greatest population residing in the UA or UC will be appended. For 
+example, Springfield (Ames County), OH, and Springfield (Jefferson 
+County), OH.
+B. UA and UC codes
+    The Census Bureau will assign a 5-digit numeric code to each UA and 
+UC. The code will be based on an alphabetic sequence of all UA and UC 
+names, and sequenced by state code where names repeat.
+
+IV. Splitting UAs
+
+    The Census Bureau uses the geographic structure of metropolitan 
+areas (MAs), which includes metropolitan statistical areas (MSAs), 
+consolidated metropolitan statistical areas (CMSAs), and primary 
+metropolitan statistical areas (PMSAs) to determine when to define 
+separate contiguous UAs.\10\ After delineating the boundary of each UA, 
+the Census Bureau will examine the relationship between the UAs and any 
+MSA, CMSA, or PMSA using the following criteria to determine if the UAs 
+should be split and, if so, where the boundary should be located 
+between these UAs:
+---------------------------------------------------------------------------
+
+    \10\ The Census Bureau considers two UAs to be contiguous if 
+they share a common boundary line (not simply a point), and the area 
+on each side of this shared boundary qualifies for inclusion in its 
+respective UA based on the minimum population density criterion of 
+500 ppsm.
+---------------------------------------------------------------------------
+
+A. UA Split Criteria
+    The Census Bureau will split UAs when the following conditions 
+exist:
+    1. Two or more qualifying UAs are in different MSAs or PMSAs, and 
+the distance along which their areas are contiguous is less than 3 
+miles.
+    The split will occur at the location nearest the MSA or PMSA 
+boundary along which their area of contiguity is less than 3 miles.
+    2. Two or more qualifying UAs are in different CMSAs, and the 
+distance along which their areas are contiguous is less than 3 miles. 
+The split will occur at the CMSA boundary.
+
+V. Urban and Rural Classification
+
+    The Census Bureau will classify as urban all population residing 
+within the boundaries of UAs and UCs. Conversely, the Census Bureau 
+will classify as rural all population and territory that are not within 
+any UA or UC.
+
+VI. Differences Between the Proposed Census 2000 UA Criteria and the 
+1990 Census UA Criteria
+
+    The following summary describes the most important differences 
+between the 1990 census UA criteria and the UA criteria proposed for 
+Census 2000:
+    A. The Census Bureau will not automatically recognize previously 
+existing UA territory for Census 2000 UA delineation. There will be no 
+``grandfathering'' of areas that qualified for earlier censuses. In 
+past censuses, the Census Bureau generally included all territory from 
+previous UA \11\ delineations. Grandfathering was used extensively in 
+past censuses.
+---------------------------------------------------------------------------
+
+    \11\ The Census Bureau did not include previously existing 
+territory within a UA for the 1990 census if the population of the 
+pre-existing UA fell below a total population of 50,000.
+---------------------------------------------------------------------------
+
+    Grandfathering creates a significant impediment when trying to 
+implement UA criteria changes. When areas that would not qualify under 
+new criteria are retained within UAs due to the use of 
+``grandfathering,'' this diminishes the effect of the new criteria by 
+retaining areas that the new criteria otherwise would exclude. 
+Therefore, ``grandfathering'' creates an uneven application of the 
+criteria where similar nonqualifying areas are either retained or 
+excluded from different UAs based solely on ``grandfathering.''
+    B. The Census Bureau will use UCs rather than places to determine 
+the total urban population outside of UAs. Previously, place boundaries 
+were used to determine the urban and rural classification of territory 
+outside of UAs; all incorporated places that had at least 2,500 people 
+had all or part (based on the extended city criteria) of their 
+population classified as urban. The entire land area and population of 
+all CDPs with a population of at least 2,500
+
+[[Page 17021]]
+
+people were classified as urban because the extended city criteria did 
+not apply to CDPs. With the creation of UCs, place boundaries are 
+``invisible'' when creating and classifying the cores of densely 
+settled population agglomerations.
+    Urban classification, based solely on the boundaries of 
+incorporated places and CDPs, is very uneven and limited. Urban 
+classification of a place outside of a UA stopped at the place's 
+boundary. Densely settled areas that were adjacent to a qualifying 
+place were not classified as urban. Areas that were densely settled and 
+included more than 2,500 inhabitants, but did not include a place with 
+a population of at least 2,500, were classified as rural. CDPs that 
+were overbounded, containing little densely settled area, but with a 
+population of at least 2,500, always were classified as entirely urban.
+    The UC concept, based only on census BG and census block density, 
+does not recognize incorporated place or CDP boundaries (except where 
+the boundaries serve as qualifying BG or block boundaries). Densely 
+settled qualifying agglomerations of 2,500 or more people qualify 
+regardless of the total population, or even the existence, of 
+incorporated places or CDPs. This eliminates bias by removing the 
+effect of state laws governing incorporation and annexation or of local 
+participation in the CDP program.
+    C. The extended city criteria are extensively modified for 2000. 
+Any place that is split by a UA or UC boundary is referred to as an 
+extended place. Previously, sparsely settled areas were examined using 
+density and area measurements to determine whether or not they were 
+excluded from the UA.
+    The 1990 extended city criteria complemented the previous UA 
+criteria whose focus was to include whole places wherever possible, 
+except for those incorporated places that were very overbounded and 
+very large. The use of different density thresholds within incorporated 
+place territory (100 ppsm rather than 1,000 ppsm outside of places) 
+again was biased based on state laws of incorporation and annexation. 
+The new urban criteria, based solely on the population density of 
+census BGs and census blocks, will provide a continuum of urban areas.
+    D. The proposed criteria increase the permitted jump distance from 
+1.5 to 2.5 miles. Jumps between qualifying areas that are less than or 
+equal to 0.5 miles are hops, not jumps. In addition, noncontiguous 
+areas with a population of 1,000 or more qualify for inclusion 
+regardless of the overall combined density of the qualifying and 
+connecting areas.
+    The increase in the permitted jump distance is proposed as a means 
+to recognize improvements in the transportation network, and the 
+associated changes in development patterns that reflect these 
+improvements, coupled with governmental influence to provide additional 
+``green space'' between developments.
+    The Census Bureau developed the use of hops to extend the urban 
+definition across small nonqualifying census blocks, thereby avoiding 
+the need to designate the break in qualifying blocks as a jump. Most of 
+these hop blocks are developed for nonresidential uses, such as 
+schools, shopping centers, office complexes, industrial parks, and 
+parks or other green space.
+    E. An indentation in qualifying territory has to be three times 
+longer than the distance across its mouth for its inclusion in a UA or 
+UC. Previously, an indentation only had to be two times longer. 
+Increasing the distance it takes for inclusion of indentations reduces 
+the chances of sparsely settled area along the fringe of a core being 
+classified as urban.
+    F. The revised uninhabitable jump criteria are more restrictive 
+regarding the types of terrain over which an uninhabitable jump can be 
+made than was permitted under the 1990 census UA criteria.
+    The new restriction on the types of territory that can be treated 
+as uninhabitable is an attempt to remove ambiguity from the designation 
+of undevelopable or uninhabitable territory. The 1990 census criteria 
+permitted jumps across various types of supposedly undevelopable 
+terrain based on information that normally is not contained within the 
+TIGER data base. For example, floodplains, mud flats, steep slopes, and 
+marshes were designated as undevelopable, but only where a census or 
+local official specifically requested the designation. Because this 
+type of terrain information usually does not exist within the TIGER 
+data base, attempting to use such information under the current 
+criteria is inappropriate. Therefore, the designation of uninhabitable 
+territory is limited to those types of terrain and land use for which 
+the TIGER data base has a complete inventory, such as bodies of water, 
+national parks and monuments, and military installations.
+    G. The UA central place and title criteria will no longer follow 
+standards predefined by other federal agencies. Previously, many UA 
+central places and titles were based on MA central city definitions set 
+forth by the Office of Management and Budget.
+    The new MA criteria will be, and always have been, applied later 
+than the UA criteria. To avoid creating a situation in which the 2000 
+UA or UC central places and titles would need to follow MA central city 
+definitions that were established in the early 1990s, these criteria 
+create an objective zero-based approach.
+
+VII. Effects of the Census 2000 UA Criteria on the 1990 Urban 
+Classification
+
+    A. The aforementioned changes in urban criteria may classify as 
+much as three percent (five million) more people as urban than the 
+previous criteria did.
+    The majority of this increase will come from how urban population 
+is defined outside of UAs. Under the former criteria, urban population 
+outside of UAs was limited to people living in incorporated places and 
+CDPs that had a total population of 2,500 or more. With the change to 
+UC delineation, many densely settled unincorporated areas will be 
+classified as urban for the first time, as well as places having a 
+population fewer than 2,500 that adjoin densely settled territory that 
+brings the total population of the area to 2,500 or more.
+    The overwhelming majority of densely settled unincorporated areas 
+are located adjacent to incorporated places. Incorporated places in 
+states with strict annexation laws are less likely to annex the densely 
+settled areas that are adjacent to them. Connecticut, Massachusetts, 
+Michigan, New Jersey, New York, and Pennsylvania are states with strict 
+annexation laws. These states will have a higher proportional increase 
+in urban population than those states with liberal annexation laws, 
+such as Alabama, Arizona, Mississippi, Oklahoma, Tennessee, and Texas, 
+where incorporated places are more likely to annex adjacent densely 
+settled areas.
+    Another element of the criteria that will cause an increase in 
+total urban population is the inclusion into UAs of nearby areas that 
+did not qualify under the former jump criteria. Some areas that were 
+excluded from a 1990 UA because it took two jumps to get to them may be 
+included in a Census 2000 UA because one of the jumps is now classified 
+as a hop. Others may be included because of the increase in the jump 
+distance from 1.5 to 2.5 miles.
+    B. The total urban area may decrease by as much as 7 percent (6,600 
+square miles).
+    The decrease in urban area is due to the removal of the whole place 
+and extended city qualification criteria and
+
+[[Page 17022]]
+
+the requirement to retain areas that were previously within UAs 
+(``grandfathering''). The decrease results from using a higher density 
+requirement in places (500 ppsm rather than the 100 ppsm used for the 
+1990 census in extended cities) and the ability to classify CDPs as 
+part urban and rural. States that have liberal annexation laws or 
+overbounded places will notice the most significant decreases in total 
+urban land area.
+    C. When the Census 2000 UA criteria are applied using 1990 census 
+data, the following four 1990 census UAs fail to qualify using the 
+proposed criteria:
+
+------------------------------------------------------------------------
+                                         1990 UA       Proposed criteria
+              1990 UA                   population         population
+------------------------------------------------------------------------
+Bristol, VA.......................             52,563             49,687
+Brunswick, GA.....................             50,066             47,282
+Dover, DE.........................             50,787             49,355
+Ithaca, NY........................             50,132             49,416
+------------------------------------------------------------------------
+
+    The removal of the whole place qualification criteria is the 
+primary reason why these four areas may fail to qualify as UAs 
+following Census 2000. The 1990 census whole place qualification 
+criteria required that whole CDPs were either included or excluded from 
+a 1990 UA, but there is no requirement under the Census 2000 criteria 
+to include whole CDPs. The 1990 UA qualification of Brunswick, Dover, 
+and Ithaca relied on the inclusion of whole CDPs, but large areas of 
+these CDPs did not meet the population density requirement under the 
+2000 criteria. Bristol was a 1980 UA, which by virtue of 
+``grandfathering,'' qualified all 1980 UA territory as 1990 qualifying 
+territory. In addition, the entire area of Bristol City was included in 
+the UA because it failed to meet the extended city criteria. However, 
+portions of Bristol City do not qualify under the Census 2000 criteria 
+because of low population density.
+    Even though the 1990 UAs listed above fail to qualify using Census 
+2000 criteria and 1990 data, they do not necessarily indicate that they 
+will not qualify as Census 2000 UAs. There may have been positive 
+population growth since 1990 in those four areas such that the total 
+qualifying population will rise above 50,000. As stated previously, 
+1990 census population data were used to determine the qualifying area 
+for these four 1990 UAs. No other 1990 UAs failed to qualify as a 
+result of the criteria changes.
+    A. Former urban places may be classified as rural under the Census 
+2000 UC criteria.
+    The UC criteria do not qualify incorporated places and CDPs that 
+have a population of 2,500 or more as urban based solely on their total 
+populations. Urban classification is based solely on the delineation of 
+a qualifying UC of at least 2,500 people at a density of at least 500. 
+Those places that do not have a qualifying UC of at least 2,500 
+population based primarily on density will be classified as rural. 
+Places with a population just above 2,500 and those with low densities 
+or dispersed cores may not qualify as urban. Conversely, incorporated 
+places and CDPs that have a population less than 2,500 may be 
+classified wholly or partially as urban when the population outside the 
+place is inside part of a qualifying UC that reaches the 2,500 
+population threshold.
+
+    Dated: February 12, 2001.
+William G. Barron,
+Acting Director, Bureau of the Census.
+BILLING CODE 3510-07-P
+
+[[Page 17023]]
+
+[GRAPHIC] [TIFF OMITTED] TN28MR01.000
+
+
+[[Page 17024]]
+
+
+[GRAPHIC] [TIFF OMITTED] TN28MR01.001
+
+
+[[Page 17025]]
+
+
+[GRAPHIC] [TIFF OMITTED] TN28MR01.002
+
+
+[[Page 17026]]
+
+
+[GRAPHIC] [TIFF OMITTED] TN28MR01.003
+
+
+[[Page 17027]]
+
+
+[GRAPHIC] [TIFF OMITTED] TN28MR01.004
+
+
+[[Page 17028]]
+
+
+[GRAPHIC] [TIFF OMITTED] TN28MR01.005
+
+
+[[Page 17029]]
+
+
+[GRAPHIC] [TIFF OMITTED] TN28MR01.006
+
+
+[[Page 17030]]
+
+
+[GRAPHIC] [TIFF OMITTED] TN28MR01.007
+
+
+[[Page 17031]]
+
+
+[GRAPHIC] [TIFF OMITTED] TN28MR01.008
+
+
+[[Page 17032]]
+
+
+[GRAPHIC] [TIFF OMITTED] TN28MR01.009
+
+
+[[Page 17033]]
+
+
+[GRAPHIC] [TIFF OMITTED] TN28MR01.010
+
+[FR Doc. 01-7690 Filed 3-27-01; 8:45 am]
+BILLING CODE 3510-07-C
+
+

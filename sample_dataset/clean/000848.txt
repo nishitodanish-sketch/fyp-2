@@ -1,0 +1,591 @@
+
+No. 97-5088
+
+IN THE SUPREME COURT OF THE UNITED STATES
+
+OCTOBER TERM, 1996
+
+AGUILES AMAYA-ALVARADO, PETITIONER
+
+v.
+
+UNITED STATES OF AMERICA
+
+ON PETITION FOR A WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE FIFTH CIRCUIT
+
+BRIEF FOR THE UNITED STATES IN OPPOSITION
+
+SETH P. WAXMAN
+Acting Solicitor General
+
+JOHN C. KEENEY
+Acting Assistant Attorney General
+
+WILLIAM C. BROWN
+Attorney 
+
+Department of Justice
+Washington, D.C.  20530-0001
+(202) 514-2217
+
+---------------------------------------- Page Break ----------------------------------------
+
+QUESTION PRESENTED
+
+    Whether the district court properly increased petitioner's
+offense level by 16 levels under Sentencing Guidelines
+2L1.2(b) (2) because, before he was convicted under 8 U.S.C.
+1326 of illegally reentering the United States after having been
+deported, he had sustained a conviction for an aggravated felony.
+
+(I)
+
+---------------------------------------- Page Break ----------------------------------------
+
+IN THE SUPREME COURT OF THE UNITED STATES
+
+OCTOBER TERM, 1996
+
+No. 97-5088
+AGUILES AMAYA-ALVARADO, PETITIONER
+
+v.
+
+UNITED STATES OF AMERICA
+
+ON PETITION FOR A WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE FIFTH CIRCUIT
+
+BRIEF FOR THE UNITED STATES IN
+
+OPINION BELOW
+
+OPPOSITION
+
+    The decision of the court of appeals (Pet. App. 1-3) is not
+published, but the judgment is noted at 111 F.3d 893 (Table) .
+
+JURISDICTION
+
+   The judgment of the court of appeals was entered on March
+28, 1997.  The petition for a writ of certiorari was filed on
+July 3, 1997, and thus is out of time under this Court's Rule 13.
+The jurisdiction of this Court is invoked under 28 U.S.C.
+1254(1) .
+
+STATEMENT   
+
+    Following a guilty plea in the United States District Court
+for the Eastern District of Texas, petitioner was convicted of
+
+---------------------------------------- Page Break ----------------------------------------
+                                          
+2
+
+reentering the United States, after having been deported, without
+the prior consent of the Attorney General to reapply for
+admission, in Violation of 8 U.S.C. 1326.  He was sentenced to 46
+months' imprisonment, to be followed by three years' supervised
+release.  The court of appeals affirmed.  Pet. App. 1-3.
+    1. Petitioner is a citizen of El Salvador who initially
+entered the United States illegally in 1984.  Presentence Report
+(PSR) 8.  On February 13, 1989, he entered a guilty plea in state
+court in Dallas County, Texas, to the charge of burglary of a
+habitation.  ID. at 6.  On February 21, 1990, he was adjudicated
+guilty and was sentenced to ten years' imprisonment.  Ibid .; Pet.
+App. 2.  On December 17, 1990, state officials released
+petitioner to the Immigration and Naturalization Service (INS) .
+Id. at 6-7.  In February 1991, the INS deported petitioner from
+the United States.  Pet. App. 2.
+    On December 6, 1995, petitioner was arrested in Texas on a
+state charge, and investigation revealed that he was not a legal
+resident of the United States.  PSR 4.  The INS interviewed
+petitioner who admitted that, after his deportation in 1991, he
+had reentered the United States illegally, via the Rio Grande
+River, on January 25, 1994.  Ibid.; Pet. App. 2.  Further
+investigation revealed that petitioner had not received the prior
+consent of the Attorney General to reapply for admission, as
+
+---------------------------------------- Page Break ----------------------------------------
+
+3
+
+required under 8 U.S.C. 1326, when an alien who has been
+previously deported returns to the United States.  PSR 4.1
+    Section 1326(a) provides that, subject to Section 1326(b), a
+previously deported alien who reenters the country without
+obtaining the prior consent of the Attorney General to reapply
+for admission shall be sentenced to a term of imprisonment up to
+two years, or fined under Title 18, or both.  Section 1326(b) (1)      I
+authorizes a term of imprisonment of up to 10 years in a case
+where an alien who commits such an offense was convicted of a
+nonaggravated felony (or three misdemeanors for specified
+offenses) before his deportation.  Section 1326(b) (2) authorizes
+a term of imprisonment of up to 20 years in a case where an alien
+who commits such an offense was convicted of an aggravated felony
+before his deportation.  The term "aggravated felony," for
+purposes of 8 U.S.C. 1326, is defined in 8 U.S.C. 11O1(a) (43) .
+    2.  On December 13, 1995, petitioner was indicted in the
+United States District Court for the Eastern District of Texas on
+one count of having been found" in the United States on or about
+December 6, 1995, after having been previously deported, without
+
+___________________(footnotes)
+
+   1 Congress amended Section 1326 on April 24, 1996, and on
+September 30, 1996, but the changes effected by those amendments
+are not relevant to the disposition of this case except as
+specifically noted below.  See Antiterrorism and Effective Death
+penalty Act of 1996, Pub. L. No. 104-132, Title IV, 401(C),
+438(b), 441(a), 110 Stat. 1267-1268, 1276, 1279; Illegal
+Immigration Reform and Immigrant Responsibility Act of 1996
+(IIRIRA), Pub. L. No. 104-208, Div. C, Title III  305(b),
+308(d) (4) (J), 308(e) (1) (K), 308(e) (14) (A)  324, 110 Stat. 3009-
+606, 3009-618, 3009-619, 3009-620, 3009-629.  Unless otherwise
+indicated, references to Section 1326 and other provisions of
+Title 8 are to the version in effect at the time of petitioner's
+Section 1326 offense.
+
+---------------------------------------- Page Break ----------------------------------------
+
+4
+
+having obtained the consent of the Attorney General to reapply
+for admission, in violation of 8 U.S.C. 1326.  C.A. E.R. Item 2.
+The indictment also alleged that petitioner had been convicted of
+an aggravated felony before his deportation.  The indictment
+stated that the offense carried a penalty of imprisonment of not
+more than 20 years, a fine, or both.  Ibid
+    On February 1, 1996, pursuant to a written agreement,
+petitioner entered a plea of guilty to the-indictment.  The
+written plea agreement was signed by petitioner, his counsel, and
+government counsel, and stated that petitioner understood that
+the maximum term of imprisonment for the criminal violation to
+which he was pleading guilty was 20 years, and that his sentence
+would be imposed in accordance with the federal Sentencing
+Guidelines.  C.A.E.R. Item 3.  Petitioner waived any right to
+appeal, except regarding issues relating to the application of
+the Guidelines or the basis for any upward departure.  Ibid
+    The presentence report stated that the maximum term of
+imprisonment authorized by statute in petitioner's case was 20
+years,  PSR 1.  Under the Sentencing Guidelines, however,
+petitioner's applicable sentence was determined to be less than
+five years' imprisonment.  The report indicated that the base
+offense level for violation of 8 U.S.C. 1326 is 8, pursuant to
+Sentencing Guidelines  2L1.2(a) .  PSR 4.  It also indicated
+that, in light of petitioner's conviction for burglary before his
+deportation, a 16-level upward adjustment of the offense level
+was warranted pursuant to Sentencing Guidelines  2L1.2(b) (2)
+
+---------------------------------------- Page Break ----------------------------------------
+
+5
+
+which provides that "[if] the defendant previously was deported
+after a conviction for an aggravated felony, increase by 16
+levels."  Id. at 52  After application of a three-level
+reduction for acceptance of responsibility, petitioner's total
+offense level was determined to be 21.  Because he was in
+Criminal History Category III, the applicable sentencing range
+was 46. to 57 months' imprisonment.  PSR 5, 7, 10.
+    Petitioner objected to the increase in the offense level
+under Guidelines 2L1.2 (b) (2) based on his 1989 burglary
+conviction.  PSR 1A.  He contended that a 1990 amendment to the
+statutory definition of aggravated felony, 8 U.S.C. 1101(a) (43) ,
+which expanded the definition to include crimes of violence such
+as burglary for which a term of imprisonment of at least five
+years is imposed (see Immigration Act of 1990, Pub. L. No. 101-
+
+___________________(footnotes)
+
+    2 For purposes of Sentencing Guidelines S 2L1.2(b) (2),
+"aggravated felony" is defined as follows:
+"Aggravated felony, " as used in subsection (b) (2), means
+murder; any illicit trafficking in any controlled substance
+(as defined in 21 U.S.C. 802), including any drug
+trafficking crime as defined in 18 U.S.C.  924(c) (2); any
+illicit trafficking in any firearms or destructive devices
+as defined in 18 U.S.C. 921; any offense described in 18
+U.S.C. 1956 (relating to laundering of monetary
+instruments) ; any crime of violence (as defined in 18 U.S.C.
+ 16, not including a purely political offense) for which
+the term of imprisonment imposed (regardless of any
+suspension of such imprisonment) is at least five years; or
+any attempt or conspiracy to commit any such act.  The term
+"aggravated felony" applies to offenses described in the
+previous sentence whether in violation of federal or state
+law and also applies to offenses described in the previous
+sentence in violation of foreign law for which the term of
+imprisonment was completed within the previous 15 years.
+ 8 U.S.C. 1101(a) (43).
+
+Guidelines 2L1.2 (b) (2), Application Note 7.
+
+--------------------------------------- Page Break ----------------------------------------
+
+6
+
+649, 501(a), 104 Stat. 5048), applied only in cases where the
+prior aggravated felony had been committed after the effective
+date of the statutory amendment, i.e November 29, 1990.  He
+contended that that statutory provision and its effective date
+also controlled the applicability of the Guidelines' aggravated
+felony enhancement,  2L1.2(b) (2).  Thus, because petitioner's
+burglary conviction predated the expansion of the statutory
+definition, petitioner maintained that his conviction could not
+be treated as an aggravated felony that increased his Guidelines
+offense level.  The government, responded that the presentence
+report correctly treated petitioner's prior burglary conviction
+as an aggravated felony for purposes of  Guidelines  2L1.2(b) (2),
+and that the Fifth Circuit had held that Guidelines 2L1.2 (b) (2)
+is applicable in cases where the prior aggravated felony was
+committed before November 19, 1990.  Gov't April 11, 1996,
+Response 3 (citing United States v. Garcia-Rico, 46 F.3d 8 (5th
+Cir.), cert. denied, 515 U.S. 1150 (1995)) .
+    The district court rejected petitioner's contention, adopted
+the findings and calculations of the presentence report, and
+sentenced petitioner to 46 months' imprisonment, to be followed
+by three years' supervised release.  May 1, 1996, Tr. 5-9.
+3.  The court of appeals affirmed.  Pet. App. 1-3.  It rejected
+petitioner's contention that, because burglary of a
+habitation was not, at the time he committed it, an aggravated
+felony under the pertinent statutory provisions (8 U.S.C.
+11O1(a) (43), 1326), the enhancement of his offense level under
+
+---------------------------------------- Page Break ----------------------------------------
+
+7
+
+the Sentencing Guidelines was incorrect. Id. at 2-3.  The court
+noted that petitioner conceded that the court had rejected his
+precise argument in Garcia-Rico, supra.  The court reiterated
+that "the amended definition of aggravated felonies in 8 U.S.C. 
+1101(a) (43) , which now includes [petitioner's] 1989 conviction
+for burglary, applies to an `offense' committed on or after         I
+November 29, 1990.  * * * [T]he relevant `offense' that must
+coincide with or post-date November 29, 1990, is the illegal
+entry into the United  States, not the predicate aggravated
+felony."  Id. at 2 (quoting Garcia-Rico, 46 F.3d at 10).  The
+court acknowledged that the Ninth Circuit adopted petitioner's       
+Position in United  States v. Gomez-Rodriguez, 96 F.3d 1262, 1265
+(9th Cir. 1996) (en bane) .  The court found no basis in the
+record of the instant case, however, to justify departing from
+the binding precedent of Garcia-Rico.  Pet. App. 2-3.
+
+ARGUMENT
+     
+    Petitioner maintains (Pet. 17-18) that, because his
+burglary conviction predated the November 29, 1990, effective
+date of the amendment expanding the statutory definition of
+aggravated felony to include such crimes of violence, see Pub. L.
+No. 101-649, 501(a), 104 Stat.  5048, that conviction cannot be
+treated as an aggravated felony that supports a 16-level increase
+in his offense level under Sentencing Guidelines  2L1.2 (b) (2) .
+
+---------------------------------------- Page Break ----------------------------------------
+
+8
+
+That contention lacks merit and does not warrant this Court(s)
+review.3
+
+    1. The Sentencing Guidelines amendment that added
+Guidelines  2LI.2 (b) (2) and the related commentary defining an
+"aggravated felony" as used in that Guideline became effective
+November 1, 1991.  United States Sentencing Comm'n, Guidelines
+Manual (Nov. 1, 1995) (Amendment 375).  Where the Ex Post Facto
+Clause does not require otherwise, courts are generally required 
+to apply the Sentencing  Guidelines in effect on the date a
+defendant is sentenced.  See 18 U.S.C. 3553 (a) (4) (A); United
+States v. Gonzales, 988 F.2d 16, 18 (5th Cir.) , cert. denied, 510
+U.S. 858 (1993).  Therefore, if a defendant violates Section 1326
+after November 1, 1991, a prior aggravated felony conviction
+triggers the 16-level enhancement under Guidelines  2L1.2(b) (2)
+for sentencing purposes, regardless whether the aggravated felony
+conviction itself  occurred before or after November 1, 1991.
+Because petitioner violated Section 1326 in 1995, the court of
+appeals correctly upheld the enhancement of petitioner's offense
+level under Guidelines  2L1.2 (b) (2).
+    The aggravated-felony definition in the commentary to
+Sentencing Guidelines  2L1.2 does not contain the same
+effective-date provision as the one that accompanied the November
+
+___________________(footnotes)   
+
+    3   The Court recently denied review in three cases raising
+the same issue and there is no reason for a different result
+here.  See Campbell v. United States, No. 96-6825, cert. denied,
+117 s. Ct. 1847 (May 27, 1997) ; Morales-Lopez v. United States,
+No. 96-7640, cert. denied, 117 S. Ct. 1848 (MAY 27, 1997);
+Bermudez-Reyes v. United States, No. 96-6714, cert. denied, 117
+S. Ct. 1258 (March 17, 1997) .
+
+---------------------------------------- Page Break ----------------------------------------
+
+9
+
+29, 1990, amendment to 8 U.S.C. 1101 (a) (43).  Several courts of
+appeals have correctly recognized that the 16-level enhancement
+under Guidelines  2L1.2 (b) (2) therefore applies where a prior
+offense is defined as an aggravated felony for purposes of that
+Guidelines at the time of sentencing, even if it was not defined
+as an aggravated felony under either the Guidelines or the
+statute at the time of conviction of that prior offense.   See,
+e.g.,United States Varanda-Hernandez, 95 F.3d 977 (l0th Cir. I
+1996) (approving Section 2L1.2(b) (2) enhancement based on 1984
+drug conviction), cert. denied, 117 S. Ct. 1314 (1997); United
+States v. Campbell, 94 F.3d 125, 128 (4th Cir. 1996) (1989)
+manslaughter conviction) , cert. denied, 117-S. Ct. 1847 (1997) ;
+United States v. Cabrera-Sosa, 81 F.3d 998, 1000-1001 (lOth Cir.)
+(1990 drug conviction), cert. denied, 117 S. Ct. 218 (1996);
+United States v. Munoz-Cerna, 47 F.3d 207, 209-212 (7th Cir.
+1995) (March 1990 crime of violence conviction); United States v.
+Garcia-Rico, 46 F.3d at 10 (January 1990 manslaughter    I
+conviction) ; United States v. Saenz-Forero, 27 F.3d 1016, 1020-
+1021 (5th Cir. 1994) (1985 drug conviction) ; United States v.
+Maul-Valverde, 10 F.3d 544, 546 (8th Cir. 1993) (1977 burglary
+conviction) .
+    The Ninth Circuit, however, has held that the Guidelines'
+aggravated felony enhancement depends on the effective date of
+the statutory amendment.  In United States v. Fuentes-Barahona,
+111 F.3d 651 (9th Cir. 1997) , the court held that the citation to
+8 U.S.C. 1101(43) in Application Note 7 to Guidelines  2L1.2
+
+---------------------------------------- Page Break ----------------------------------------
+
+10
+
+(see note 2, supra ), created an ambiguity as to whether the
+statutory effective date should apply to the Guideline as well.
+Relying on the rule of lenity, the court therefore barred the
+application of the Guidelines' enhancement where the prior
+offense was not an aggravated felony under that court's
+interpretation of the statutory definition in 8 U.S.C.
+1101 (a) (43) at the time the prior offense was committed.
+Fuentes-Barahona, 111 F.3d at 652-653.
+    In our view, Fuentes-Barahona is incorrect.  There is no
+foundation for the suggestion that the citation to Section
+1101(a) (43) in Application Note 7 incorporates sub silentio the
+statutory effective-date provision into Guidelines 2L1.2 (b) (2).
+The cited codification of the statutory section does not contain
+the statutory effective-date language.
+    In any event, the disagreement between the decision below
+and Fuentes-Barahona on the interpretation of Guidelines  2L1.2
+does not warrant this Court's review.  The Sentencing Commission
+is charged with " [periodically reviewing] the work of the
+courts, and [making] whatever clarifying revisions to the
+Guidelines conflicting judicial decisions might suggest. "
+Braxton v. United States, 500 U.S. 344, 348 (1991).  Circuit
+conflicts on issues of  Guidelines interpretation are thus not
+ordinarily a reason to grant certiorari.  Indeed, the Sentencing
+Commission has now proposed an amendment to Guidelines  2L1.2
+that will resolve this issue in a manner consistent with the
+decision of the court below.  The proposed amendment would delete
+
+---------------------------------------- Page Break ----------------------------------------
+
+11
+
+the current definition of aggravated felony in Guidelines
+2L1.2(b)(2), Application Note 7 and, in lieu of it, would adopt
+the aggravated felony definition set out in 8 U.S.C. 1101(a) (43)
+"without regard to the date of conviction of the aggravated 
+felony."  62 Fed. Reg. 26,616, 26,630 (May 14, 1997).  Subject to
+review by Congress, the amended Guidelines provision will go into
+effect. on November 1, 1997.
+    2. Even if application of Guidelines  2L1.2 (b) (2) were
+limited by the effective date of the statutory amendment to 8
+U.S.C. 1101(a) (43) that added crimes of violence, it would not
+assist petitioner.4  Before 1990, the definition of an
+
+___________________(footnotes)
+
+      4   Although petitioner devotes most of his petition to the
+effective date of the statutory amendment (Pet. 4-17) , his legal
+challenge is necessarily limited to the offense-level enhancement
+under Guidelines  2L1.2(b) (2) because the amendment to 8 U.S.C.
+1101(a) (43), broadening the definition of aggravated felony for
+purposes of 8 U.S.C. 1326(b) (2), had no impact on his case.
+Although petitioner was notified, before his plea and sentencing,
+that the statutory maximum authorized in his case was 20 years
+under 8 U.S.C. 1326(b) (2) because of the prior aggravated felony
+conviction that preceded his deportation, the term of
+imprisonment actually imposed, 46 months, was less than the 10-
+year imprisonment term authorized under 8 U.S.C. 1326(b) (1) in
+cases involving convictions of aggravated felonies before
+deportation.  Thus , even if petitioner's prior burglary
+conviction had constituted only a aggravated felony for
+purposes of 8 U.S.C. 1326, his sentence was fully authorized by
+Section 1326(b) (l).
+
+    Several courts of appeals have held that a defendant who
+pleads guilty under 8 U.S.C. 1326(b) (1) can receive the 16-level
+aggravated felony enhancernent under Guidelines  2L1.2 (b) (2) .
+See, United States v. Eversley, 55 F.3d 870, 872 (3d Cir.
+1995) ("The structure and language of the guidelines make clear
+that subsection (b) (2) of 2L1.2 applies to violations of 
+1326.") ; United States v. Pens-Carrillo, 46 F.3d 879, 883-885
+(9th Cir.) (16-level Guideline enhancement properly applied even
+where Section 1326(b) (2) increase in maximum punishment did not
+apply) , cert. denied, 514 U.S. 1122 (1995); United States v.
+Frias-Trujillo, 9 F.3d 875, 877-878 (l0th Cir. 1993) [ T]here is
+
+---------------------------------------- Page Break ----------------------------------------
+
+12                 
+                                       
+"aggravated felony" in 8 U.S.C. 1101 (a) (43) did not include
+crimes of violence.  In 1990, Congress expanded the aggravated
+felony definition in  Section 1101(a) (43) to include, among other      I
+things, crimes of violence for which the term of imprisonment
+imposed is at least five years.  Immigration Act of 1990 (1990
+Act), pub. L. No. 101-649,  501(a) (3) , 104 Stat. 5048.  The
+relevant effective date section provided, in pertinent part, that
+the amendments to the definition "shall apply to offenses
+committed on or after the date of the enactment of this Act," 
+i.e  November 29, 1990. Id. at  501(b), 104 Stat. 5048.
+    The court below and the Fourth Circuit have construed the
+term "offenses" in the effective date provision of the 1990 Act,
+correctly in our view, to refer to the offense of illegal reentry
+in violation of 8 U.S.C. 1326.  See United States v. Campbell, 94
+F.3d 125, 127-128 (4th Cir. 1996), cert. denied, 117 S. Ct. 1847
+(1997) ; United States v. Garcia-Rico, 46 F.3d 8, 9-10 (5th cir.) ,
+cert . denied, 515 U.S. 1150 (1995).  Under that interpretation of
+the effective date provision, the expanded statutory definition
+of aggravated felony applies in the cases of all aliens,
+including petitioner, who committed a violation of Section 1326
+on or after November 29, 1990, regardless whether the prior
+felony conviction used as a predicate for enhanced punishment
+predated that statutory effective date.
+
+___________________(footnotes)
+
+no indication that the [Sentencing] Commission intended to
+establish a direct correlation between the respective subsections
+of  1326 and L1.21b) .").
+
+---------------------------------------- Page Break ----------------------------------------
+
+13
+      
+    The Ninth Circuit has reached a contrary conclusion. In
+United States v. Gomez-Rodriquez, 96 F.3d 1262 (9th Cir. 1996)
+(en bane), the court interpreted the term "offense[] " in the 1990
+amendment's effective date provision to refer to an alien's prior
+felony offense, rather than to the alien's Section 1326 reentry
+offense.5  Under that view, an offense that was added to the
+definition of aggravated felony in 1990 would be treated as such
+for sentencing purposes in a Section 1326 case only if that prior
+offense was itself committed on or after the amendment's November
+
+___________________(footnotes)
+
+    5  In Gomez-Rodriquez,  the defendant was indicted under
+U.S.C. 1326(b) (2), rather than under Section 1326 generally,
+because the ninth Circuit, alone among the courts of appeals
+address the question, has held that Sections 1326(b) (1) and
+(b) (2) create separate offenses, independent of Section 1326(a) ,
+so that the pertinent prior convictions must be charged and
+proven as elements of the offense.  See United States v. Campos-
+Martinez 976 F.2d 589, 592 (9th Cir. 1992).  This Court has
+granted certiorari to address the question whether the aggravated
+felony must be charged in the indictment and proven as an element
+of the offense.  See Almendarez-Torres v. United States, ,No. 96-
+6839 (to be argued Oct. 14, 1997).  Petitioner has not, however,
+raised that issue in his case.  Although Fifth Circuit law does
+not require that a defendant's prior conviction be alleged in the
+indictment or proven as an element of the offense, see United
+States v. Vasquez-O1vera, 999 F.2d 943 (5th Cir. 1993), cert.
+denied, 510 U.S. 1076 (1994), petitioner's prior aggravated
+felony conviction was alleged in the indictment and his
+indictment was brought under both Sections 1326(a) and (b) (2) .
+C.A.E.R. Item 2.  The court that accepted petitioner's guilty
+plea listed his prior aggravated felony conviction as an element
+of the offense to which he pleaded guilty (Feb. 1, 1996, tr. 10-
+11), and petitioner expressly admitted at the plea hearing, as
+part of the factual basis for his guilty plea, that he previously
+had been convicted of an aggravated felony (. at 15).  Thus ,
+even if the Court were to hold in Almendarez-Torres that Sections
+1326(b) (1) and (b) (2) create separate offenses,  petitioner's
+indictment and guilty plea proceedings would satisfy the
+requirements for a conviction under Section 1326(b) (2) .
+
+---------------------------------------- Page Break ----------------------------------------
+
+14
+
+29, 1990, effective date.  Gomez-Rodriguez, 96 F.3d at 1264-
+1265. 6
+    That disagreement over the interpretation of.the Statutory
+effective date does not warrant review by this Court, however,
+because subsequent action by Congress has limited the
+significance of Gomez-Rodriguez.  In 1996, Congress amended the
+statutory definition of aggravated felony to state explicitly
+that the current statutory definition (which was broadened
+further to include any crime of violence for which the term of
+imprisonment is at least one year) will apply in the prosecution
+of all violations of 8 U.S.C. 1326 that occur on or after the
+date the amendment was enacted, i.e, September 30, 1996, without
+regard to the date of the prior conviction.  See Illegal
+Immigration Reform and Immigrant Responsibility Act of 1996
+(IIRIRA), Pub. L. No. 104-208, Div. C, Title III  321 and 322,
+110 Stat. 3009-627 through 3009-629.  Specifically, Section
+321(b) of IIRIR.A adds the following sentence to
+U.S.C. 1101(a) (43):
+   
+    Notwithstanding any other provision of law(including any
+effective date), the term applies regardless of whether the
+conviction was entered before, on, or after the date of
+enactment of this paragraph.
+
+___________________(footnotes)
+
+    6   Petitioner points out (Pet. 15) that certain
+administrative interpretations by the INS and the Board of
+Immigration Appeals have been consistent with the holding in
+Gomez-Rodriquez .  Like the decision in Gomez-Rodriguez itself,
+those administrative rulings have no hearing on the availability
+of an offense-level enhancement pursuant to Sentencing Guidelines
+ 2L1.2 (b)(2).
+
+---------------------------------------- Page Break ----------------------------------------
+
+15
+
+IIRIRA, Section 321(b), 110 Stat. 3009-628.  The effective date
+provision for that amendment, set forth in IIRIRA Section 321(c) ,
+further provides:
+
+    Effective Date The amendments made by this section shall
+apply to actions taken on or after the date of the enactment
+of this Act [September 30, 1996], regardless of when the
+conviction occurred, and shall apply under Section 276(b) of
+the Immigration and Nationality Act [8 U.S.C. 1326(b)] only
+to violations of section 276(a) of such Act [8 U.S.C.
+1326(a)] occurring on or after such date.
+
+IIRIRA, Section 321(c), 110 Stat. 3009-628.  Congress has thereby
+amended Section 1101 (a) (43) to reject the Gomez-Rodriguez
+approach in all cases involving violations of 8 U.S.C. 1326 after
+September 30, 1996.
+
+CONCLUSION
+
+The petition for a writ of certiorari should be denied.
+
+Respectfully submitted.
+
+SETH P. WAXMAN
+Acting Solicitor General
+
+JOHN C. KEENEY
+Acting Assistant Attorney General
+
+WILLIAM C. BROWN
+Attorney
+
+SEPTEMBER 1997
+

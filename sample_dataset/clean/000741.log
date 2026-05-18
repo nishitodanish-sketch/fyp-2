@@ -1,0 +1,296 @@
+<!-- Title: Owl shift. Fri Feb 11, 2005 -->
+<!-- SciCo: Young-Kee Kim -->
+<!-- DAQAce: Veronique Boisvert -->
+<!-- MonAce: Peter Wagner -->
+<!-- CO: Ankush Mitra -->
+<!-- OpManager: Bob Wagner -->
+<!-- Notes: -->
+<pre>Supervised access in progress 
+Plug sourcing in progress 
+</pre>
+
+
+<!-- Date: Fri Feb 11 00:15:56.496 2005 -->
+<table><tr><td><a href=/cgi/elog/elog.pl?nb=2005&action=view&page=-2324&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/elog.pl?nb=2005&action=view&page=-2325  width='300' align='top'></a></td><td>screen capture of the inhibit gui</td></tr></table>
+<!-- Author: Veronique -->
+<!-- Comment: Fri Feb 11 00;23;45 comment by...Veronique -->
+using program gimp
+<!-- Comment: Fri Feb 11 00;57;30 comment by...Donatella T -->
+I made a new version (v4_0) of the inhibits GUI with the fix for the VME slot, now read from the DB, as it should be.
+You'll get this version next time you restart the GUI.
+<!-- Date: Fri Feb 11 00:17:53.415 2005 -->
+L2 dead time is at 98% and L3 input is very low. Don't know why. 
+<!-- Author: Veronique :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193626' target=_top>193626</a>) -->
+<!-- Comment: Fri Feb 11 08;53;34 comment by...Cheng-Ju -->
+<pre>There is a hot calorimeter tower (light leak??) that's driving L1A unprescaled rate to ~1MHz.  You can reduce the deadtime by manually changing the prescale to that L1 trigger bit to zero.  </pre>
+<!-- Date: Fri Feb 11 00:23:12.164 2005 -->
+In Vxworks we have red b0l2pu00.Even though we are running L2Torture, we are not including any pulsar crates. 
+<!-- Author: Veronique :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193626' target=_top>193626</a>) -->
+<!-- Comment: Fri Feb 11 08;51;18 comment by...Cheng-Ju -->
+<pre>Yes, L2Pulsar is not at the moment included in L2TORTURE runs by default.  We'll change it after the silicon D-Mode this
+afternoon so Pulsar is in default L2TORTURE.
+
+</pre>
+<!-- Date: Fri Feb 11 00:43:44.378 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193626">193626</A>
+TERMINATE: plug sourcing starts
+<!-- Author: Veronique (X2080) -->
+
+
+
+
+<!-- Date: Fri Feb 11 01:29:52.701 2005 -->
+<pre>PSM showed red Endplug -&gt; EPSW_1 (b0pcal02) at 0.3V 
+ 
+Since crate was not accessible (end plug was not out) we had to power-cycle.  
+That means (I couldn't find a description for this): Open "Racks" in "Process System Alarms" -&gt; "Detector Racks West" -&gt;  "EPSW" -&gt; click on "Reset Power Supply #1". Then wait a few minutes until it is green, and do a SMX calibration. 
+</pre>
+<!-- Author: Peter -->
+
+<!-- Date: Fri Feb 11 01:34:06.099 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193628">193628</A>
+ACTIVATE: RunSet: SMQIECALIB 
+<!-- Author: Veronique (X2080) -->
+
+
+<!-- Date: Fri Feb 11 01:45:27.866 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193628">193628</A>
+TERMINATE: done with smx calib because of power cycle.
+<!-- Author: Veronique (X2080) -->
+
+
+<!-- Date: Fri Feb 11 01:47:36.064 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193629">193629</A>
+ACTIVATE: RunSet: SMQIECALIB redoing because previous one looked bad...
+<!-- Author: Veronique (X2080) -->
+
+
+<!-- Date: Fri Feb 11 01:52:51.023 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193629">193629</A>
+TERMINATE: done with second try
+<!-- Author: Veronique (X2080) -->
+<!-- Comment: Fri Feb 11 01;54;55 comment by...Veronique -->
+this time it seems to be a good one looking  in DBANA!
+
+<!-- Date: Fri Feb 11 02:19:32.538 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193630">193630</A>
+TERMINATE: Plug Sourcing, PEM 0.0, tubes 3 & 4
+<!-- Author: oscar x2080 -->
+
+
+<!-- Date: Fri Feb 11 04:05:07.194 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193637">193637</A>
+TERMINATE: Plug sourcing PEM 0.1, tubes 12 & 13
+<!-- Author: oscar x2080 -->
+
+
+<!-- Date: Fri Feb 11 04:05:08.678 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193639">193639</A>
+TERMINATE: Plug sourcing PEM 1.0, tubes 21 & 22
+<!-- Author: oscar x2080 -->
+
+
+<!-- Date: Fri Feb 11 04:33:30.372 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193641">193641</A>
+TERMINATE: Plug sourcing PES 0.0, tubes 28 & 29
+<!-- Author: oscar x2080 -->
+
+
+<!-- Date: Fri Feb 11 04:33:31.702 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193642">193642</A>
+TERMINATE: Plug sourcing PES 0.0, tubes 30 & 31
+<!-- Author: oscar x2080 -->
+
+
+<!-- Date: Fri Feb 11 04:45:15.303 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193643">193643</A>
+TERMINATE: Plug sourcing PEM 1.1, tubes 34 & 35
+<!-- Author: oscar x2080 -->
+
+
+<!-- Date: Fri Feb 11 04:47:30.341 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193645">193645</A>
+TERMINATE: Plug sourcing PEM 2.0, tubes 43 & 44
+<!-- Author: oscar x2080 -->
+
+
+<!-- Date: Fri Feb 11 05:03:02.899 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193647">193647</A>
+TERMINATE: Plug sourcing PEM 2.1, tubes 61 & 62
+<!-- Author: oscar x2080 -->
+
+
+<!-- Date: Fri Feb 11 05:09:33.573 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193649">193649</A>
+TERMINATE: Plug sourcing PEM 3.0, tubes 61 & 62
+<!-- Author: oscar x2080 -->
+
+
+<!-- Date: Fri Feb 11 05:33:35.408 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193651">193651</A>
+TERMINATE: Plug sourcing PEM 3.1, tubes 70 & 71
+<!-- Author: oscar x2080 -->
+
+
+<!-- Date: Fri Feb 11 05:33:36.481 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193653">193653</A>
+TERMINATE: Plug sourcing PEM 4.0, tubes 79 & 80
+<!-- Author: oscar x2080 -->
+
+
+<!-- Date: Fri Feb 11 05:48:13.434 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193655">193655</A>
+TERMINATE: Plug sourcing PES 3.0, tubes 86 & 87
+<!-- Author: oscar x2080 -->
+
+
+<!-- Date: Fri Feb 11 05:59:27.558 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193656">193656</A>
+TERMINATE: Plug sourcing PES 5.0, tubes 88 & 89
+<!-- Author: oscar x2080 -->
+
+
+<!-- Date: Fri Feb 11 06:08:43.194 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193657">193657</A>
+TERMINATE: Plug sourcing PEM 4.1, tubes 92 & 93
+<!-- Author: oscar x2080 -->
+
+
+<!-- Date: Fri Feb 11 06:20:50.664 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193659">193659</A>
+TERMINATE: Plug sourcing PEM 5.0, tubes 101 & 102
+<!-- Author: oscar x2080 -->
+
+
+<!-- Date: Fri Feb 11 06:51:25.338 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193663">193663</A>
+TERMINATE: Plug sourcing PEM 5.1, tubes 110 & 111
+<!-- Author: oscar x2080 -->
+
+
+
+<!-- Date: Fri Feb 11 07:02:22.831 2005 -->
+<pre>We did the sourcing of the whole PEM and shower-max in the plug. We had several problems with the new computer and the communication with RC which will be addressed during daytime when experts are around. 
+ 
+We may need further time (if available) during the access to finish the scan of the plug, i.e. scan of the PHA (2-3 hours). 
+</pre>
+<!-- Author: Oscar and Alexei -->
+
+
+<!-- Date: Fri Feb 11 07:22:15.670 2005 -->
+Trying to run L2Torture. L3 would not partition. Reset. evb turned red and instructed to clean up evb. Did that. L3 would still not partition (turn red). Then stopped and started L3 proxy. That fixed it. (so did not have to clean L3!).
+<!-- Author: Veronique -->
+
+<!-- Date: Fri Feb 11 07:22:49.720 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193664">193664</A>
+ACTIVATE: RunSet: L2TORTURE  Trigger: L2_TORTURE [16,561,539] 
+<!-- Author: Veronique (X2080) -->
+
+
+<!-- Date: Fri Feb 11 07:27:03.403 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193664">193664</A>
+TERMINATE: did not work: in Active state but nothing happening and HRR doesn't help. got b0pcal02 busy TO, but after HRR turned green.
+<!-- Author: Veronique (X2080) -->
+
+
+<!-- Date: Fri Feb 11 07:30:56.253 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193665">193665</A>
+ACTIVATE: RunSet: L2TORTURE  Trigger: L2_TORTURE [16,561,539] 
+<!-- Author: Veronique (X2080) -->
+
+
+<!-- Date: Fri Feb 11 07:34:35.807 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193665">193665</A>
+TERMINATE: again not working
+<!-- Author: Veronique (X2080) -->
+
+
+
+<!-- Date: Fri Feb 11 07:35:51.706 2005 -->
+same scenario: got busy TO from b0pcal02. Did HRR, turned green. In active it doesn't take any events, nothing is happening. Went to halt, shepherd b0pcal02. Recover, run, still nothing happening. suspecting evb problem.
+<!-- Author: Veronique -->
+
+<!-- Date: Fri Feb 11 07:38:54.061 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193666">193666</A>
+ACTIVATE: RunSet: L2TORTURE  Trigger: L2_TORTURE [16,561,539] 
+<!-- Author: Veronique (X2080) -->
+
+
+<!-- Date: Fri Feb 11 07:49:26.418 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193666">193666</A>
+TERMINATE: I think this is a magic 16 evts case
+<!-- Author: Veronique (X2080) -->
+
+
+
+<!-- Date: Fri Feb 11 07:50:26.813 2005 -->
+checked the scramnet: can't login to b0tsi00 because cdfdaq is logged in via rlogin... looked at open windows just in case to see if somewhere it's logged in. no. Going to start state to reboot b0tsi00.
+<!-- Author: Veronique -->
+
+
+<!-- Date: Fri Feb 11 07:52:39.242 2005 -->
+<font color=red>Shift Summary: </font><pre>1. PSM alarm went off just before midnight due to EPSW_1 channel 0 (b0pcal02) at 0.3V. Couldn't reset the crate in the collision hall - not accessible. Power-cycled. SMX calibration done. 
+ 
+2. PEM and Plug Shower Max souce calibration is done. 
+PHA to be done - they will discuss with Ops manager. 
+</pre> 
+<!-- Author: Young-Kee -->
+
+<!-- Date: Fri Feb 11 07:55:46.057 2005 -->
+<TABLE BORDER=2 CELLSPACING=1 CELLPADDING=1 BGCOLOR=WHITE>
+<TR BGCOLOR=YELLOW><TH>Run Number</TH>
+<TH>Data Type</TH>
+<TH>Physics Table</TH>
+<TH>Begin Time</TH>
+<TH>End Time</TH>
+<TH>Live Time</TH>
+<TH>L1 Accepts</TH>
+<TH>L2 Accepts</TH>
+<TH>L3 Accepts</TH>
+<TH>Live Lumi, nb-1</TH>
+<TH>GR</TH>
+<TH>SC</TH>
+<TH>RC</TH></TR>
+
+<TR><TD>Totals</TD>                                                     
+<TD> </TD>                                                              
+<TD> </TD>                                                              
+<TD> </TD>                                                              
+<TD>07:55:03</TD>                                                       
+<TD ALIGN=CENTER>::</TD>                                                
+<TD ALIGN=RIGHT></TD>                                                   
+<TD ALIGN=RIGHT></TD>                                                   
+<TD ALIGN=RIGHT></TD>                                                   
+<TD ALIGN=RIGHT></TD>                                                   
+<TD> </TD>                                                              
+<TD> </TD>                                                              
+<TD> </TD></TR>                                                         
+                                                                        
+</TABLE>
+<!-- Author: End of Shift Report -->
+
+
+
+<!-- Date: Fri Feb 11 08:00:54.017 2005 -->
+think it's 16 evts problems. Saverio found the window that was logged in to b0tsi00. so now cleaning up evb since we are logged off from botsi00. So to be clear: I did not reboot b0tsi00, we just logged out. We are in start state during all of this.
+<!-- Author: Veronique -->
+
+<!-- Date: Fri Feb 11 08:06:08.795 2005 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=193667">193667</A>
+ACTIVATE: RunSet: L2TORTURE  Trigger: L2_TORTURE [16,561,539] 
+<!-- Author: Saverio (X2080) -->
+
+
+
+<!-- Date: Fri Feb 11 08:17:09.952 2005 -->
+same symptoms (busy TO, and 16 evts). ended again. did vxboot b0tsi00 and clean up evb. b0tsi00 turned red. Shepherd it. clean up evb again. <font color=red><cite>(entry outside this shift's time range )</cite></font>
+<!-- Author: Veronique and Saverio -->
+
+
+<!-- Date: Fri Feb 11 08:20:21.109 2005 -->
+CMX HV is still under expert control.  Continue repecting <a href= 
+'/cgi/elog/elog.pl?nb=2005&action=view&page=122&frame=2&anchor=08:31:08.560'> 
+these instructions</a>. <font color=red><cite>(entry outside this shift's time range )</cite></font>
+<!-- Author: Dale and Phil -->
+
+

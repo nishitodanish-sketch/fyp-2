@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GranuleMetaDataFile SYSTEM "http://ecsinfo.gsfc.nasa.gov/ECSInfo/ecsmetadata/dtds/DPL/ECS/M2XTGranuleMetadata.dtd">
+<GranuleMetaDataFile>
+    <DTDVersion>1.0</DTDVersion>
+    <DataCenterId>LARC</DataCenterId>
+    <GranuleURMetaData>
+        <GranuleUR>SC:TL3HNOD.001:19031569</GranuleUR>
+        <DbID>19031569</DbID>
+        <InsertTime>2007-09-27 20:31:11.14</InsertTime>
+        <LastUpdate>2007-09-27 20:31:11.14</LastUpdate>
+        <CollectionMetaData>
+            <ShortName>TL3HNOD</ShortName>
+            <VersionID>1</VersionID>
+        </CollectionMetaData>
+        <DataFiles>
+            <DataFileContainer>
+                <DistributedFileName>TES-Aura_L3-HNO3_r0000002825_F01_04.he5</DistributedFileName>
+                <FileSize>653831</FileSize>
+                <ChecksumType>ECS</ChecksumType>
+                <Checksum>4350308200974384062</Checksum>
+                <ChecksumOrigin>STMGT</ChecksumOrigin>
+            </DataFileContainer>
+        </DataFiles>
+        <ECSDataGranule>
+            <SizeMBECSDataGranule>0.653831</SizeMBECSDataGranule>
+            <LocalGranuleID>TES-Aura_L3-HNO3_r0000002825_F01_04.he5</LocalGranuleID>
+            <ProductionDateTime>2007-09-27 23:46:38.0</ProductionDateTime>
+            <LocalVersionID>L3_Products:R10.02.00</LocalVersionID>
+        </ECSDataGranule>
+        <PGEVersionClass>
+            <PGEVersion>R10.02.00</PGEVersion>
+        </PGEVersionClass>
+        <RangeDateTime>
+            <RangeEndingTime>12:28:32.9161520</RangeEndingTime>
+            <RangeEndingDate>2005-03-29</RangeEndingDate>
+            <RangeBeginningTime>10:07:22.1908260</RangeBeginningTime>
+            <RangeBeginningDate>2005-03-28</RangeBeginningDate>
+        </RangeDateTime>
+        <SpatialDomainContainer>
+            <GranuleLocality>
+                <LocalityValue>Global</LocalityValue>
+            </GranuleLocality>
+            <HorizontalSpatialDomainContainer>
+                <BoundingRectangle>
+                    <WestBoundingCoordinate>-180.0</WestBoundingCoordinate>
+                    <NorthBoundingCoordinate>90.0</NorthBoundingCoordinate>
+                    <EastBoundingCoordinate>180.0</EastBoundingCoordinate>
+                    <SouthBoundingCoordinate>-90.0</SouthBoundingCoordinate>
+                </BoundingRectangle>
+            </HorizontalSpatialDomainContainer>
+        </SpatialDomainContainer>
+        <MeasuredParameter>
+            <MeasuredParameterContainer>
+                <ParameterName>Granule</ParameterName>
+                <QAFlags>
+                    <ScienceQualityFlag>Not Investigated</ScienceQualityFlag>
+                </QAFlags>
+            </MeasuredParameterContainer>
+        </MeasuredParameter>
+        <Platform>
+            <PlatformShortName>Aura</PlatformShortName>
+            <Instrument>
+                <InstrumentShortName>TES</InstrumentShortName>
+                <Sensor>
+                    <SensorShortName>FTS</SensorShortName>
+                </Sensor>
+                <OperationMode>Routine</OperationMode>
+            </Instrument>
+        </Platform>
+        <InputGranule>
+            <InputPointer>Production History block at: /HDFEOS/ADDITIONAL/FILE_ATTRIBUTES/PRODUCTION_HISTORY</InputPointer>
+        </InputGranule>
+        <BrowseProduct>
+            <BrowseGranuleId>:BR:Browse.001:19031570:1.BINARY</BrowseGranuleId>
+        </BrowseProduct>
+    </GranuleURMetaData>
+</GranuleMetaDataFile>
+

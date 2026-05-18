@@ -1,0 +1,7 @@
+<META Name="photo_id" Content="S67-35258">
+<META Name="filename" Content="10074747.jpg">
+<META Name="caption" Content="Astronaut living quarters in Crew Reception Area of Lunar Receivng Laboratory">
+<META Name="description" Content="Typical astronaut living quarters in the Crew Reception Area of Lunar Receivng Laboratory, bldg 37, Manned Spacecraft Center, Houston, Texas.">
+<META Name="keywords" Content="images, USA, Apollo Overviev, text, apollo project, confinement, facilities, habitation modules, isolation, johnson space center, laboratories, layouts, texas">
+<META Name="credit" Content="Image and text courtesy of Johnson Space Center">
+<META Name="order_info" Content="JSC Office of Public Affairs<br>External Affairs Branch<br>Mail Code AP4<br>2101 NASA Road 1<br>Houston, TX 77058<br>Fax: (713) 483-2000<br>">

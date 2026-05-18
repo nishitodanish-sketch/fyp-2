@@ -1,0 +1,792 @@
+
+
+
+<HEAD>
+<link rel="stylesheet" href="/~leggett/default.css" type="text/css"> 
+</HEAD>
+
+<TITLE>Joshua Tree, Dec 24 2003 - Jan 3 2004</TITLE>
+<body TEXT=white  LINK=cyan ALINK=violet VLINK=cyan BACKGROUND="/~leggett/images/purpleborder2.gif">
+
+
+
+<script language="JavaScript">
+
+function Set_Cookie( name, value, expires, path, domain, secure ) 
+{
+// set time, it's in milliseconds
+var today = new Date();
+today.setTime( today.getTime() );
+
+/*
+if the expires variable is set, make the correct 
+expires time, the current script below will set 
+it for x number of days, to make it for hours, 
+delete * 24, for minutes, delete * 60 * 24
+*/
+if ( expires )
+{
+expires = expires * 1000 * 60 * 60 * 24;
+}
+var expires_date = new Date( today.getTime() + (expires) );
+
+document.cookie = name + "=" +escape( value ) +
+( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) + 
+( ( path ) ? ";path=" + path : "" ) + 
+( ( domain ) ? ";domain=" + domain : "" ) +
+( ( secure ) ? ";secure" : "" );
+}
+</script>		
+
+
+
+<script language="JavaScript">
+// this function gets the cookie, if it exists
+function Get_Cookie( name ) {
+	
+var start = document.cookie.indexOf( name + "=" );
+var len = start + name.length + 1;
+if ( ( !start ) &&
+( name != document.cookie.substring( 0, name.length ) ) )
+{
+return null;
+}
+if ( start == -1 ) return null;
+var end = document.cookie.indexOf( ";", len );
+if ( end == -1 ) end = document.cookie.length;
+return unescape( document.cookie.substring( len, end ) );
+}
+</script>
+
+
+<script language="JavaScript">
+    if (!Get_Cookie("PermSessKey")) {
+         Set_Cookie("PermSessKey","XA53ANWdEfzJw","9999","/","","");
+     }
+</script>
+
+
+
+<table border=0 width="100%" height="100%" cellpadding=3 cellspacing=0>
+<tr>
+<td colspan=2 height="100" VALIGN=TOP><table width=100% cellpadding=0>
+<tr>
+<th align=center width="10%"><a href="http://www.lbl.gov" target="_top">
+<img border=0 src="/~leggett/images/lbls_t3.gif" ALT="LBNL Homepage"></a></th>
+<th align=center width=80%>
+<font color="#FF0040" size=5>Joshua Tree, Dec 24 2003 - Jan 3 2004</font></th>
+<th align=right width="10%"><a href="http://www.nersc.gov" target="_top">
+<img border=0 src="/~leggett/images/nersc_sb.gif" ALT="NERSC Homepage"></a></th>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td rowspan=3 width="1%" VALIGN=TOP>
+<center><A href="http://atlasinfo.cern.ch/Atlas/Welcome.html">
+<img border=0 src="/~leggett/images/atlas_logo4_b.gif"></A></center>
+
+<table cellpadding=0 cellspacing=0 border=0>
+<tr><td height=80></td></tr>
+<tr><td><A HREF="/~leggett/main.shtml"><img border=0 src="/~leggett/images/pbut_home.gif"></A></td></tr>
+<tr><td height=2></td><tr>
+<tr><td><A HREF="/~leggett/proj.shtml"><img border=0 src="/~leggett/images/pbut_proj.gif"></td></tr>
+<tr><td height=2></td><tr>
+<tr><td><A HREF="/~henp/bios.html"><img border=0 src="/~leggett/images/pbut_henp.gif"></td></tr>
+<tr><td height=2></td><tr>
+<tr><td><A HREF="/~leggett/lbnl.shtml"><img border=0 src="/~leggett/images/pbut_lbnl.gif"></td></tr>
+<tr><td height=2></td><tr>
+<tr><td><A HREF="/~leggett/Atlas/main.shtml"><img border=0 src="/~leggett/images/pbut_atlas.gif"></td></tr>
+<tr><td height=2></td><tr>
+<tr><td><A HREF="/~leggett/D0/main.shtml"><img border=0 src="/~leggett/images/pbut_D0.gif"></td></tr>
+<tr><td height=2></td><tr>
+<tr><td><A HREF="/bench"><img border=0 src="/~leggett/images/pbut_bench.gif"></td></tr>
+
+<tr><td height=25></td><tr>
+<tr><td><A HREF="/~leggett/contact/main.shtml"><img border=0 src="/~leggett/images/pbut_info.gif"></td></tr>
+<tr><td height=2></td><tr>
+<tr><td><A HREF="/~leggett/misc.shtml"><img border=0 src="/~leggett/images/pbut_misc.gif"></td></tr>
+<tr><td height=2></td><tr>
+<tr><td><A HREF="/~leggett/nwork/main.shtml"><img border=0 src="/~leggett/images/pbut_nwork2.jpg"></td></tr>
+<tr><td height=0></td><tr>
+<tr><td align=right><A HREF="/~leggett/pictures/main.shtml"><img border=0 src="/~leggett/images/pbut_pic2.gif"></td></tr>
+<tr><td height=2></td><tr>
+<tr><td><A HREF="/~leggett/quotes.shtml"><img border=0 src="/~leggett/images/pbut_quotes.gif"></td></tr></table>
+</td>
+
+<td VALIGN=TOP><center>
+<div class="thumb">
+<table border=1 cellpadding=3 bgcolor=gray><tr><th>
+<font size=2><a href="thumb/">thumbnails and album</a></font>
+</th></tr></table>
+</div><p>
+<div class="pics">
+
+<A HREF="thumb/viewF.cgi?sunset.jpg"><IMG SRC="small/sunset2.jpg"></A><br>
+<font color=#A539AD size=1>(1600x1200 at 172 kb)</font>
+
+
+<table width=80%><tr><td>
+
+Since I missed out on the Thanksgiving trip, due to my 
+<A href="http://annwm.lbl.gov/~leggett/pictures/yosemite_10-25-03">bum knee</a>
+I had to make up for it by staying in Joshua tree twice as long as
+everybody else. There were two waves of participants this year -
+Daniel, Tina and I drove down on the 24, and they stayed 'till
+the 29th. The second wave, consisting of Jack, John and Michelle, Matt
+and Susan, Joel and Linda, and Dan and Lynsey, started showing up 
+late on the 28th, and slowly trickled in over the next few days, 
+staying until the 2nd or 3rd.<p>
+
+For the second year in a row, Tina, Daniel and I made the long
+trek on Christmas eve, and had dinner at the Domino's in
+Yucca Valley. This time though we were much more comfortable in
+my Subaru, as I had invested in a large Thule roof box last time
+they were on sale at REI. It made the car handle like a whale 
+(especially with three large people, lots of gear, and 15 gallons
+of water), but it was a spacious whale.<p>
+
+Daniel's friends Jim and Brenda had gotten us a site, so we
+didn't have any problems camping that evening. It was surprisingly
+pleasant, temperature wise, but the temp dropped like a stone 
+in the middle of the night, and we awoke to frozen water bottles.<p>
+
+<font size=4><b>Thursday Dec 25 - Old Woman</b></font><p>
+<pre>
+Toe Jam 5.7
+Bearded Cabbage 5.10c
+Pinched Rib 5.10b
+</pre>
+
+The day started off partially overcast, but we were game to get on
+the rock, so we put up with the cold and walked over to the Old Woman.
+We ran up <b><A href="../db/main.shtml#toe jam">Toe Jam</A></b> (5.7),
+the moved over a few feet where I led
+<b><A href="../db/main.shtml#bearded cabbage">Bearded Cabbage</A></b> (5.10c).
+Had a bit of a problem at the crux, where one moves from the rail to
+the crack - Toe Jam was an insufficient warmup for that big move.
+Daniel and Tina followed it, as well as Jim and Tony who had joined us.
+After going up it a second time, we moved back to the camp site, where
+Daniel led 
+<b><A href="../db/main.shtml#pinched rib">Pinched Rib</A></b> (5.10b). A
+one move wonder, but still fun. </table><p>
+
+<table><tr><td>
+<A HREF="thumb/viewF.cgi?DSCN0068.JPG"><IMG SRC="small/DSCN0068.JPG"></A><br>
+<font color=#A539AD size=1>(1600x1200 at 412 kb)</font></td><td>
+<A HREF="thumb/viewF.cgi?DSCN0077.JPG"><IMG SRC="small/DSCN0077.JPG"></A><br>
+<font color=#A539AD size=1>(1200x1600 at 400 kb)</font>
+</tr>
+<tr><th colspan=2>Daniel and Tina on Bearded Cabbage</tr>
+</table><p>
+
+<table width=80%><tr><td>
+
+As we were finishing off, we started to
+feel the pitter patter of rain and the wind began to pick up. Jim had
+rigged a huge tarp against the rock, and we huddled in there as the
+skied opened up. The deluge was upon us, and torrential rain compounded
+by fierce gusting winds battered us. Neither Tina nor Daniel had brought
+any wet weather gear, and proceeded to get totally soaked. We cooked a
+hasty dinner under the tarp, then retreated to the tents. I have never
+seen a desert storm as intense as this one - huge rivulets of water
+chewed fresh arroyos in the sand, with rivers 2 feet deep washing
+over the roads and paths. Many people made the mistake of pitching
+tents in runoff channels, and ended up completely soaked - I was
+fortunate to have pitched my tent in an area with good drainage,
+and so managed to avoid this calamity. Many people got up in the
+middle of the night and headed for a motel to dry out.
+</table><p>
+
+<table><tr><td>
+<A HREF="thumb/viewF.cgi?DSCN0081.JPG"><IMG SRC="small/DSCN0081.JPG"></A><br>
+<font color=#A539AD size=1>(1600x1200 at 416 kb)</font></td><td>
+<A HREF="thumb/viewF.cgi?DSCN0082.JPG"><IMG SRC="small/DSCN0082.JPG"></A><br>
+<font color=#A539AD size=1>(1600x1200 at 424 kb)</font></tr>
+<tr><th colspan=2> Sheltering from the storm in the Blue Room</tr>
+</table><p>
+
+<table width=80%><tr><td>
+<font size=4><b>Friday Dec 26 - Echo Rock</b></font><p>
+<pre>
+Pope's Crack 5.9
+British Airways 5.11d
+Raked over the Coles 5.10d
+Stick to What 5.9
+</pre>
+
+Friday dawned bright and sunny. We picked up from the horror show of
+the night before, ate a big breakfast, and waited for the temperature
+to climb to more reasonable levels. When it did, we made for Echo Rocks,
+where Daniel led us off on 
+<b><A href="../db/main.shtml#pope's crack">Pope's Crack</A></b> (5.9).
+A true J-tree classic. We then TRed
+<b><A href="../db/main.shtml#british airways">British Airways</A></b> (5.11d),
+which really didn't feel 11d-ish. Though there's a small crack there,
+it's really a face climb. Definitely a TR problem - protection is thin
+to none, though there's a bolt 40 feet up. I wanted to try Rule Britannia,
+which was right next to it, but there was a party on it, so instead I
+led 
+<b><A href="../db/main.shtml#raked over the coles">Raked Over The Coles</A></b>
+(5.10d). 
+This problem has a really hard start - I ended up using the crack to
+the left to make the first few moves, then moved back in. The rest
+is fairly moderate, but sustained in spots.
+</table><p>
+
+<table><tr><td>
+<A HREF="thumb/viewF.cgi?DSCN0088.JPG"><IMG SRC="small/DSCN0088.JPG"></A><br>
+<font color=#A539AD size=1>(1200x1600 at 424 kb)</font>
+</td><td>
+<A HREF="thumb/viewF.cgi?DSCN0090.JPG"><IMG SRC="small/DSCN0090.JPG"></A><br>
+<font color=#A539AD size=1>(1600x1200 at 412 kb)</font>
+</tr><tr><th colspan=2>Tina on Pope's Crack and Daniel on British Airways</tr>
+</table><p>
+
+<table width=80%><tr><td>
+We still had some daylight left, so we walked around the corner where
+Daniel led
+<b><A href="../db/main.shtml#stick to what">Stick To What</A></b> (5.9),
+a rather fun slab climb. I tried following it wearing my Mad Rocks, but
+to my amazement, found that they had gotten slick as snot in the cold.
+I couldn't smear worth a damn, and had to position each foot precisely
+on an edge if I wanted it to stay put. Very odd - those shoes are
+usually very sticky in warmer weather.<p>
+
+We headed back to camp, and cooked up a big tasty dinner of pork loin
+that had been marinating in something for a while. Jim and Brenda had
+also made some sushi, which brought back memories of last year when
+we froze our fingers making sushi for dinner on Christmas day.<p>
+
+For a long time, Daniel had been telling me stories of night-time
+romps through the Chasm, the cave system underneath the boulders
+in the Real Hidden Valley. Apparently it was a tradition for Jim
+and his crew to go through it on New Year's Eve, in pitch black
+with no headlamps. Experienced guides were needed, but Jim had been
+doing it for 18 year, which is a pretty healthy dose of experience.
+It was decided to do a test run, so Jim led off with Tina, Daniel,
+Susie, Linda and I following, and Joel, another old pro, bringing
+up in the rear. Unfortunately, Jim was trashed, and Joel was 
+totally wasted, so much badness ensued. First they couldn't find
+the Gateway - Joel was insisting that someone had moved the
+boulders. Then Jim got lost inside, and one of the girls started
+freaking out. In the end, for the first time in the history of
+the Chasm run, we had to turn headlamps on to make a quick exit.
+Truly a night that will live in infamy. Especially when google
+indexes this page....<p>
+
+
+<font size=4><b>Saturday Dec 27 - The Techulator </b></font><p>
+<pre>
+Spire Route 5.5
+Nameless 5.9
+Muffin Bandits 5.10b
+</pre>
+
+A friend of Tina stopped by for the day, and a group of us went
+out to the Techulator in the Wonderland of Rocks. We hiked in from
+the west side, starting at the Key's Corner Parking area, and walked
+for a couple of miles. The day was bright and sunny, though still
+on the cold side. Tony set up a TR on the
+<b><A href="../db/main.shtml#spire route">Spire Route</A></b> (5.5),
+and the crew played on that for a while. We then set up a TR on a
+crack system that ran up the face of the Techulator, but isn't
+in the book. The rock was a bit loose, so we decided against
+leading it. I went up it, and tried a few variations, figuring it
+to be about 5.9.<p>
+
+Meanwhile, I was waiting for the sun to hit the dihedral where
+<b><A href="../db/main.shtml#muffin bandits">Muffin Bandits</A></b> (5.10b)
+was hiding. It took a long time, but finally was exposed. This climb
+starts off in a squeeze chimney for a few feet, then there are some
+exposed face moves with your last pro a good bit below. The next
+good hold is an exposed horn, and I was very dubious of its quality
+considering how many other bits of the rock had broken off while
+I was yarding on them. I really didn't want to make a dynamic move
+to it, as if it were to come off I would deck about 25 feet below.
+I spent a long time trying to figure out a static sequence until I
+finally came across one involving a crimpy sidepull and a big high
+step. The horn was pretty good, so I slung it and kept on going.
+The dihedral itself was fairly nice, somewhat reminiscent of 
+the Red Dihedral on the Incredible hulk in fact. The route was
+finished off with a squirming roof move around a big boulder.
+Fairly fun. Daniel followed, and ripped off a bunch of holds as
+he was climbing. Finally, Tina's friend (whose name I've forgotten -
+help please), made an attempt on it. He's a gym climber, and this 
+was his first time on a real crack. We coached him through the
+jams, but it still took him a huge amount of effort before he
+finally made it to the top. He said he enjoyed the process though,
+so maybe we have a new convert here.</table><p>
+
+<table><tr><td>
+<A HREF="thumb/viewF.cgi?dscn3278.jpg"><IMG SRC="small/dscn3278.jpg"></A><br>
+<font color=#A539AD size=1>(2048x1536 at 1060 kb)</font>
+</tr><tr><th>Charles making a scary move on Muffin Bandit</tr>
+</table><p>
+
+<table width=80%><tr><td>
+It was getting dark by then, so I walked off the back side to
+try to round up Tony and Linda who had gone off to try an 11
+somewhere around the corner. The descent involved a 15 foot high,
+fairly wide chimney. I was down on the ground when it came to
+Daniel's turn, and he had trouble finding the descent - he wouldn't
+believe that the chimney was the way down. I finally convinced him, 
+and he made short work of it. We made it back to the car just
+as the temperature really started to plummet.<p>
+
+That night, Daniel and Tina announced to the rest of us that they
+had gotten engaged. Jim got on a large boulder and reported this to
+the rest of Hidden Valley campground at the top of his voice, and much
+cheering was heard. Daniel kept on trying to find a romantic time
+to do so, but bad weather or other circumstances kept on getting
+in the way. So he did it when they were in their tent. Well, Joshua
+Tree is a pretty romantic place in general, so no worries. We all
+wish them the best of luck.</table><p>
+
+<table><tr><td>
+<A HREF="thumb/viewF.cgi?DSCN0100.JPG"><IMG SRC="small/DSCN0100.JPG"></A><br>
+<font color=#A539AD size=1>(1600x1200 at 384 kb)</font>
+</tr><tr><th>The happy couple</tr>
+</table><p>
+
+<table width=80%><tr><td>
+<font size=4><b>Sunday Dec 28 - Barker Dam and Echo Rocks</b></font><p>
+<pre>
+More Monkey than Funky 5.11c
+Heart and Sole 5.10a
+The Falcon and the Snowman 5.10b
+</pre>
+
+Ever since watching Aaron and Matt work on
+<b><A href="../db/main.shtml#more monkey than funky">More Monkey Than Funky</A></b> (5.11c)
+last year, I had wanted to try it. Who wouldn't be seduced by a downward
+sloping 20ft roof crack followed by an 11c finger crack? So Daniel,
+Tina and I headed out there, and I worked it with the standard 2 rope
+technique. My first attempt on lead was a flail fest, and I took willy
+nilly. It was a beautiful, sunny day - by far the best weather so far.
+I was soon climbing without a shirt, risking a nice sunburn on my exposed
+back. I then set up a TR and Daniel then had a go at it. Despite his enormous
+strength, he has his mass playing against him. But eventually he made
+it around and up, loosing only moderate amounts of skin in the process.
+Tina also had a try, but was unable to stick the roof. I think it's
+more a matter of core strength for her. I then had another go at it,
+and did a much better job.</table><p>
+
+<table><tr><td>
+<A HREF="thumb/viewF.cgi?dscn3288.jpg"><IMG SRC="small/dscn3288.jpg"></A><br>
+<font color=#A539AD size=1>(2048x1536 at 1016 kb)</font></td><td>
+<A HREF="thumb/viewF.cgi?DSCN0104.JPG"><IMG SRC="small/DSCN0104.JPG"></A><br>
+<font color=#A539AD size=1>(1600x1200 at 424 kb)</font>
+</tr><tr><th colspan=2>Charles and Daniel on More Monkey than Funky</tr>
+</table><p>
+
+<table width=80%><tr><td>
+Working that route took us quite a while, so instead of heading back
+into the Barker Dam area as we had originally planned, we returned
+to Echo Rocks where I sent Daniel up
+<b><A href="../db/main.shtml#heart and sole">Heart and Sole</A></b> (5.10a).
+This starts as slab route for 3 bolts, then moves into a thin finger
+crack in a right facing dihedral. The crux is definitely the bottom
+slab section. Daniel was a little sketched and was cursing me, but
+made it up with only a few bobbles. I followed, and figured out some
+key beta, so after Tina tried it, I made Daniel go back up so he could
+work it on TR and work on his technique. This time he was much more
+confident.<p>
+
+Time and daylight was running out, so we did a quick TR on 
+<b><A href="../db/main.shtml#falcon and the snowman">The Falcon and the 
+Snowman</A></b> (5.10b), 
+just to the left, which spared me the horror of having to lead it. Pure
+slab all the way, with the odd micro crimp thrown in from time to time.
+It's well bolted though - or at least all the cruxes are just after
+a bolt, even if they are widely spaced.<p>
+
+Jack showed up at the campground later that afternoon. He had been in
+LA doing the family thing for a few days, and was eager do shred some
+skin on the coarse granite crystals of the park. He brought a truly
+hedonistic device with him - a catalytic propane heater for his tent.
+We all made fun of him for it, but inside were seething with jealousy.
+<p>
+
+<font size=4><b>Monday Dec 29 - Hidden Valley Campground</b></font><p>
+<pre>
+Toe Jam 5.7
+Bearded Cabbage 5.10c
+Double Cross 5.7
+</pre>
+
+Unfortunately, when the sun rose, it did so behind many clouds. We
+kept on hoping for it to clear, but though we could see blue sky
+at times, it was never between us and the sun. After dicking around
+the campsite for a while, Daniel and Tina, who had to leave that day,
+decided to get going early instead of trying to get some climbing in.
+We bid them, and my car, a sad farewell. Meanwhile, I managed to score
+a site on the back loop of Hidden Valley, and helped Jack move his tent
+over there to secure it.<p>
+
+We eventually gave up on waiting for the weather to improve, and headed
+for the Old Woman for a bit of climbing. Since Jack hadn't done them
+before, I had him lead Toe Jam and Bearded Cabbage. This time around,
+I had huge problems on Bearded Cabbage, having to be lowered to the
+ground from the half way point on my first attempt as I couldn't
+secure myself in the crack. How shameful! Jack declined to have a
+go at Spider Line, despite my assertions that it was a beautiful line.
+So we moved around the corner and did
+<b><A href="../db/main.shtml#double cross">Double Cross</A></b> (5.7).
+Jack had forgotten to bring his ATC, so we did a gri-gri simul-rap
+from the top. First time I've tried that - worked fine though.<p>
+
+John and Michelle showed up in their VW van later that day, so we
+stuck them in the site that Jack had set up in.<p>
+
+<font size=4><b>Tuesday Dec 30 - Steve's Canyon</b></font><p>
+<pre>
+Sidewinder 5.10b
+Jumping Jack Crack 5.11a
+Decompensator of Lhasa 5.10d
+Grain Surgery 5.10b
+Super Monster Killer 5.11a
+</pre>
+
+I can't remember now if Matt and Susan (and Bailey the dog) came on
+the 29th or 30th, but it was somewhere around this time. After
+unpacking his truck, the amount of food laid out made it look like he
+had mounted a serious raiding expedition Trader Joe's - haven't seen
+that many Tasty Bites assembled in one place before.<p>
+
+Jack and I headed for Steve's Canyon, where we warmed up on
+<b><A href="../db/main.shtml#sidewinder">Sidewinder</A></b> (5.10b).
+Jack shrieked and moaned with fear on the long dike traverse, but
+made it to the end without incident. We then moved on to
+<b><A href="../db/main.shtml#jumping jack crack">Jumping Jack 
+Crack</A></b> (5.11a),
+for which Jack had made me lug the #4.5 cam. He had fun in the
+chimney (he was wearing a knee pad the bastard), then slowly moved
+through the crux over the bulge to the thin hands/off fingers crack.
+I thought he had it, but with an enormous shriek of rage he popped 
+out just before he was able to sink a good hand jam. He screamed so
+loudly and with such duration, that I was sure that he had left
+a finger behind in the crack. I think everyone else in the canyon
+had the same impression.</table><p>
+
+<table><tr><td>
+<A HREF="thumb/viewF.cgi?dscn3305.jpg"><IMG SRC="small/dscn3305.jpg"></A><br>
+<font color=#A539AD size=1>(1536x2048 at 1016 kb)</font>
+</tr><tr><th>Jumping Jack Crack</tr>
+</table><p>
+
+<table width=80%><tr><td>
+
+He got back in, and then finished it off without too much of a
+problem. Then it was my turn. I had tried this one last march,
+and had flailed miserably on it. Amazingly enough, I was able to
+get through it without hanging, though opened up a knuckle and left
+a nice bit of blood behind. Definitely a very challenging 11a, and
+a good test piece. I guess it'll be my turn to lead it next time.<p>
+
+I then led
+<b><A href="../db/main.shtml#decompensator of lhasa">The Decompensator of 
+Lhasa</A></b> (5.10d),
+which I had followed last year. Rather spicy through the slab at the
+top, especially if you do it the way I did, and not see the easier
+path to the right of the 2nd bolt. When Jack came up to the top, I
+managed to convince him that he should lead
+<b><A href="../db/main.shtml#grain surgery">Grain Surgery</A></b> (5.10b).
+He had some serious hesitation at the top, in the run out section above
+the last bolt, going up and down a few times, before finding a path
+that pleased him way off to the side. I remembered going straight up
+after the last bolt, and did it that way again this time - seemed like
+the more natural solution, but it could be a height dependent thing.<p>
+
+We then finished up by setting a TR over 
+<b><A href="../db/main.shtml#super monster killer">Super Monster 
+Killer</A></b> (5.11a), a really miserable flaring crack/slab. No
+way in hell would I want to lead that.<p>
+
+Late that evening, Dan and Lynsey showed up. Jim and Brenda had
+had to leave, as Gavin, one of their kids was having bad ear problems,
+so we snagged the open site and had them park there.<p>
+
+That night, as I was going to bed, I heard a loud voice shout out
+"Do you need a rescue?" Apparently, the rangers had decided to make
+a midnight foray up Intersection Rock to search for beer kegs - some
+had been stashed there last year before new year's eve. Someone in
+the campsite who had a million candlepower spotlight had seen them
+make their stealthy way up, and pinned them with the beam, then
+threw out the question to them, for all to hear. The following exchange
+was then heard:<p>
+Rangers: "unhhh... no, we're ok. Thanks."<br>
+Mr. Spotlight: "You know it's really dangerous up there in the dark!
+You should be very careful!"<br>
+Rangers: "Yeah, thanks. We're fine."<p>
+
+Much laughter ensued.<p>
+
+When they finally came down (after not having found any offending
+kegs), they tried to bust Mr. Spotlight for making too much noise
+after 10PM.<p>
+
+
+<font size=4><b>Wednesday Dec 31 - Hidden Valley Campground </b></font><p>
+<pre>
+North Overhang 5.9
+Dogleg 5.8
+Jeronimo 5.7
+Arete 5.9
+</pre>
+
+Wednesday was going to be our rest day. I didn't think that I had
+been climbing enough to actually merit a rest - but then I'm known
+for beating myself into the ground. I'm sure my muscles appreciated it.
+We also had to rest up for the festivities of the evening.
+It was bright and sunny, though somewhat windy. We started off on
+Intersection Rock, where Jack led
+<b><A href="../db/main.shtml#north overhang">North Overhang</A></b> (5.9).
+Old school 5.9, as one moves out of the roof and around the corner. But
+the jams are good, even if the bolts are of questionable quality.<p>
+
+We moved across the way and into the sun, where Jack went up 
+<b><A href="../db/main.shtml#dogleg">Dogleg</A></b> (5.8).
+I had forgotten that the first move is the crux, especially if you're
+not really tall. But Jack managed it with only a little grumbling,
+and ran up the rest of the climb. I followed, then went over the
+top where I saw 
+<b><A href="../db/main.shtml#jeronimo">Jeronimo</A></b> (5.7).
+I remember doing that years ago, and was eager to give it the
+proper treatment. This involves climbing the crack, then hanging
+upside down over the top from ones knees, and shouting "Jeronimo"
+at the top of one's voice. I did this, getting applause from the
+ground, but Jack declined to make a fool of himself like I did.
+He also grumbled over the rating - claiming that no overhanging
+fist crack could possibly be 5.7.<p>
+
+We rapped down, said hello to Dan and Lynsey who were working on
+Stem Gem, then tried a new climb on the arete between Double Cross
+and Orphan. Just bolts, and it felt vaguely 5.9. Fun, but nothing
+to write home about.<p>
+
+Jack and I headed into town for a quick shower - he was complaining
+about my aroma, but <b>I</b> couldn't detect anything. When we got
+back, we found the rangers out in full force. They had set up a
+road block at the entrance to Hidden Valley campground, and were
+checking each car to see if we were smuggling any illicit contraband
+or illegal aliens.  Well, actually they were just checking to see 
+if we had a legal parking spot. They were obviously expecting some
+serious misbehavior, and even had a fire truck ready for "crowd control"
+purposes. We all assembled around the campfire, and cooked up a big
+communal dinner, then waited for the madness to begin. Said madness
+failed to appear. I wandered around to other fires from time to time,
+to check out if anything more exciting was going on, but failed to
+find anything. There was a large crowd at the Buttery Flake, but it
+was pretty tame, with lots of little kids. The most excitement I saw
+was a juggler who had 3 flaming sticks going, and someone set up 
+some flashing Christmas lights on intersection rock. When midnight
+rolled around, we all cheered then retreated to our tents. I think
+we're all just getting old. But then again, so it seemed with
+everyone else.<p>
+
+
+<font size=4><b>Thursday Jan 1 - Barker Dam</b></font><p>
+<pre>
+Gunsmoke
+High Noon
+A Streetcar Named Desire
+Something else
+</pre>
+
+We got up, without hangovers as we were a bunch of lightweights
+the night before, and had many eggs for breakfast waiting for
+it to warm up and the clouds to clear. Neither happened. So
+instead of doing routes, we headed for the Barker Dam area for
+a little bouldering. We started off on Gunsmoke, then played
+around on High Noon. Or at least I played around - Matt, Dan and
+Jack got really into it. None of them managed to stick the
+sloper, but Matt and Dan got pretty close. I think the jumping
+down and cold weather we bad for my knee, as it started to ache
+soon thereafter. Also, one of my fingers was acting up, so I
+decided to take it easy. We played around on some other boulder
+problems, namely A Streetcar Named Desire, and something else 
+whose name I don't know not far from Gunsmoke.</table><p>
+
+<table><tr><td>
+<A HREF="thumb/viewF.cgi?dscn3313.jpg"><IMG SRC="small/dscn3313.jpg"></A><br>
+<font color=#A539AD size=1>(2048x1536 at 1112 kb)</font></tr>
+<tr><th>I think they were telling me to back off from their food</tr>
+</table>
+<table><tr><td>
+<A HREF="thumb/viewF.cgi?dscn3317.jpg"><IMG SRC="small/dscn3317.jpg"></A><br>
+<font color=#A539AD size=1>(1536x2048 at 1024 kb)</font></td><td>
+<A HREF="thumb/viewF.cgi?dscn3311.jpg"><IMG SRC="small/dscn3311.jpg"></A><br>
+<font color=#A539AD size=1>(2048x1536 at 1080 kb)</font></tr>
+<tr><th colspan=2>Matt on High Noon and Jack on something else</tr>
+</table>
+
+<p>
+<table width=80%><tr><td>
+Eventually we got tired of it all, and headed back to the campground 
+to regroup. There we were treated to one of the most spectacular
+sunsets I've ever seen. People all around the campsite were cheering
+wildly at the incredible display of colours.</table><p>
+
+<table><tr><td>
+<A HREF="thumb/viewF.cgi?100_0021.JPG"><IMG SRC="small/100_0021.JPG"></A><br>
+<font color=#A539AD size=1>(1600x1200 at 768 kb)</font></td><td>
+<A HREF="thumb/viewF.cgi?100_0023.JPG"><IMG SRC="small/100_0023.JPG"></A><br>
+<font color=#A539AD size=1>(1600x1200 at 768 kb)</font>
+</tr></table>
+<table><tr><td>
+<A HREF="thumb/viewF.cgi?100_0025.JPG"><IMG SRC="small/100_0025.JPG"></A><br>
+<font color=#A539AD size=1>(1600x1200 at 972 kb)</font>
+</table>
+
+
+<p>
+<table width=80%><tr><td>
+After all the screaming settled down, we headed into town for
+some food. We had a fine dinner at the Crossroads Cafe, and
+then suddenly decided to go see a movie. Unfortunately we got
+bad movie beta from the restaurant, and discovered that we were
+an hour late for the start of "Return of the King." So we
+headed back to the campsite, with a quick stop at a store to
+stock up on eggs, donuts, and brownies. The latter two were
+consumed around the campfire, while the 18 eggs were saved
+for the next morning.<p>
+
+
+<font size=4><b>Friday Jan 2 - Barker Dam </b></font><p>
+<pre>
+More Monkey than Funky 5.11c
+When You're a Jet 5.11c
+</pre>
+
+Many eggs this morning. Omelets and eggy-bread. It was sunny,
+though somewhat windy. So Jack and I bundled up and made for
+the Monkey. Steve, a local climber who had quit his job, sold
+his house, and left his girlfriend so he could go climbing,
+joined us. Jack led it first with a couple of hangs, then
+set up a TR and came down to worked the corner. I followed
+it next, and managed a clean ascent. Woo hoo! Steve also had
+a go, then we all did it again. I believe I have the sequence
+worked out - now all I have to do is remember it for the next
+trip, whenever that'll be.<p>
+
+Steve suggested trying out
+<b><A href="../db/main.shtml#when you're a jet">When You're a 
+Jet</A></b> (5.11c), which is located nearby. So we went over
+there, and Steve set up a TR on it. A bouldery start leads
+to a reach around an overhanging bulge, into a diagonal rail/finger crack.
+Then a big move up to a hand crack with a loose boulder thrown in,
+to finish on a gentle finger crack. What fun! Steve went up first,
+and after figured out that a figure 4 solved the problem of getting
+from the rail to the hand crack. Sure looked cool! Jack went up next,
+and did a series of heel hooks along the rail, and then pretty much
+dynoed to the crack. I went last, campused the rail, then did the
+figure 4. Sweet! First time I've ever had to do a non-gratuitous figure 4!
+</table><p>
+
+<table><tr><td>
+<A HREF="thumb/viewF.cgi?100_0063.JPG"><IMG SRC="small/100_0063.JPG"></A><br>
+<font color=#A539AD size=1>(1600x1200 at 1148 kb)</font></td><td>
+<A HREF="thumb/viewF.cgi?100_0080.JPG"><IMG SRC="small/100_0080.JPG"></A><br>
+<font color=#A539AD size=1>(1600x1200 at 908 kb)</font></tr>
+<tr><th colspan=2>Jack and Charles on When You're a Jet</tr>
+</table>
+
+<p>
+<table width=80%><tr><td>
+
+I pulled the anchor, then we headed back to camp where we decided to
+have another attempt at the movie. John, Michelle, Matt and Susan had
+already packed up and left, but Dan and Lynsey were still staying
+around for another night, though they had gone ahead of us to get a
+shower.  So back to Crossroads Cafe for us. Just as we were pulling up
+by the Coyote Corner, Matt came up behind us and tried to further
+damage his truck by rear ending us. Well, not really, but he looked
+like he wanted to try. They joined us for dinner, and we all went to
+the movie - at the correct time this time. After the movie, Matt and
+Susan decided to start the drive back to Berkeley. They didn't make it
+very far, and spent the night in a motel. The remaining hard core
+folks, that is Jack, Dan, Lynsey, Joel, Linda and I, spent one more
+night at the Tree. We were worried by the weather, as it looked like a
+huge storm was coming in. But no rain touched down, only strong winds
+- some people in fact had serious tent problems as a result.<p>
+
+<font size=4><b>Saturday Jan 3 - Various </b></font><p>
+<pre>
+Hobbit Roof 5.10d
+Gunsmoke
+Pigpen
+Cyclops Boulders
+</pre>
+
+Damn. Jack just said that he won't send me the pictures until I
+finish this trip report. Ok, so here's the last day!<p>
+
+We had yet another breakfast that involved huge numbers of eggs. I
+guess you need something filling like that to keep the cold off!
+It was another bright and sunny day, so after packing up and filling
+the car with a remarkable amount of crap, Jack and I went to "have a
+look" at 
+<b><A href="../db/main.shtml#hobbit roof">Hobbit Roof</A></b> (5.10d).
+It looked very pleasant, so we went back to the car, grabbed some gear,
+and ran up it. The crux is the slab below the roof, though it's well
+protected by a bolt. The roof move is fairly trivial - some people
+claim it 10b, but it didn't really feel that hard to me. I guess my
+standard for a 5.10 roof is Hoodwink.<p>
+
+Dan and Lynsey had gone off to have yet another run at Gunsmoke, as 
+Lynsey felt that she was oh so close to getting it, so we drove
+back there and joined them. I did a couple of laps, amazed to find
+that I still had it in me, then went and did that other unknown
+boulder problem that we had played on two days ago. At that point
+my finger really started to hurt, so I decided to play it safe and
+not boulder any more. However, all the rest were still game to
+go, so we drove back to the campground and played on Pigpen (aka
+Bachar Cracker of the desert), and the Cyclops Boulders. Much fun
+was had by all, especially Dan as he attempted time and time again
+to get a stem/smear problem that all the "chicks" had been able
+to get. Even Jack managed it! Finally, after much wailing and
+gnashing of teeth, he succeeded. Dusk was starting to fall, and
+with it the temperature, so we called it a day and a trip. With
+one more stop at the Crossroads Cafe for dinner, we headed back
+to civilization (though I use the term loosely). Jack drove the
+whole way at high speed, with barely a pause for gas, and we
+were back in Berkeley before 1AM. The rest took a more leisurely
+approach, and bivvied for the night, arriving on Sunday afternoon.<p>
+
+A good trip all in all. While the weather was variable and at times
+horrendous, we still had fun. Not a huge number of climbs were
+done, but there were some quality ascents in there. Now I'm torn
+between going back there in March, or trying out Indian Creek. Arggh!<p>
+
+
+</table></div>
+</center>
+</BODY>
+</td>
+</tr>
+<tr><td>
+<table border=0 width=100% height=100%>
+<tr><td colspan=2><hr></td></tr>
+<tr><th align=left>james</th><th align=right>Tue Dec 18 2007 12:38:15</th></tr><tr><td colspan=2><pre>       those are great photos. I don't care what the guidebooks
+    say. bearded cabbage is 5.11.
+</pre></td></tr><tr><td></td><td align=right><form action="http://annwm.lbl.gov/~leggett/cgi/delCom.cgi"><input type=hidden name="num" value="1"><input type=hidden name="dir" value="pictures/j-tree_12-24-03"><input type=submit value="delete"></form></th></tr>
+
+</table>
+</td></tr>
+
+<tr align=left valign=bottom><td><hr>
+
+
+
+</td></tr>
+
+<tr><td colspan=2 height=10 align=right valign=bottom>
+<font color="#A539AD" size=1>last modifed on: Thursday, 20-Apr-2006 13:53:22 PDT</font>
+</td></tr>
+
+</table>
+
+
+
+</BODY>
+

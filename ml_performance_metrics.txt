@@ -1,0 +1,22 @@
+
+=========================================
+      ML PERFORMANCE REPORT (V1)
+=========================================
+Total Samples Tested : 200
+Clean Files Tested   : 100
+Anomaly Files Tested : 100
+
+CONFUSION MATRIX:
+-----------------------------------------
+[ TN: 100 ] | [ FP: 0 ]  <-- Clean Results
+[ FN: 0 ] | [ TP: 100 ]  <-- Anomaly Results
+-----------------------------------------
+
+KEY METRICS:
+Accuracy  : 100.00%
+Precision : 100.00% (Reliability when flagging)
+Recall    : 100.00% (Ability to catch attacks)
+F1-Score  : 1.00
+
+CONCLUSION:
+Sistem sangat cemerlang dan stabil.

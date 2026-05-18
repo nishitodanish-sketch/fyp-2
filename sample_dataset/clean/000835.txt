@@ -1,0 +1,432 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Steve Hanser, USGS-FRESC, Snake River Field Station
+      Publication_Date: 2004
+      Title: Population Density in the Western United States (Individuals / ha)
+      Geospatial_Data_Presentation_Form: raster digital data
+      Online_Linkage: http://sagemap.wr.usgs.gov/ftp/regional/usgs/popdens_hf.zip
+  Description:
+    Abstract: This map of human habitation was developed, following a modification of Schumacher et al. (2000), by incorporating 2000 U.S Census Data and land ownership.  The 2000 U.S. Census Block data and ownership map of the western United States were used to correct the population density for uninhabited public lands.  All census blocks in the western United States were merged into one shapefile which was then clipped to contain only those areas found on private or indian reservation lands because human habitation on federal land is negligible.  The area (ha) for each corrected polygon was calculated and the 2000 census block data table was joined to the shapefile.  In a new field, population density (individuals/ha) corrected for public land in census blocks was calculated .  SHAPEGRID in ARC/INFO was used to convert population density values to grid with 90m resolution.
+    Purpose: Spatially represent human population density throughout the western United States 
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 2000
+    Currentness_Reference: publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -125.839147
+      East_Bounding_Coordinate: -99.737876
+      North_Bounding_Coordinate: 49.371521
+      South_Bounding_Coordinate: 30.785066
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Population density
+      Theme_Keyword: Population
+      Theme_Keyword: Census 2000
+      Theme_Keyword: TIGER/line
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Washington
+      Place_Keyword: Oregon
+      Place_Keyword: California
+      Place_Keyword: Idaho
+      Place_Keyword: Nevada
+      Place_Keyword: Utah
+      Place_Keyword: Arizona
+      Place_Keyword: Montana
+      Place_Keyword: Wyoming
+      Place_Keyword: Colorado
+      Place_Keyword: New Mexico
+      Place_Keyword: Western US
+  Access_Constraints: None
+  Use_Constraints: None.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Steven Hanser
+        Contact_Organization: USGS-FRESC, Snake River Field Station
+      Contact_Position: Wildlife Biologist / GIS Specialist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 970 Lusk St
+        City: Boise
+        State_or_Province: ID
+        Postal_Code: 83706
+      Contact_Voice_Telephone: 208-426-2892
+      Contact_Facsimile_Telephone: 208-426-5210
+      Contact_Electronic_Mail_Address: shanser@usgs.gov
+  Data_Set_Credit: Steven Hanser, USGS-FRESC, Snake River Field Station, Boise, ID
+  Native_Data_Set_Environment: Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 8.3.0.800
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: Dependent on the accuracy of the source data; No further accuracy assessments completed.
+  Logical_Consistency_Report: Dependent on the logical consistency of the data from which this coverage was created. No additional checks for consistency or accuracy was completed on this final product.
+  Completeness_Report: Based on the completeness of the data from which this coverage was created. Review metadata for individual source coverages to assess completeness of each.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Department of Commerce, U.S. Census Bureau Geography Division
+          Publication_Date: 2002
+          Publication_Time: Unknown
+          Title: 2000 TIGER/Line Census Block Boundaries
+          Edition: US Census 2000
+          Series_Information:
+            Series_Name: TIGER/Line Files
+            Issue_Identification: Version represents the month and year file created
+          Publication_Information:
+            Publication_Place: Washington, DC
+            Publisher: U.S. Department of Commerce, U.S. Census Bureau Geography Division
+          Online_Linkage: http://arcdata.esri.com/data/tiger2000/tiger_download.cfm
+      Source_Scale_Denominator: 100000
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2002
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Census Blocks
+      Source_Contribution: Census block geography used to georeference demography data.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: USGS, Snake River Field Station, Sage-grouse Rangewide Conservation Assessment Project
+          Publication_Date: 20040601
+          Title: Land ownership in the western United States
+          Geospatial_Data_Presentation_Form: vector digital data
+          Online_Linkage: http:\\sagemap.wr.usgs.gov\
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 20040101
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Westownership
+      Source_Contribution: Land ownership map of the western United States
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Department of Commerce, U.S. Census Bureau Geography Division
+          Publication_Date: 2002
+          Publication_Time: Unknown
+          Title: Census Block Demographics (SF1)
+          Edition: US Census 2000
+          Series_Information:
+            Series_Name: TIGER/Line Files
+            Issue_Identification: Version represents the month and year file created
+          Publication_Information:
+            Publication_Place: Washington, DC
+            Publisher: U.S. Department of Commerce, U.S. Census Bureau Geography Division
+          Online_Linkage: http://arcdata.esri.com/data/tiger2000/tiger_download.cfm
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2002
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Census Block Demographics
+      Source_Contribution: Census block demographic data used to calculate population density.
+    Process_Step:
+      Process_Description: Used the geoprocessing wizard in ArcGIS to merge all census block polygon shapefiles for the western United States.
+      Source_Used_Citation_Abbreviation: Census Blocks
+      Process_Date: 200301
+      Source_Produced_Citation_Abbreviation: block geography
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Steve Hanser
+            Contact_Organization: USGS-FRESC Snake River Field Station
+          Contact_Position: Wildlife Biologist / GIS Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 970 Lusk Street
+            City: Boise
+            State_or_Province: ID
+            Postal_Code: 83706
+          Contact_Voice_Telephone: 208-426-2892
+          Contact_Facsimile_Telephone: 208-426-5210
+          Contact_Electronic_Mail_Address: shanser@usgs.gov
+    Process_Step:
+      Process_Description: SHAPEGRID used to convert census block shapefile to grid with FID as the grid value.
+      Source_Used_Citation_Abbreviation: block geography
+      Process_Date: 200301
+      Source_Produced_Citation_Abbreviation: block grid
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Steve Hanser
+            Contact_Organization: USGS-FRESC Snake River Field Station
+          Contact_Position: Wildlife Biologist / GIS Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 970 Lusk Street
+            City: Boise
+            State_or_Province: ID
+            Postal_Code: 83706
+          Contact_Voice_Telephone: 208-426-2892
+          Contact_Facsimile_Telephone: 208-426-5210
+          Contact_Electronic_Mail_Address: shanser@usgs.gov
+    Process_Step:
+      Process_Description: Because populated areas on federal land are negligible, private and Bureau of Indian Affairs land were selected using Westownership and the query:  PUB_PVT = 'PVT'.  The results of this query was exported to a new shapefile. 
+      Source_Used_Citation_Abbreviation: Westownership
+      Process_Date: 200301
+      Source_Produced_Citation_Abbreviation: private.shp
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Steve Hanser
+            Contact_Organization: USGS-FRESC Snake River Field Station
+          Contact_Position: Wildlife Biologist / GIS Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 970 Lusk Street
+            City: Boise
+            State_or_Province: ID
+            Postal_Code: 83706
+          Contact_Voice_Telephone: 208-426-2892
+          Contact_Facsimile_Telephone: 208-426-5210
+          Contact_Electronic_Mail_Address: shanser@usgs.gov
+    Process_Step:
+      Process_Description: A new attribute was added to the shapefile with a value of one.  SHAPEGRID was then used to convert the private.shp to a grid with a value of 1 for private and indian reservation lands and No Data on other lands.
+      Source_Used_Citation_Abbreviation: private.shp
+      Process_Date: 200301
+      Source_Produced_Citation_Abbreviation: privind_lands
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Steve Hanser
+            Contact_Organization: USGS-FRESC Snake River Field Station
+          Contact_Position: Wildlife Biologist / GIS Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 970 Lusk Street
+            City: Boise
+            State_or_Province: ID
+            Postal_Code: 83706
+          Contact_Voice_Telephone: 208-426-2892
+          Contact_Facsimile_Telephone: 208-426-5210
+          Contact_Electronic_Mail_Address: shanser@usgs.gov
+    Process_Step:
+      Process_Description: Used the raster calculator in ArcGIS to clip out the portions of census blocks that were private (private_cb_id = privind_lands * block grid) and converted the resulting temporary grid into a shapefile using GRIDSHAPE in ARC/INFO.
+      Source_Used_Citation_Abbreviation: privind_lands
+      Source_Used_Citation_Abbreviation: Census Blocks
+      Process_Date: 200301
+      Source_Produced_Citation_Abbreviation: private_cb_id.shp
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Steve Hanser
+            Contact_Organization: USGS-FRESC Snake River Field Station
+          Contact_Position: Wildlife Biologist / GIS Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 970 Lusk Street
+            City: Boise
+            State_or_Province: ID
+            Postal_Code: 83706
+          Contact_Voice_Telephone: 208-426-2892
+          Contact_Facsimile_Telephone: 208-426-5210
+          Contact_Electronic_Mail_Address: shanser@usgs.gov
+    Process_Step:
+      Process_Description: Calculated area (ha) for each polygon using Xtools extension and joined the 2000 census block data table to the private landownership shapfile.
+      Source_Used_Citation_Abbreviation: private_cb_id.shp
+      Process_Date: 200301
+      Source_Produced_Citation_Abbreviation: private_cb_id.shp
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Steve Hanser
+            Contact_Organization: USGS-FRESC Snake River Field Station
+          Contact_Position: Wildlife Biologist / GIS Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 970 Lusk Street
+            City: Boise
+            State_or_Province: ID
+            Postal_Code: 83706
+          Contact_Voice_Telephone: 208-426-2892
+          Contact_Facsimile_Telephone: 208-426-5210
+          Contact_Electronic_Mail_Address: shanser@usgs.gov
+    Process_Step:
+      Process_Description: In a new field, calculated population density (pop2000 / hectares) of private and indian reservation lands in census blocks.
+      Source_Used_Citation_Abbreviation: private_cb_id.shp
+      Process_Date: 200301
+      Source_Produced_Citation_Abbreviation: private_cb_id.shp
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Steve Hanser
+            Contact_Organization: USGS-FRESC Snake River Field Station
+          Contact_Position: Wildlife Biologist / GIS Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 970 Lusk Street
+            City: Boise
+            State_or_Province: ID
+            Postal_Code: 83706
+          Contact_Voice_Telephone: 208-426-2892
+          Contact_Facsimile_Telephone: 208-426-5210
+          Contact_Electronic_Mail_Address: shanser@usgs.gov
+    Process_Step:
+      Process_Description: We used SHAPEGRID in ARC/INFO to convert population density values to grid.
+      Source_Used_Citation_Abbreviation: private_cb_id.shp
+      Process_Date: 200301
+      Source_Produced_Citation_Abbreviation: popdens
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Steve Hanser
+            Contact_Organization: USGS-FRESC Snake River Field Station
+          Contact_Position: Wildlife Biologist / GIS Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 970 Lusk Street
+            City: Boise
+            State_or_Province: ID
+            Postal_Code: 83706
+          Contact_Voice_Telephone: 208-426-2892
+          Contact_Facsimile_Telephone: 208-426-5210
+          Contact_Electronic_Mail_Address: shanser@usgs.gov
+    Process_Step:
+      Process_Description: Filled in No Data areas which correspond to public lands with population density of zero in GRID using the command popdens_final = con(isnull(popdens), 0, popdens) with SETMASK of western states boundary
+      Source_Used_Citation_Abbreviation: popdens
+      Process_Date: 200301
+      Source_Produced_Citation_Abbreviation: popdens_final
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Steve Hanser
+            Contact_Organization: USGS-FRESC Snake River Field Station
+          Contact_Position: Wildlife Biologist / GIS Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 970 Lusk Street
+            City: Boise
+            State_or_Province: ID
+            Postal_Code: 83706
+          Contact_Voice_Telephone: 208-426-2892
+          Contact_Facsimile_Telephone: 208-426-5210
+          Contact_Electronic_Mail_Address: shanser@usgs.gov
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Raster
+  Raster_Object_Information:
+    Raster_Object_Type: Grid Cell
+    Row_Count: 22112
+    Column_Count: 21580
+    Vertical_Count: 1
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Map_Projection:
+        Map_Projection_Name: Albers Conical Equal Area
+        Albers_Conical_Equal_Area:
+          Standard_Parallel: 38
+          Standard_Parallel: 41
+          Longitude_of_Central_Meridian: -114
+          Latitude_of_Projection_Origin: 34
+          False_Easting: 0
+          False_Northing: 0
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: row and column
+        Coordinate_Representation:
+          Abscissa_Resolution: 90.000000
+          Ordinate_Resolution: 90.000000
+        Planar_Distance_Units: meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1927
+      Ellipsoid_Name: Clarke 1866
+      Semi-major_Axis: 6378206.4
+      Denominator_of_Flattening_Ratio: 294.978698
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: N/A; Floating Point Data
+      Entity_Type_Definition: N/A
+      Entity_Type_Definition_Source: N/A
+    Attribute:
+      Attribute_Label: ObjectID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Value
+      Attribute_Definition: Population Density (Individuals / ha)
+      Attribute_Definition_Source: User-defined
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 7248.1479
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: USGS, Snake River Field Station, GIS Laboratory
+      Contact_Position: Geographer
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 970 Lusk St
+        City: Boise
+        State_or_Province: ID
+        Postal_Code: 83706
+        Country: USA
+      Contact_Voice_Telephone: 208-426-5204
+      Contact_Facsimile_Telephone: 208-426-5210
+      Contact_Electronic_Mail_Address: tom_zarriello@usgs.gov
+  Resource_Description: Population Density in the Western United States (Individuals / ha)
+  Distribution_Liability: We make every effort to provide and maintain accurate, complete, usable, and timely information on our web sites. However, some USGS data and information accessed through these pages may, of necessity, be preliminary in nature and presented prior to final review and approval by the Director of the USGS. These data and information are provided with the understanding that they are not guaranteed to be correct or complete. Users are cautioned to consider carefully the provisional nature of these data and information before using them for decisions that concern personal or public safety or the conduct of business that involves substantial monetary or operational consequences. Conclusions drawn from, or actions undertaken on the basis of, such data and information are the sole responsibility of the user.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ARCG
+        Transfer_Size: 1839.972
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://sagemap.wr.usgs.gov/ftp/regional/usgs/
+          Online_Computer_and_Operating_System: http://sagemap.wr.usgs.gov/ftp/regional/usgs/
+    Fees: None
+  Available_Time_Period:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 2004
+Metadata_Reference_Information:
+  Metadata_Date: 20040825
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Steven Hanser
+        Contact_Organization: USGS-FRESC, Snake River Field Station
+      Contact_Position: Wildlife Biologist / GIS Specialist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 970 Lusk St
+        City: Boise
+        State_or_Province: ID
+        Postal_Code: 83706
+      Contact_Voice_Telephone: 208-426-2892
+      Contact_Facsimile_Telephone: 208-426-5201
+      Contact_Electronic_Mail_Address: shanser@usgs.gov
+      Hours_of_Service: 8:00am-5:00pm MST
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile

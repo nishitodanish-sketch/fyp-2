@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visual Matriks Sistem FIM</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            background-color: #f0f2f5; 
+            display: flex; 
+            flex-direction: column; 
+            align-items: center; 
+            padding: 30px; 
+            margin: 0;
+        }
+        .container { 
+            width: 90%; 
+            max-width: 1000px; 
+            background: white; 
+            padding: 40px; 
+            border-radius: 15px; 
+            box-shadow: 0 10px 25px rgba(0,0,0,0.08); 
+        }
+        h1 { color: #1a237e; text-align: center; margin-bottom: 5px; font-size: 28px;}
+        p.subtitle { color: #5c6bc0; text-align: center; margin-bottom: 40px; font-size: 16px;}
+        .quadrant-bg { position: absolute; z-index: 0; }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Matriks Keputusan: Sistem Pemantauan Integriti Fail (FIM)</h1>
+        <p class="subtitle">Interaktif: Lalukan 'mouse' (hover) pada titik untuk melihat butiran fail</p>
+
+        <div style="position: relative; height: 60vh; width: 100%;">
+            <canvas id="fimChart"></canvas>
+        </div>
+    </div>
+
+    <script>
+        const ctx = document.getElementById('fimChart').getContext('2d');
+        
+        // Data titik graf
+        const graphData = [
+            { x: 1, y: 9.5, label: 'EICAR (Virus Dikenali)', color: '#d32f2f' },
+            { x: 1.5, y: 8.5, label: 'Ransomware (.crypt)', color: '#d32f2f' },
+            { x: 9, y: 9, label: 'Anomali: Entropi Mendadak Naik', color: '#7b1fa2' },
+            { x: 8, y: 7.5, label: 'Anomali: Ubah Suai Pukal (Mass Edit)', color: '#7b1fa2' },
+            { x: 7, y: 5.5, label: 'Mencurigakan: Skrip PowerShell', color: '#f57c00' },
+            { x: 2, y: 2, label: 'Aktiviti Biasa: Edit Dokumen', color: '#388e3c' },
+            { x: 1, y: 1, label: 'Sistem: Fail Log OS', color: '#388e3c' }
+        ];
+
+        new Chart(ctx, {
+            type: 'scatter',
+            data: {
+                datasets: [{
+                    label: 'Aktiviti Fail',
+                    data: graphData,
+                    backgroundColor: graphData.map(d => d.color),
+                    pointRadius: 12,
+                    pointHoverRadius: 18,
+                    borderColor: '#ffffff',
+                    borderWidth: 2
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { display: false },
+                    tooltip: {
+                        backgroundColor: 'rgba(0,0,0,0.8)',
+                        titleFont: { size: 16 },
+                        bodyFont: { size: 14 },
+                        padding: 15,
+                        callbacks: {
+                            label: function(context) {
+                                return context.raw.label;
+                            }
+                        }
+                    },
+                    annotation: {
+                        annotations: {
+                            line1: { type: 'line', xMin: 5, xMax: 5, borderColor: '#bdbdbd', borderWidth: 2, borderDash: [5, 5] },
+                            line2: { type: 'line', yMin: 5, yMax: 5, borderColor: '#bdbdbd', borderWidth: 2, borderDash: [5, 5] }
+                        }
+                    }
+                },
+                scales: {
+                    x: {
+                        title: { display: true, text: 'Keperluan AI (Kiri: Mudah / Peraturan ➔ Kanan: Analisis AI / Sukar)', font: {size: 14, weight: 'bold'}, color: '#333' },
+                        min: 0, max: 10,
+                        grid: { color: '#eeeeee' }
+                    },
+                    y: {
+                        title: { display: true, text: 'Tahap Risiko (Bawah: Selamat ➔ Atas: Sangat Bahaya)', font: {size: 14, weight: 'bold'}, color: '#333' },
+                        min: 0, max: 10,
+                        grid: { color: '#eeeeee' }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

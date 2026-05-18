@@ -1,0 +1,799 @@
+W
+
+
+TO:      A/Administrator
+         A/Chairman, NASA Advisory Council
+         Z/Associate Administrator for Policy and Plans
+
+FROM:    W/Assistant Inspector General for Inspections, Administrative
+         Investigations, and Assessments
+
+SUBJECT: Shuttle-Mir Rendezvous and Docking Missions and 
+         International Space Station Operational Readiness Task Forces
+
+
+The Office of Inspector General (OIG) is conducting an inquiry on United
+States (U.S.) participation in the Phase I Russian Mir Space Station Program
+(Phase I).  As part of that inquiry, we examined the external review teams
+NASA appointed to identify and analyze issues for the first Shuttle-Mir
+rendezvous and for subsequent Shuttle-Mir missions (the Stafford Task
+Forces).  Because NASA will continue to rely on the Stafford Task Forces'
+assessments regarding the final NASA-Mir mission as well as the
+International Space Station (ISS) program, we are making recommendations to
+improve the effectiveness of these external reviews.
+
+Introduction
+
+In May 1994, the Acting Deputy Administrator established the Task Force on
+the Shuttle-Mir Rendezvous and Docking Missions (SR&DM) to assess ISS
+Phase I Shuttle-Mir missions under the charter of the NASA Advisory Council
+(NAC).  Lt. General Thomas P. Stafford, USAF (Ret.) (General Stafford) was
+selected as chair for the Task Force based on his expertise regarding
+on-orbit rendezvous and docking maneuvers, especially between U.S. and
+Russian space craft.  The Task Force initially focused on technical and
+management aspects of the Shuttle-Mir Program.  At the Administrator's
+request, it expanded that focus to include flight readiness.
+
+In November 1996, the Administrator established the Task Force for ISS
+Operations Readiness (IOR) to conduct reviews and assessments and issue
+recommendations to the NAC regarding the operational readiness of the ISS.
+General Stafford also chairs the IOR Task Force.
+
+General Stafford's knowledge and experience with U.S. and Russian space
+programs and his familiarity with Russian political and social environments
+has been credited with being instrumental in increasing Russian cooperation
+and communication on the ISS program.  This may be one of the most important
+benefits NASA derives from the continued work of the Stafford Task
+Forces. [Note 1]
+
+The Role of the Task Forces
+
+The SR&DM Task Force was initially established "to review Phase 1
+(Shuttle-Mir) planning, training, operations, rendezvous and docking, and
+management and to provide interim reports containing specific recommendations
+to the Advisory Council." [Note 2] After the fourth formal report of the
+SR&DM Task Force, the Stafford Task Force began issuing letters of flight
+readiness and focusing on Shuttle-Mir safety assessments (See Appendix A
+for a list of report and letter dates).  The SR&DM Task Force addressed the
+first five reports to the NAC Chairman.  It addressed the letters of flight
+readiness to the NASA Administrator and presented results of its
+assessments at quarterly NAC meetings.
+
+The Task Forces are largely volunteer organizations and the period between
+Shuttle-Mir missions is relatively short.  For these reasons, the Task
+Forces rely on mission-related presentations made to them by NASA as a
+primary source of information for making their assessments.  In addition,
+the Task Forces form small teams (working groups and "Red Teams") which,
+among other activities, visit Russia to gather additional information to
+assist in making their assessments.  Individual members also contact NASA
+employees or others with expertise in specific areas.  General Stafford
+communicates with his counterpart Academician Utkin (Utkin) either in person
+or by telephone on specific issues. [Note 3]  Many of the issues General
+Stafford addresses to Utkin have been discussed earlier by the Phase I staff
+and their mission counterparts in Russia. [Note 4] Nevertheless, the dialogue
+in which General Stafford engages with Utkin is important as part of the
+contextual negotiations between the Russians and Americans. [Note 5]
+
+The Administrator increasingly relies on the Stafford Task Force to provide
+safety assessments of Shuttle-Mir missions, and on July 15, 1997, the Agency
+described the Task Force to Congress as "the third part of a three-fold
+safety assessment process" (See Appendix B). [Note 6]
+
+A.  NASA Should Reevaluate The Role Of The Task Forces For Future Missions
+
+The ISS assembly schedule of more than 40 combined U.S. and Russian launches
+over a 6-year time frame will be very aggressive (much more so than
+Shuttle-Mir missions with 4 to 6 months between mission launches).  As
+presently staffed, the time constraints and demands on the largely volunteer
+Task Force members precludes members from providing immediate safety and
+mission assessments of every ISS mission. [Note 8] NASA has alternative
+methods to perform safety assessments.  There are external advisory groups
+that either focus on safety, such as the Aerospace Safety Advisory Panel
+(ASAP), or look at safety-related issues (e.g., the National Research
+Council has conducted studies on orbital debris and the NAC Advisory Council
+on the ISS, headed by A. Thomas Young, also examines some safety-related
+issues).
+
+The Stafford Task Forces could better serve NASA by focusing on specific
+areas of review for the remainder of the Phase I mission and for ISS Phases
+II and III.  For instance, topics could include crew training, crew
+compatibility, habitation, procedural documentation, and lessons learned.
+These focused reviews are more germane to the original charters of the Task
+Forces and the framework of the NAC.  Safety assessments should be limited
+to habitation-related issues or specific safety or technical concerns and
+should be coordinated with other external advisory groups such as the
+ASAP. [Note 9]
+
+Recommendation:  The Agency should follow its original charter for the
+Stafford Task Forces to perform studies on specific areas rather than having
+them provide immediate safety assessments prior to launches.
+
+B.  NASA Should Reevaluate The Composition Of The Task Forces
+
+The members and support staff of the Stafford Task Forces include special
+Government employees (SGE's), [Note 10] NASA civil servants, and three
+contractor employees hired under a task on a Johnson Space Center (JSC)
+contract.  The current SR&DM Task Force consists of the Chairman (General
+Stafford); 14 voting members; 2 technical advisors, one of whom is an "ex
+officio" member; [Note 11] and an Executive Secretary.  A part-time
+contractor administrative assistant provides administrative support to the
+Task Forces.
+
+The composition of the SR&DM Task Force has remained relatively constant
+since it was created in May 1994.  The IOR Task Force's composition is
+similar to that of the SR&DM Task Force.  Several members serve on both the
+SR&DM and the IOR Task Force (See Appendix E). 
+
+Most members of the Task Forces (SR&DM and IOR) are current or former NASA
+employees and contractors, or are affiliated with the aerospace industry or
+NASA by contract.  Some members have backgrounds in engineering and
+operations management, some are former astronauts, and three members are
+physicians.  Task Force members who are current NASA civil servant employees
+are involved in the Agency's Space Shuttle, Shuttle-Mir, ISS, science,
+microgravity, and safety programs.   
+
+The SGE Task Force members are appointed federal experts and consultants
+and are subject to the identical ethical requirements (e.g., conflict of
+interest constraints) imposed on civil servant employees pursuant to the
+Standards of Ethical Conduct for Employees of the Executive Branch. [Note 12]
+As part of their appointment process, SGE’s must submit Confidential
+Financial Disclosure Reports (OGE/SF Form 450) which are reviewed by the
+Office of General Counsel.  As with civil servant employees, the SGE's must
+annually resubmit an OGE/SF Form 450.  The SGE's serve voluntarily and
+receive no compensation for their services beyond reimbursement for travel
+expenses (including per diem).
+
+Unlike the SGE's and civil servants, the three contractor employees are not
+subject to the Standards of Ethical Conduct for Employees of the Executive
+Branch.  Moreover, the contractor employees are not volunteers but are paid
+employees of private companies.
+
+Our examination of the composition of the Stafford Task Forces indicates
+the following:
+
+1.  The Presence Of NASA Civil Servants As Voting Members Negates The 
+    Appearance Of An Objective, External Advisory Task Force
+
+NASA characterizes the Task Forces as being "independent" and
+"objective." [Note 13] Yet, NASA civil servant employees serve as voting
+members of the Stafford Task Forces.  As NASA employees responsible for
+mission and program success, they are in conflict (or potential conflict)
+with their role as voting members of independent Task Forces.  The
+perception of the integrity, independence, and objectivity of the Task
+Forces is diminished by the employees' dual roles.
+
+For example, the Office of Safety and Mission Assurance Deputy Associate
+Administrator is a voting member of the Task Forces.  The perception of
+independent safety reviews may be negated by a voting Task Force member who
+is not independent from and external to the NASA safety process.  Likewise,
+members of the Task Force who are currently astronauts may impact the
+perception of independence and objectivity as they vote on issues directly
+affecting their programs. [Note 14] Another example is the Associate
+Administrator for Life and Microgravity Sciences and Applications who
+serves both as a voting member of the Task Forces and also provides
+oversight of the Mir and ISS science programs for which his office is
+responsible.  Information in these areas is vital to the success of the
+Task Forces, but representation should be limited to technical advice,
+assistance, or information.
+
+Recommendation:  Current NASA civil servant members of the Task Forces whose
+positions are directly related to specific issues being assessed should serve only
+in a non-voting advisory role.  
+
+2.  The Presence Of SGE Members Whose Professional Livelihoods Are Closely
+    Aligned With NASA’s Shuttle-Mir And ISS Programs Negates The Appearance Of 
+    An Objective, External Advisory Task Force
+
+Some SGE members of the Task Forces are contractors closely linked to NASA 
+contracts and NASA programs dealing with the Space Shuttle, Shuttle-Mir, and
+ISS.  Some SGE's are so closely aligned with NASA programs and contracts or
+hold significant financial interests in NASA contractors that they may have
+to recuse or disqualify themselves from any discussions regarding the
+operations of the contracts vis-a-vis Shuttle-Mir or ISS programs. [Note 15]
+Having SGE members closely aligned with related Russian and NASA programs,
+contracts, and grants may create the perception of a bias or lack of
+impartiality. [Note 16]
+
+For example, an SGE who is a former astronaut is also the Chief Operations
+Officer for the United Space Alliance (USA) contract.  Under the Space
+Flight Operations Contract, USA provides operations and processing services
+for the Space Shuttle.  The success of the Space Shuttle program is
+directly related to the Shuttle manifests (supported by USA) for
+construction of the ISS.  This close relationship with the Space Shuttle
+program may create a perception of bias and may diminish the perception of
+independence and objectivity.
+
+One SGE, a retired Rockwell executive, is also Vice President and Deputy
+Program Manager of Kistler Aerospace Corporation (Kistler).  Kistler has
+contracted with Aerojet to purchase a total of 76 Russian engines to power
+Kistler’s future K-1 reusable launch vehicles.  This SGE has served on
+Stafford Task Force Red Teams and has traveled with the Stafford Task Force
+to Russia.  The position held by this SGE at Kistler and the financial
+dealings Kistler has with the Russian aerospace industry may negatively
+impact the perception of independence and objectivity. [Note 17]
+
+Another SGE and former astronaut is President and Chief Executive Officer
+of ANSER Corporation. [Note 18]  ANSER, once a small Air Force Federal
+Contract Research Center, is now a multimillion dollar organization with a
+large foreign customer base that includes joint working agreements with
+Russia, the Ukraine, and Kazakhstan.  ANSER not only fosters opportunities
+for international cooperation by providing analysis of current Eastern
+European technologies and space activities but also contracted with NASA to
+produce a report assessing NASA science performed on Mir. [Note 19]  The
+position held by this SGE coupled with the related activities of his
+organization with Russian and NASA aerospace and science organizations may
+weaken the perception of the Task Forces' independence and objectivity.  
+
+Recommendation:  The Task Force Executive Secretary should closely review
+with an ethics counselor the Confidential Financial Disclosure Reports of
+all SGE members to evaluate potential disqualifying interests.  Where the
+perception of bias exists, but the technical expertise of the individual is
+vital to the mission of the Task Forces, the SGE member should serve solely
+in a non-voting advisory role.
+
+3.  The Task Forces Can Better Function As An External Objective Group By 
+    Diversifying Its Professional Membership
+
+The composition of the SR&DM Task Force has remained relatively unchanged
+since its creation in 1994 (See Appendix E).  However, the focus of the
+SR&DM Task Force has changed from producing topic-specific, detailed
+reports for the NAC to primarily assessing safety and flight readiness
+of Shuttle-Mir missions for the Administrator. [Note 20]
+
+As stated earlier, the Task Force is generally comprised of current or
+former NASA employees, or with individuals who are affiliated with the
+aerospace industry or with NASA by contract.  For the Task Forces to
+achieve maximum effectiveness, a membership balance should be maintained
+between individuals with in-depth NASA knowledge and those with relevant
+outside perspectives.
+
+General Stafford (with input from Task Force members) currently recommends
+individuals for appointment to the Task Forces.  However, a revised
+selection procedure could yield a more diverse Task Force membership with
+the appropriate expertise to address emerging issues and also reduce the
+potential for a selection bias that tends to perpetuate a professionally
+homogenous group.  This professional homogeneity fosters the perception of
+a lack of objectivity.  Although astronauts and other professionals closely
+associated with NASA generally have a high degree of objectivity, the Task
+Forces must weigh all external perceptions. [Note 21]
+
+The Federal Advisory Committee Act (FACA) requires the membership of
+advisory committees (including task forces) to be "fairly balanced in terms
+of the points of view represented." [Note 22] The Act also requires that
+precautions be taken to ensure that the advice and recommendations of the
+committees "will not be inappropriately influenced by the appointing
+authority or by any special interest, but will instead be the result of the
+advisory committee's independent judgment." [Note 23] Advisory committees
+and task forces not only provide ideas and advice to the Government, but they can
+also bestow political legitimacy on that advice.  Because of the value that
+can be placed on advisory committee and task force recommendations, care
+must be taken to assure objectivity.
+
+Even though not covered under FACA, when the National Research Council (NRC)
+selects experts to work on various studies, the possible perception of a
+lack of objectivity is avoided by employing a committee to screen potential
+members.  The screening includes discussions of bias and appearance issues.
+The committee balances the composition of the group to embrace members with
+divergent views.  To increase openness, the NRC posts the names of the
+recommended study group members on a webpage for public comment prior to
+making the final selection.  In this way, additional rigor is placed on the
+selection process to maximize the opportunity to include individuals with
+diverse viewpoints as committee members.
+
+Members and advisors with long-term experience and in-depth knowledge of
+NASA and Russian programs and technical areas are essential elements of the
+Stafford Task Forces.  However, to be most effective, the Task Forces should
+be routinely infused with the perspectives of highly qualified, new, and
+diverse members while maintaining the continuity of core membership. [Note 24]
+This action would not only provide consistency and familiarity to their
+Russian counterparts but would also prepare the next generation of NASA
+employees or SGE’s to interface with the Russians.
+
+The Stafford Task Forces should seek divergent views from individuals
+possessing relevant expertise who are not associated with NASA.  For
+example, adding non-NASA personnel from the NRC; the Federal Aviation
+Administration; the Department of Defense; or the National Transportation
+Safety Board, would increase the Task Force's credibility and enhance its
+capabilities.  Recommendations from prestigious bodies outside NASA carry
+great weight with Congress and the public and would help focus attention
+on specific issues.
+
+Recommendation:  NASA should increase the professional diversity of the
+Task Forces by rotating membership and appointing highly qualified
+individuals from various backgrounds as members or advisors.  The Agency
+should seek recommendations for qualified Task Force members from outside
+sources.  The expertise and skills of those recommended for membership
+should relate directly to ISS issues. [Note 25]
+
+C.  More Economical And Efficient Use Of Support Contractors
+
+In addition to SGE's and civil servants, the Stafford Task Forces rely
+on contractors to provide technical and administrative support.  These
+services are contracted under a JSC contract, NAS9-18800, with Johnson
+Engineering Corporation (JEC). [Note 26]  Technical and administrative
+support for the Stafford Task Forces is provided through a task order
+under WBS A.1.4 of the JEC contract valued at $1,574,000 with a period of
+performance ending April 30, 1998.  Additional technical support is provided
+by a sole source subcontractor, Engle Technologies, Inc. (ETI), under JEC
+task order WBS A.1.4.  The ETI firm, fixed price subcontract
+(JE-9019-SN3043), consisting of one employee, is valued at $725,091 with a
+30 month period of performance ending April 30, 1998. [Note 27]
+
+Our review of the support contractors services includes:
+
+1.  Administrative Support Services
+
+The administrative support for the Task Forces is provided through task
+order WBS A.1.4 of the JEC contract.  The administrative tasks provided to
+the Stafford Task Forces include, but are not limited to: taking notes and
+supplying minutes of meetings, scheduling conferences, arranging travel and
+lodging, coordinating and completing paper work for travel reimbursements
+and Confidential Financial Disclosure Reports for some SGE's.  Provisions
+for administrative support, however, are not included in the task
+descriptions or task requirements for this task order.
+
+According to the Office of Policy and Plans, other NAC committees or task
+forces rely on civil servants or use the Jorge Scientific Corporation
+contract (NAS5-32459) [Note 28] available through the Technical Information
+Services Branch at the Goddard Space Flight Center for most of their
+administrative support.  NASA Headquarters management advocates the Jorge
+Scientific Corporation contract for providing consolidated administrative
+support to NAC committees, task forces, and other Headquarters offices.
+This is consistent with support service contract consolidations efforts
+throughout Headquarters and the Agency (See Appendix H).
+
+The Stafford Task Forces could also obtain additional administrative support
+from civil servant support staff at Headquarters. [Note 29] Headquarters
+downsizing has created a small surplus of support personnel that could be
+made available for administrative support of the Stafford Task Forces.
+Also, the Office of Headquarters Operations is evaluating civil service
+support staff balances to determine the feasibility of consolidating civil
+servant administrative support to assist the NAC.
+
+Finally, having JSC administer a contract to provide administrative support
+for a NAC task force rather than using the Jorge Scientific Contract only
+serves to reinforce the perception that the Stafford Task Forces are
+closely aligned with JSC.
+
+Recommendation:  In keeping with the NAC's general reliance on and the
+Agency's encouragement to use the Jorge Scientific Corporation contract or
+civil servant support staff for administrative support, the Executive
+Secretary of the Stafford Task Forces should follow this same procedure for
+obtaining administrative support for the Task Forces.  The current study by
+the Office of Headquarters Operations should include the specific needs of
+the Stafford Task Forces to determine if Headquarters civil servants are
+available to support the Task Forces.
+
+2.  Technical Support Services
+
+Technical support for the Stafford Task Forces is provided by JEC under task
+order WBS A.1.4 using JEC employees and the sole source subcontractor ETI.
+The JEC contract provides the "ex officio" member who serves in a technical
+support capacity. [Note 30] The ETI sole source subcontract provides a
+technical advisor [Note 31] for the Stafford Task Force.  According to the
+Office of Policy and Plans no other NAC committees or task forces rely on
+continuing contractor supplied technical support.
+
+a.  Technical Support Provided By JEC
+
+The "ex officio" technical support provided by the JEC task order under
+WBS A.1.4 is very broad.  This support not only covers assisting in the
+Stafford Task Forces' external reviews, but also includes working on "JSC
+internal technical tasks" of Space Shuttle, Shuttle-Mir, ISS, and other
+advanced programs (See Appendix K).  In addition to technical assessments,
+the contractor also appears to provide some administrative support services
+that are outside any task descriptions or task requirements as provided
+under this task order.  Deliverables for this task order are monthly
+reports which are, in actuality, nothing more than ETI monthly invoices and
+listings of meetings attended by ETI.
+
+Furthermore, the "ex-officio" member of the Task Forces is apparently in a
+position to justify the technical and cost reasonableness of the ETI
+subcontract proposal.  This relationship increases the perception of
+partiality which in turn lessens the appearance of independence and
+objectivity (See Appendix L).
+
+b.  ETI Sole Source Contract
+
+We have two main concerns with the Stafford Task Forces’ use of the ETI sole
+source subcontract.  First, the initial basis for the ETI sole source
+subcontract to JEC is no longer apparent.  The basis used to justify the
+current sole source subcontract to ETI is that only one responsible source
+can satisfy Agency requirements. [Note 32]  However, it is no longer clear
+as to how this technical advisor is uniquely qualified to perform this
+work.  Given the number of Shuttle-Mir rendezvous and docking missions that
+have occurred since this sole source was established, other qualified
+sources are probably available to perform the technical aspects of this
+effort (e.g., several Shuttle astronauts now have firsthand knowledge with
+Shuttle-Mir rendezvous and dockings).  The technical expertise provided by
+ETI may now be available from sources within the civil service staff, the
+astronaut corps of the Agency, or other the private sector entities. [Note 33]
+These sources could serve as non-voting members of the Task Forces (if they
+are current civil servants) or as SGE’s.  Moreover, using other qualified
+individuals as technical advisors in no way precludes the Stafford Task
+Forces from using the ETI advisor as an SGE.
+
+Our second concern is that a contractor employee affiliated with the
+Stafford Task Forces may be serving or acting in positions that are
+inherently Governmental in nature. [Note 34] For example, a contractor
+employee has led working groups made up of civil servants and SGE's, to
+include leading working groups or various activities on visits to Russia.
+This activity is not only contrary to Office of Management and Budget (OMB)
+Circular A-76 guidance but could also give the perception that a contractor
+employee is directing Federal employees and/or conducting foreign
+relations. [Note 35]
+
+As in the JEC task description, the ETI Statement of Work also directs the
+contractor to "maintain communication and relations with the Russian Space 
+Agency Advisory Expert Council" (See Appendixes J and K).  This specific 
+tasking may place the contractor in a position to conduct foreign relations
+or to give the perception of conducting foreign relations.  This function
+should be performed by General Stafford, other SGE's, or civil servant
+employees who can appropriately provide continuity and long-term
+relationships with the Russians.
+
+Various Stafford Task Force documents have identified the ETI contractor 
+employee as serving as deputy to General Stafford or as the deputy of 
+independent reviews.  This again places the contractor in a potential
+position of directing Federal employees (including SGE's), conducting
+foreign relations (in the stead of the Task Force Chairman) and strengthens
+the perception that a contractor employee is directing Federal employees
+and/or conducting foreign relations.
+
+The Agency should consider structuring and staffing the Task Forces to 
+perform taskings without using support contractors.  Scientific and
+engineering technical support can be provided a number of different ways
+including an expansion of SGE appointments, civil servant detailees within
+NASA or from other Federal departments or agencies, term or temporary civil
+service appointments, or the use of "NASA excepted" appointments. [Note 36]
+If expertise provided by current technical support is essential to the
+success of the Task Forces, then such support can also be provided through
+any of the aforementioned methods.
+
+Recommendation:  The Agency and the Stafford Task Forces should review
+current sources of technical support and explore using alternatives.  NASA
+should reevaluate the use of and justification for support service and sole
+source contracts to provide technical support for the Stafford Task Forces,
+especially since the JEC task order and ETI subcontract periods of
+performance end on April 30, 1998. [Note 39] The Agency should also examine
+and correct all situations found to be contrary to OMB Circular A-76 policy.
+
+Summary of NASA Management's Response
+
+NASA's response states the activities of the Stafford Task Forces are within
+the discretion of NASA management and are within the approved terms of
+reference.  NASA also states the composition of advisory committees in the
+"absence of legal constraints" is left to the discretion of management.  In
+balancing members' expertise and independence, expertise may legitimately
+outweigh total independence.  The Agency asserts members of NASA advisory
+groups are selected based on technical expertise and the ability to
+"contribute to deliberations."  NASA also states membership in advisory
+groups is balanced to represent various points of view.  In addition, the
+Agency cited no FACA, OMB Circular A-76, or conflict of interest (18 U.S.C.,
+section 208) violations by the Stafford Task Forces.
+
+NASA states that some recommendations in our report will be addressed at the
+time the IOR Task Force is renewed.  These recommendations include
+evaluating membership, assessing the status of  NASA members and technical
+advisors, and adhering to the correct application of "ex officio" status.
+The Agency will also evaluate sources for administrative and technical
+support.  Finally, NASA will also designate a deputy chair for the IOR
+Task Force from among the SGE membership and will assure that working
+groups are led by Government employees.
+
+NASA's complete response to our draft report dated January 12, 1998, is
+provided in Appendix P.
+
+Evaluation of Management Response
+
+In his cover memo to NASA's response, the Administrator states, ". . . [Y]ou
+raise a serious issue regarding the perception of bias in our activities.
+We share this concern and plan to exercise appropriate review and
+management judgment as we proceed with NASA Advisory Council activities."
+We believe our recommendations will improve the Task Forces' credibility,
+effectiveness, and balance in points of view and lessen the perception of
+selection bias. 
+
+We will continue to review and monitor the operation of the Stafford Task
+Forces and NASA's actions in response to our recommendations.
+
+Conclusion
+
+NASA characterizes the independent assessments of the Stafford Task Forces
+as vital for the safety and flight readiness of Shuttle-Mir and ISS
+missions.  The credibility, independence, objectivity, and value of the
+Task Forces’ recommendations are therefore essential to the mission success
+of the remaining Shuttle-Mir and future ISS missions.  We feel our
+recommendations will increase the credibility and effectiveness of the
+Stafford Task Forces.
+
+[original signed by]
+
+David M. Cushing
+
+16 Enclosures
+
+cc:
+Distribution
+
+Distribution
+
+National Aeronautics and Space Administration (NASA) Officials-In-Charge
+
+AD/Acting Deputy Administrator
+AT/Associate Deputy Administrator (Technical)
+C/Associate Administrator for Headquarters Operations
+F/Associate Administrator for Human Resources and Education
+G/General Counsel
+H/Associate Administrator for Procurement
+I/Associate Administrator for External Relations
+J/Acting Associate Administrator for Management Systems and Facilities
+L/Acting Associate Administrator for Legislative Affairs
+M/Associate Administrator for Space Flight
+P/Associate Administrator for Public Affairs
+Q/Associate Administrator for Safety and Mission Assurance
+U/Associate Administrator for Life & Microgravity Sciences & Applications
+
+NASA Advisory Officials
+
+Chairman, NASA Aerospace Safety Advisory Panel
+Chairman, Advisory Committee on the International Space Station
+Chairman, Shuttle-Mir Rendezvous and Docking Missions and ISS Operational Readiness
+	Task Force
+
+Chairman and Ranking Minority Member of each of the following Congressional
+Committees and Subcommittees:
+
+  Senate Committee on Appropriations
+  Senate Subcommittee on VA-HUD-Independent Agencies
+  Senate Committee on Commerce, Science and Transportation
+  Senate Subcommittee on Science, Technology and Space
+  Senate Committee on Government Affairs
+  House Committee on Appropriations
+  House Subcommittee on VA-HUD-Independent Agencies
+  House Committee on Government Reform and Oversight
+  House Subcommittee on National Security, International Affairs, and Criminal Justice
+  House Committee on Science
+  House Subcommittee on Space and Aeronautics
+
+
+For copies of Appendices A to P, please contact Dana Mellerio.
+
+REPORT END NOTES:
+
+Note 1.  Other contributions of the Task Forces include the recommendation
+to establish the Phase I Program Office and Program Manager position and to
+reorganize the Moscow Technical Liaison Office.
+
+Note 2.  Introduction to the second, third, and fourth reports of the SR&DM
+Task Force, dated July 29, 1994, November 2, 1994, and March 1, 1995,
+respectively.
+
+Note 3.  For example, while in Russia, General Stafford personally spoke
+with Utkin about the June 25, 1997, Progress collision with the Mir.  He
+spoke with Utkin via telephone about last minute computer problems days
+before the STS-86 launch.
+
+Note 4.  Prior to General Stafford's discussions with Utkin, the Phase I
+Program Manager, Frank Culbertson (Culbertson), and his team were in contact
+with both NASA's Moscow teams and their Russian counterparts discussing how
+to avoid future Progress collisions with the Mir and establishing U.S./Russian
+communication and mission protocols on automatic (KURS) and manual (TORU)
+dockings.  Likewise, U.S./Russian discussions on the computer problems just
+prior to the STS-86 launch occurred at the Team 0 meetings at Kennedy Space
+Center on September 20, 1997, before General Stafford was notified and before
+he called Utkin.
+
+Note 5.  In his Manual for Negotiating with Russians prepared for Johnson
+Space Center, Steven D. Jones points out the importance of having someone of
+recognized stature build and maintain trusting, long-term relationships with
+the Russians.  In addition, Jones also notes the importance of strengthening
+relationships through social interactions.  The formal signing of contracts
+or protocols are a ceremonial result of many social meetings where the actual
+agreements have been reached.
+
+Note 6.  The Agency has since corrected its depiction of the Stafford Task
+Force’s relationship with the formal NASA safety assessment process.  The
+Task Force, however, remains one of three checks the Administrator reviews
+for Shuttle-Mir safety.  See also the OIG report, Timing of Independent Team
+Meetings and Communications for Shuttle-Mir and International Space Station
+(ISS) Missions, dated November 20, 1997.
+
+Note 7.  The launch of STS-86 bringing David Wolf (Wolf) to Mir and the
+future launch of STS-89 exchanging Wolf for Andrew Thomas, demonstrate the
+constraints on the Stafford group.  They originally planned a visit to Russia
+around the K.F. Tsiolkovsky 140th Anniversary Conference.  The Task Force
+had scheduled a meeting with experts on ISS topics but because of the
+heightened attention on Mir safety issues, the Task Force requested the
+Russians to schedule additional briefings on Mir issues, even if some ISS
+issues were not addressed (See Appendix C).  As requested by the
+Administrator, the Stafford Task Force has formed another Red Team led by
+General Ralph Jacobson, USAF (Ret.) (Jacobson), to assess safety issues for
+the STS-89 Shuttle-Mir mission now scheduled to launch in late January.
+However, because of personal schedules, Jacobson is not available for the
+first 2 weeks of January.  The Task Force's open meeting to discuss the
+results of their assessments is scheduled for January 14, 1998.
+
+Note 8.  See ASAP Charter, Appendix D.
+
+Note 9.  Obviously, if the Task Force perceives critical issues impacting
+safety and mission assurance, they should report these issues immediately
+to the Phase I Program Office, the Office of Safety and Mission Assurance,
+the Administrator, and other relevant officials.  Moreover, nothing precludes
+the Task Force from conducting their own "reality check" on the Agency's
+efforts by contacting experts on safety issues they believe require
+examination.
+
+Note 10.  18 U.S.C., Section 202(a) defines an SGE as: ". . . an officer or
+employee. . . who is retained, designated, appointed, or employed to
+perform, with or without compensation, for not to exceed one hundred and
+thirty days during any period of three hundred and sixty-five days, . . .
+temporary duties either on a full-time or intermittent basis. . . ."
+
+Note 11.  The "ex officio" member of the Stafford Task Force provides
+technical assistance and some administrative support and is a support
+contractor.  The prior "ex officio" member supplied the same type of
+support and was also a support contractor.  It appears that the Task Force
+is using the term "ex officio" to mean "unofficial."
+
+Note 12.  Standards of Ethical Conduct for Employees of the Executive
+Branch, Part 2635, Subpart A, General Provisions, 2635.102, Definitions,
+specifies: (h) Employee means any officer or employee of an agency,
+including a special Government employee.
+
+Note 13.  For example, in response the OIG report Timing of Independent Team
+Meetings and Communications for Shuttle-Mir and International Space Station
+(ISS) Missions, the Agency describes the Task Forces "operating parallel to
+but independent of NASA activities."  In responding to the same report,
+General Stafford also characterizes the Task Forces' role as providing
+"independent assessments."
+
+Note 14.  Also, with limited space flight opportunities, astronauts may not
+be inclined to raise issues that could jeopardize future flight selections.
+This does not mean that astronauts would sacrifice the safety of their
+colleagues, but raises a concern that flight selection may weigh in the
+decision making process of the astronauts.
+
+Note 15.  See Standards of Ethical Conduct for Employees of the Executive
+Branch, Part 2635, Subpart D, Conflicting Financial Interests, 2635.402,
+Disqualifying financial interests.
+
+Note 16.  Standards of Ethical Conduct for Employees of the Executive
+Branch, Part 2635, Subpart A, General Provisions, 2635.101, Basic
+obligations of public service, states: (8) Employees shall act impartially
+and not give preferential treatment to any private organization or
+individual. . . .  (14) Employees shall endeavor to avoid any actions
+creating the appearance that they are violating the law or the ethical
+standards set forth in this part.  Whether particular circumstances create
+an appearance that the law or these standards have been violated shall be
+determined from the perspective of a reasonable person with knowledge of
+the relevant facts.
+
+Note 17.  Kistler Aerospace Corporation is a privately funded, U.S.
+company.  Kistler's Board of Directors and Technical Team is comprised of
+many former top level NASA and private aerospace corporation officials.
+Kistler recently (January 5, 1998) awarded a $145 million contract to
+Northrop Grumman Corporation to design, develop, and manufacture structures
+for the K-1 two stage reusable launch vehicle program
+(See http://www.newspace.com/industry/Kistler).
+
+Note 18.  ANSER is a not-for-profit public service research institute
+providing analytic and technical support to Federal agencies, as well as
+some U.S. and foreign corporations, in the areas of aerospace systems,
+aerospace science and technology, foreign technology analysis, and
+information systems services.  ANSER created the Center for International
+Aerospace Cooperation (CIAC) to enhance development and cooperation on
+international aerospace projects.  CIAC has joint cooperative working
+agreements with over two dozen Russian, Ukrainian, and Kazakhstani agencies
+and institutions, including the Russian Space Agency.  In its 1996 Annual
+Report, ANSER describes the CIAC as having "earned the trust of the Russian
+scientific community."  ANSER claims "[t]his trust defined the basis for
+cooperative missions to the Russian orbiting laboratory Mir and for eventual
+co-construction of the International Space Station."  A member of the CIAC
+Board of Advisors serves as a consultant in support of the U.S.-Russian
+Joint Commission on Economic and Technological Cooperation which has led the
+development of U.S./Russian agreements.  In this capacity, the CIAC board
+member serves as a consultant to an activity whose mission is U.S./Russian
+cooperation.  (See ANSER homepage at http://www.anser.org).
+
+Note 19.  On September 30, 1997, ANSER's CIAC produced a final report,
+Assessment of the NASA-Mir Science Program in Life and Microgravity
+Sciences: Benefits to Date and Expectations for the Future, under a firm,
+fixed-price Headquarters contract NASW-97007 valued at $4.1 million, which
+includes 4 option years.
+
+Note 20.  Although the composition of the IOR Task Force is very similar to
+the SR&DM Task Force, some changes in membership have been made as they
+relate to ISS-specific issues.
+
+Note 21.  Most current and former Task Force members have long term direct
+or indirect ties with current and former astronauts (or are current
+astronauts), JSC, and/or the JSC Director (See Appendix E).  Also, many
+current and former Task Force members have or had a subordinate relationship
+to the JSC Director or relationships based on the JSC Director's previous
+positions (e.g., Deputy Associate Administrator for Space Flight; Deputy for
+Operation for the Synthesis Group; Director, JSC Flight Crew Operations;
+and Director, JSC Flight Operations).
+
+Note 22.  Federal Advisory Committee Act, Section 5(b)(2).  See also
+Appendix F for an explanation of FACA Amendments of 1997 placing FACA-like
+requirements on committees created by the National Academy of Sciences and
+the National Academy of Public Administration and the use of advice from
+these committees.
+
+Note 23.  Ibid., 5(b)(3). 
+
+Note 24.  Several weeks ago, the Inspector General spoke with General
+Stafford about the composition of the Task Forces and its potential for
+perceived bias.  General Stafford expressed his receptiveness to expanding
+the expertise and professional diversity of the Task Forces.  Likewise,
+General Stafford was receptive to other ideas such as increasing
+communications with the astronaut corps on issues impacting Phase I and
+ISS missions and concerns the astronauts may have about open communications
+and Stafford Task Force independence.  Since that discussion, General
+Stafford has met with the astronaut corps at JSC.
+
+Note 25.  For example, the Stafford Task Forces should consider adding
+expertise in the specific area of human (psychological) factors.  Human
+factor specialists can provide insights into many areas vital to the success
+of the ISS due to larger and multinational crews and long-duration missions.
+
+Note 26.  This contract vehicle is a Cost Plus Award Fee task order
+contract with an estimated value of $157 million.
+
+Note 27.  The ETI subcontract value of $725,091 is included in the JEC
+WBS A.1.4 value of $1,574,000.  The ETI subcontract value includes a travel
+allowance not to exceed $95,000 which may not be completely exhausted by
+the end of the period of performance.
+
+Note 28.  The Jorge Scientific Corporation contract makes travel and lodging
+arrangements and provides conference logistics support, along with taking
+notes and providing minutes of technical meetings (See Appendix G for
+specific services provided by the contract).
+
+Note 29.  For example, the Space Science Advisory Committee (SScAC) uses
+the Jorge Scientific Corporation contract for administrative support.  It
+uses the Headquarters Printing and Design Branch for publication support.
+The SScAC webpage (http://www.hq.nasa.gov/office/oss/advisory.htm) is
+maintained by Code S civil servants and Headquarters Information Technology
+support staff and contains meeting dates, charter, membership listings,
+subcommittee listings, and minutes.
+
+Note 30.  This position (as currently staffed) provides general engineering
+and analysis as well as some administrative support.
+
+Note 31.  The responsibilities of the technical advisor appear to include
+handling the day-to-day workings of the Task Forces, interfacing with NASA
+personnel, leading work groups, and occasionally serving as the deputy to
+General Stafford (See Appendix I).  The ETI technical advisor supports the
+Office of the Administrator, the Office of Space Flight, the JSC Center
+Director, and the NAC for reviews of Shuttle, Shuttle-Mir, and ISS programs.
+The ETI Statement of Work was modified on October 29, 1996, to require the
+contractor to support the JSC Center Director (See Appendix J).
+
+Note 32.  Source: Justification for Other Than Full and Open Competition
+document dated September 20, 1995.
+
+Note 33.  As far back as October 1994, the Agency was cautioned by the
+Internal Review Team (commissioned by the Acting Deputy Administrator to
+review the validity and need for Headquarters support contracts) to ensure
+that the ETI effort be "closely monitored to insure that the services
+involve expertise that is not available within NASA. . . ." (See Appendix M).
+
+Note 34.  OMB Circular A-76 (Performance of Commercial Activities) defines
+inherently Governmental functions as "being so intimately related to the
+public interest as to mandate performance only by Federal employees."
+Governmental functions include, but are not limited to, directing Federal
+employees and conducting foreign relations (See Appendix N).
+
+Note 35.  Ibid.
+
+Note 36.  Section 203(c) of the Space Act of 1958 (as amended) authorizes
+the NASA Administrator to: "appoint not more than four hundred and
+twenty-five. . . scientific, engineering, and administrative personnel. . .
+and. . . fix the compensation of such personnel not in excess of the highest
+rate of grade 18 of the General Schedule. . ." (See Appendix O).
+
+Note 37.  We are forwarding to management under separate cover additional
+concerns we have with NASA management's use of the JEC and ETI contracts.
+

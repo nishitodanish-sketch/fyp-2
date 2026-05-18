@@ -1,0 +1,34 @@
+
+
+The physics program at the International Linear Collider (ILC)
+places stringent requirements on the performance of the collider
+detectors.  To date many of the required performance specifications
+have never been achieved.  Furthermore, the availability of test
+beam facilities worldwide is becoming scarce.
+
+In this context, we are planning the ILC Detector Test Beam Workshop
+at Fermilab, Illinois, USA on January 17-19, 2007.  This workshop will
+assess the current and future needs for test beams for the ILC detector
+R&D program, and provide input to facility managers and users, and
+to the World-Wide Study group for the development of a roadmap.
+
+At this workshop detector and simulation experts will describe and
+discuss the necessary ILC detector R&D program in view of its need for
+test beams. Test beam facility managers will describe the current and
+future test beam facilities and their availability. The workshop will provide
+an opportunity to evaluate the capabilities and shortcomings of existing
+facilities in the context of planned test beam activities.
+
+On behalf of the organizing committee we would like to ask you to
+inform your colleagues of the date and venue of the workshop and
+invite you to attend the workshop in person.  If you are interested in
+contributing to the workshop by suggesting topics, speakers or
+presentations, please contact the co-chairs of the program committee -
+Jae Yu (jaehoonyu@uta.edu) or Felix Sefkow (Felix.Sefkow@desy.de).
+
+More information, including registration for the workshop is available at
+
+https://conferences.fnal.gov/IDTB07
+
+Looking forward to your participation,
+Y.K. Kim, chair of the Local Organizing Committee.
