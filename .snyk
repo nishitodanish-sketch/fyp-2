@@ -1,0 +1,19 @@
+# Snyk (https://snyk.io) policy file
+# FYP2 - File Integrity Monitoring System
+version: v1.25.0
+
+# ─────────────────────────────────────────────────────────────
+# EXCLUDE: Snyk Code (SAST) path exclusions
+# sample_dataset/ contains third-party ML training data files
+# (Java, HTML samples) that are NOT part of the deployed app.
+# ─────────────────────────────────────────────────────────────
+exclude:
+  code:
+    - sample_dataset
+  global:
+    - sample_dataset
+    - "**/__pycache__/**"
+    - "**/.venv/**"
+    - "**/snyk_reports/**"
+
+ignore: {}

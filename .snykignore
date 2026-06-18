@@ -1,0 +1,20 @@
+# .snykignore — Snyk Static Analysis Exclusions
+# FYP2 - File Integrity Monitoring System
+
+# ──────────────────────────────────────────────
+# EXCLUDE: ML Training Dataset
+# Reason: sample_dataset/ contains third-party code samples
+#         used as ML training data. They are NOT part of the
+#         deployed application and intentionally contain
+#         diverse code patterns (including vulnerable examples).
+# ──────────────────────────────────────────────
+sample_dataset/
+
+# EXCLUDE: Python cache & virtual environment
+__pycache__/
+.venv/
+
+# EXCLUDE: Build artifacts & reports
+snyk_reports/
+*.csv
+*.db
